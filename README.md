@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cairn po polsku
+nav_order: 1
+permalink: /
+---
+
 # Cairn po polsku
 
 Repozytorium z polskimi tłumaczeniami materiałów do [Cairn](https://cairnrpg.com/).

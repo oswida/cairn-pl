@@ -1,3 +1,9 @@
+---
+layout: default
+title: SRD
+parent: Artykuły
+---
+
 # Dokument referencyjny systemu Cairn (wersja 1.0)
 
 <p></p>
