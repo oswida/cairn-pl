@@ -624,7 +624,8 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 ## Zasady
 
-**Zdolności**  
+### Zdolności
+
 Każda z trzech **zdolności** jest używana w innych sytuacjach (patrz **rzuty obronne**, poniżej).
 
 **Siła (SIŁ**): Używana w sytuacjach wymagających siły fizycznej takich jak podnoszenie bram, wyginanie prętów, opieranie się truciznom itp.
@@ -633,24 +634,29 @@ Każda z trzech **zdolności** jest używana w innych sytuacjach (patrz **rzuty 
 
 **Wola (WOL):** Używana do rzutów obronnych w celu przekonania, oszukania, przesłuchania, zastraszenia, oczarowania, sprowokowania, manipulacji zaklęciami itp.
 
-**Rzuty obronne**  
+### Rzuty obronne
+
 Rzut obronny to test, który pozwala uniknąć negatywnych skutków ryzykownych wyborów i okoliczności. Gracze rzucają k20 i porównują wynik z poziomem wybranej zdolności. Jeśli wynik rzutu jest **równy lub niższy** od poziomu zdolności, test został zdany. W przeciwnym razie, test się nie udaje. 1 to zawsze sukces, a 20 to zawsze porażka.
 
 **Przykład:** _Bea napotyka grupę uzbrojonych po zęby goblinów, stojących na straży przed wejściem do tunelu. Graczka ostrożnie planuje trasę przejścia, uznając, że jej 13 ZRE sprawia, iż najlepszą opcją jest prześlizgnięcie się obok strażników. Rzuca k20 i uzyskuje 10 - sukces!_
 
-**Dyskomfort i zmęczenie**
+### Dyskomfort i zmęczenie
+
 Postać pozbawiona możliwości zaspokojenia kluczowej potrzeby (takiej jak jedzenie lub odpoczynek), odczuwa **dyskomfort** i nie może odzyskać punktów OCHR ani punktów zdolności. Każda osoba odczuwająca dyskomfort przez więcej niż jeden dzień, dodaje do swojego ekwipunku **Zmęczenie**, jedno na każdy dzień. Każde Zmęczenie blokuje jedno miejsce ekwipunku i trwa do czasu, aż postać będzie w stanie się zregenerować (np. odpoczywając całą noc w bezpiecznym miejscu).
 Postacie mogą również zyskać Zmęczenie poprzez **rzucanie zaklęć** lub poprzez wydarzenia w fikcji.
 
-**Leczenie**
+### Leczenie
+
 Odpoczynek przez kilka chwil i napicie się wody przywraca utracone punkty OCHR, ale może narazić postać na niebezpieczeństwo. Utracone punkty zdolności można zazwyczaj przywrócić poprzez tygodniowy odpoczynek wspomagany przez uzdrowiciela lub innego, odpowiedniego specjalistę. Niektóre z tych usług mogą być darmowe, podczas gdy te bardziej specjalistyczne lub magiczne sposoby regeneracji - mniej lub bardziej kosztowne.
 
-**Zbroja**  
+### Pancerz
+
 Zanim określisz obrażenia na OCHR, od wyniku rzutów na obrażenia odejmij wartość **Pancerza** celu. Tarcze i zbroje zapewniają dodatkową obronę (np. +1 do pancerza), ale tylko wtedy, gdy przedmiot jest trzymany lub noszony.  
 Nikt nie może mieć więcej niż 3 punkty Pancerza.  
 Tarcze, rękawice i hełmy mogą zapewniać dodatkowe korzyści w zależności od ich zastosowania.
 
-**Reakcje**
+### Reakcje
+
 Kiedy postacie napotkają Bohatera Niezależnego, którego reakcja na to spotkanie nie jest oczywista, Strażnik może rzucić 2k6 i sprawdzić w poniższej tabeli:
 
 |       |          |           |          |         |
@@ -658,13 +664,16 @@ Kiedy postacie napotkają Bohatera Niezależnego, którego reakcja na to spotkan
 |   2   |   3-5    |    6-8    |   9-11   |   12    |
 | Wrogi | Ostrożny | Ciekawski | Uprzejmy | Pomocny |
 
-**Morale**
+### Morale
+
 Podczas starcia, gdy pierwszy z wrogów polegnie i ponownie, gdy grupa wrogów straci połowę swojej liczby - nieprzyjaciele muszą zdać test WOL, aby pozostać na polu bitwy. Niektóre grupy mogą używać WOL swojego lidera zamiast własnego. Samotni wrogowie muszą wykonać rzut obronny WOL gdy ich OCHR spadnie do zera. Morale nie stosuje się do postaci graczy.
 
-**Najemnicy**  
+### Najemnicy
+
 Postacie mogą wynająć **najemników** do pomocy w swoich wyprawach. Aby stworzyć najemnika, należy rzucić 3k6 dla każdej z jego zdolności, następnie przydzielić mu 1k6 OCHR oraz prostą broń (k6). Kolejnym krokiem może być losowanie z tabel [**Tworzenie postaci**](#tworzenie-postaci) w celu stworzenia dokładniejszego opisu pomocnika. Najemnicy kosztują od 1 do 3 sztuk złota dziennie, lub udział w każdym skarbie, który drużyna zdobędzie.
 
-**Bogactwo i skarby**
+### Bogactwo i skarby
+
 Najbardziej rozpowszechnioną monetą jest sztuka złota (sz), która jest równa 10 sztukom srebra (ss) i 100 sztukom miedzi (sm).
 
 Skarby są bardzo cenne, zazwyczaj nieporęczne i rzadko użyteczne poza swoją wartością. Mogą być przynętą, która skusi postacie do podróżowania do egzotycznych, a nawet niebezpiecznych miejsc (często chronionych przez przerażających wrogów).
@@ -685,10 +694,12 @@ Księgi zaklęć przyciągają uwagę tych, którzy szukają w nich magicznej mo
 - Nie powodują zmęczenia.
 - Znikają po jednym użyciu.
 
-**Rzucanie zaklęć**  
+### Rzucanie zaklęć
+
 Każda postać może rzucić zaklęcie, trzymając księgę zaklęć w obu rękach i czytając jej zawartość na głos. Następnie musi zaznaczyć w ekwipunku Zmęczenie, zajmując jedno miejsce. Jeśli masz czas i jesteś bezpieczny, możesz ulepszyć zaklęcie (np. rozszerzając efekt na wiele celów, zwiększając jego moc, itp.) bez dodatkowych kosztów. Jeśli gracz odczuwa dyskomfort lub znajduje się w niebezpieczeństwie, Strażnik może zażądać od niego wykonania rzutu obronnego WOL, aby uniknąć negatywnych skutków rzucania zaklęcia. Konsekwencje porażki odpowiadają zamierzonemu efektowi zaklęcia i mogą skutkować dodatkowym Zmęczeniem, zniszczeniem Księgi Zaklęć, obrażeniami, a nawet śmiercią.
 
-**Artefakty**  
+### Artefakty
+
 **Artefakty** to przedmioty nasycone magicznym zaklęciem lub mocą. Nie powodują Zmęczenia ale mają zwykle ograniczone zastosowanie, jak również warunek ponownego naładowania. Oto kilka przykładów:
 
 **Miodościsk** , 3 ładunki. Zardzewiały pierścień, który potrafi skurczyć nosiciela do wysokości 15 cm. Doładowanie: umieść go w małej (wielkości naparstka) filiżance mleczka pszczelego.
@@ -702,62 +713,77 @@ Każda postać może rzucić zaklęcie, trzymając księgę zaklęć w obu ręka
 ## Walka
 
 **Rundy**
+
 Gra zazwyczaj toczy się bez ścisłego rozliczania czasu. W walce lub okolicznościach, w których czas jest pomocny, użyj rund, aby śledzić, kiedy coś się wydarzy. **Runda** zajmuje około dziesięciu sekund czasu gry i składa się z tur.
 
 **Akcje**
+
 W swojej turze postać może poruszyć się na odległość do 12 metrów i wykonać jedną akcję. Może to być rzucenie zaklęcia, atak, drugi ruch lub inne rozsądne działanie.
 
 W każdej rundzie, gracze deklarują co robią, zanim rzucone zostaną jakiekolwiek kości. Jeśli jakaś postać próbuje czegoś ryzykownego, Strażnik żąda od odpowiednich graczy lub BN wykonania rzutu obronnego. Wszystkie akcje, ataki i ruchy odbywają się jednocześnie.
 
 **Tury**
+
 Strażnik będzie sygnalizował najbardziej prawdopodobne działania BN lub potworów. Na początku walki, każdy gracz musi wykonać rzut obronny ZRE, aby zacząć działać przed przeciwnikami.
 
 **Przykład:** _Bea przypadkowo natknęła się na teren, na którym grasuje potężny Troll Drzewny. Aby móc ruszyć się przed trollem, musi wykonać test ZRE. Nie udaje jej się, więc Troll atakuje pierwszy._
 
 **Atak i obrażenia**
+
 Atakujący rzuca kością obrażeń dla swojej broni i odejmuje pancerz celu, a następnie zadaje pozostałą sumę do OCHR przeciwnika. Ataki bez broni zawsze zadają 1k4 obrażeń.
 
 **Przykład:** _Drzewny Troll ryczy na Beę (5 OCHR) i uderza ją pałką. Pałka zadaje 1k10 obrażeń, a Strażnik wyrzucił 4. Odejmuje 1 za skórzaną zbroję Bei i zadaje jej 3 punkty obrażeń. W rezultacie bohaterka zostaje z 2 punktami OCHR._
 
 **Wielu atakujących**
+
 Jeśli kilku atakujących celuje w tego samego przeciwnika, rzuć wszystkimi kośćmi obrażeń i zachowaj jeden najwyższy wynik.
 
 **Modyfikatory ataku**
+
 Jeśli walczysz ze słabszej pozycji (np. przez osłonę lub ze związanymi rękoma), atak jest **osłabiony** i atakujący musi rzucić 1k4 obrażeń, bez względu na kość obrażeń ataku.
 
 Jeśli walczysz w przewadze (np. przeciwko bezbronnemu wrogowi lub poprzez odważny manewr), atak jest **wzmocniony**, pozwalając atakującemu na zadanie 1k12 obrażeń zamiast normalnej liczby.
 
 **Broń podwójna**
+
 Jeśli atakujesz dwoma rodzajami broni jednocześnie, rzuć obiema kostkami obrażeń i zatrzymaj pojedynczy, najwyższy wynik.
 
-**Podmuch**  
+**Podmuch**
+
 Ataki z cechą **Podmuch** wpływają na wszystkie cele w oznaczonym obszarze i są rzucane oddzielnie dla każdej dotkniętej postaci. Podmuch odnosi się do całej grupy efektów obszarowych, od klasycznej eksplozji, przez potężne ciosy rozszczepiające, aż po uderzenie meteorytu. Jeśli nie jesteś pewien ile celów może zostać dotkniętych, rzuć odpowiednią kością obrażeń, aby uzyskać wynik.
 
 **Blizny**
+
 Gdy obrażenia zadane postaci redukują jej OCHR dokładnie do 0, bohater może doznać nieodwracalnych zmian. Aby dowiedzieć się więcej, zobacz rozdział **Blizny**.
 
 **Obrażenia krytyczne**
+
 Obrażenia, które redukują OCHR celu poniżej zera, zmniejszają SIŁ celu o ich pozostałą ilość. Ofiara musi wykonać rzut obronny SIŁ (już po redukcji), aby uniknąć **obrażeń krytycznych**. Dodatkowo, niektórzy wrogowie posiadają specjalne umiejętności lub efekty, które są uruchamiane, gdy ich cel nie zaliczy testu na obrażenia krytyczne.
 
 Każda postać, która otrzyma obrażenia krytyczne, nie może zrobić nic poza słabym czołganiem się i kurczowym chwytaniem się resztek życia. Jeśli otrzyma pomoc i będzie mogła odpocząć, jej stan ulegnie stabilizacji. Jeśli postać nie będzie leczona, umrze w ciągu godziny.
 
-**Utrata punktów zdolności**  
+**Utrata punktów zdolności**
+
 Jeśli SIŁ postaci zostanie zredukowana do 0, postać umiera. Jeśli ZRE postaci osiągnie 0, bohater jest sparaliżowany. W sytuacji gdy WOL spadnie do 0, postać zaczyna majaczyć.
 Całkowita utrata ZRE i WOL czyni postać niezdolną do działania, dopóki nie odzyska ich poprzez dłuższy odpoczynek lub za pomocą nadzwyczajnych środków.
 
 **Utrata przytomności i śmierć**
+
 Kiedy postać ginie, gracz może stworzyć nową postać lub przejąć kontrolę nad najemnikiem. Nowa postać dołącza natychmiast do drużyny.
 
 **Oddziały**
+
 Duże grupy podobnych wojowników walczących razem są traktowane jako pojedyncze **oddziały**. Kiedy oddział otrzymuje krytyczne obrażenia, zostaje rozproszony lub znacznie osłabiony. Kiedy osiągnie 0 SIŁ, zostaje zniszczony.
 
 Ataki jednostek na oddziały są **osłabione** (z wyjątkiem obrażeń od podmuchu).
 Ataki oddziałów na jednostki są wzmocnione i zadają obrażenia takie jak od podmuchu.
 
 **Odwrót**
+
 Ucieczka w trudnej sytuacji zawsze wymaga udanego rzutu obronnego ZRE, jak również bezpiecznego miejsca, do którego można uciec.
 
 **Blizny**
+
 Kiedy atak zredukuje OCHR postaci dokładnie do 0, postać zostaje nieodwracalnie i niepowtarzalnie zmieniona. Sprawdź wynik w tabeli poniżej w oparciu o całkowite zadane obrażenia:
 
 |     |                                                                                                                                                                                                                                                                                                                          |
