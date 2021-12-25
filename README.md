@@ -17,5 +17,5 @@ Autorem gry jest: [Yochai Gal](https://newschoolrevolution.com/).
 Polskie tłumaczenie: [Oskar Świda](https://twitter.com/OskarSwida).
 
 <small>
-Styl strony został dostosowany do repozytorium Cairn, które jest dostępne tutaj [tutaj](https://github.com/yochaigal/cairn).
+Styl strony został dostosowany do repozytorium Cairn, które jest dostępne [tutaj](https://github.com/yochaigal/cairn).
 </small>

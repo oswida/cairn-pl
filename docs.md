@@ -1,4 +1,4 @@
-# Artykuły
+# Reguły
 
 - [Dokument referencyjny](docs/cairn-srd-pl.md) (SRD)
 - [Magia GLOG](docs/glog-magic-pl.md)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Magia GLOG
-parent: Artykuły
+parent: Reguły
 ---
 
 # Magia GLOG
@@ -13,7 +13,7 @@ Aby wykorzystać [Magię GLOG](http://goblinpunch.blogspot.com/2016/05/the-glog.
 - Postać posiada **Grimuar** warty 300sz. Jest on [nieporęczny](./cairn-srd-pl.md/#wyposażenie), i zawiera jedno losowe zaklęcie.
 - Używaj [tej listy](./glog-spells-pl.md) zaklęć, została specjalnie dostosowana do reguł magii GLOG.
 - Traktuj wszystkie odkryte księgi zaklęć jako [Zwoje](#zwoje).
-- Dodatkowe zaklęcia można znaleźć na [tej stronie](https://drive.google.com/file/d/1OTVy-5Vm44xhRmFO4tKFCJto-_cw0xYtD8lNj8AsSJY/view?pli=1).
+- Dodatkowe zaklęcia można znaleźć na [tej stronie](https://drive.google.com/file/d/1OTVy-5Vm44xhRmFO4tKFCJto-_cw0xYtD8lNj8AsSJY/view?pli=1) (w języku angielskim).
 
 ## Rzucanie zaklęć
 
