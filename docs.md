@@ -1,3 +1,8 @@
+---
+layout: default
+title: Reguły
+nav_order: 2
+---
 # Reguły
 
 - [Dokument referencyjny](docs/cairn-srd-pl.md) (SRD)

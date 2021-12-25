@@ -1,3 +1,8 @@
+---
+layout: default
+title: Narzędzia
+nav_order: 3
+---
 # Narzędzia
 
 - [Zbuduj lokację](tools/build-an-adventure-site-pl.md)
