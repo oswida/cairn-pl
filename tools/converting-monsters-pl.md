@@ -17,24 +17,24 @@ Zapoznaj się z instrukcjami w [SRD](../../docs/../cairn-pl/docs/cairn-srd-pl.md
 - OSE (lub B/X) mają naprawdę świetne statystyki, które można po prostu tylko zredukować w celu szybkiej konwersji.
 - Konwersja **HD** jest zazwyczaj najtrudniejsza do zrozumienia. Konwertuj _najpierw_ **HP**, _następnie_ **STR**. Możesz użyć oryginalnego **HD** stwora dwa razy podczas konwersji lub wcale, w zależności od poziomu szczegółowości bloku statystyk.
 - Dungeon World ma kilka świetnych "ruchów" potworów, które całkiem ładnie przekładają się na obrażenia krytyczne, więc szukanie odpowiednika stworzenia w tym systemie może naprawdę pomóc! Zobacz przykład [tutaj](http://codex.dungeon-world.com/monster/5698559156420608).
-- Czasami bezpośrednie tłumaczenie statystyk nie wchodzi w grę. To jest OK! Jest na to [sposób](#użyj-fikcji))!
+- Czasami bezpośrednie tłumaczenie statystyk nie wchodzi w grę - nie przejmuj się. Jest na to [sposób](#użyj-fikcji))!
 
 ### Zdrowie, Pancerz i Umiejętności
 
-- **Hit Protection** is _not_ health. It's the creature's ability to avoid danger, whether through toughness, speed, or skill. If the PCs will have a tough time landing a blow that actually causes damage, the creature has high **HP**. A good rule of thumb is 1 **HD** = 1 **HP**, starting with a minimum of **3 HP** for the average person. I usually think of **HD** as equivalent to a d6, which has a _mean_ of 3.5.
-- **Armor** is generally easy to map; phrases like "as leather" and "as plate" are really helpful. Generally ignore THAC0 and use descending AC (7 = Leather, 5 = Chainmail, 3 = Plate mail). If only ascending AC is given you can use (12 = Leather, 14 = Chainmail, 16 = Plate mail). Whichever system you're converting from, the Armor values range from 1-3.
-- **Strength** is both health and physical power.  It also tracks constitution & resistance to poisons.  Look at the creature's **HD** and **HP** (even if you've already done so for **Hit Protection**). **STR** is how long the creature can stay in the fight _after_ getting hit, not ability to avoid danger. If a creature is difficult to kill but _not_ because they are good avoiding injury, give them more **STR** but _not_ more **HP**. A good rule of thumb is to compare the creature to an average human (10 **STR**) and go up or down from there.
-- **Dexterity** is probably the easiest of the bunch. Start with **10** as a base and if the creature is particularly quick, agile or nimble-fingered make it go up. If it is slow to respond, bulky or clumsy, lower the number.
-- **Willpower** is tricky. It rarely comes up but when it does, it's nice to have. High **WIL** is strong personality, spirit or presence. **Morale** (**ML**) can be a good guidepost for **Willpower** as well. Morale typically ranges between 2-12; some games use a "Morale Check" is used to determine if a monster flees (in Cairn a **WIL** save is used instead). The referee rolls 2d6; if the result is higher than the monster's **ML** score, they flee.  
+- **Ochrona przed trafieniem** to _nie_ zdrowie. To zdolność do unikania niebezpieczeństw, czy to dzięki wytrzymałości, szybkości, czy umiejętnościom. Jeśli graczom ciężko będzie zadać cios, który spowoduje obrażenia, stworzenie ma wysoką **OCHR**. Dobrą zasadą jest, że 1 **HD** = 1 **OCHR**, zaczynając od minimum **3 OCHR** dla przeciętnego człowieka. Zazwyczaj myślę o **HD** jako odpowiedniku k6, które ma _średnią_ równą 3,5.
+- **Pancerz** jest generalnie łatwy do odwzorowania; zwroty takie jak "jak skóra" i "jak zbroja płytowa" są naprawdę pomocne. Generalnie zignoruj THAC0 i użyj malejącego AC (7 = skóra, 5 = kolczuga, 3 = zbroja płytowa). Jeśli podane jest tylko rosnące AC, możesz użyć (12 = skóra, 14 = kolczuga, 16 = zbroja płytowa). Niezależnie od systemu, z którego dokonujesz konwersji, wartości pancerza mieszczą się w przedziale 1-3.
+- **Siła** to zarówno zdrowie, jak i siła fizyczna.  Podaje również poziom wytrzymałości fizycznej i odporność na trucizny.  Spójrz na **HD** i **HP** stworzenia (nawet jeśli już to zrobiłeś dla **Ochrony przed trafieniem**). **SIŁ** opisuje jak długo stwór może pozostać w walce _po_ otrzymaniu ciosu, a nie zdolność do unikania niebezpieczeństwa. Jeśli stworzenie jest trudne do zabicia, ale _nie_ dlatego, że dobrze unika obrażeń, daj mu więcej **SIŁ**, ale _nie_ więcej **OCHR**. Dobrą zasadą jest porównanie stwora do przeciętnego człowieka (10 **SIŁ**) i odpowiednie podwyższanie lub obniżanie wartości.
+- **Zręczność** jest prawdopodobnie najłatwiejsza z całej grupy zdolności. Zacznij od **10** jako podstawy, a jeśli stwór jest szczególnie szybki lub zwinny, zwiększ liczbę. Jeśli reaguje powoli lub jest niezgrabny, obniż wartość.
+- **Wola** może być problematyczna. Rzadko pojawia się u potworów, ale kiedy już się pojawi, ma spore znaczenie. Wysoka **WOL** to silna osobowość, duch lub prezencja. **Morale** (**ML**) może być dobrym punktem odniesienia dla **Woli**. Morale zazwyczaj waha się pomiędzy 2-12; niektóre gry używają "Testu Morale", aby określić czy potwór ucieka (w Cairn używa się zamiast tego rzutu obronnego na **WOL**). Strażnik rzuca 2k6; jeśli wynik jest wyższy niż wynik **ML** potwora, stworzenie ucieka.
 
-The following table offers a decent guide on converting **ML** to **WIL**.
+Poniższa tabela oferuje zasady konwersji **ML** na **WOL**.
 
 |         |     |     |     |     |
 | ------- | --- | --- | --- | --- |
 | **ML**  | 4   | 8   | 10  | 12  |
-| **WIL** | 6   | 12  | 15  | 18  |
+| **WOL** | 6   | 12  | 15  | 18  |
 
-### Combat
+### Walka
 
 - Attack **damage** is pretty straightforward coming from games like OSE (or B / X); you can usually just copy them as-is. Double-check with the [weapons table](/cairn-srd/#weapons) if unsure.
 - Multiple attacks (e.g. 2 x claw, 1 x sting) typically convert to [_Blast_](/cairn-srd#Blast) and/or the "two weapons" rule (e.g. d6+d6 is roll 2d6, keep highest).
@@ -57,13 +57,13 @@ X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, _qualities_), special items
 - Quirk, tactic, or peculiarity making this NPC unique
 - Special effect or critical damage consequence
 
-## Use The Fiction
+## Użyj fikcji
 
 Read the original stat block and surrounding commentary, then write a few sentences about the creature. Then convert what you've written to the Cairn monster stat block.
 
 Take for example this creature:
 
-#### Foxwoman
+### Foxwoman
 
 Can take the form of a fox, a woman, or a 7' tall fox-headed.  
 _HD 5, Speed 120', Armor 14, Morale 11, Attack: +4 d8hp (claw, bite or choke)_

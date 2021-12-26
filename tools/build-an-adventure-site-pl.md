@@ -1,68 +1,78 @@
 ---
 layout: default
-title: Zbuduj lokację
+title: Zbuduj lokację do przygody
 nav_order: 1
 parent: Narzędzia
 ---
 
-# Build An Adventure Site
+# Zbuduj lokację do przygody
 
-## Choose A Theme
-- Pick a theme for the area. A specific mythology you find inspiring, something from history, etc.
-- Name (should reflect or theme). There are some great names [here](https://www.fantasynamegenerators.com/forest_names.php).
-- Come up with a solid adventure premise (typically an amazing location with a treasure to hunt).
-- Decide on a ruling faction, with traits & motive.
-- Add some kind of counter balance (another faction, some kind of nefarious enemy, etc).
-- Keep these concepts in mind at all times: Dangers, Stakes, Motives, Urgency. The more you can weave in, the better.
+## Wybierz motyw przewodni
 
-## Spark Tables
-[Spark Tables](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) are very handy tools for quickly creating a setting. They are typically made of 40 words divided into two columns.  
-For an example Spark Table see [here](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0). With some light editing, they result in phrases like:  
-- Digesting Claws
-- White Eyes
-- Distorted Tongues
-- Predatory Awakening
-- Grimalkin Fungi
-- Nourishing Deep
-- Paranoia Underbrush
-- Mouth-less Cemetery
-- Withering Hue
-- Subterranean Ripple
-- Transmutation Sparrows
-- Moonlight Trees
-- Mildew Gloom
-- Smoldering Shade
+- Wybierz motyw przewodni dla tego obszaru. Konkretną mitologię, którą uważasz za inspirującą, coś z historii, itp.
+- Określ nazwę miejsca (powinna odzwierciedlać temat). Jest kilka świetnych nazw [tutaj](https://www.fantasynamegenerators.com/forest_names.php).
+- Wymyśl solidne założenie dla przygody (zazwyczaj jest to niesamowita lokalizacja ze skarbem do pozyskania).
+- Określ frakcję rządzącą na tym obszarze, z jej cechami i motywami.
+- Dodaj jakąś przeciwwagę (inną frakcję, jakiegoś nikczemnego wroga, itp.).
+- Zawsze pamiętaj o pojęciach takich jak: Zagrożenia, Stawki, Motywy, `Pilność!!!`. Im więcej możesz ich wpleść, tym lepiej.
 
-### Create Spark Tables
-To create a Spark Table, you'll want to find a find a book or website close to your adventure's overall theme (e.g. a PDF with related content). You can pull words from it by simply picking a random page and writing down whatever meets your eye, or you can import it into a web-based tool. You can also import [public domain books](https://archive.org/details/texts) on relevant subjects. [WordCounter.net](https://wordcounter.net/website-word-count) can create lists of non-common keywords from a website. You can then copy and paste those words into a spreadsheet.
+## Tabele inspiracji
 
-Alternatively, take a look at [TerriblyBeautiful](https://www.patreon.com/terriblybeautiful) by [Colin Kloeker](https://twitter.com/colinkloecker?lang=en). Basically, you join the Discord server (see Patreon link - it's free) and then run commands in the "bibliomancers-workshop" channel (see pinned).
+[Tabele inspiracji](https://www.bastionland.com/2017/11/electric-modernity-and-spark-tables.html) (ang. spark tables) to bardzo poręczne narzędzia do szybkiego tworzenia świata gry. Składają się one zazwyczaj z 40 słów podzielonych na dwie kolumny. 
+Przykładowa tabela inspiracji została przedstawiona [tutaj](https://docs.google.com/spreadsheets/d/1b3E3FsQVvjqAMVcDIVXXQmo9g6bH0fQBDbzRJ6K5F10/edit#gid=0). Po niewielkiej edycji powstają z niej takie określenia, jak:
 
-When you've finished:  
-- Clean up the words. Sort by d20 in two columns.
-- You'll want to generate at least 10 interesting phrases for inspiration.
-- You can of course simply write down 40 words that sound good together.
-- Images can also serve as sparks.
+- Digesting Claws (Szpony trawiące)
+- White Eyes (Białe oczy)
+- Distorted Tongues (Zniekształcone języki)
+- Predatory Awakening (Przebudzenie drapieżnika)
+- Grimalkin Fungi (Grzyby Grimalkina)
+- Nourishing Deep (Odżywcza Głębia)
+- Paranoia Underbrush (Zarośla paranoi)
+- Mouth-less Cemetery (Cmentarz bez ust)
+- Withering Hue (Więdnący kolor)
+- Subterranean Ripple (Podziemna fala)
+- Transmutation Sparrows (Wróble transmutacji)
+- Moonlight Trees (Drzewa księżycowe)
+- Mildew Gloom (Mrok pleśniowy)
+- Smoldering Shade (Tlący się cień)
 
-## Draw A Map
-- If you can draw, great! Otherwise, find a map-making tool that works for you. Examples are [draw.io](http://draw.io), [Hex Kit](https://coneofnegativeenergy.com/hex-kit/), [Owlbear Rodeo](https://www.owlbear.rodeo/), [Wonderdraft](http://wonderdraft.net/), etc.
-- Draw at least four lines of any shape, each from a different color. Each line should cross another at least once. These lines represent roads or paths.
-- Generate at least 3 Points of Interest: take in consideration the theme(s) and factions. Put these wherever the lines cross.
-- Generate regional/hex features for each POI using tables and placing results in those POIs where it makes most sense.
-- Place additional (especially hidden) dangers, encounters or NPC’s in some of the POI.
-- Add some travel/route complications, taking in consideration any POIs along the way.
+### Tworzenie tabel inspiracji
 
-## Create Encounters
-- Encounter table (either 1d6 or 2d6), with at least one result tied to the party or its members.
-- Details on any treasure or relics (Who wants it? Where is it now? Why wasn't it ransacked before?). Include maps.
-- Describe rooms for a dungeon (one sentence describing obstacles, hazards, creatures or minor treasure).
+Aby utworzyć tabelę inspiracji, musisz znaleźć książkę lub stronę internetową zbliżoną do ogólnego tematu Twojej przygody (np. plik PDF z pokrewną zawartością). Możesz wyciągnąć z niej słowa, wybierając losową stronę i zapisując to, co wpadnie Ci w oko, lub zaimportować ją do narzędzia internetowego.
+Możesz również importować [książki z domeny publicznej](https://archive.org/details/texts) wybierając odpowiednie tematy.
+[WordCounter.net](https://wordcounter.net/website-word-count) może tworzyć listy rzadko występujących słów kluczowych z witryny. Następnie możesz skopiować i wkleić te słowa do arkusza kalkulacyjnego.
 
-You do not need to do this for ever single POI, only those that interest you.
+Alternatywnie, spójrz na [TerriblyBeautiful](https://www.patreon.com/terriblybeautiful) autorstwa [Colina Kloekera](https://twitter.com/colinkloecker?lang=en). Zasadniczo, dołączasz do serwera Discord (zobacz link Patreon - jest darmowy), a następnie uruchamiasz polecenia na kanale "bibliomancers-workshop" (zobacz przypięty temat).
 
-## Create Treasure:
-- Look on the map and think of who would want treasure, and what kind.
-- Look on the map and think of where that treasure could be now.
-- Add 2-3 steps leading up to the location of the treasure, but don't be too obvious.
-- Add some sort of "dungeon" in the place where the treasure resides.
-- Stock "rooms" of a dungeon (additional treasure goes here)
-- [Maze Rats](https://questingbeast.itch.io/maze-rats) has incredible treasure and "loot the body" tables. You can find an automated version in the [Adventuresmith](https://play.google.com/store/apps/details?id=org.steavesea.adventuresmith&hl=en_US&gl=US) app.
+Kiedy skończysz zbierać dane:
+
+- Uporządkuj słowa. Posortuj według k20 w dwóch kolumnach.
+- Wylosuj co najmniej 10 interesujących fraz.
+- Możesz oczywiście po prostu zapisać 40 słów, które dobrze brzmią razem.
+- Obrazy również mogą służyć jako natchnienie.
+
+## Narysuj mapę
+
+- Jeśli potrafisz rysować, to świetnie! W przeciwnym razie, znajdź narzędzie do tworzenia map, które Ci odpowiada. Przykłady to [draw.io](http://draw.io), [Hex Kit](https://coneofnegativeenergy.com/hex-kit/), [Owlbear Rodeo](https://www.owlbear.rodeo/), [Wonderdraft](http://wonderdraft.net/), itd.
+- Narysuj co najmniej cztery linie o dowolnym kształcie, każda w innym kolorze. Każda linia powinna przecinać się z inną co najmniej raz. Linie te reprezentują drogi lub ścieżki.
+- Wygeneruj co najmniej 3 interesujące miejsca (IM): weź pod uwagę temat(y) i frakcje. Umieść je wszędzie tam, gdzie przecinają się linie.
+- Wygeneruj cechy (dotyczące regionu lub heksu) dla każdego IM, używając tabel i umieszczając wyniki w tych miejscach, w których ma to największy sens.
+- Umieść dodatkowe (zwłaszcza te ukryte) niebezpieczeństwa, spotkania lub BN w niektórych IM.
+- Dodaj komplikacje podróży/trasy, biorąc pod uwagę wszystkie IM po drodze.
+
+## Zaplanuj spotkania
+
+- Tabela spotkań (1k6 lub 2k6), z co najmniej jednym wynikiem bezpośrednio związanym z drużyną lub jej członkami.
+- Szczegóły dotyczące skarbów lub artefaktów (kto ich pożąda? gdzie są teraz? dlaczego nie zostały pozyskane wcześniej?). Dołącz mapy.
+- Opisz pomieszczenia lochu (jedno zdanie opisujące przeszkody, niebezpieczeństwa, stworzenia lub drobne skarby.
+
+Nie musisz tego robić dla każdego IM, tylko dla tych, które Cię interesują.
+
+## Wykreuj skarby
+
+- Spójrz na mapę i zastanów się, kto chciałby mieć skarb i jakiego rodzaju.
+- Spójrz na mapę i zastanów się, gdzie ten skarb mógłby się teraz znajdować.
+- Dodaj 2-3 kroki prowadzące do miejsca, w którym znajduje się skarb, ale niech nie będą zbyt oczywiste.
+- Dodaj coś w rodzaju "lochu" w miejscu, gdzie znajduje się skarb.
+- Zaplanuj zapasowe "pokoje" lochu (dodatkowe skarby trafiają tutaj)
+- [Maze Rats](https://questingbeast.itch.io/maze-rats) posiada niesamowite tabele skarbów i "plądrowania zwłok". Możesz znaleźć zautomatyzowaną wersję w [Adventuresmith](https://play.google.com/store/apps/details?id=org.steavesea.adventuresmith&hl=en_US&gl=US) app.
