@@ -7,15 +7,15 @@ parent: Narzędzia
 
 # Konwersja potworów
 
-Nie ma idealnego systemu do konwersji z innych systemów.  
-Poniżej znajduje się kilka wskazówek, które mogą Ci pomóc w tym procesie!
+Niestety, nie ma idealnego systemu do konwersji z innych gier RPG.  
+Poniżej znajdziesz kilka wskazówek, które mogą Ci pomóc w tym procesie.
 
 ## Podstawy
 
-Zapoznaj się z instrukcjami w [SRD](../../docs/../cairn-pl/docs/cairn-srd-pl.md#Tworzenie potworów). Oto kilka rzeczy, o których należy pamiętać:
+Zapoznaj się z instrukcjami w [SRD](../docs/cairn-srd-pl.md#Tworzenie potworów). Oto kilka rzeczy, o których należy pamiętać:
 
 - OSE (lub B/X) mają naprawdę świetne statystyki, które można po prostu tylko zredukować w celu szybkiej konwersji.
-- Konwersja **HD** jest zazwyczaj najtrudniejsza do zrozumienia. Konwertuj _najpierw_ **HP**, _następnie_ **STR**. Możesz użyć oryginalnego **HD** stwora dwa razy podczas konwersji lub wcale, w zależności od poziomu szczegółowości bloku statystyk.
+- Konwersja **HD** jest zazwyczaj najtrudniejsza do zrozumienia. Konwertuj _najpierw_ **OCHR**, _następnie_ **STR**. Możesz użyć oryginalnego **HD** stwora dwa razy podczas konwersji lub wcale, w zależności od poziomu szczegółowości bloku statystyk.
 - Dungeon World ma kilka świetnych "ruchów" potworów, które całkiem ładnie przekładają się na obrażenia krytyczne, więc szukanie odpowiednika stworzenia w tym systemie może naprawdę pomóc! Zobacz przykład [tutaj](http://codex.dungeon-world.com/monster/5698559156420608).
 - Czasami bezpośrednie tłumaczenie statystyk nie wchodzi w grę - nie przejmuj się. Jest na to [sposób](#użyj-fikcji))!
 
@@ -36,85 +36,90 @@ Poniższa tabela oferuje zasady konwersji **ML** na **WOL**.
 
 ### Walka
 
-- Attack **damage** is pretty straightforward coming from games like OSE (or B / X); you can usually just copy them as-is. Double-check with the [weapons table](/cairn-srd/#weapons) if unsure.
-- Multiple attacks (e.g. 2 x claw, 1 x sting) typically convert to [_Blast_](/cairn-srd#Blast) and/or the "two weapons" rule (e.g. d6+d6 is roll 2d6, keep highest).
-- When in doubt, think about how much serious damage the creature is supposed to do. Remember that instead of raising attack damage a step, think about making it _enhanced_ in certain situations or use the _Blast_ and "two weapons" rule.
+- **Obrażenia** ataku są dość proste jeśli pochodzą z gier takich jak OSE (lub B / X); zazwyczaj można po prostu skopiować je jako takie. W przypadku wątpliwości, skonsultuj z [tabelą broni](../docs/cairn-srd-pl.md/#broń).
+- Wielokrotne ataki (np. 2 x pazury, 1 x żądło) zazwyczaj konwertowane są na [_Podmuch_](../docs/cairn-srd-pl.md/#podmuch) i/lub zasadę "dwóch broni" (np. k6+k6 to rzut 2k6, zatrzymaj najwyższy).
+- Gdy masz wątpliwości, zastanów się, jak poważne obrażenia ma zadawać stwór. Pamiętaj, że zamiast podnosić obrażenia od ataku o stopień, pomyśl o tym, aby w pewnych sytuacjach były one _wzmocnione_ lub skorzystaj z zasady _podmuch_ i "dwóch broni".
 
-### Abilities & Magic
+### Umiejętności i magia
 
-- Some abilities simply won't translate directly! That's OK, not every system is equivalent. If for example an OSR monster has an attack that assumes the PCs will be able to dodge or defend against, you might need to rewrite it a bit.
-- Abilities can sometimes be made into weapons, and assign a damage die, making Critical Damage reveal the damage. More often you should simply let the ability or attack _happen_. Combat is dangerous, and it is up to the Warden to properly telegraph danger before the fighting begins.
-- Spells are tricky; you can give wizardy-types Spellbooks but remember, the creature might _drop_ them when they are defeated. I like to make 1d4 dropped Spellbooks implode ([Die of Fate](/cairn-srd#die-of-fate)).
-- Magical creatures can just "know" a bunch of spells. In this case make their corpse magical (and dangerous).1
+- Niektórych umiejętności po prostu nie da się przełożyć bezpośrednio! Nic nie szkodzi, nie każdy system jest równoważny. Jeśli na przykład potwór z OSR ma atak, który zakłada, że gracze będą w stanie się przed nim uchylić lub obronić, być może będziesz musiał go trochę przerobić.
+- Umiejętności można czasem przekształcić w broń, i przypisać im kość obrażeń, a następnie umieścić w sekcji obrażeń krytycznych. Najczęściej jednak powinieneś po prostu pozwolić, aby umiejętność lub atak po prostu _się wydarzyły_. Walka jest niebezpieczna i to Strażnik powinien odpowiednio zasygnalizować niebezpieczeństwo, zanim się rozpocznie.
+- Zaklęcia bywają skomplikowane; możesz dać czarodziejskim typom Księgi Zaklęć, ale pamiętaj, że stwór może je upuścić, gdy zostanie pokonany. Ciekawym rozwiązaniem może być zasada, że 1k4 upuszczonych ksiąg imploduje ([Kość przeznaczenia](../docs/cairn-srd-pl.md/#kość-przeznaczenia)).
+- Magiczne stworzenia mogą po prostu "znać" kilka zaklęć. W tym przypadku uczyń ich zwłoki magicznymi (i niebezpiecznymi).
 
-### Stat Block Structure
+### Struktura bloku statystyk
 
- There are many ways to do this, but try to be consistent! In Cairn I write it like this:
-**Name**
-X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, _qualities_), special items
+Jest wiele sposobów, aby to zrobić, niemniej warto być konsekwentnym! W Cairn zapisuję to tak:
 
-- Engaging descriptor of appearance or demeanor
-- Quirk, tactic, or peculiarity making this NPC unique
-- Special effect or critical damage consequence
+---
+**Nazwa**
+X OCHR, X Pancerza, X SIŁ, X ZRE, X WOL, Broń (kX, _cechy_), przedmioty specjalne
+
+- Opis wyglądu lub zachowania
+- Cecha, taktyka lub osobliwość, która czyni tę postać niezależną i wyjątkową
+- Efekt specjalny lub skutek obrażeń krytycznych
+
+---
 
 ## Użyj fikcji
 
-Read the original stat block and surrounding commentary, then write a few sentences about the creature. Then convert what you've written to the Cairn monster stat block.
+Przeczytaj oryginalny blok statystyk i otaczający go komentarz, a następnie napisz kilka zdań o tym stworzeniu. Następnie przekonwertuj to, co napisałeś, na blok statystyk potwora Cairn.
 
-Take for example this creature:
+Weźmy na przykład tego stwora:
 
-### Foxwoman
+### Kobieta Lisica
 
-Can take the form of a fox, a woman, or a 7' tall fox-headed.  
+Może przybrać postać lisa, kobiety lub 2-metrowej postaci ludzkiej z lisią głową.  
 _HD 5, Speed 120', Armor 14, Morale 11, Attack: +4 d8hp (claw, bite or choke)_
 
-- Defense: Cannot be harmed by metal
-- Special: Can transform into a fox or a maiden with one fox leg hidden (same stats) at will
+- Obrona: Nie może być zraniona przez metalową broń
+- Specjalne: Może zmienić się w dowolnym momencie w lisa lub kobietę z ukrytą jedną lisią nogą (te same statystyki).
 
-_**Using the example above, I can see that she:**_  
+_**Używając powyższego przykładu, widzę, że:**_  
 
-- Appears as a 7-foot tall with a human woman with the head of a fox.
-- Looking at the stats, it seems like she doesn't have too high HP, and she's quite fast.
-- Her **ML** is pretty high. She's obviously quite willful.
-- Agile and lithe.
-- Attacks with deadly teeth and claws (choking her prey if possible).
-- Transforms into a fox at will.
-- Immune to metal weapons.
+- Może wyglądać jak wysoka na 2 metry ludzka kobieta z głową lisa.
+- Patrząc na statystyki, wygląda na to, że nie ma zbyt dużo HP i jest dość szybka.
+- Jej **ML** jest dość wysokie. Widać, że jest dość przekorna lub samowolna.
+- Zwinna i gibka.
+- Atakuje śmiercionośnymi zębami i pazurami (jeśli to możliwe, dusi ofiarę).
+- Zmienia się w lisa, kiedy tylko zechce.
+- Odporna na metalową broń.
 
-_**What can we learn from this?**_  
+_**Co możemy z tego wyciągnąć?**_  
 
-- She's fast, and probably savvy in a fight. Starting from **3 HP**, then counting 1 **HP** per additional **HD** is **8 HP**.
-- I don't think foxes have protective hides, and she's otherwise human beside her head. **No Armor**.
-- She is decently strong. Normal human is 10 and she's bigger. **12 STR**.
-- I can imagine her hunting prey over the snowy tundra. She's fast. **14 DEX**.
-- Her **ML** is high but not the max. And foxes are pretty cunning, right? She'll stick it out in a tough situation. **15 WIL**.
-- I'd go with **bite (d6)** for the teeth attack, and **claws (d8+d8)**, the same as any two-handed weapon.
+- Jest szybka i prawdopodobnie bystra w trakcie walki. Zaczynając od **3 OCHR**, następnie licząc 1 **OCHR** za każde dodatkowe **HD** dostajemy **8 OCHR**.
+- Nie wydaje mi się, żeby lisy miały skórę, która chroni przed ranami. W swojej drugiej postaci, poza głową, jest człowiekiem. Wniosek: **Brak pancerza**.
+- Jest przyzwoicie silna. Normalny człowiek ma 10, a ona jest większa. **12 SIŁ**.
+- Wyobrażam ją sobie polującą na zdobycz w śnieżnej tundrze. Jest szybka. **14 ZRE**.
+- Jej **ML** jest wysokie, ale nie maksymalne. A lisy są dość przebiegłe, prawda? Poradzi sobie w trudnej sytuacji. **15 WOL**.
+- Wybiorę **gryzienie (k6)** dla ataku zębami, oraz **pazury (k8+k8)**, tak samo jak w przypadku każdej broni dwuręcznej.
 
-_**In summary, that leaves us with the following opening stat block:**_  
-_8 HP, 12 STR, 14 DEX, 15 WIL, teeth (d6), claws (d8+d8)_
+_**Podsumowując, otrzymujemy następujący blok statystyk:**_  
+_8 OCHR, 12 SIŁ, 14 ZRE, 15 WOL, zęby (k6), pazury (k8+k8)_
 
-_**Now on to her abilities:**_  
-This is pretty straightforward. We simply read the fictional stat block we created earlier!
+_**Przejdźmy teraz do jej umiejętności:**_  
 
-- We know what she looks like, and that she can transform into a fox at will.
-- She cannot be harmed by metal; I'm taking this to mean she's immune to _metal weapons_.
-- She chokes her victims.
+To całkiem proste. Po prostu czytamy fikcyjny blok statystyk, który stworzyliśmy wcześniej!
 
-_**Easy, right? Now to make it useful:**_  
+- Wiemy, jak wygląda i że potrafi dowolnie zmieniać się w lisa.
+- Nie może zostać zraniona przez metal; rozumiem, że to oznacza, że jest odporna na _metalową broń_.
+- Dusi swoje ofiary.
 
-- Appears as a 7-foot tall with a human woman with the head of a fox.
-- Transforms into a fox at will.
-- Immune to attacks from metal weapons.
-- Critical damage: victim is choked unconscious, to be fed on soon after.
+_**Proste, prawda? Teraz, wykorzystajmy to:**_  
 
-_**And that's it!**_
-_**Behold, a converted Cairn monster:**_
+- Wygląda jak wysoka na 2 metry ludzka kobieta z głową lisa.
+- Zmienia się w lisa, kiedy tylko zechce.
+- Odporna na ataki metalową bronią.
+- Obrażenia krytyczne: ofiara zostaje zadławiona do nieprzytomności, aby następnie, w krótkim czasie zostać pożarta.
 
-#### Foxwoman
+_**I to wszystko!**_
+_**Oto, potwór skonwertowany do Cairn:**_
 
-_8 HP, 12 STR, 14 DEX, 15 WIL, teeth (d6), claws (d8+d8)_
+#### Kobieta-lisica
 
-- Appears as a 7-foot tall with a human woman with the head of a fox.
-- Transforms into a fox at will.
-- Immune to attacks from metal weapons.
-- Critical damage: victim is choked unconscious, to be fed on soon after.
+_8 OCHR, 12 SIŁ, 14 ZRE, 15 WOL, zęby (k6), pazury (k8+k8)_
+
+- Wygląda jak wysoka na 2 metry ludzka kobieta z głową lisa.
+- Zmienia się w lisa, kiedy tylko zechce.
+- Odporna na ataki metalową bronią.
+- Obrażenia krytyczne: ofiara zostaje zadławiona do nieprzytomności, aby następnie, w krótkim czasie zostać pożarta.

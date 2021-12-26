@@ -68,7 +68,7 @@ Kiedy skończysz zbierać dane:
 
 Nie musisz tego robić dla każdego IM, tylko dla tych, które Cię interesują.
 
-## Wykreuj skarby
+## Stwórz skarby
 
 - Spójrz na mapę i zastanów się, kto chciałby mieć skarb i jakiego rodzaju.
 - Spójrz na mapę i zastanów się, gdzie ten skarb mógłby się teraz znajdować.

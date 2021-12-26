@@ -712,77 +712,77 @@ Każda postać może rzucić zaklęcie, trzymając księgę zaklęć w obu ręka
 
 ## Walka
 
-**Rundy**
+### Rundy
 
 Gra zazwyczaj toczy się bez ścisłego rozliczania czasu. W walce lub okolicznościach, w których czas jest pomocny, użyj rund, aby śledzić, kiedy coś się wydarzy. **Runda** zajmuje około dziesięciu sekund czasu gry i składa się z tur.
 
-**Akcje**
+### Akcje
 
 W swojej turze postać może poruszyć się na odległość do 12 metrów i wykonać jedną akcję. Może to być rzucenie zaklęcia, atak, drugi ruch lub inne rozsądne działanie.
 
 W każdej rundzie, gracze deklarują co robią, zanim rzucone zostaną jakiekolwiek kości. Jeśli jakaś postać próbuje czegoś ryzykownego, Strażnik żąda od odpowiednich graczy lub BN wykonania rzutu obronnego. Wszystkie akcje, ataki i ruchy odbywają się jednocześnie.
 
-**Tury**
+### Tury
 
 Strażnik będzie sygnalizował najbardziej prawdopodobne działania BN lub potworów. Na początku walki, każdy gracz musi wykonać rzut obronny ZRE, aby zacząć działać przed przeciwnikami.
 
 **Przykład:** _Bea przypadkowo natknęła się na teren, na którym grasuje potężny Troll Drzewny. Aby móc ruszyć się przed trollem, musi wykonać test ZRE. Nie udaje jej się, więc Troll atakuje pierwszy._
 
-**Atak i obrażenia**
+### Atak i obrażenia
 
 Atakujący rzuca kością obrażeń dla swojej broni i odejmuje pancerz celu, a następnie zadaje pozostałą sumę do OCHR przeciwnika. Ataki bez broni zawsze zadają 1k4 obrażeń.
 
 **Przykład:** _Drzewny Troll ryczy na Beę (5 OCHR) i uderza ją pałką. Pałka zadaje 1k10 obrażeń, a Strażnik wyrzucił 4. Odejmuje 1 za skórzaną zbroję Bei i zadaje jej 3 punkty obrażeń. W rezultacie bohaterka zostaje z 2 punktami OCHR._
 
-**Wielu atakujących**
+### Wielu atakujących
 
 Jeśli kilku atakujących celuje w tego samego przeciwnika, rzuć wszystkimi kośćmi obrażeń i zachowaj jeden najwyższy wynik.
 
-**Modyfikatory ataku**
+### Modyfikatory ataku
 
 Jeśli walczysz ze słabszej pozycji (np. przez osłonę lub ze związanymi rękoma), atak jest **osłabiony** i atakujący musi rzucić 1k4 obrażeń, bez względu na kość obrażeń ataku.
 
 Jeśli walczysz w przewadze (np. przeciwko bezbronnemu wrogowi lub poprzez odważny manewr), atak jest **wzmocniony**, pozwalając atakującemu na zadanie 1k12 obrażeń zamiast normalnej liczby.
 
-**Broń podwójna**
+### Broń podwójna
 
 Jeśli atakujesz dwoma rodzajami broni jednocześnie, rzuć obiema kostkami obrażeń i zatrzymaj pojedynczy, najwyższy wynik.
 
-**Podmuch**
+### Podmuch
 
 Ataki z cechą **Podmuch** wpływają na wszystkie cele w oznaczonym obszarze i są rzucane oddzielnie dla każdej dotkniętej postaci. Podmuch odnosi się do całej grupy efektów obszarowych, od klasycznej eksplozji, przez potężne ciosy rozszczepiające, aż po uderzenie meteorytu. Jeśli nie jesteś pewien ile celów może zostać dotkniętych, rzuć odpowiednią kością obrażeń, aby uzyskać wynik.
 
-**Blizny**
+### Blizny
 
 Gdy obrażenia zadane postaci redukują jej OCHR dokładnie do 0, bohater może doznać nieodwracalnych zmian. Aby dowiedzieć się więcej, zobacz rozdział **Blizny**.
 
-**Obrażenia krytyczne**
+### Obrażenia krytyczne
 
 Obrażenia, które redukują OCHR celu poniżej zera, zmniejszają SIŁ celu o ich pozostałą ilość. Ofiara musi wykonać rzut obronny SIŁ (już po redukcji), aby uniknąć **obrażeń krytycznych**. Dodatkowo, niektórzy wrogowie posiadają specjalne umiejętności lub efekty, które są uruchamiane, gdy ich cel nie zaliczy testu na obrażenia krytyczne.
 
 Każda postać, która otrzyma obrażenia krytyczne, nie może zrobić nic poza słabym czołganiem się i kurczowym chwytaniem się resztek życia. Jeśli otrzyma pomoc i będzie mogła odpocząć, jej stan ulegnie stabilizacji. Jeśli postać nie będzie leczona, umrze w ciągu godziny.
 
-**Utrata punktów zdolności**
+### Utrata punktów zdolności
 
 Jeśli SIŁ postaci zostanie zredukowana do 0, postać umiera. Jeśli ZRE postaci osiągnie 0, bohater jest sparaliżowany. W sytuacji gdy WOL spadnie do 0, postać zaczyna majaczyć.
 Całkowita utrata ZRE i WOL czyni postać niezdolną do działania, dopóki nie odzyska ich poprzez dłuższy odpoczynek lub za pomocą nadzwyczajnych środków.
 
-**Utrata przytomności i śmierć**
+### Utrata przytomności i śmierć
 
 Kiedy postać ginie, gracz może stworzyć nową postać lub przejąć kontrolę nad najemnikiem. Nowa postać dołącza natychmiast do drużyny.
 
-**Oddziały**
+### Oddziały
 
 Duże grupy podobnych wojowników walczących razem są traktowane jako pojedyncze **oddziały**. Kiedy oddział otrzymuje krytyczne obrażenia, zostaje rozproszony lub znacznie osłabiony. Kiedy osiągnie 0 SIŁ, zostaje zniszczony.
 
 Ataki jednostek na oddziały są **osłabione** (z wyjątkiem obrażeń od podmuchu).
 Ataki oddziałów na jednostki są wzmocnione i zadają obrażenia takie jak od podmuchu.
 
-**Odwrót**
+### Odwrót
 
 Ucieczka w trudnej sytuacji zawsze wymaga udanego rzutu obronnego ZRE, jak również bezpiecznego miejsca, do którego można uciec.
 
-**Blizny**
+### Tabela Blizn
 
 Kiedy atak zredukuje OCHR postaci dokładnie do 0, postać zostaje nieodwracalnie i niepowtarzalnie zmieniona. Sprawdź wynik w tabeli poniżej w oparciu o całkowite zadane obrażenia:
 
