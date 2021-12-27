@@ -754,7 +754,7 @@ Ataki z cechą **Podmuch** wpływają na wszystkie cele w oznaczonym obszarze i 
 
 ### Blizny
 
-Gdy obrażenia zadane postaci redukują jej OCHR dokładnie do 0, bohater może doznać nieodwracalnych zmian. Aby dowiedzieć się więcej, zobacz rozdział **Blizny**.
+Gdy obrażenia zadane postaci redukują jej OCHR dokładnie do 0, bohater może doznać nieodwracalnych zmian. Aby dowiedzieć się więcej, zobacz **Tabela blizn**.
 
 ### Obrażenia krytyczne
 
