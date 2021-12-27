@@ -194,54 +194,55 @@ Od czasu do czasu niebezpieczna akcja, pułapka, atak z zaskoczenia lub katakliz
 Rozwiń przykład
  </summary>
 
- **Strażnik**: "_After your encounter with the **Blood Elk**, you return to camp and try to catch as much sleep as they can. By daybreak both of you are awake and ready to continue on your journey."_
+ **Strażnik**: "_Po spotkaniu z **Krwawym Łosiem**, wracacie do obozu i staracie się złapać tyle snu, ile to tylko możliwe. Przed świtem oboje jesteście już obudzeni i gotowi do dalszej podróży."_
 
- **Esther**: _"Right. The question is, how do we cross the **God-Slip**? Are there any bridges at our level?"_
+ **Esther**: _"Dobra. Pytanie brzmi, jak przedostać się przez **Boski Przesmyk**? Czy są jakieś mosty albo coś w tym rodzaju?"_
 
- **Strażnik**: _"Not that you can see. In the far North a copse of trees hugs the ravine and partially blocks your way; you'd need to explore a bit to see past them.  A few hundred meters South however you can see a small shelf jutting out from inside the ravine, probably fifty feet down. It makes a sort of "L" shape, getting pretty close to the other side. It might require a little work to shimmy onto, but it seems doable."_
+ **Strażnik**: _"Niczego takiego nie widzicie. Na dalekiej północy zagajnik drzew przylega do wąwozu i częściowo blokuje ci drogę; musiałbyś się trochę postarać, żeby zobaczyć co jest dalej.  Kilkaset metrów na południe widać jednak małą półkę wystającą z wnętrza wąwozu, prawdopodobnie pięćdziesiąt stóp w dół. Tworzy ona coś w rodzaju litery "L" i sięga dosyć blisko drugiej strony wąwozu. Dostanie się na nią może wymagać trochę pracy, ale wydaje się wykonalne."_
 
- **Barry**: _"I say, let's go for the shelf. Still go that rope and pitons?"_
+ **Barry**: _"Chodźmy na półkę. Masz jeszcze tę linę i haki?"_
 
- **Esther**: _"Yeah, I don't see a better way across. Let's go."_
+ **Esther**: _"Tak, nie widzę lepszego rozwiązania. Chodźmy."_
 
- **Strażnik**: _"After a half hour's walk along the ravine, you finally arrive at a spot just above the shelf. Deep within the chasm you can see a blanket of early morning fog, and just beneath it the glitter of rushing water."_
+ **Strażnik**: _"Po półgodzinnej wędrówce wzdłuż wąwozu docieracie w końcu do miejsca położonego tuż nad półką. W głębi przepaści widać tuman porannej mgły, a tuż pod nim blask rwącej wody."_
 
- **Barry**: _"Are there any large stones near the edge? I'd like to hammer a piton into it, then loop our rope through. I can lower myself safely into the ravine and onto the shelf."_
+ **Barry**: _"Czy w pobliżu krawędzi są jakieś duże kamienie? Chciałbym wbić w nie hak, a następnie przepleść przez niego naszą linę. Będę mógł bezpiecznie opuścić się na półkę."_
 
- **Strażnik**: _"You find a large stone along the edge and hammer the piton into it."_
+ **Strażnik**: _"Znajdujesz duży kamień przy krawędzi i wbijasz w niego hak."_
 
- **Barry**: _"Great, I lower myself down, then light up my lantern. **Esther** will follow, I assume."_
+ **Barry**: _"Świetnie, opuszczam się na dół i zapalam latarnię. Zakładam, że **Esther** pójdzie za mną."_
 
- **Strażnik**: _"Carefully planting your feet on the shelf, you test the rope and call up to **Esther**, who climbs down. After she has arrived safely on the shelf, you survey your surroundings. The shelf appears to zigzag down the inside of the ravine, nearly to the bottom. The sound of rushing water below fills the ravine. Do you leave the rope behind for the return journey?"_
+ **Strażnik**: _"Ostrożnie stawiasz stopy na półce, testujesz linę i wołasz do **Esther**, która schodzi w dół. Gdy już bezpiecznie dotarła na półkę, oglądasz otoczenie. Półka wydaje się zygzakować po wewnętrznej stronie wąwozu, prawie do samego dna. Wąwóz wypełnia szum pędzącej wody. Czy zostawiacie linę na drogę powrotną?"_
 
- **Esther**: _"Unfortunately, yes. I'm also going to mark our location on my map. Who knows if it'll make a difference, but just in case... OK, let's get out of here."_
+ **Esther**: _"Niestety, tak. Zamierzam również zaznaczyć naszą lokalizację na mojej mapie. Kto wie, czy to na coś się przyda, ale na wszelki wypadek... Dobra, spadajmy stąd."_
 
- **Strażnik**: _"You move carefully along the shelf, digging your fingers into the cliff-face for safety. After an arduous fifteen minutes, you finally arrive at a small waterfall blocking the path forward. Icy water flows down the slippery rock surface and into a small basin below. The rock wall is slick with moss here, and you will likely slip if you try to step through. What do you do?"_
+ **Strażnik**: _"Posuwasz się ostrożnie wzdłuż półki, dla bezpieczeństwa wbijając palce w ścianę klifu. Po piętnastu minutach mozolnej wędrówki docierasz wreszcie do małego wodospadu, który zagradza ci drogę. Lodowata woda spływa po śliskiej skalnej powierzchni do małej niecki poniżej. Skalna ściana jest tu pokryta mchem i jeśli spróbujesz przejść, prawdopodobnie się poślizgniesz. Co robicie?"_
 
- **Barry**: _"Is there another way forward?"_
+ **Barry**: _"Czy jest inna droga?"_
 
- **Strażnik**: _"Not from what you can tell. You could try and climb down, but it is quite dark and likely even more dangerous."_
+ **Strażnik**: _"Z tego co widzisz, raczej nie. Możesz spróbować zejść na dół, ale jest tam dość ciemno i prawdopodobnie jeszcze bardziej niebezpiecznie."_
 
- **Barry**: _"OK, I think I'll try my luck with the waterfall, thank you. **Esther**, can you hold on to my bag as I step through?"_
+ **Barry**: _"OK, spróbuję szczęścia przy wodospadzie, dziękuję. **Esther**, możesz przytrzymać się paska mojej torby, gdy będę przechodzić?"_
 
- **Esther**: _"And have you take me with you? No thanks!"_
+ **Esther**: _"A ty pociągniesz mnie za sobą jak będziesz spadał? Nie, dzięki!"_
 
- **Strażnik**: _"You'll have to make a **DEX save** to see if you can cross over the slick surface without slipping."_
+ **Strażnik**: _"Będziesz musiał wykonać **rzut obronny ZRE**, aby sprawdzić, czy uda Ci się przejść przez śliską powierzchnię bez poślizgnięcia się."_
 
- **Barry**: _"OK, I hand **Esther** my lantern so I can use both hands.... and I rolled a 14, a fail. Damn."_
+ **Barry**: _"OK, podaję **Esther** moją latarnię, żebym mógł używać obu rąk.... i wyrzuciłem 14, porażka. Cholera."_
 
- **Strażnik**: _"You slip and tumble down the waterfall and into the water-filled basin below, smacking your hand hard into the side of the pool at the same time. You lose 1d4 DEX damage, and you are unable to properly squeeze items in your dominant hand. It's almost completely dark, but you can still make out the light of your comrade's torch above."_
+ **Strażnik**: _"Poślizgnąłeś się i spadasz z wodospadu do wypełnionego wodą basenu poniżej, uderzając jednocześnie mocno dłonią o ścianę basenu. Tracisz 1k4 obrażeń ZRE i nie jesteś w stanie prawidłowo ściskać przedmiotów w swojej dominującej dłoni. Jest już prawie zupełnie ciemno, ale wciąż możesz dostrzec światło pochodni swojej towarzyszki powyżej."_
 
-**Which Ability should non-combat damage impact?**
+**Na którą zdolność powinny wpływać obrażenia poza walką?**
 
-- If the injury affects their physical strength or health, subtract from **STR**. _This does not trigger a **critical damage save**_. **STR** is a reflection of a PC's health, and should reflect that in subtle but interesting ways: perhaps requiring a **save** where none would have been necessary before.
-- If the injury impacts their ability to move, react quickly, or their fine motor skills, subtract from **DEX**. This frequently is paired with an in-fiction impact as well; broken fingers would impact a PC's ability to pick locks, for example.
-- If the spirit, willpower, or determination of a PC has been impacted, subtract from **WIL**. Especially helpful to consider during magical or superficial injuries. A PC whose soul was burnt by arcane energy may need to make a **WIL** save to read Spellbooks, for example.
+- Jeśli obrażenia wpływają na siłę fizyczną lub zdrowie, odejmij od **SIŁ**. _Sytuacja ta nie powoduje **rzutu na obrażenia krytyczne**_. **SIŁ** jest odzwierciedleniem zdrowia postaci i powinna odzwierciedlać je w subtelny, ale interesujący sposób: być może wymagając **rzutu obronnego** tam, gdzie wcześniej nie był potrzebny.
+- Jeśli obrażenia wpływają na zdolność poruszania się, szybkiego reagowania lub drobne zdolności motoryczne, odejmij od **ZRE**. Często jest to połączone z fikcją - na przykład, złamane palce mogą wpłynąć na zdolność postaci do otwierania zamków.
+- Jeśli duch, siła woli lub determinacja postaci została naruszona, odejmij od **WOL**. Szczególnie przydatne przy magicznych lub powierzchownych obrażeniach. Postać, której dusza została spalona przez magiczną energię, może potrzebować **rzutu obronnego WOL**, aby na przykład przeczytać Księgi Zaklęć.
 
-A few considerations:
-- An injury could take on multiple facets: [**Deprivation**](/cairn-srd/#deprivation--fatigue) may accompany STR loss from poison, for instance. Provide a potential solution to overcoming the illness, as well.
-- Damage should happen as a consequence of failing a **save**. Do not make players **save** after-the-fact.
-- Fictional injuries are just as powerful as direct mechanical damage. **DEX** loss will have an impact on a character's reflexes and speed, but a broken leg may prevent a character from being able to move at all!
+Kilka uwag:
+
+- Obrażenia mogą przybierać różne oblicza: [**Dyskomfort**](./cairn-srd-pl.md#dyskomfort-i-zmęczenie) może towarzyszyć utracie SIŁ od trucizny. W takim przypadku, zaproponuj również potencjalne rozwiązanie na przezwyciężenie choroby.
+- Obrażenia powinny być konsekwencją nieudanego **rzutu obronnego**. Nie zmuszaj graczy do **rzutów obronnych** po fakcie.
+- Obrażenia wynikające z fikcji są tak samo potężne jak bezpośrednie obrażenia mechaniczne. **Utrata ZRE** będzie miała wpływ na refleks i szybkość postaci, ale złamana noga może sprawić, że postać w ogóle nie będzie mogła się poruszać!
 
 </details>
 
@@ -254,37 +255,37 @@ Fikcja powinna zawsze mieć pierwszeństwo przed mechaniką. Czasami szczegóły
 Rozwiń przykład
  </summary>
 
- **Barry**: _"Well, that was a bad idea! How exactly am I going to get back up? Unless... hey, how much can I see into the darkness below?"_
+ **Barry**: _"Cóż, to był zły pomysł! Jak ja się dostanę z powrotem na górę? Chyba że... hej, ile mogę zobaczyć w ciemności poniżej?"_
 
- **Strażnik**: _"There isn't much light here, but something glints in the darkness beneath you. If you had more light, you could perhaps make out what it is."_
+ **Strażnik**: _"Nie ma tu zbyt wiele światła, ale coś błyszczy w ciemności pod Tobą. Gdybyś miał więcej światła, być może udałoby Ci się rozpoznać, co to jest."_
 
- **Esther**: _"Why don't I toss him down my lantern. Does that require a roll?"_
+ **Esther**: _"Może zrzucę mu moją latarnię. Czy to wymaga rzutu kośćmi?"_
 
- **Strażnik**: _"Normally, no. But remember his hand is still somewhat injured from the fall. I'm going to say that he has to roll, since he's also the most at risk."_
+ **Strażnik**: _"Normalnie, nie. Ale pamiętaj, że jego ręka jest zraniona po upadku. Uważam, że musi Barry rzucić, ponieważ jest w niekorzystnej sytuacji."_
 
-**Barry**: _"I rolled a 3. Finally!"_
+**Barry**: _"Wyrzuciłem 3. Nareszcie!"_
 
- **Strażnik**: _"**Barry**, you catch it without issue. Now you get a decent view of the chasm beneath. You see a series of small waterfalls, basins and protruding shelves going all the way down to a rushing river on the bottom. There is even a narrowing of the ravine itself about 50 feet South where you could conceivably leap over to the other side!"_
+ **Strażnik**: _"**Barry**, złapiesz latarnię bez problemu. Teraz masz przyzwoity widok na przepaść pod spodem. Widzisz serię małych wodospadów, niecek i wystających półek, które schodzą aż do rwącej rzeki na dnie. Jest nawet zwężenie wąwozu około 50 stóp na południe, przez które można przeskoczyć na drugą stronę!"_
 
- **Barry**: _"Ha! I knew this was a good idea. But how do we get down there?"_
+ **Barry**: _"Ha! Wiedziałem, że to dobry pomysł. Ale jak się tam dostaniemy?"_
 
- **Strażnik**: _"You can actually slide down the waterfall pouring out from the small pool you're already standing in... it's a short drop, so you aren't in any great danger, even with that hand of yours."_
+ **Strażnik**: _"Możesz zjechać w dół wodospadu wylewającego się z małego basenu, w którym już stoisz... to krótki spadek, więc nie grozi ci wielkie niebezpieczeństwo, nawet z tą twoją ręką."_
 
- **Esther**: _"And how exactly do I get down there, though? Wait, I've got an idea. I can see him, right? What if I were to jump..."_
+ **Esther**: _"A ja, jak się tam dostanę? Czekaj, mam pomysł. Widzę Barry'ego, prawda? A gdybym skoczyła..."_
 
- **Barry**: _"...Am I supposed to catch you? With which hand, exactly?"_
+ **Barry**: _"...Mam cię złapać? Którą ręką?"_
 
- **Esther**: _"Don't be ridiculous. You'll be my landing pad."_
+ **Esther**: _"Nie bądź śmieszny. Będziesz moim lądowiskiem."_
 
- **Strażnik**: _"You should know that you aren't in any terrible danger here since you're actually aiming for the pool, but that doesn't mean it's risk-free. You'll need to hold on to the wall with both hands, and it should be a bumpy ride. Something could pop loose."_
+ **Strażnik**: _"Powinnaś wiedzieć, że nie grozi ci tutaj straszne niebezpieczeństwo, ponieważ celujesz w basen, ale to nie znaczy, że akcja jest wolna od ryzyka. Będziesz musiała trzymać się ściany obiema rękami, a to będzie wyboista jazda. Coś może się nie udać."_
 
- **Esther**: _"OK, my DEX isn't great, but here goes anyways... and I rolled an 13, a fail. See **Barry**? You're not the only one with bad luck around here."_
+ **Esther**: _"OK, moja ZRE nie jest najlepsza, ale i tak spróbuję... i wyrzuciłam 13, porażka. Widzisz, Barry? Nie tylko ty masz pecha."_
 
- **Strażnik**: _"You make it, but the journey down wasn't fun. One item from your pack is knocked loose, so I'm going to roll a Fate die... hey, a lucky 5! OK, you get to choose what falls out."_
+ **Strażnik**: _"Udało ci się, ale droga na dół nie była przyjemna. Jeden przedmiot z twojego plecaka wypadł, więc rzucę Kością Przeznaczenia... hej, szczęśliwa piątka! OK, możesz wybrać, co wypadnie."_
 
- **Esther**: _"If I get to choose what I lose though... how about my remaining torch? Everything else is just too important, and we still have a lantern and oil."_
+ **Esther**: _"Jeśli mogę wybrać co stracę... może moją zapasową pochodnię? Wszystko inne jest zbyt ważne, a my mamy jeszcze latarnię i olej."_
 
- **Strażnik**: _"You hear the small metal shard bounce against the ravine wall, ending in a splash as it lands in the flowing water beneath."_
+ **Strażnik**: _"Słyszysz, jak mały odłamek metalu odbija się od ściany wąwozu, kończąc z pluskiem, gdy ląduje w płynącej na dole wodzie."_
 
 </details>
 
@@ -314,106 +315,106 @@ W **Cairn** preferowany jest _rozwój postaci_ zamiast _podnoszenia poziomów_. 
 Rozwiń przykład
  </summary>
 
-  **Strażnik**: _"Slowly you descend into the near-absolute darkness of the ravine. Your lantern is bright enough to allow safe travel, but also acts as a shining beacon to anyone or anything that might be down here. Fortunately it seems that you are largely alone, at least for now. Eventually the roar of the river below begins to drown out your voices."_
+  **Strażnik**: _"Powoli schodzicie w niemal całkowitą ciemność wąwozu. Twoja latarnia jest na tyle jasna, że pozwala na bezpieczną podróż, ale działa również jako widoczny sygnał dla każdego, kto może być na dole. Na szczęście wygląda na to, że jesteście w dużej mierze sami, przynajmniej na razie. W końcu ryk rzeki poniżej zaczyna zagłuszać wasze głosy."_
 
-  **Esther**: _"Ugh, I have a bad feeling about this. How far down do we have to go?"_
+  **Esther**: _"Mam złe przeczucia. Jak daleko w dół musimy zejść?"_
 
-  **Strażnik**: _"You're just above the riverbed, actually. Carefully placing your feet onto the slick surface, you hold your lantern high and watch as the water glitters, almost in response. You are only a few dozen feet from the shelf you saw earlier as well."_
+  **Strażnik**: _"Jesteście tuż nad korytem rzeki. Ostrożnie stawiasz stopy na śliskiej powierzchni, trzymasz latarnię wysoko i patrzysz, jak woda błyszczy - jakby w odpowiedzi na waszą obecność. Znajdujesz się zaledwie kilkadziesiąt stóp od półki, którą widziałeś wcześniej."_
 
-  **Esther**: _"How dangerous do we think it would be to cross that way?"_
+  **Esther**: _"Jak bardzo niebezpieczne byłoby przejście tą drogą?"_
 
-  **Strażnik**: _"You'll have to jump. The water rushes right beneath, so you'd have a soft landing. The current looks strong as well._
+  **Strażnik**: _"Będziesz musiał skoczyć. Woda płynie tuż pod tobą, więc miałbyś miękkie lądowanie. Prąd też wygląda na silny._
 
-  **Esther**: _"What did you mean before when you said that the river glittered as if in response? I am not prepared to deal with intelligent rivers."_
+  **Esther**: _"Co miałeś na myśli mówiąc, że rzeka błyszczała jakby w odpowiedzi na naszą obecność? Nie jestem przygotowana na kontakt z inteligentnymi rzekami."_
 
-  **Strażnik**: _"You're not totally sure, but it looked like there might be something alive in there. As a former herbalist, you already know about bioluminescent plants."_
+  **Strażnik**: _"Nie jesteś całkowicie pewna, ale wyglądało na to, że może tam być coś żywego. Jako była zielarka, wiesz coś o roślinach bioluminescencyjnych."_
 
-  **Barry**: _"Plants? We can handle plants. Why don't we just wade through the river here?"_
+  **Barry**: _"Rośliny? Poradzimy sobie z roślinami. Dlaczego po prostu nie przejdziemy przez rzekę?"_
 
-  **Esther**: _"Hmm that's might be a good idea. Wait, what about hidden rocks and such?"_
+  **Esther**: _"Hmm, to może być dobry pomysł. Zaraz, a co z ukrytymi skałami i takimi tam?"_
 
-  **Strażnik**: _"You could try, certainly. There don't appear to be a lot of rocks poking out of here that you can see, either."_
+  **Strażnik**: _"Możesz spróbować, na pewno. Nie wydaje się, żeby było tu wiele skał, które można zobaczyć."_
 
-  **Esther**: _"I'll go first this time. You hold the lantern up with your good hand, **Barry**."_
+  **Esther**: _"Tym razem ja pójdę pierwsza. Trzymaj latarnię w górze swoją dobrą ręką, **Barry**."_
 
-  **Barry**: _"Good call. I'll yell out if something leaps out of the river and tries to eat you, too."_
+  **Barry**: _"Dobry pomysł. Będę krzyczeć, jeśli coś wyskoczy z rzeki i spróbuje cię zjeść."_
 
-  **Strażnik**: _"You step into the rushing river. It pulls on your legs, but otherwise you feel strong enough to cross without aide. Slowly you begin your journey; with each step you can see the colorful plants - algae, perhaps - glowing and moving in response to your footsteps. It might also just be the light."_
+  **Strażnik**: _"Wchodzisz do rwącej rzeki. Nurt omal nie zbija Cię z nóg, ale poza tym czujesz się wystarczająco silna, aby przejść bez pomocy. Powoli rozpoczynasz swoją podróż; z każdym krokiem widzisz kolorowe rośliny - być może algi - świecące i poruszające się w odpowiedzi na Twoje kroki. Może to też być po prostu światło."_
 
-  **Esther**: _"Uh... Can I feel them?"_
+  **Esther**: _"Uh... Mogę je poczuć?"_
 
-  **Strażnik**: _"Only the wetness of the river. Perhaps a distant tickling but that could be the reeds. They seem to react to your every movement."_
+  **Strażnik**: _"Tylko wilgoć rzeki. Może jakieś delikatne łaskotanie, mogą to być glony. Zdają się reagować na każdy twój ruch."_
 
-  **Esther**: _"Interesting. If I'm not in any danger though I think I'll press. Does our light allow us to see across the whole river yet?"_
+  **Esther**: _"Interesujące. Jeśli nic mi nie grozi, to chyba jednak pójdę dalej. Czy nasze światło pozwala nam już widzieć całą rzekę?"_
 
-  **Strażnik**: _"Nearly. You are about halfway across when **Barry** sees something moving in the waters ahead. It is jet-black and sleek, like an eel. It is also around 5 feet long."_
+  **Strażnik**: _"Prawie. Jesteście mniej więcej w połowie drogi, kiedy **Barry** dostrzega coś poruszającego się w wodzie przed Tobą. To coś jest czarne i gładkie, jak węgorz. Ma około 5 stóp długości."_
 
-  **Barry**: _"I warn her to pull back."_
+  **Barry**: _"Ostrzegam ją, żeby się wycofała."_
 
-  **Esther**: _"Can I outrun this thing?"_
+  **Esther**: _"Czy uda mi się to wyprzedzić?"_
 
-  **Strażnik**: _"Hmm... You'd have to make a DEX save."_
+  **Strażnik**: _"Hmm... Musiałbyś wykonać rzut na ZRE."_
 
-  **Esther**: _"Sorry **Barry**, I want to see if I can outrun it. We'll figure out how to get you across once I'm on dry land again. OK, here goes... Yes, a 2! I charge across."_
+  **Esther**: _"Przykro mi Barry, chcę zobaczyć, czy uda mi się go wyprzedzić. Pomyślimy, jak cię przeprawić, gdy będę już na suchym lądzie. OK, zaczynamy... Tak, 2! Przechodzę na drugą stronę."_
 
-  **Strażnik**: _"You increase your pace dramatically, sprinting across the water in big splashes. With each leap, your foot disrupts the colorful creatures within. The water begins to roil violently around your ankles. Ahead, the eel-like creature darts away as if in response. You finally arrive at the other bank, the river's water bubbling behind you. As you leap out of the water, some of the bioluminescent substance sticks to your right ankle. Standing up on the dry ground, you seem unable to kick it off. It doesn't hurt you or anything, but feels like its been painted to your ankle."_
+  **Strażnik**: _"Gwałtownie zwiększasz tempo, biegnąc przez wodę z pluskiem. Z każdym skokiem Twoje stopy rozdeptują kolorowe stworzenia w wodzie. Woda zaczyna gwałtownie buzować wokół twoich kostek. Przed tobą, węgorzopodobne stworzenie przyspiesza jakby w odpowiedzi. W końcu docierasz na drugi brzeg, rzeka bulgocze za tobą. Gdy wyskakujesz z wody, część bioluminescencyjnej substancji przykleja się do twojej prawej kostki. Stojąc już na suchej ziemi, próbujesz ją odlepić ale nie jesteś w stanie. Nie boli cię to ani nic, ale masz wrażenie, że zostało twoja kostka została pomalowana."_
 
-  **Esther**: _"Damn! What does it feel like? Also, what do I see on this side of the river?"_
+  **Esther**: _"Cholera! Jakie to uczucie? A także, co widzę po tej stronie rzeki?"_
 
-  **Strażnik**: _"It feels a bit wet, but otherwise like a tattoo on your skin. Like it's a part of you. You are standing on a near-identical bank as the opposite side; you'll have to explore a bit to learn more."_
+  **Strażnik**: _"Jest trochę mokre, ale poza tym jest jak tatuaż na twojej skórze. Jakby to była część Ciebie. Stoisz na prawie identycznym brzegu jak po przeciwnej stronie; będziesz musiała się trochę porozglądać, żeby dowiedzieć się więcej."_
 
-  **Esther**: _"I suppose I can ignore this for now, if it isn't hurting me or anything. **Barry**, how are you going to cross these swirling eel-infested waters? Maybe off that ledge further down?"_
+  **Esther**: _"Chyba mogę to na razie zignorować, skoro mnie nie boli. **Barry**, jak zamierzasz przeprawić się przez te wirujące, pełne węgorzy wody? Może z tego gzymsu dalej w dół?"_
 
-  **Barry**: _"That works. How many torches do you have left? I don't leave you in the dark when I head down there. You could also follow me down a bit, though the light might not be perfect."_
+  **Barry**: _"Może być. Ile pochodni ci zostało? Nie chcę zostawić cię w ciemności, gdy tam zejdę. Możesz też iść za mną kawałek w dół, choć oświetlenie może być słabe."_
 
-  **Esther**: _"I'm all out, unfortunately. But maybe if I follow you I can do something on this end to help you jump that ledge?"_
+  **Esther**: _"Nie mam już pochodni. Ale może, jeśli pójdę za tobą, będę mogła zrobić coś po tej stronie, aby pomóc ci przeskoczyć tę półkę?"_
 
-  **Strażnik**: _"You march in parallel on either sides of the fast-moving river the light from **Barry's** lamp just barely illuminating your way. **Esther**, you are having an especially difficult time as you have to hug the riverbank or avoid stepping into shadows unknown."_
+  **Strażnik**: _"Maszerujecie równolegle po obu stronach szybko płynącej rzeki, a światło lampy **Barry'ego** ledwie oświetla wam drogę. **Esther**, masz kłopoty, ponieważ musisz trzymać się brzegu rzeki żeby unikać wchodzenia w nieznane cienie."_
 
-  **Esther**: _"If I'm close to the river, I'd like to study it some more. Do I still see the swirling bioluminescent plant things?"_
+  **Esther**: _"Jeśli jestem blisko rzeki, chciałabym ją jeszcze trochę zbadać. Czy nadal widzę te wirujące, bioluminescencyjne rośliny?"_
 
-  **Strażnik**: _"Yes, and they seem to be following you. Interestingly, the light from their movement is almost enough to see the into the river."_
+  **Strażnik**: _"Tak, i wydają się za tobą podążać. Co ciekawe, światło z ich ruchu jest prawie wystarczające, aby zobaczyć co się dzieje w rzece."_
 
-  **Barry**: _"That's good. Maybe now you can keep an eye out for any more eels? What about me? What do I see as I trod down this godforsaken ravine?"_
+  **Barry**: _"To dobrze. Może teraz będziesz mogła wypatrywać kolejnych węgorzy? A co ze mną? Co widzę, gdy drepczę w tym zapomnianym przez Boga wąwozie?"_
 
-  **Strażnik**: _"The walls on your side of the river narrow a bit as you get closer to the raised shelf you spied earlier; in fact you begin to feel quite squeezed-in. Fortunately you are scrawny enough to just make it to the shelf, which completely blocks your way forward."_
+  **Strażnik**: _"Ściany po twojej stronie rzeki nieco się zwężają, w miarę jak zbliżasz się do wypatrzonej wcześniej półki; w rzeczywistości zaczynasz czuć się dość ciasno. Na szczęście jesteś na tyle szczupły, że udało Ci się dotrzeć do półki, która całkowicie blokuje Ci drogę."_
 
-  **Esther**: _"What can I see from my side of the river? Am I still forced to hug the riverbank?"_
+  **Esther**: _"Co mogę zobaczyć z mojej strony rzeki? Czy nadal jestem zmuszona trzymać się brzegu rzeki?"_
 
-  **Strażnik**: _"The ravine isn't nearly as narrow from your end, meaning it would be easy to continue on forward from where you are, were you to move away from the light of course. But more importantly, you can see that the shelf used to extend across the river, as there is a mirrored shelf sticking out from the other side as well. There is a massive gap between, though. Perhaps it collapsed at some point in the past? Anyway, **Barry** can try and climb the shelf or enter the river and move around it. At least this time there isn't a slimy waterfall to get around!_
+  **Strażnik**: _"Wąwóz nie jest aż tak wąski od twojej strony, co oznacza, że łatwo byłoby iść dalej z miejsca, w którym się znajdujesz, gdybyś oczywiście oddaliła się od światła. Ale co ważniejsze, widać, że półka rozciągała się kiedyś po drugiej stronie rzeki, gdyż z drugiej strony wystaje lustrzana półka. Pomiędzy nimi jest jednak ogromna przerwa. Może kiedyś się zawaliła? Tak czy inaczej, **Barry** może spróbować wspiąć się na półkę lub wejść do rzeki i poruszać się po niej. Przynajmniej tym razem nie ma oślizgłego wodospadu do obejścia!_
 
-  **Barry**: _"Assuming I can easily scale this thing, I'd say: let's go for it."_
+  **Barry**: _"Zakładając, że mogę się tam łatwo wspiąć, powiedziałbym: zróbmy to."_
 
-  **Strażnik**: _"You mount it with ease after placing your lamp on top and then pulling yourself up. Now you just have to get across."_
+  **Strażnik**: _"Po odstawieniu lampy na półkę, a następnie podciągnięciu się do góry - wdrapujesz się z łatwością. Teraz trzeba się tylko przedostać na drugą stronę."_
 
-  **Barry**: _"Quick question, what is the water like in the exact center of the river where the gap is?"_
+  **Barry**: _"Szybkie pytanie, jak wygląda woda dokładnie na środku rzeki, tam gdzie jest szczelina?"_
 
-  **Strażnik**: _"It's a bit difficult to tell from here, but if you move closer you might get a better look. **Esther** however has been watching the river all the while, and can see that the waters within are moving quite rapidly, in a circular formation."_
+  **Strażnik**: _"Trochę trudno to stwierdzić, ale jeśli podejdziesz bliżej, będziesz mógł się temu lepiej przyjrzeć. **Ester** jednak cały czas obserwuje rzekę i widzi, że woda w niej porusza się dość szybko, w kolisty sposób."_
 
-  **Esther**: _"These are eels right? I bet they're eels. What are my bio-friends doing right now?"_
+  **Esther**: _"To są węgorze, prawda? Założę się, że to węgorze. Co teraz robią moi bio-przyjaciele?"_
 
-  **Strażnik**: _"Looking down into the waters near the shore you see that all of the bioluminescent creatures have fled, almost as if in fear of this part of the river."_
+  **Strażnik**: _"Spoglądając w dół na wodę przy brzegu widzisz, że wszystkie bioluminescencyjne stworzenia uciekły, prawie jakby w obawie przed tą częścią rzeki."_
 
-  **Esther**: _"Hmm... alright, I've got a theory. **Barry**, you should hold the lantern between the gap in the "bridge" and see what happens."_
+  **Esther**: _"Hmm... w porządku, mam teorię. **Barry**, powinieneś przytrzymać latarnię w szczelinie w "moście" i zobaczyć co się stanie."_
 
-  **Barry**: _"Uh, OK. I carefully walk to the middle of the river on the "bridge", then lay down, hanging my lantern over the edge - but only just. I want to be as safe as possible here."_
+  **Barry**: _"No dobrze. Ostrożnie przechodzę na środek rzeki po "moście", po czym kładę się, przewieszając latarnię przez brzeg - ale tylko na chwilę. Chcę być jak najbardziej bezpieczny."_
 
-  **Strażnik**: _"The moment you lower it, a slick black eel leaps into the air and snaps at the lantern with needle-like teeth. You're quick enough to save it, though. The eel splashes back into the water."_
+  **Strażnik**: _"W momencie, gdy ją opuszczasz, czarny węgorz wyskakuje w powietrze i rzuca się na latarnię z zębami przypominającymi igły. Jesteś jednak wystarczająco szybki, by ją uratować. Węgorz z powrotem wpada do wody."_
 
-  **Barry**: _"Wow! That was scary. I'm guessing I'll need to save in order to jump across, right?"_
+  **Barry**: _"Wow! To było straszne. Zgaduję, że będę musiał rzucać kośćmi, żeby przeskoczyć na drugą stronę, prawda?"_
 
-  **Strażnik**: _"Unless you've got a better idea, yes."_
+  **Strażnik**: _"Tak, chyba, że masz lepszy pomysł jak to rozwiązać."_
 
-  **Esther**: _"I have one. Hey **Barry**, why don't you extinguish that light?"_
+  **Esther**: _"Ja mam jeden. Hej **Barry**, dlaczego nie zgasisz tego światła?"_
 
-  **Barry**: _"Done. Now what?"_
+  **Barry**: _"Zrobione. Co teraz?"_
 
-  **Strażnik**: _"You switch off the lantern. Blinking in the darkness, your eyes slowly being to adjust. Suddenly you see a light beginning to glimmer on the far-off shore where **Esther** is standing. It's her ankle; it is lit up like a candle!"_
+  **Strażnik**: _"Gasisz latarnię. Mrugając w ciemności, powoli przystosowujesz oczy do ciemności. Nagle widzisz, że na odległym brzegu, na którym stoi **Esther**, zaczyna migotać światło. To jej kostka, świeci się jak świeca!"_
 
-  **Esther**: _"Wait, can I make light now? Am I a human torch?"_
+  **Esther**: _"Zaraz, czy mogę teraz wydzielać światło? Czy jestem ludzką pochodnią?"_
 
-  **Strażnik**: _"In complete darkness, yes. Let's hope you don't to go sneaking around in the dark anytime soon."_
+  **Strażnik**: _"W zupełnej ciemności, tak. Miejmy nadzieję, że w najbliższym czasie nie będziesz się skradała po ciemku."_
 
-  **Barry**: _"Well, this is cool. So the eels like the light, right? This gives me an idea..."_
+  **Barry**: _"No, to jest fajne. Więc węgorze lubią światło, tak? Mam pewien pomysł..."_
 
 </details>
