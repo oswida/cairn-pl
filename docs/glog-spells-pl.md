@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Zaklęcia GLOG
-parent: Reguły
+parent: Dokumenty
 ---
 
 # Zaklęcia GLOG

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Magia GLOG
-parent: Reguły
+parent: Dokumenty
 ---
 
 # Magia GLOG

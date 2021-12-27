@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQs
-parent: Reguły
+parent: Dokumenty
 ---
 
 # Najczęściej zadawane pytania
@@ -293,7 +293,7 @@ Rozwiń przykład
 
 W **Cairn** preferowany jest _rozwój postaci_ zamiast _podnoszenia poziomów_. Oznacza to, że chociaż postać się zmienia, to niekoniecznie z czasem staje się _lepsza_. Rozwój następuje zarówno przez mechaniczne środki (takie jak [**Blizny**](./cairn-srd-pl.md#tabela-blizn)), jak i przez wydarzenia dziejące się wyłącznie w fikcji.
 
-**Przy niemechanicznym rozwoju postaci, Strażnik powinien wziąć pod uwagę następujące kwestie:**\
+**Przy niemechanicznym rozwoju postaci, Strażnik powinien wziąć pod uwagę następujące kwestie:**
 
 - Rozwój powinien być związany z _konkretnym_ doświadczeniem występującym w fikcji.
 - Ważniejsze jest  aby postać stawała się bardziej _interesująca_ niż bardziej wykwalifikowana czy zdolna.

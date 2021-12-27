@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modułowe zasady i procedury
-parent: Reguły
+parent: Dokumenty
 ---
 
 # Modułowe zasady i procedury dla Cairn

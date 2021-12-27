@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SRD
-parent: Reguły
+parent: Dokumenty
 ---
 
 # Dokument referencyjny systemu Cairn (wersja 1.0)
