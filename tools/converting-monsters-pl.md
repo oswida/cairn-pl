@@ -52,7 +52,9 @@ Poniższa tabela oferuje zasady konwersji **ML** na **WOL**.
 Jest wiele sposobów, aby to zrobić, niemniej warto być konsekwentnym! W Cairn zapisuję to tak:
 
 ---
-**Nazwa**
+
+#### Nazwa
+
 X OCHR, X Pancerza, X SIŁ, X ZRE, X WOL, Broń (kX, _cechy_), przedmioty specjalne
 
 - Opis wyglądu lub zachowania

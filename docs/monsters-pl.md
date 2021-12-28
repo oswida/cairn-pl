@@ -5,7 +5,7 @@ parent: Dokumenty
 ---
 # Akolita
 
-`4 OCHR, 1 Pancerza, 14 WOL, maczuga (k6), święty symbol (_Krąg ochronny_ raz dziennie)`  
+4 OCHR, 1 Pancerza, 14 WOL, maczuga (k6), święty symbol (_Krąg ochronny_ raz dziennie)  
 
 - Święci mężczyźni i kobiety wykonujący zadania lub poszukujący swojego bóstwa.  
 - Zazwyczaj podróżują w grupach po 4 osoby.  
@@ -14,7 +14,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 # Ankheg
 
-`7 OCHR, 2 Pancerza, 16 SIŁ, 8 WOL, zęby (k8)`
+7 OCHR, 2 Pancerza, 16 SIŁ, 8 WOL, zęby (k8)
 
 - Ogromne insektoidy z wieloma nogami i błyszczącymi czarnymi oczami.
 - Zagrzebują się tuż pod powierzchnią ziemi, aby zasadzać się na chodzące nad nimi stworzenia.  
@@ -24,7 +24,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 # Małpa, Biała
 
-`5 OCHR, 14 SIŁ, pazury (k6+k6)`
+5 OCHR, 14 SIŁ, pazury (k6+k6)
 
 - Goryle albinosy o nocnym cyklu życia.
 - Bronią swojego terytorium za pomocą gróźb, a następnie przemocy.  
@@ -34,7 +34,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 # Bandyta
 
-`4 OCHR, 14 ZRE, sztylet (k6)`
+4 OCHR, 14 ZRE, sztylet (k6)
 
 - Złodzieje, którzy cenią pieniądze ponad wszystko.  
 - Używają przebrań, skradania się i podstępu, aby zaskoczyć swe ofiary.  
@@ -43,27 +43,31 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 # Banshee
 
-`7 OCHR, 3 Pancerza, 6 SIŁ, 12 ZRE,  14 WOL, ghostly touch (k8)`
+7 OCHR, 3 Pancerza, 6 SIŁ, 12 ZRE,  14 WOL, upiorny dotyk (k8)
 
-- Incorporeal feminine spirits that lingered after death and haunt the living.  
-- Unharmed by cold, heat, or the elements.  
-- Critical damage: Their wailing freezes the victim’s soul (k8 WOL damage).  
-
-autor: [xenio](https://xenioinabottle.blogspot.com)
-
-# Basilisk
-6 OCHR, 12 SIŁ, 13 ZRE, zęby (k10)  
-- Long, magical, serpentine lizards that dwell in caverns.  
-- Anyone who looks directly at them starts to get petrified.  
-- Critical damage: the victim gets petrified (k8+k8 ZRE damage).  
+- Bezcielesne duchy kobiece, które pozostają w naszym świecie po śmierci i nawiedzają żywych.
+- Odporne na zimno, gorąco i żywioły.
+- Obrażenia krytyczne: ich lament mrozi duszę ofiary (obrażenia k8 WOL).
 
 autor: [xenio](https://xenioinabottle.blogspot.com)
 
-# Bat, Vampire
+# Bazyliszek
+
+6 OCHR, 12 SIŁ, 13 ZRE, zęby (k10)
+
+- Długie, magiczne, wężowate jaszczurki zamieszkujące jaskinie.
+- Każdy, kto patrzy bezpośrednio na bazyliszka, zaczyna zamieniać się w kamień.
+- Obrażenia krytyczne: ofiara zostaje zamieniona w kamień (obrażenia k8+k8 ZRE).  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)
+
+# Nietoperz, wampir
+
 3 OCHR, 8 SIŁ, zęby (k8)  
-- Big, flying mammals with nocturnal habits that nest in caves.  
-- Unaffected by darkness or blinding effects, blinded by magical silence or constant loud noises.  
-- Recover 1d4 OCHR after biting a victim that has blood.  
+
+- Duże, latające ssaki o nocnych trybie życia, gniazdują w jaskiniach.  
+- Niewrażliwy na ciemność ani efekty zaburzające widzenie, oślepiany magiczną ciszą lub ciągłymi głośnymi dźwiękami.  
+- Odzyskuje 1k4 OCHR po ugryzieniu ofiary i wypiciu jej krwi.
 
 autor: [xenio](https://xenioinabottle.blogspot.com)
 
