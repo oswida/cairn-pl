@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Zbuduj lokację do przygody
+title: Budowanie lokacji do przygody
 nav_order: 1
 parent: Narzędzia
 ---
 
-# Zbuduj lokację do przygody
+# Budowanie lokacji do przygody
 
 ## Wybierz motyw przewodni
 
