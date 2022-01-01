@@ -28,4 +28,3 @@ parent: Moduły
 1. Posłaniec
 1. Pasterz
 1. Piwowar
-
