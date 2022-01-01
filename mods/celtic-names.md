@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Imiona
+title: Inny świat - imiona
 parent: Moduły
 ---
 
-# Imiona celtyckie
+# Inny świat: imiona
 
 ## Żeńskie (2k20)
 
@@ -96,3 +96,8 @@ Kultury celtyckie używały systemu imion odojcowskich czyli tworzonych od imien
 
 - *mac*, *mab* lub *ap*  w przypadku postaci męskiej (przedrostek oznacza *syn*)
 - *nic*, *verch* lub *ferch* w przypadku postaci żeńskiej (*córka*)
+
+Przykłady:
+
+- Fáelán syn Briana będzie zatem wyglądał tak *Fáelán ap Brian* lub *Fáelán mac Brian*
+- Glenn córka Cynwriga to: *Glenn verch Cynwrig* albo *Glenn nic Cynwrig*

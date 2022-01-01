@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Bestiariusz celtycki
+title: Inny świat - bestiariusz
 parent: Moduły
 ---
 
-# Bestiariusz celtycki
+# Inny świat - bestiariusz
