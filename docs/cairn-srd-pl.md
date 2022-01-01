@@ -806,7 +806,7 @@ Kiedy atak zredukuje OCHR postaci dokładnie do 0, postać zostaje nieodwracalni
 
 ## Bestiariusz
 
-**Goblin korzenny**  
+**Goblin korzeniowy**  
 4 OCHR, 8 SIŁ, 14 ZRE, 8 WOL, włócznia (k6)
 
 - Unikają walki, chyba że mają przewagę (np. większą liczebność).
@@ -819,7 +819,7 @@ Kiedy atak zredukuje OCHR postaci dokładnie do 0, postać zostaje nieodwracalni
 - Strażnicy Lasu - kult, który czerpie swoją moc z linii granicznych, kamieni runicznych i tym podobnych.
 - Obrażenia krytyczne: wysysa część duszy ofiary (1k4 obrażeń WOL).
 
-**Brukowe ogary**  
+**Kamienne ogary**  
 12 OCHR, 2 Pancerz, 14 SIŁ, 1 ZRE, 8 WOL, gryzienie (k10)
 
 - Nieruchome konstrukty zwykle używane jako strażnicy wielkich grobowców lub artefaktów.
