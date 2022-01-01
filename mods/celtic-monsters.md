@@ -5,4 +5,3 @@ parent: Moduły
 ---
 
 # Bestiariusz celtycki
-
