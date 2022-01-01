@@ -808,6 +808,7 @@ Kiedy atak zredukuje OCHR postaci dokładnie do 0, postać zostaje nieodwracalni
 
 **Goblin korzeniowy**  
 4 OCHR, 8 SIŁ, 14 ZRE, 8 WOL, włócznia (k6)
+{: .stat-block }
 
 - Unikają walki, chyba że mają przewagę (np. większą liczebność).
 - Strzegą swoich skradzionych dóbr nawet za cenę życia.
@@ -815,30 +816,35 @@ Kiedy atak zredukuje OCHR postaci dokładnie do 0, postać zostaje nieodwracalni
 
 **Mężczyźni w kapturach**  
 12 OCHR, 9 SIŁ, 12 ZRE, 14 WOL, laska (k8), księga zaklęć (Wybierz jedno: _Urok, Hipnoza, Pchanie/Ciągnięcie, Tarcza_)
+{: .stat-block }
 
 - Strażnicy Lasu - kult, który czerpie swoją moc z linii granicznych, kamieni runicznych i tym podobnych.
 - Obrażenia krytyczne: wysysa część duszy ofiary (1k4 obrażeń WOL).
 
 **Kamienne ogary**  
 12 OCHR, 2 Pancerz, 14 SIŁ, 1 ZRE, 8 WOL, gryzienie (k10)
+{: .stat-block }
 
 - Nieruchome konstrukty zwykle używane jako strażnicy wielkich grobowców lub artefaktów.
 - Niewrażliwy na przyziemne techniki perswazji - ale uwielbia dobrą kość.
 
-**Troll Drzewny**
+**Troll Drzewny**  
 12 OCHR, 15 SIŁ, 12 ZRE, 7 WOL, pazury i gryzienie (k8+k8 Podmuch)
+{: .stat-block }
 
 - Jako akcja, może odzyskać utracone OCHR.
 - Obrażenia krytyczne: z ran celu zaczynają wyrastać mchy i gałązki.
 
 **Mroźny Elf**  
 14 OCHR, 1 Pancerz, 8 SIŁ, 13 ZRE, 14 WOL, sztylet z sopli (k6), księga zaklęć (wybierz jeden: _Sen, Teleportacja, Wykrywanie magii)_
+{: .stat-block }
 
 - Piękne, amoralne i długowieczne.
 - Odporny na większość form magii.
 
 **Bogin**  
 3 OCHR, 4 SIŁ, 17 ZRE, 13 WOL
+{: .stat-block }
 
 - Dziki, włochaty oszust, który czerpie przyjemność z utrudniania życia innym.
 - Ceni artefakty i błyszczące bibeloty, ale nie chce wymieniać ich na monety.
@@ -848,8 +854,9 @@ Kiedy atak zredukuje OCHR postaci dokładnie do 0, postać zostaje nieodwracalni
 
 Użyj poniższego szablonu, aby zdefiniować bardziej wyrafinowanego potwora lub NPC:
 
-**Imię/nazwa**
+**Imię/nazwa**  
 X OCHR, X Pancerz, X SIŁ, X ZRE, X WOL, Broń (kX, przedmioty specjalne, cechy)
+{: .stat-block }
 
 - Opis wyglądu lub zachowania
 - Cecha, taktyka lub osobliwość, która czyni tę kreaturę wyjątkową
@@ -863,7 +870,7 @@ Punkty zdolności: 3 ubogi/niedostateczny, 6 słaby, 10 średni, 14 godny uwagi,
 - Użyj obrażeń krytycznych, aby uwypuklić zagrożenie lub obcość agresywnego BN.
 - Pamiętaj, że OCHR jest  **Ochroną przed trafieniem** , a nie punktami życia. To miara odporności, szczęścia i sprytu – nie zdrowia.
 
-**Konwersja z gier OSR**
+**Konwersja z gier OSR**  
 
 - Daj 1 OCHR za HD dla większości stworzeń.
 - Większość humanoidów ma co najmniej 4 OCHR.

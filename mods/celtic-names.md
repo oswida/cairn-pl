@@ -6,89 +6,41 @@ parent: Moduły
 
 # Inny świat: imiona
 
-## Żeńskie (2k20)
+## Żeńskie
 
-2. Aelwen
-1. Áine
-1. Alienor
-1. Bettrys
-1. Boadicea
-1. Brieuc
-1. Carys
-1. Delyth
-1. Dilys
-1. Ebrel
-1. Eiddwen
-1. Eira
-1. Eseld
-1. Gaelle
-1. Glenn
-1. Glynis
-1. Gwen
-1. Gwynneth
-1. Hyledd
-1. Luigsech
-1. Lleulu
-1. Mairead
-1. Maelle
-1. Margaid
-1. Megane
-1. Meraud
-1. Merryn
-1. Moira
-1. Morag
-1. Morvana
-1. Morgelyn
-1. Nerys
-1. Nolwenn
-1. Owena
-1. Rowena
-1. Seren
-1. Ujana
-1. Valda
-1. Wynne
+| 2k20 | Imię     | 2k20 | Imię     | 2k20 | Imię     |
+| ---- | -------- | ---- | -------- | ---- | -------- |
+| 2    | Aelwen   | 15   | Gaelle   | 28   | Merryn   |
+| 3    | Áine     | 16   | Glenn    | 29   | Moira    |
+| 4    | Alienor  | 17   | Glynis   | 30   | Morag    |
+| 5    | Bettrys  | 18   | Gwen     | 31   | Morvana  |
+| 6    | Boadicea | 19   | Gwynneth | 32   | Morgelyn |
+| 7    | Brieuc   | 20   | Hyledd   | 33   | Nerys    |
+| 8    | Carys    | 21   | Luigsech | 34   | Nolwenn  |
+| 9    | Delyth   | 22   | Lleulu   | 35   | Owena    |
+| 10   | Dilys    | 23   | Mairead  | 36   | Rowena   |
+| 11   | Ebrel    | 24   | Maelle   | 37   | Seren    |
+| 12   | Eiddwen  | 25   | Margaid  | 38   | Ujana    |
+| 13   | Eira     | 26   | Megane   | 39   | Valda    |
+| 14   | Eseld    | 27   | Meraud   | 40   | Wynne    |
 
-## Męskie (2k20)
+## Męskie
 
-2. Áed
-1. Áedán
-1. Áedh
-1. Arthmael
-1. Bradán
-1. Brian
-1. Cadeyrn
-1. Caiside
-1. Caomh
-1. Caratacos
-1. Conchobar
-1. Cynbel
-1. Cynwrig
-1. Donnchad
-1. Donndubhán
-1. Drest
-1. Drustan
-1. Dubhshláine
-1. Dubhthach
-1. Elisedd
-1. Eógan
-1. Fáelán
-1. Fedelmid
-1. Galchobhar
-2. Lóegaire
-3. Llywelyn
-4. Máedóc
-5. Máel Máedóc
-6. Máel Sechlainn
-7. Mochán
-8. Morcant
-9. Nechtan
-10. Ninian
-11. Nuallán
-12. Nynniaw
-13. Óengus
-14. Ruaidrí
-15. Seisyll
-16. Suibhne
+| 2k20 | Imię      | 2k20 | Imię        | 2k20 | Imię           |
+| ---- | --------- | ---- | ----------- | ---- | -------------- |
+| 2    | Áed       | 15   | Donnchad    | 28   | Máedóc         |
+| 3    | Áedán     | 16   | Donndubhán  | 29   | Máel Máedóc    |
+| 4    | Áedh      | 17   | Drest       | 30   | Máel Sechlainn |
+| 5    | Arthmael  | 18   | Drustan     | 31   | Mochán         |
+| 6    | Bradán    | 19   | Dubhshláine | 32   | Morcant        |
+| 7    | Brian     | 20   | Dubhthach   | 33   | Nechtan        |
+| 8    | Cadeyrn   | 21   | Elisedd     | 34   | Ninian         |
+| 9    | Caiside   | 22   | Eógan       | 35   | Nuallán        |
+| 10   | Caomh     | 23   | Fáelán      | 36   | Nynniaw        |
+| 11   | Caratacos | 24   | Fedelmid    | 37   | Óengus         |
+| 12   | Conchobar | 25   | Galchobhar  | 38   | Ruaidrí        |
+| 13   | Cynbel    | 26   | Lóegaire    | 39   | Seisyll        |
+| 14   | Cynwrig   | 27   | Llywelyn    | 40   | Suibhne        |
 
 ## Nazwiska
 
