@@ -40,3 +40,16 @@ h4,
 .nav-list .nav-list-item .nav-list-link {
   font-size: 1rem;
 }
+
+/* Stat blocks */
+
+.stat-block {
+  text-align: left;
+  margin: 5px;
+  display: inline-block;
+  vertical-align: middle;
+  border-bottom: 1px solid #7253ed33;
+  padding: 10px 5px 5px 5px;
+  background-color: adjust-color($alpha: 0.5);
+  box-shadow: 0px 15px 10px -15px #7253ed55;
+}

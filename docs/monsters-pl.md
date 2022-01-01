@@ -7,26 +7,31 @@ parent: Dokumenty
 
 ## Akolita
 
-4 OCHR, 1 Pancerza, 14 WOL, maczuga (k6), święty symbol (_Krąg ochronny_ raz dziennie)  
+4 OCHR, 1 Pancerza, 14 WOL, maczuga (k6), święty symbol (_Krąg ochronny_ raz dziennie)
+{: .stat-block }
+
 
 - Święci mężczyźni i kobiety wykonujący zadania lub poszukujący swojego bóstwa.  
-- Zazwyczaj podróżują w grupach po 4 osoby.  
+- Zazwyczaj podróżują w grupach po 4 osoby.
 
 autor: [xenio](https://xenioinabottle.blogspot.com)
 
 ## Ankheg
 
 7 OCHR, 2 Pancerza, 16 SIŁ, 8 WOL, zęby (k8)
+{: .stat-block }
 
 - Ogromne insektoidy z wieloma nogami i błyszczącymi czarnymi oczami.
 - Zagrzebują się tuż pod powierzchnią ziemi, aby zasadzać się na chodzące nad nimi stworzenia.  
 - Pryska kwasem na oddalonych wrogów, zadając k10 obrażeń.  
+
 
 autor: [xenio](https://xenioinabottle.blogspot.com)
 
 ## Małpa, Biała
 
 5 OCHR, 14 SIŁ, pazury (k6+k6)
+{: .stat-block }
 
 - Goryle albinosy o nocnym cyklu życia.
 - Bronią swojego terytorium za pomocą gróźb, a następnie przemocy.  
@@ -37,6 +42,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 ## Bandyta
 
 4 OCHR, 14 ZRE, sztylet (k6)
+{: .stat-block }
 
 - Złodzieje, którzy cenią pieniądze ponad wszystko.  
 - Używają przebrań, skradania się i podstępu, aby zaskoczyć swe ofiary.  
@@ -46,6 +52,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 ## Banshee
 
 7 OCHR, 3 Pancerza, 6 SIŁ, 12 ZRE,  14 WOL, upiorny dotyk (k8)
+{: .stat-block }
 
 - Bezcielesne duchy kobiece, które pozostają w naszym świecie po śmierci i nawiedzają żywych.
 - Odporne na zimno, gorąco i żywioły.
@@ -56,6 +63,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 ## Bazyliszek
 
 6 OCHR, 12 SIŁ, 13 ZRE, zęby (k10)
+{: .stat-block }
 
 - Długie, magiczne, wężowate jaszczurki zamieszkujące jaskinie.
 - Każdy, kto patrzy bezpośrednio na bazyliszka, zaczyna zamieniać się w kamień.
@@ -65,7 +73,8 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 ## Nietoperz, wampir
 
-3 OCHR, 8 SIŁ, zęby (k8)  
+3 OCHR, 8 SIŁ, zęby (k8)
+{: .stat-block } 
 
 - Duże, latające ssaki o nocnych trybie życia, gniazdują w jaskiniach.  
 - Niewrażliwy na ciemność ani efekty zaburzające widzenie, oślepiany magiczną ciszą lub ciągłymi głośnymi dźwiękami.  
@@ -76,6 +85,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 ## Niedźwiedź, czarny
 
 5 OCHR, 14 SIŁ, pazury (k6)
+{: .stat-block }
 
 - Prawie dwumetrowe niedźwiedzie, żywiące się głównie jagodami i korzeniami.  
 - Atakują tylko wtedy, gdy są w potrzasku lub chronią młode.  
@@ -85,7 +95,8 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 ## Niedźwiedź, jaskiniowy
 
-8 OCHR, 17 SIŁ, pazury (k10)  
+8 OCHR, 17 SIŁ, pazury (k10)
+{: .stat-block }
 
 - Groźne, wysokie na 4,5 metra niedźwiedzie mięsożerne, które mieszkają w jaskiniach.  
 - Mają słaby wzrok, ale tropią za pomocą węchu. Podążają za śladami krwi.  
@@ -95,7 +106,8 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 ## Niedźwiedź , grizzly
 
-6 OCHR, 15 SIŁ, pazury (k8)  
+6 OCHR, 15 SIŁ, pazury (k8)
+{: .stat-block }
 
 - Agresywne, wysokie na 2,5 metra niedźwiedzie o czerwono-brązowym futrze, które żyją w górach. Najchętniej jedzą mięso.
 - Często spotyka się je śpiące.
@@ -105,6 +117,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 ## Niedźwiedź, polarny
 
 7 OCHR, 16 SIŁ, pazury (k8)
+{: .stat-block }
 
 - Wysokie na 3 metry niedźwiedzie o białej sierści, które żyją w zimnych regionach. Jedzą głównie ryby.  
 - Świetnie pływają.  
@@ -115,6 +128,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 ## Żuk, ognisty
 
 2 OCHR, 4 SIŁ, 12 ZRE, 6 WOL, zęby (k4)
+{: .stat-block }
 
 - Metrowej długości żuki powszechnie występujące pod ziemią.  
 - Emituje światło przez gruczoły znajdujące się w brzuchu i nad oczami.  
@@ -124,6 +138,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 ## Żuk, tygrysi
 
 3 OCHR, 6 SIŁ, 12 ZRE, 6 WOL, zęby (k6)
+{: .stat-block }
 
 - Pasiaste chrząszcze o długości 1,2 metra, z silnymi żuchwami.  
 - Zjada inne mniejsze stworzenia, ale czasami poluje na ludzi. 
@@ -133,6 +148,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 ## Berserker
 
 4 OCHR, 1 Pancerza, 14 SIŁ, topór bojowy (k10, nieporęczny)
+{: .stat-block }
 
 - Plemienni wojownicy, którzy walczą nie bacząc na niebezpieczeństwo i nigdy nie biorą jeńców.  
 - Potrafią wpaść w szał bitewny, zwiększając wszystkie zadawane i otrzymywane obrażenia (atak i obrażenia wzmocnione).  
@@ -141,7 +157,8 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 ## Czarny Pudding (Kaszanka?, Black Pudding)
 
-10 OCHR, 5 ZRE, pochłaniający dotyk (k8)  
+10 OCHR, 5 ZRE, pochłaniający dotyk (k8)
+{: .stat-block }
 
 - Ogromne, bezmózgie plamy czarnej galarety ogarnięte niepohamowanym głodem.
 - Zranić je może tylko płomień.  
@@ -152,6 +169,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 ## Pies migotek? (Blink Dog)
 
 3 OCHR, 14 ZRE, zęby (k6)
+{: .stat-block }
 
 - Inteligentne, nadnaturalne psy, które żyją w stadach.  
 - Mogą teleportować się w mgnieniu oka tuż po ataku.  
@@ -161,6 +179,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 ## Krwawy łoś
 
 4 OCHR, 12 SIŁ, 13 ZRE, 5 WOL, horns (k8)
+{: .stat-block }
 
 - Zrodzony z chciwego, egoistycznego działania.
 - Atakuje i zabija, aby zjeść mięso, ale nie zaspokaja w ten sposób głodu.
@@ -171,6 +190,7 @@ autor: [Yochai Gal](https://newschoolrevolution.com)
 ## Dzik
 
 3 OCHR, 12 SIŁ, 6 WOL, kły (k6)
+{: .stat-block }
 
 - Wszystkożerne dziki, które zamieszkują głównie lasy.
 - Nie jest naturalnie agresywny, ale może być niebezpieczny jeśli zakłócisz mu spokój.
@@ -179,7 +199,8 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 ## Bogin
 
-3 OCHR, 4 SIŁ, 17 ZRE, 13 WOL  
+3 OCHR, 4 SIŁ, 17 ZRE, 13 WOL
+{: .stat-block }
 
 - Dziki, włochaty oszust, który czerpie przyjemność z utrudniania życia innym.
 - Ceni artefakty i błyszczące bibeloty, ale nie chce wymieniać ich na monety.
@@ -190,6 +211,7 @@ source: [SRD](./cairn-srd-pl.md#bestiariusz)
 ## Rozbójnik
 
 4 OCHR, 1 Pancerza, shortsword (k6) or short bow (k6)
+{: .stat-block }
 
 - Banici i najemnicy, którzy napadają na osady i zasadzają się na podróżnych.  
 - Podróżują w dużych grupach, składających się z co najmniej jednego oddziału.  
@@ -200,6 +222,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 ## Korsarz
 
 4 OCHR, 14 ZRE, 12 WOL, bułat (k6)
+{: .stat-block }
 
 - Wyjęci spod prawa marynarze, którzy napadają na przybrzeżne osady i abordażują inne statki.  
 - Podróżują z dużymi załogami, walcząc tylko wtedy, gdy mają dużą przewagę liczebną.  
@@ -208,7 +231,8 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 ## Postrach
 
-4 OCHR, 1 Pancerza, 14 ZRE, pałka (k8, nieporęczna)  
+4 OCHR, 1 Pancerza, 14 ZRE, pałka (k8, nieporęczna)
+{: .stat-block } 
 
 - Duże, owłosione, goblinopodobne stworzenia.  
 - Zazwyczaj skradają się, aby zaskoczyć i zaatakować swoje ofiary.  
@@ -217,7 +241,8 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 ## Wielbłąd
 
-3 OCHR, 15 SIŁ, zęby (k6)  
+3 OCHR, 15 SIŁ, zęby (k6)
+{: .stat-block }
 
 - Zwierzęta juczne pochodzące z suchych krain.
 - Po odpowiednim napojeniu może tygodniami obywać się bez wody.  
@@ -227,7 +252,8 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 ## Kot, Lew
 
-5 OCHR, 12 SIŁ, 12 ZRE, zęby (k10)  
+5 OCHR, 12 SIŁ, 12 ZRE, zęby (k10)
+{: .stat-block }
 
 - Poluje w grupach. Żyją na sawannach lub innych podobnych suchych terenach.  
 - Mięsożerne. Preferuje bydło, ale może też upolować człowieka.  
@@ -237,7 +263,8 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 ## Kot, Pantera
 
-4 OCHR, 14 ZRE, zęby (k8)  
+4 OCHR, 14 ZRE, zęby (k8)
+{: .stat-block }
 
 - Koty o ciemnym futrze, które żyją w lasach i na równinach.
 - Poluje na średniej i małej wielkości zwierzęta, wykorzystując swoją szybkość.  
@@ -246,7 +273,8 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 ## Kot, tygrys szablozębny
 
-8 OCHR, SIŁ 15, zęby (k10)  
+8 OCHR, SIŁ 15, zęby (k10)
+{: .stat-block }
 
 - Ogromne, agresywne koty z kłami długimi na stopę.  
 - Niezwykle rzadki, zazwyczaj występuje w regionach nietkniętych przez cywilizację. 
@@ -255,7 +283,8 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 ## Kot, tygrys
 
-6 OCHR, 14 SIŁ, 14 ZRE, zęby (k8)  
+6 OCHR, 14 SIŁ, 14 ZRE, zęby (k8)
+{: .stat-block }
 
 - Duże koty o prążkowanym futrze. Żyją w lasach i chłodniejszych regionach.  
 - Polują samotnie, wykorzystując swoje ubarwienie do kamuflażu i zaskakiwania swoich ofiar.  
@@ -299,13 +328,15 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 autor: [xenio](https://xenioinabottle.blogspot.com) 
 
-## Cobblehounds
-12 OCHR, 2 Pancerza, 14 SIŁ, 1 ZRE, 8 WOL, zęby (k10)  
-- Immobile constructs typically used as guardians to great tombs or artifacts.   
-- Unaffected by mundane persuasion techniques - but do love a good bone.   
+## Kamienne ogary
+
+12 OCHR, 2 Pancerza, 14 SIŁ, 1 ZRE, 8 WOL, zęby (k10)
+
+- Immobile constructs typically used as guardians to great tombs or artifacts.
+- Unaffected by mundane persuasion techniques - but do love a good bone.
 
 source: [SRD](/cairn-srd##Bestiary)
- 
+
 ## Cockatrice
 5 OCHR, 8 SIŁ, 12 ZRE, beak (k6)  
 - Small, hybrid creatures resembling chickens with reptilian features.  
