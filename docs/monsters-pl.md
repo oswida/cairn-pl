@@ -889,37 +889,41 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 - Łaknie mięsa żywych, a z każdą ofiarą staje się coraz potężniejszy.
 - Obrażenia krytyczne: cel zostaje unieruchomiony. Rana staje się śmiertelna w ciągu 1k6 godzin, jeśli nie zostanie opatrzona przez kapłana lub wykwalifikowanego uzdrowiciela. Przemieniona ofiara zmartwychwstanie jako Ghul jeśli nie zostanie spalona.
 
-## Giant Catfish
+## Sum gigant
 
 8 OCHR, 14 SIŁ, zęby (k8+k8)  
+{: .stat-block }
 
-- Pale, 15’ long fish that lurk in the mud at the bottom of lakes and rivers.  
-- Attack creatures that swim above their hiding spot.  
-
-autor: [xenio](https://xenioinabottle.blogspot.com)
-
-## Giant, Cloud
-
-12 OCHR, 1 Pancerza, 19 SIŁ, 12 ZRE, 18 WOL, morningstar(k8+k8)  
-
-- 20’ tall humanoids with hair and skin in tones of grey and white. House in castles built atop the highest mountains or floating in cloud banks.  
-- Cannot be surprised due to its keen sight and smell senses.  
-- Can envelop itself in a wind aura, impairing missile attacks.  
+- Blade, długie na 4,5 metra ryby, które czają się w mule na dnie jezior i rzek.  
+- Atakują stworzenia, które pływają w pobliżu ich kryjówki.  
 
 autor: [xenio](https://xenioinabottle.blogspot.com)
 
-## Giant Electric Eel
+## Gigant chmurowy
+
+12 OCHR, 1 Pancerza, 19 SIŁ, 12 ZRE, 18 WOL, morgensztern (k8+k8)  
+{: .stat-block }
+
+- Wysokie na 6 metrów humanoidy o włosach i skórze w odcieniach szarości i bieli. Mieszkają w zamkach zbudowanych na szczytach najwyższych gór lub unoszących się w ławicach chmur.
+- Dzięki doskonałym zmysłom wzroku i węchu nie da się zaskoczyć.  
+- Potrafi otoczyć się aurą wiatru, *osłabiając* ataki za pomocą pocisków.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)
+
+## Węgorz elektryczny, gigantyczny
 
 2 OCHR, 12 ZRE, zęby (k6)  
+{: .stat-block }
 
-- 9’ long eels that live in warm, clear water.  
-- Able to emit an electric shock, damaging all in the nearby water for k10.  
+- Węgorze o długości niemal 3 metrów, które żyją w ciepłej, przejrzystej wodzie.  
+- Potrafi wyemitować prąd, porażając wszystkich w pobliskiej wodzie za k10.  
 
 autor: [xenio](https://xenioinabottle.blogspot.com)
 
-## Giant, Fire
+## Gigant ogniowy
 
-11 OCHR, 3 Pancerza, 17 SIŁ, 8 ZRE, greatsword (k10+k10)  
+11 OCHR, 3 Pancerza, 17 SIŁ, 8 ZRE, wielki miecz (k10+k10)  
+{: .stat-block }
 
 - 16’ tall humanoids with red hair and charcoal skin. Wear heavy Pancerza made of brass, bronze or copper. Dwell in fortresses built near volcanoes.  
 - Masters of craft and war, know how to forge the finest weaponry.  
