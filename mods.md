@@ -2,6 +2,7 @@
 layout: default
 title: Moduły
 nav_order: 5
+visible: false
 ---
 # Moduły
 

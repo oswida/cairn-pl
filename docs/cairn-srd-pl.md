@@ -832,8 +832,8 @@ Kiedy atak zredukuje OCHR postaci dokładnie do 0, postać zostaje nieodwracalni
 12 OCHR, 15 SIŁ, 12 ZRE, 7 WOL, pazury i gryzienie (k8+k8 Podmuch)
 {: .stat-block }
 
-- Jako akcja, może odzyskać utracone OCHR.
-- Obrażenia krytyczne: z ran celu zaczynają wyrastać mchy i gałązki.
+- Zużywając jedną akcję, może odzyskać utracone punkty OCHR.
+- Obrażenia krytyczne: z ran ofiary zaczynają wyrastać mchy i gałązki.
 
 **Mroźny Elf**  
 14 OCHR, 1 Pancerz, 8 SIŁ, 13 ZRE, 14 WOL, sztylet z sopli (k6), księga zaklęć (wybierz jeden: _Sen, Teleportacja, Wykrywanie magii)_
@@ -1049,7 +1049,7 @@ Nikt nie może mieć więcej niż 3 pkt pancerza.
 
 **Nieuzbrojone** ataki zawsze zadają 1k4 obrażeń. Jeśli **wielu atakujących** wybiera tego samego przeciwnika, rzuć wszystkie kości obrażeń i zachowaj pojedynczy, najwyższy wynik. Jeśli atakujesz  **dwiema broniami** w tym samym czasie, rzuć obiema kośćmi obrażeń i zatrzymaj najwyższą z nich.
 
-Jeśli atak jest  **osłabiony** , kość obrażeń jest zredukowana do 1k4, niezależnie od broni. Jeśli atak jest **wzmocniony** , atakujący rzuca 1k12. Ataki z efektem **Podmuch** wpływają na wszystkie cele w obszarze, rzucając osobno dla każdego z nich.
+Jeśli atak jest  **osłabiony** , kość obrażeń jest zredukowana do 1k4, niezależnie od broni. Jeśli atak jest **wzmocniony** , atakujący rzuca 1k12. Ataki z efektem **Podmuch** wpływają na wszystkie cele w obszarze, należy rzucić osobno dla każdego z nich.
 
 **OBRAŻENIA**  
 Jeśli atak spowoduje, że OCHR postaci spadnie dokładnie do 0, gracz rzuca na tabelę **Blizny**.
