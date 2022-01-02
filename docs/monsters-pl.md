@@ -26,7 +26,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 autor: [xenio](https://xenioinabottle.blogspot.com)
 
-## Małpa, Biała
+## Małpa, biała
 
 5 OCHR, 14 SIŁ, pazury (k6+k6)
 {: .stat-block }
@@ -176,7 +176,7 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 
 ## Krwawy łoś
 
-4 OCHR, 12 SIŁ, 13 ZRE, 5 WOL, horns (k8)
+4 OCHR, 12 SIŁ, 13 ZRE, 5 WOL, rogi (k8)
 {: .stat-block }
 
 - Zrodzony z chciwego, egoistycznego działania.
@@ -852,39 +852,42 @@ autor: [xenio](https://xenioinabottle.blogspot.com)
 6 OCHR, 16 SIŁ, 8 ZRE, 4 WOL, dotyk (k8)  
 {: .stat-block }
 
-- Large cubes of transparent jelly, dwell in dungeons absorbing items and living creatures.  
-- May go undetected due to being transparent.  
-- Critical damage: Its touch paralyzes victims (k6 ZRE damage).  
+- Duże kostki przezroczystej galarety, mieszkają w lochach pochłaniając przedmioty i żywe stworzenia.  
+- Dzięki swojej przezroczystości, mogą pozostawać niezauważone.  
+- Obrażenia krytyczne: jego dotyk paraliżuje ofiary (k6 obrażeń ZRE).  
 
 autor: [xenio](https://xenioinabottle.blogspot.com)
 
-## Ghast
+## Upiór
 
 4 OCHR, 12 SIŁ, WOL 6, pazury (k6+k6)  
+{: .stat-block }
 
-- Grotesque, humanoid undead that craves eating flesh. Found in packs of Ghouls.  
-- Exhale a strong stench, nauseating nearby living creatures.  
-- Critical damage: Paralyzes victims (k6 ZRE damage). After paralyzing a victim, it moves to another target.  
-
-autor: [xenio](https://xenioinabottle.blogspot.com)
-
-## Ghost
-
-10 OCHR, 3 Pancerza, 14 WOL, draining touch (k6)  
-
-- Incorporeal spirits of the restless dead.  
-- Can possess victims that fail a WOL save, taking control of their bodies.  
-- Critical damage: Drains the victim’s life force (k6 extra SIŁ damage).  
+- Groteskowy, humanoidalny nieumarły, który uwielbia jeść mięso. Występuje w grupach Ghuli.  
+- Zionie silnym smrodem, który przyprawia pobliskie żywe istoty o mdłości.  
+- Obrażenia krytyczne: paraliżuje ofiary (k6 obrażeń ZRE). Po sparaliżowaniu ofiary przenosi się na inny cel.  
 
 autor: [xenio](https://xenioinabottle.blogspot.com)
 
-## Ghoul
+## Duch
 
-6 OCHR,  11 SIŁ, 14 ZRE, 3 WOL, elongated pazury (k6), jagged teeth (k8)
+10 OCHR, 3 Pancerza, 14 WOL, wysysający dotyk (k6)  
+{: .stat-block }
 
-- Grey-skinned man-things wearing shredded clothes, hunkering over the ground.
-- Craves the flesh of the living, as it grows only more powerful with each victim.
-- Critical damage: target is immobilized. The wound turns fatal within 1d6 hours if not treated by a priest or skilled healer. If not burned, the victim will rise as a Ghoul.
+- Bezcielesne duchy niespokojnych zmarłych.  
+- Potrafi opętać ofiary, które nie zdadzą testu WOL, przejmując kontrolę nad ich ciałami.  
+- Obrażenia krytyczne: wysysa siły życiowe ofiary (k6 dodatkowych obrażeń SIŁ).  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)
+
+## Ghul
+
+6 OCHR,  11 SIŁ, 14 ZRE, 3 WOL, wydłużone pazury (k6), wyszczerbione zęby (k8)  
+{: .stat-block }
+
+- Szaroskóre monstra w poszarpanych ubraniach, przycupnięte nad ziemią.
+- Łaknie mięsa żywych, a z każdą ofiarą staje się coraz potężniejszy.
+- Obrażenia krytyczne: cel zostaje unieruchomiony. Rana staje się śmiertelna w ciągu 1k6 godzin, jeśli nie zostanie opatrzona przez kapłana lub wykwalifikowanego uzdrowiciela. Przemieniona ofiara zmartwychwstanie jako Ghul jeśli nie zostanie spalona.
 
 ## Giant Catfish
 
