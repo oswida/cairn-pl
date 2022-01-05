@@ -98,23 +98,27 @@ The main inspiration for this document is the OSE price list [Old School Essenti
 
 ## Hirelings - Mercenary
 
-| Mercenary                   | Wage per month | Mercenary              | Wage per month |
-| --------------------------- | -------------- | ---------------------- | -------------- |
-| Archer, human               | 5              | Footman, light, goblin | 1              |
-| Archer, elf                 | 10             | Footman, heavy, human  | 3              |
-| Archer, orc                 | 3              | Footman, heavy, dwarf  | 5              |
-| Archer, goblin              | 2              | Footman, heavy, elf    | 6              |
-| Archer, mounted, human      | 15             | Footman, heavy, orc    | 15             |
-| Archer, mounted, elf        | 30             | Horseman, light, human | 10             |
-| Crossbowman, human          | 4              | Horseman, light, elf   | 20             |
-| Crossbowman, dwarf          | 6              | Horseman, medium       | 15             |
-| Crossbowman, orc            | 2              | Horseman, heavy        | 20             |
-| Crossbowman, mounted, dwarf | 15             | Longbowman, human      | 10             |
-| Footman, light, human       | 2              | Longbowman, elf        | 20             |
-| Footman, light, elf         | 4              | Peasant                | 1              |
-| Footman, light, orc         | 1              | Wolf rider, goblin     | 5              |
+First value means a wage per a week, second one is treasure percentage in parentheses (can be negotiated).
+
+| Mercenary                   | Wage per week | Mercenary              | Wage per week |
+| --------------------------- | ------------- | ---------------------- | ------------- |
+| Archer, human               | 5 / 1%        | Footman, light, goblin | 1 / 0.2%      |
+| Archer, elf                 | 10 / 2%       | Footman, heavy, human  | 2 / 0.4%      |
+| Archer, orc                 | 3 / 0.6%      | Footman, heavy, dwarf  | 5 / 1%        |
+| Archer, goblin              | 2 / 0.4%      | Footman, heavy, elf    | 6 / 1.2%      |
+| Archer, mounted, human      | 15 / 3%       | Footman, heavy, orc    | 15 / 3%       |
+| Archer, mounted, elf        | 30 / 6%       | Horseman, light, human | 10 / 2%       |
+| Crossbowman, human          | 4 / 0.8 %     | Horseman, light, elf   | 20 / 4%       |
+| Crossbowman, dwarf          | 6 / 1.2%      | Horseman, medium       | 15 / 3%       |
+| Crossbowman, orc            | 2 / 0.4%      | Horseman, heavy        | 20 / 4%       |
+| Crossbowman, mounted, dwarf | 15 / 3%       | Longbowman, human      | 10 / 2%       |
+| Footman, light, human       | 2 / 0.4%      | Longbowman, elf        | 20 / 4%       |
+| Footman, light, elf         | 4 / 0.8 %     | Peasant                | 1 / 0.2%      |
+| Footman, light, orc         | 1 / 0.2%      | Wolf rider, goblin     | 5 / 1%        |
 
 ## Hirelings - Specialist
+
+Salaries presented as a wage per a week. For a treasure percentage - refer to the fiction. It is probable that specialists are fully described NPCs.
 
 | Specialist         | Wage per month |
 | ------------------ | -------------- |
@@ -179,38 +183,39 @@ The main inspiration for this document is the OSE price list [Old School Essenti
 | Fishing Rod           | 10   | Saw                         | 5    |
 | Glass Marbles         | 5    | Sack                        | 5    |
 | Glue                  | 5    | Saddle and bridle           | 25   |
-| Grease                | 10   | Saw                         | 8    |
-| Grappling Hook        | 25   | Sewing kit                  | 15   |
-| Hammer                | 5    | Shovel                      | 5    |
-| Holy Symbol           | 25   | Soap                        | 1    |
-| Holy Water (vial)     | 25   | Spike                       | 1    |
-| Horn                  | 10   | Spiked Boots                | 5    |
-| Hourglass             | 50   | Spyglass                    | 40   |
-| Incense               | 10   | Stakes (3) and mallet       | 3    |
-| Iron spikes (12)      | 5    | Tar                         | 10   |
+| Grease                | 10   | Sewing kit                  | 15   |
+| Grappling Hook        | 25   | Shovel                      | 5    |
+| Hammer                | 5    | Soap                        | 1    |
+| Holy Symbol           | 25   | Spike                       | 1    |
+| Holy Water (vial)     | 25   | Spiked Boots                | 5    |
+| Horn                  | 10   | Spyglass                    | 40   |
+| Hourglass             | 50   | Stakes (3) and mallet       | 3    |
+| Incense               | 10   | Tar                         | 10   |
 | Ladder (bulky, 10ft)  | 10   | Tent (fits 2 people, bulky) | 20   |
 | Lantern & Oil         | 10   | Tinder box (flint & steel)  | 3    |
-| Lock - key (included) | 30   | Torch                       | 1    |
+| Lock - (key included) | 30   | Torch                       | 1    |
 | Large Trap            | 20   | Whistle                     | 5    |
 | Large Sponge          | 5    | Wolfsbane                   | 10   |
 | Lens                  | 10   |                             |      |
 
 ## Transport - Animal
 
-| Animal                                     | Cost |
-| ------------------------------------------ | ---- |
-| Camel (+4 slots, tough)                    | 100  |
-| Horse, riding (+4 slots)                   | 75   |
-| Horse, war (+2  slots,  can wear armor +1) | 250  |
-| Mule (+6 slots, slow)                      | 30   |
+| Animal                         | Cost |
+| ------------------------------ | ---- |
+| Camel (+3 slots, fast)         | 85   |
+| Donkey (+4 slots, slow)        | 30   |
+| Horse, draft (+3 slots)        | 40   |
+| Horse, riding (+2 slots, fast) | 75   |
+| Mule (+6 slots, slow)          | 50   |
+| Oxen  (+6 slots)               | 60   |
 
 ## Transport - Land Vehicle
 
-| Vehicle                           | Cost |
-| --------------------------------- | ---- |
-| Cart, big (+6 slots, bulky, slow) | 100  |
-| Cart, small (+4 slots, bulky)     | 30   |
-| Wagon (+8 slots, slow)            | 200  |
+| Vehicle                | Cost |
+| ---------------------- | ---- |
+| Cart, big (+6 slots)   | 100  |
+| Cart, small (+4 slots) | 30   |
+| Wagon (+8 slots, slow) | 200  |
 
 ## Transport - Water Vessel
 
