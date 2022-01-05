@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lista ekwipunku
-parent: Dokumenty
+parent: Zasoby
 ---
 
 # Lista ekwipunku

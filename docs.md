@@ -10,6 +10,3 @@ nav_order: 2
 - Magia
   - [Magia GLOG](docs/glog-magic-pl.md)
   - [Zaklęcia magii GLOG](docs/glog-spells-pl.md)
-- [Bestiariusz](docs/monsters-pl.md) (w trakcie tłumaczenia)
-- [Cennik](./docs/equipment-list-pl.md)
-- [Equipment list](./docs/equipment-list.md)

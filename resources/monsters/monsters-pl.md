@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bestiariusz
-parent: Dokumenty
+parent: Zasoby
 ---
 # Bestiariusz
 
