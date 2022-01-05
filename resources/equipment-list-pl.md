@@ -12,14 +12,15 @@ Lista poniższa nie zmienia żadnego z przedmiotów wymienionych w SRD, dodaje t
 
 ## Budynki - struktury podstawowe
 
-| Struktura               | Cena  | Struktura           | Cena  |
-| ----------------------- | ----- | ------------------- | ----- |
-| Barbakan                | 37000 | Most zwodzony       | 500   |
-| Bastion                 | 9000  | Mur, zamek          | 5000  |
-| Brama                   | 6500  | Przejście podziemne | 500   |
-| Budynek cywilny, drewno | 1500  | Warownia            | 75000 |
-| Budynek cywilny, kamień | 3000  | Wieża, duża         | 30000 |
-| Fosa                    | 400   | Wieża, mała         | 15000 |
+|                         |          |                     |          |
+| ----------------------- | -------- | ------------------- | -------- |
+| **Struktura**           | **Cena** | **Struktura**       | **Cena** |
+| Barbakan                | 37000    | Most zwodzony       | 500      |
+| Bastion                 | 9000     | Mur, zamek          | 5000     |
+| Brama                   | 6500     | Przejście podziemne | 500      |
+| Budynek cywilny, drewno | 1500     | Warownia            | 75000    |
+| Budynek cywilny, kamień | 3000     | Wieża, duża         | 30000    |
+| Fosa                    | 400      | Wieża, mała         | 15000    |
 
 ## Budynki - elementy wnętrz
 
@@ -40,12 +41,12 @@ Lista poniższa nie zmienia żadnego z przedmiotów wymienionych w SRD, dodaje t
 
 | Jedzenie i napoje                  | Cena | Jedzenie i napoje                 | Cena |
 | ---------------------------------- | ---- | --------------------------------- | ---- |
-| Alkohol , bimber (dzbanek)         | 12   | Ptactwo domowe, bażant (cały)     | 20   |
-| Alkohol , brandy (butelka)         | 20   | Ptactwo domowe, gęś (cała)        | 12   |
-| Alkohol , rum (butelka)            | 15   | Ptactwo domowe, gołębie (całe)    | 3    |
-| Alkohol , szampan (butelka)        | 18   | Ptactwo domowe, indyk (cały)      | 15   |
-| Alkohol , wino, dobre (butelka)    | 10   | Ptactwo domowe, kaczka (cała)     | 8    |
-| Alkohol , wino, słabe (butelka)    | 4    | Ptactwo domowe, kurczak (cały)    | 5    |
+| Alkohol, bimber (dzbanek)          | 12   | Ptactwo domowe, bażant (cały)     | 20   |
+| Alkohol, brandy (butelka)          | 20   | Ptactwo domowe, gęś (cała)        | 12   |
+| Alkohol, rum (butelka)             | 15   | Ptactwo domowe, gołębie (całe)    | 3    |
+| Alkohol, szampan (butelka)         | 18   | Ptactwo domowe, indyk (cały)      | 15   |
+| Alkohol, wino, dobre (butelka)     | 10   | Ptactwo domowe, kaczka (cała)     | 8    |
+| Alkohol, wino, słabe (butelka)     | 4    | Ptactwo domowe, kurczak (cały)    | 5    |
 | Alkohol, miód pitny (dzbanek 1,5l) | 1    | Ptactwo domowe, przepiórka (cała) | 10   |
 | Alkohol, piwo                      | 3    | Ryby, dzikie                      | 6    |
 | Baranina, bok                      | 25   | Ryby, hodowlane                   | 2    |
