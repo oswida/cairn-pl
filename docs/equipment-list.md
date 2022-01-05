@@ -98,7 +98,7 @@ The main inspiration for this document is the OSE price list [Old School Essenti
 
 ## Hirelings - Mercenary
 
-First value means a wage per a week, second one is treasure percentage in parentheses (can be negotiated).
+First value means a wage per a week, second one is treasure percentage (can be negotiated).
 
 | Mercenary                   | Wage per week | Mercenary              | Wage per week |
 | --------------------------- | ------------- | ---------------------- | ------------- |
