@@ -5,4 +5,5 @@ nav_order: 4
 ---
 # Pliki
 
-- [Karty postaci](https://oskarswida.itch.io/cairn-rpg-charsheets) dostępne na itch.io
+- [English character sheets for pocketfold](https://oskarswida.itch.io/cairn-rpg-charsheets)
+- [Materiały do pobrania](https://oskarswida.itch.io/cairn-pl) - karty postaci, pliki PDF
