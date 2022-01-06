@@ -916,16 +916,16 @@ Kość obrażeń jest mniej więcej taka sama, chociaż ataki bronią zadają co
 | 21  | Gąszcz                    | Gąszcz drzew i gęstych zarośli o szerokości do 15 metrów nagle wyrasta spod ziemi.                                                                                       |
 | 22  | Głuchota                  | Wszystkie pobliskie stworzenia stają się głuche.                                                                                                                         |
 | 23  | Hipnoza                   | Stwór wpada w trans i odpowiada zgodnie z prawdą na jedno pytanie, które mu zadasz.                                                                                      |
-| 24  | Identyfikacja właściciela | Nad obiektem, którego dotykasz, pojawiają się litery z nazwiskami jego właścicieli, jeśli tacy istnieją..                                                                |
+| 24  | Identyfikacja właściciela | Nad obiektem, którego dotykasz, pojawiają się litery z nazwiskami jego właścicieli, jeśli tacy istnieją.                                                                 |
 | 25  | Iluzja słuchowa           | Tworzysz iluzoryczne dźwięki, które wydają się dochodzić z wybranego przez Ciebie kierunku.                                                                              |
 | 26  | Iluzja wzrokowa           | Pojawia się cicha, nieruchoma iluzja wielkości pokoju.                                                                                                                   |
-| 27  | Kontrola czasu            | W bańce o średnicy 15 metrów czas spowalnia lub wydłuża się o 10% przez 30 sekund..                                                                                      |
+| 27  | Kontrola czasu            | W bańce o średnicy 15 metrów czas spowalnia lub wydłuża się o 10% przez 30 sekund.                                                                                       |
 | 28  | Kontrola pogody           | Możesz dowolnie zmieniać rodzaj pogody, ale nie masz nad nią innej kontroli.                                                                                             |
 | 29  | Kontrola roślin           | Pobliskie rośliny i drzewa są ci posłuszne i zyskują zdolność do poruszania się w wolnym tempie.                                                                         |
 | 30  | Kotwica                   | Z twoich ramion wyrasta mocny drut, który przyczepia się do dwóch punktów w promieniu 15 metrów po każdej stronie.                                                       |
 | 31  | Krąg ochronny             | Na ziemi pojawia się srebrny okrąg o średnicy 15 metrów. Wybierz jeden gatunek, który nie może go przekroczyć.                                                           |
-| 32  | Krynica                   | Pojawia się źródło wody morskiej.                                                                                                                                        |
-| 33  | Kulkowe szaleństwo        | Twoje kieszenie są pełne szklanych kulek i będą się napełniać co 30 sekund..                                                                                             |
+| 32  | Krynica                   | W pobliżu pojawia się źródło wody morskiej.                                                                                                                              |
+| 33  | Kulkowe szaleństwo        | Twoje kieszenie są pełne szklanych kulek i będą się napełniać co 30 sekund.                                                                                              |
 | 34  | Kwiat przynęta            | Z ziemi wyrasta roślina, która emanuje zapachem rozkładającego się mięsa.                                                                                                |
 | 35  | Leczenie ran              | Przywraca 1k4 SIŁ dziennie stworzeniu, którego możesz dotknąć.                                                                                                           |
 | 36  | Lodowaty dotyk            | Gruba warstwa lodu rozprzestrzenia się na dotkniętej powierzchni, w promieniu do 3 metrów.                                                                               |
@@ -933,13 +933,13 @@ Kość obrażeń jest mniej więcej taka sama, chociaż ataki bronią zadają co
 | 38  | Magiczna piła             | Wirujące ostrze wylatuje z twojej klatki piersiowej, usuwając wszelkie rośliny, które znajdą się na jego drodze. Poza tym jest nieszkodliwe.                             |
 | 39  | Magiczne oko              | Możesz spoglądać przez magiczną, unoszącą się w powietrzu gałkę oczną, która lata na twój rozkaz.                                                                        |
 | 40  | Magiczny sześcian         | Raz na sekundę możesz przywołać lub odesłać sześcian ziemi o boku 1 metra. Nowe sześciany muszą się stykać z podłożem lub innymi sześcianami.                            |
-| 41  | Magiczny tłumik           | Wszystkie pobliskie efekty magiczne mają zmniejszoną skuteczność o połowę..                                                                                              |
+| 41  | Magiczny tłumik           | Wszystkie pobliskie efekty magiczne mają zmniejszoną skuteczność o połowę.                                                                                               |
 | 42  | Magiczny wzrok            | Przenikasz wzrokiem przez wszystkie pobliskie iluzje.                                                                                                                    |
 | 43  | Maskarada                 | Wygląd i głos twojej postaci stają się identyczne jak postaci, którą dotkniesz.                                                                                          |
 | 44  | Medium                    | Możesz spojrzeć oczami stworzenia, którego dotknąłeś dzisiaj.                                                                                                            |
 | 45  | Miniaturyzacja            | Stworzenie, którego dotkniesz, zmniejsza się do rozmiarów myszy.                                                                                                         |
 | 46  | Nienawiść                 | Wybrana istota rozwija głęboką nienawiść do innego stworzenia lub grupy i pragnie je zniszczyć.                                                                          |
-| 47  | Niewidzialna uwięź        | Dwa obiekty znajdujące się w odległości 3m od siebie nie mogą być przesunięte o więcej niż 3 metry..                                                                     |
+| 47  | Niewidzialna uwięź        | Dwa obiekty znajdujące się w odległości 3m od siebie nie mogą być przesunięte o więcej niż 3 metry.                                                                      |
 | 48  | Nocna sfera               | Przed tobą pojawia się szeroka na 15 metrów kula ciemności przedstawiająca nocne niebo.                                                                                  |
 | 49  | Odbicie lustrzane         | Tworzysz iluzoryczną kopię siebie samej. Całkowicie kontrolujesz tę iluzję.                                                                                              |
 | 50  | Odpychanie                | Dwa obiekty są silnie odpychane magnetycznie od siebie w odległości 3 metrów.                                                                                            |
@@ -951,9 +951,9 @@ Kość obrażeń jest mniej więcej taka sama, chociaż ataki bronią zadają co
 | 56  | Przebranie                | Możesz dowolnie zmieniać wygląd jednej postaci, dopóki pozostaje ona humanoidalna. Próby kopiowania innych postaci będą wydawać się nierealne.                           |
 | 57  | Przemieszczenie           | Wybrany obiekt wydaje się znajdować w innym miejscu - do 5 metrów od swojego rzeczywistego położenia.                                                                    |
 | 58  | Przenikające spojrzenie   | Możesz widzieć przez ściany, ziemię, ubrania itp.                                                                                                                        |
-| 59  | Przyciągnięcie            | Dwa obiekty są silnie przyciągane magnetycznie, jeśli znajdą się w odległości 3 metrów od siebie..                                                                       |
+| 59  | Przyciągnięcie            | Dwa obiekty są silnie przyciągane magnetycznie, jeśli znajdą się w odległości 3 metrów od siebie                                                                         |
 | 60  | Przylga                   | Wskazany obiekt zostaje pokryty wyjątkowo lepkim szlamem.                                                                                                                |
-| 61  | Przynęta                  | Przedmiot, którego dotkniesz, staje się celem dowolnego pobliskiego zaklęcia..                                                                                           |
+| 61  | Przynęta                  | Przedmiot, którego dotkniesz, staje się celem dowolnego pobliskiego zaklęcia.                                                                                            |
 | 62  | Przyśpieszenie            | Twoja prędkość ruchu jest potrojona.                                                                                                                                     |
 | 63  | Przywołanie Idola         | Rzeźbiony kamienny posąg wielkości muła wynurza się z ziemi.                                                                                                             |
 | 64  | Pukanie                   | Pobliski zamek lub kłódka, zwykły lub magiczny, otwiera się z głośnym trzaskiem.                                                                                         |
@@ -965,15 +965,15 @@ Kość obrażeń jest mniej więcej taka sama, chociaż ataki bronią zadają co
 | 70  | Skok                      | Skaczesz na wysokość do 3 metrów, raz.                                                                                                                                   |
 | 71  | Sortowanie                | Przedmioty nieożywione porządkują się zgodnie z ustawionymi przez Ciebie kategoriami.                                                                                    |
 | 72  | Strumień piany            | Gęsta piana tryska Ci z dłoni, pokrywając cel.                                                                                                                           |
-| 73  | Szał                      | Wybrane stworzenie w pobliżu wpada w morderczy szał..                                                                                                                    |
+| 73  | Szał                      | Wybrane stworzenie w pobliżu wpada w morderczy szał.                                                                                                                     |
 | 74  | Czuły słuch               | Doskonale słyszysz nawet słabe dźwięki.                                                                                                                                  |
-| 75  | Ściana żywiołów           | Z ziemi wyrasta prosta ściana lodu lub ognia o długości 15 metrów i wysokości 3 metrów..                                                                                 |
+| 75  | Ściana żywiołów           | Z ziemi wyrasta prosta ściana lodu lub ognia o długości 15 metrów i wysokości 3 metrów.                                                                                  |
 | 76  | Ślizgawka                 | Każda powierzchnia w promieniu 9 metrów staje się niezwykle śliska.                                                                                                      |
 | 77  | Tarcza                    | Istota, którą dotkniesz, jest chroniona przed zwyczajnymi atakami przez jedną minutę.                                                                                    |
 | 78  | Tasowanie                 | Dwie istoty w zasięgu wzroku, natychmiast zamieniają się miejscami.                                                                                                      |
-| 79  | Telekineza                | Możesz mentalnie przenieść 1 przedmiot poniżej 27 kg..                                                                                                                   |
+| 79  | Telekineza                | Możesz mentalnie przenieść 1 przedmiot poniżej 27 kg.                                                                                                                    |
 | 80  | Telepatia                 | Dwie istoty mogą słyszeć nawzajem swoje myśli, bez względu na to, jak daleko są od siebie.                                                                               |
-| 81  | Teleportacja              | Przedmiot lub osoba, którą widzisz jest przenoszona z jednego miejsca do drugiego w promieniu 15 metrów..                                                                |
+| 81  | Teleportacja              | Przedmiot lub osoba, którą widzisz jest przenoszona z jednego miejsca do drugiego w promieniu 15 metrów.                                                                 |
 | 82  | Trzęsienie ziemi          | Ziemia zaczyna się gwałtownie trząść. Budynki mogą zostać uszkodzone lub się zawalić.                                                                                    |
 | 83  | Uprzedmiotowienie         | Stajesz się dowolnym obiektem nieożywionym o rozmiarach od fortepianu do jabłka.                                                                                         |
 | 84  | Urok                      | Wybrane stworzenie w zasięgu wzroku, traktuje Cię jak przyjaciela.                                                                                                       |
@@ -981,7 +981,7 @@ Kość obrażeń jest mniej więcej taka sama, chociaż ataki bronią zadają co
 | 86  | Węszenie                  | Możesz wyczuć nawet najsłabsze ślady zapachów.                                                                                                                           |
 | 87  | Widowisko                 | Na twój rozkaz pojawia się wyraźnie fałszywa, ale imponująca iluzja, którą wybierzesz. Może być wielkości pałacu i posiada pełny ruch i dźwięk. W pełni ją kontrolujesz. |
 | 88  | Wieloramienny             | Tymczasowo zyskujesz dodatkowe ramię.                                                                                                                                    |
-| 89  | Więzienie Astralne        | Wskazany przedmiot zostaje zamrożony w czasie i przestrzeni w nietykalnej kryształowej powłoce..                                                                         |
+| 89  | Więzienie Astralne        | Wskazany przedmiot zostaje zamrożony w czasie i przestrzeni w nietykalnej kryształowej powłoce.                                                                          |
 | 90  | Wizja                     | Całkowicie kontrolujesz to, co widzi dane stworzenie.                                                                                                                    |
 | 91  | Wskrzeszenie              | Możesz ożywić pobliski szkielet, aby Ci służył. Ożywieńcy są niewiarygodnie głupi i mogą wykonywać tylko proste rozkazy.                                                 |
 | 92  | Wyczucie                  | Wybierz jeden rodzaj przedmiotu (klucz, złoto, strzałka, dzban, itp.). Możesz wyczuć najbliższy egzemplarz.                                                              |
@@ -1037,7 +1037,7 @@ Chwila odpoczynku i łyk wody przywróci utracone OCHR, ale może sprawić, że 
 
 Księgi Zaklęć zawierają jedno zaklęcie i zajmują jedno miejsce na przedmiot. Każdy może rzucić zaklęcie trzymając księgę zaklęć w obu rękach i czytając jej zawartość na głos. Rzucanie zaklęć dodaje **Zmęczenie** do ekwipunku postaci.
 
-Mając czas i bezpieczne miejsce, gracze mogą wzmocnić zaklęcie bez żadnych dodatkowych kosztów. Jeśli są wycieńczeni lub znajdują się w niebezpieczeństwie, Strażnik może wymagać wykonania rzutu obronnego WOL, w celu uniknięcia straszliwych konsekwencji.
+Mając czas i bezpieczne miejsce, gracze mogą wzmocnić zaklęcie bez żadnych dodatkowych kosztów. Jeśli odczuwają dyskomfort lub znajdują się w niebezpieczeństwie, Strażnik może wymagać wykonania rzutu obronnego WOL, w celu uniknięcia straszliwych konsekwencji.
 
 **WALKA**
 
