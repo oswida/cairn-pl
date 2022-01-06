@@ -266,13 +266,13 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 #### Budowa
 
-|     |            |     |          |
-| --- | ---------- | --- | -------- |
-| 1   | Atletyczna | 6   | Chuda    |
-| 2   | Muskularna | 7   | Niska    |
-| 3   | Wiotka     | 8   | Posągowa |
-| 4   | Mizerna    | 9   | Gruba    |
-| 5   | Solidna    | 10  | Wysoka   |
+|     |              |     |          |
+| --- | ------------ | --- | -------- |
+| 1   | Wysportowana | 6   | Chuda    |
+| 2   | Krzepka      | 7   | Niska    |
+| 3   | Wiotka       | 8   | Posągowa |
+| 4   | Mizerna      | 9   | Gruba    |
+| 5   | Solidna      | 10  | Wysoka   |
 
 #### Skóra
 
@@ -306,13 +306,13 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 #### Mowa
 
-|     |            |     |           |
-| --- | ---------- | --- | --------- |
-| 1   | Tępa       | 6   | Ochrypła  |
-| 2   | Donośna    | 7   | Sceniczna |
-| 3   | Zagadkowa  | 8   | Piskliwa  |
-| 4   | Warkotliwa | 9   | Jąkająca  |
-| 5   | Oficjalna  | 10  | Cicha     |
+|     |           |     |           |
+| --- | --------- | --- | --------- |
+| 1   | Dosadna   | 6   | Ochrypła  |
+| 2   | Donośna   | 7   | Sceniczna |
+| 3   | Zagadkowa | 8   | Piskliwa  |
+| 4   | Monotonna | 9   | Jąkająca  |
+| 5   | Oficjalna | 10  | Cicha     |
 
 #### Ubranie
 
@@ -351,18 +351,18 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 | 1   | Ambitna       | 6   | Nierób       |
 | 2   | Cham          | 7   | Dziwak       |
 | 3   | Niebezpieczna | 8   | Antypatyczna |
-| 4   | Komik         | 9   | Szanowana    |
+| 4   | Wesołek       | 9   | Szanowana    |
 | 5   | Szczera       | 10  | Mądry        |
 
 #### Nieszczęście
 
-|     |              |     |                 |
-| --- | ------------ | --- | --------------- |
-| 1   | Porzucony    | 6   | Oszukana        |
-| 2   | Uzależniona  | 7   | Zdegradowany    |
-| 3   | Szantażowany | 8   | Skompromitowana |
-| 4   | Skazana      | 9   | Wyrzucony       |
-| 5   | Przeklęty    | 10  | Wygnana         |
+|     |              |     |              |
+| --- | ------------ | --- | ------------ |
+| 1   | Porzucony    | 6   | Oszukana     |
+| 2   | Uzależniona  | 7   | Zdegradowany |
+| 3   | Szantażowany | 8   | Ośmieszona   |
+| 4   | Skazana      | 9   | Wyrzucony    |
+| 5   | Przeklęty    | 10  | Wygnana      |
 
 <p></p>
 
