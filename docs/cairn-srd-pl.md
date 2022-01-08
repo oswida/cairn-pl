@@ -384,16 +384,16 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 #### Broń
 
-|                       |                        |                         |                                       |
-| :-------------------: | :--------------------: | :---------------------: | :-----------------------------------: |
-|          1-5          |          6-14          |          15-19          |                  20                   |
-| Sztylet, pałka, laska | Miecz, buzdygan, topór | Długi łuk, kusza, proca | Halabarda, Młot Wojenny, Topór Bojowy |
+|                       |                       |                         |                                       |
+| :-------------------: | :-------------------: | :---------------------: | :-----------------------------------: |
+|          1-5          |         6-14          |          15-19          |                  20                   |
+| Sztylet, pałka, laska | Miecz, maczuga, topór | Długi łuk, kusza, proca | Halabarda, Młot Wojenny, Topór Bojowy |
 
 #### Sprzęt ekspedycyjny
 
 |     |                                 |     |                   |     |               |     |                 |
 | --- | ------------------------------- | --- | ----------------- | --- | ------------- | --- | --------------- |
-| 1   | Pęcherz pławny                  | 6   | Olej do lampy     | 11  | Kajdany       | 16  | Lina (8m)       |
+| 1   | Pęcherz pławny                  | 6   | Olej opałowy      | 11  | Kajdany       | 16  | Lina (8m)       |
 | 2   | Antytoksyna                     | 7   | Linka z kotwiczką | 12  | Kilof         | 17  | Amulet ochronny |
 | 3   | Wózek (+4 miejsca, nieporęczny) | 8   | Duży worek        | 13  | Tyczka (3m)   | 18  | Luneta          |
 | 4   | Łańcuch (3m)                    | 9   | Duża pułapka      | 14  | Krążek linowy | 19  | Krzesiwo        |
@@ -401,23 +401,23 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 #### Narzędzia
 
-|     |           |     |                     |
-| --- | --------- | --- | ------------------- |
-| 1   | Miechy    | 6   | Garnki do gotowania |
-| 2   | Wiadro    | 7   | Łom                 |
-| 3   | Kolczatki | 8   | Świder (ręczny)     |
-| 4   | Kreda     | 9   | Wędka               |
-| 5   | Dłuto     | 10  | Klej                |
+|     |           |     |                     |     |                 |     |              |
+| --- | --------- | --- | ------------------- | --- | --------------- | --- | ------------ |
+| 1   | Miechy    | 6   | Garnki do gotowania | 11  | Smar            | 16  | Sieć         |
+| 2   | Wiadro    | 7   | Łom                 | 12  | Młotek          | 17  | Piła         |
+| 3   | Kolczatki | 8   | Świder ręczny       | 13  | Klepsydra       | 18  | Uszczelniacz |
+| 4   | Kreda     | 9   | Wędka               | 14  | Pilnik metalowy | 19  | Łopata       |
+| 5   | Dłuto     | 10  | Klej                | 15  | Gwoździe        | 20  | Kleszcze     |
 
 #### Drobiazgi
 
-|     |                   |     |                      |
-| --- | ----------------- | --- | -------------------- |
-| 1   | Butelka           | 6   | Róg                  |
-| 2   | Talia kart        | 7   | Kadzidło             |
-| 3   | Kości do gry      | 8   | Instrument           |
-| 4   | Farba do twarzy   | 9   | Soczewka             |
-| 5   | Fałszywe klejnoty | 10  | Szklane kulki do gry |
+|     |                   |     |                      |     |                  |     |              |
+| --- | ----------------- | --- | -------------------- | --- | ---------------- | --- | ------------ |
+| 1   | Butelka           | 6   | Róg                  | 11  | Lustro           | 16  | Mydło        |
+| 2   | Talia kart        | 7   | Kadzidło             | 12  | Perfumy          | 17  | Gąbka        |
+| 3   | Kości do gry      | 8   | Instrument           | 13  | Pióro i atrament | 18  | Garnek smoły |
+| 4   | Farba do twarzy   | 9   | Soczewka             | 14  | Paczka soli      | 19  | Sznurek      |
+| 5   | Fałszywe klejnoty | 10  | Szklane kulki do gry | 15  | Mały dzwonek     | 20  | Gwizdek      |
 
 #### Przedmiot dodatkowy (wylosuj ze wskazanej tabeli)
 
@@ -481,56 +481,65 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 | Włócznia, miecz, buzdygan, topór, cep, itp (k8 obrażeń)            | 10  |
 | Halabarda, młot bojowy, długi miecz itp (k10 obrażeń, nieporęczna) | 20  |
 | Proca (k4  obrażeń)                                                | 5   |
-| Łuk  (k6  obrażeń, nieporęczna)                                    | 20  |
+| Łuk  (k6  obrażeń, nieporęczny)                                    | 20  |
 | Kusza (k8  obrażeń, nieporęczna)                                   | 30  |
 
 #### Narzędzia i sprzęt
 
-|                                 |     |                                  |     |
-| ------------------------------- | --- | -------------------------------- | --- |
-| Pęcherz pławny                  | 5   | Duża pułapka                     | 20  |
-| Miechy                          | 10  | Duża gąbka                       | 5   |
-| Pościel                         | 5   | Soczewka                         | 10  |
-| Książka                         | 50  | Wytrychy                         | 25  |
-| Wiadro                          | 5   | Kajdany                          | 10  |
-| Kolczatki                       | 10  | Pilnik metalowy                  | 5   |
-| Wózek (+4 miejsca, nieporęczny) | 30  | Lustro                           | 5   |
-| Łańcuch (3m)                    | 10  | Muł (+6 miejsc, wolny)           | 30  |
-| Kreda                           | 1   | Sieć                             | 10  |
-| Dłuto                           | 5   | Wodoodporna torba                | 5   |
-| Garnki do gotowania             | 10  | Kilof                            | 10  |
-| Łom                             | 10  | Krążek linowy                    | 10  |
-| Świder (ręczny)                 | 10  | Tyczka (3m)                      | 5   |
-| Farba do twarzy                 | 10  | Pióro i atrament                 | 10  |
-| Olej do lampy                   | 10  | Racje żywnościowe (na 3 dni)     | 10  |
-| Wędka                           | 10  | Lina (8m)                        | 5   |
-| Szklane kulki do gry            | 5   | Piła                             | 5   |
-| Klej                            | 5   | Worek                            | 5   |
-| Smar                            | 10  | Łopata                           | 5   |
-| Linka z kotwiczką               | 25  | Mydło                            | 1   |
-| Młotek                          | 5   | Kolec                            | 1   |
-| Woda święcona                   | 25  | Buty z kolcami                   | 5   |
-| Róg                             | 10  | Luneta                           | 40  |
-| Koń (+4 miejsca)                | 75  | Smoła                            | 10  |
-| Klepsydra                       | 50  | Namiot (dwuosobowy, nieporęczny) | 20  |
-| Kadzidło                        | 10  | Pochodnia                        | 1   |
-| Drabina (nieporęczna, 3m)       | 10  | Furgon (+8 miejsc, wolny)        | 200 |
-| Latarnia i olej                 | 10  | Trucizna                         | 10  |
+|                             |     |                                  |     |
+| --------------------------- | --- | -------------------------------- | --- |
+| Buty z kolcami              | 5   | Młotek                           | 5   |
+| Dłuto                       | 5   | Muł (+6 miejsc, wolny)           | 30  |
+| Drabina (nieporęczna, 3m)   | 10  | Mydło                            | 1   |
+| Duża gąbka                  | 5   | Namiot (dwuosobowy, nieporęczny) | 20  |
+| Duża pułapka                | 20  | Olej opałowy                     | 10  |
+| Farba do twarzy             | 10  | Pęcherz pławny                   | 5   |
+| Furmanka (+8 miejsc, wolna) | 200 | Pilnik metalowy                  | 5   |
+| Garnki do gotowania         | 10  | Piła                             | 5   |
+| Kadzidło                    | 10  | Pióro i atrament                 | 10  |
+| Kajdany                     | 10  | Pochodnia                        | 1   |
+| Kilof                       | 10  | Pościel                          | 5   |
+| Klej                        | 5   | Racje żywnościowe (na 3 dni)     | 10  |
+| Klepsydra                   | 50  | Róg                              | 10  |
+| Kolczatki                   | 10  | Sieć                             | 10  |
+| Kolec                       | 1   | Smar                             | 10  |
+| Koń (+4 miejsca)            | 75  | Smoła                            | 10  |
+| Krążek linowy               | 10  | Soczewka                         | 10  |
+| Kreda                       | 1   | Szklane kulki do gry             | 5   |
+| Książka                     | 50  | Świder (ręczny)                  | 10  |
+| Latarnia i olej             | 10  | Trucizna                         | 10  |
+| Lina (8m)                   | 5   | Tyczka (3m)                      | 5   |
+| Linka z kotwiczką           | 25  | Wędka                            | 10  |
+| Luneta                      | 40  | Wiadro                           | 5   |
+| Lustro                      | 5   | Woda święcona                    | 25  |
+| Łańcuch (3m)                | 10  | Wodoodporna torba                | 5   |
+| Łom                         | 10  | Worek                            | 5   |
+| Łopata                      | 5   | Wózek (+4 miejsca, nieporęczny)  | 30  |
+| Miechy                      | 10  | Wytrychy                         | 25  |
 
 <p></p>
 
 ## Opcjonalne pakiety wyposażenia
 
+#### Kleryk
+|                                              |
+| -------------------------------------------- |
+| Młot bojowy (k10, nieporęczny)               |
+| Kolczuga (2 Pancerza, nieporęczna)           |
+| Rękawice (+1 Pancerza)                       |
+| Zakrzywione ostrze (k6)                      |
+| Święty symbol (_Krąg ochronny_ raz dziennie) |
+| Płaszcz Zakonu                               |
 #### Różdżkarz
 
-|                                 |
-| ------------------------------- |
-| Sierp (k6)                      |
-| Łatany kubrak (+1 do Pancerza)  |
-| Różdżka radiestezyjna           |
-| Wahadełko (wykrywa świeżą wodę) |
-| Zużyta mapa                     |
-| Luneta                          |
+|                                                           |
+| --------------------------------------------------------- |
+| Sierp (k6)                                                |
+| Łatany kubrak (+1 do Pancerza)                            |
+| Różdżka radiestezyjna                                     |
+| Wahadełko (_Wyczucie_ jeśli umieszczone w świeżej wodzie) |
+| Zużyta mapa                                               |
+| Luneta                                                    |
 
 #### Krasnolud
 
@@ -610,14 +619,14 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 #### Zwiadowca
 
-|                                            |
-| ------------------------------------------ |
-| Długi łuk (k8, nieporęczny)                |
-| Siekiera (k6)                              |
-| Wyściełane ubranie skórzane (1 pancerza)   |
-| Duża pułapka                               |
-| Ogar &#124; 2 OCHR, 12 ZRE, gryzienie (k6) |
-| Róg myśliwski                              |
+|                                          |
+| ---------------------------------------- |
+| Długi łuk (k8, nieporęczny)              |
+| Siekiera (k6)                            |
+| Wyściełane ubranie skórzane (1 pancerza) |
+| Duża pułapka                             |
+| Ogar &#124; 2 OCHR, 12 ZRE, zęby (k6)    |
+| Róg myśliwski                            |
 
 [powrót do indeksu](#indeks)
 <p></p>
@@ -642,7 +651,7 @@ Rzut obronny to test, który pozwala uniknąć negatywnych skutków ryzykownych 
 
 ### Dyskomfort i zmęczenie
 
-Postać pozbawiona możliwości zaspokojenia kluczowej potrzeby (takiej jak jedzenie lub odpoczynek), odczuwa **dyskomfort** i nie może odzyskać punktów OCHR ani punktów zdolności. Każda osoba odczuwająca dyskomfort przez więcej niż jeden dzień, dodaje do swojego ekwipunku **Zmęczenie**, jedno na każdy dzień. Każde Zmęczenie blokuje jedno miejsce ekwipunku i trwa do czasu, aż postać będzie w stanie się zregenerować (np. odpoczywając całą noc w bezpiecznym miejscu).
+Postać pozbawiona możliwości zaspokojenia kluczowej potrzeby (takiej jak jedzenie lub odpoczynek), odczuwa **dyskomfort** i nie może odzyskać punktów OCHR ani punktów zdolności. Każda osoba odczuwająca dyskomfort przez więcej niż jeden dzień, dodaje do swojego ekwipunku **Zmęczenie**, jedno na każdy dzień. Każde Zmęczenie blokuje jedno miejsce ekwipunku i trwa do czasu, aż postać będzie w stanie się zregenerować (np. odpoczywając całą noc w bezpiecznym miejscu). Po wypoczynku, postać odzyskuje _wszystkie_ zajęte miejsca.
 Postacie mogą również zyskać Zmęczenie poprzez **rzucanie zaklęć** lub poprzez wydarzenia w fikcji.
 
 ### Leczenie
@@ -764,7 +773,7 @@ Każda postać, która otrzyma obrażenia krytyczne, nie może zrobić nic poza 
 
 ### Utrata punktów zdolności
 
-Jeśli SIŁ postaci zostanie zredukowana do 0, postać umiera. Jeśli ZRE postaci osiągnie 0, bohater jest sparaliżowany. W sytuacji gdy WOL spadnie do 0, postać zaczyna majaczyć.
+Jeśli SIŁ postaci zostanie zredukowana do 0, postać umiera. Jeśli ZRE postaci osiągnie 0, bohater jest sparaliżowany. W sytuacji gdy WOL spadnie do 0, postać popada w szaleństwo.
 Całkowita utrata ZRE i WOL czyni postać niezdolną do działania, dopóki nie odzyska ich poprzez dłuższy odpoczynek lub za pomocą nadzwyczajnych środków.
 
 ### Utrata przytomności i śmierć
@@ -788,18 +797,18 @@ Kiedy atak zredukuje OCHR postaci dokładnie do 0, postać zostaje nieodwracalni
 
 |     |                                                                                                                                                                                                                                                                                                                          |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | Trwała blizna: Rzuć 1k6 &#124; 1: Kark, 2: Ręce, 3: Oko, 4: Klatka piersiowa, 5: Nogi, 6: Ucho. Rzuć 1k6. Jeśli suma jest wyższa niż twoje maksymalne OCHR, wynik staje się twoim nowym maksymalnym OCHR.                                                                                                                |
-| 2   | Gruchoczący cios: . Jesteś zdezorientowany i roztrzęsiony. Opisz, jak się koncentrujesz. Rzuć 1k6. Jeśli suma jest wyższa niż twoje maksymalne OCHR,  wynik staje się twoim nowym maksymalnym OCHR.                                                                                                                      |
-| 3   | Powalony: Zostajesz wysłany w powietrze i lądujesz płasko na twarzy, zdyszany. Odczuwasz dyskomfort, dopóki nie odpoczniesz przez kilka godzin. Następnie, rzuć 1k6. Dodaj tę liczbę do swojego maksymalnego HP.                                                                                                         |
-| 4   | Złamana kość: Rzuć 1k6 &#124; 1-2: Noga, 3-4: Ramię, 5: Żebro, 6: Czaszka. Po zrośnięciu, rzuć 2k6. Jeśli suma jest wyższa niż twoje maksymalne OCHR, wynik staje się twoim nowym maksymalnym OCHR.                                                                                                                      |
-| 5   | Choroba: Cierpisz na obrzydliwą, nieprzyjemną infekcję. Kiedy wydobrzejesz, rzuć 2k6. Jeśli suma jest wyższa niż twoje maksymalne OCHR, wynik staje się twoim nowym maksymalnym OCHR.                                                                                                                                    |
-| 6   | Dezorientująca rana głowy: Rzuć 1k6 &#124; 1-2: SIŁ, 3-4: ZRE, 5-6: WOL. Rzuć 3k6. Jeśli wynik jest wyższy niż aktualny poziom zdolności, staje się on nową wartością wskazanej cechy.                                                                                                                                   |
+| 1   | Trwała blizna: Rzuć 1k6 &#124; 1: Kark, 2: Ręce, 3: Oko, 4: Klatka piersiowa, 5: Nogi, 6: Ucho. Rzuć 1k6. Jeśli suma jest wyższa niż twoja maksymalna OCHR,  wynik staje się twoją nową maksymalną OCHR.                                                                                                                 |
+| 2   | Gruchoczący cios: Jesteś zdezorientowany i roztrzęsiony. Opisz, jak się koncentrujesz. Rzuć 1k6. Jeśli suma jest wyższa niż twoja maksymalna OCHR,  wynik staje się twoją nową maksymalną OCHR.                                                                                                                          |
+| 3   | Powalony: Zostajesz wysłany w powietrze i lądujesz płasko na twarzy. Odczuwasz dyskomfort, dopóki nie odpoczniesz przez kilka godzin. Następnie, rzuć 1k6. Dodaj tę liczbę do swojej maksymalnej OCHR.                                                                                                                   |
+| 4   | Złamana kość: Rzuć 1k6 &#124; 1-2: Noga, 3-4: Ramię, 5: Żebro, 6: Czaszka. Po zrośnięciu, rzuć 2k6. Jeśli suma jest wyższa niż twoja maksymalna OCHR,  wynik staje się twoją nową maksymalną OCHR.                                                                                                                       |
+| 5   | Choroba: Cierpisz na obrzydliwą, nieprzyjemną infekcję. Kiedy wydobrzejesz, rzuć 2k6. Jeśli suma jest wyższa niż twoja maksymalna OCHR,  wynik staje się twoją nową maksymalną OCHR.                                                                                                                                     |
+| 6   | Poważna rana głowy: Rzuć 1k6 &#124; 1-2: SIŁ, 3-4: ZRE, 5-6: WOL. Rzuć 3k6. Jeśli wynik jest wyższy niż aktualny poziom zdolności, staje się on nową wartością wskazanej cechy.                                                                                                                                          |
 | 7   | Wstrząs: Ledwo możesz się poruszać, dopóki nie otrzymasz poważnej pomocy i nie odpoczniesz. Po wyzdrowieniu, rzuć 3k6. Jeśli suma jest wyższa niż twoja maksymalna wartość ZRE, nowy wynik staje się nową maksymalną wartością.                                                                                          |
 | 8   | Ogłuszenie: Nic nie słyszysz dopóki nie uzyskasz jakiejś wyjątkowej pomocy. Niezależnie od tego, wykonaj rzut obronny WOL. Jeśli test się uda, zwiększ swoją maksymalną WOL o 1k4.                                                                                                                                       |
 | 9   | Uraz psychiczny: Jakaś ukryta część twojej psychiki została wytrącona z równowagi. Rzuć 3k6. Jeśli suma jest wyższa niż twoja maksymalna wartość WOL, nowy wynik staje się nową maksymalną wartością.                                                                                                                    |
 | 10  | Utrata kończyny: Kończyna została oderwana, jest kaleka lub bezużyteczna. Strażnik określi, która to kończyna. Następnie wykonaj rzut obronny WOL. Jeśli test się uda, zwiększ swoją maksymalną wartość WOL o 1k6.                                                                                                       |
-| 11  | Śmiertelna rana: Odczuwasz dyskomfort i zostajesz wyłączony z gry. Umierasz w ciągu godziny, chyba że zostaniesz uleczony. Po wyzdrowieniu, rzuć 2k6. Wynik staje się twoim nowym maksymalnym OCHR.                                                                                                                      |
-| 12  | Skazany na zagładę: Śmierć wydawała się bliska, ale jakoś udało ci się przeżyć. Jeśli twój następny rzut obronny przeciwko obrażeniom krytycznym jest nieudany, umierasz okropną śmiercią. Jeśli zdasz test, rzuć 3k6. Jeśli suma jest większa niż twoje maksymalne OCHR, weź nowy wynik jako aktualne, maksymalne OCHR. |
+| 11  | Śmiertelna rana: Odczuwasz dyskomfort i zostajesz wyłączony z gry. Umierasz w ciągu godziny, chyba że zostaniesz uleczony. Po wyzdrowieniu, rzuć 2k6. Wynik staje się twoją nową maksymalną OCHR.                                                                                                                        |
+| 12  | Skazany na zagładę: Śmierć wydawała się bliska, ale jakoś udało ci się przeżyć. Jeśli twój następny rzut obronny przeciwko obrażeniom krytycznym jest nieudany, umierasz okropną śmiercią. Jeśli zdasz test, rzuć 3k6. Jeśli suma jest większa niż twoje maksymalne OCHR, weź nowy wynik jako aktualną, maksymalną OCHR. |
 
 [powrót do indeksu](#indeks)
 <p></p>
@@ -814,7 +823,7 @@ Kiedy atak zredukuje OCHR postaci dokładnie do 0, postać zostaje nieodwracalni
 - Strzegą swoich skradzionych dóbr nawet za cenę życia.
 - Cenią księgi zaklęć; chętni na wymianę.
 
-**Mężczyźni w kapturach**  
+**Zakapturzeni**  
 12 OCHR, 9 SIŁ, 12 ZRE, 14 WOL, laska (k8), księga zaklęć (Wybierz jedno: _Urok, Hipnoza, Pchanie/Ciągnięcie, Tarcza_)
 {: .stat-block }
 
@@ -822,14 +831,14 @@ Kiedy atak zredukuje OCHR postaci dokładnie do 0, postać zostaje nieodwracalni
 - Obrażenia krytyczne: wysysa część duszy ofiary (1k4 obrażeń WOL).
 
 **Kamienne ogary**  
-12 OCHR, 2 Pancerz, 14 SIŁ, 1 ZRE, 8 WOL, gryzienie (k10)
+12 OCHR, 2 Pancerz, 14 SIŁ, 1 ZRE, 8 WOL, zęby (k10)
 {: .stat-block }
 
 - Nieruchome konstrukty zwykle używane jako strażnicy wielkich grobowców lub artefaktów.
-- Niewrażliwy na przyziemne techniki perswazji - ale uwielbia dobrą kość.
+- Niewrażliwe na przyziemne techniki perswazji - ale uwielbiają dobrą kość.
 
 **Troll Drzewny**  
-12 OCHR, 15 SIŁ, 12 ZRE, 7 WOL, pazury i gryzienie (k8+k8 Podmuch)
+12 OCHR, 15 SIŁ, 12 ZRE, 7 WOL, pazury i zęby (k8+k8 podmuch)
 {: .stat-block }
 
 - Zużywając jedną akcję, może odzyskać utracone punkty OCHR.
@@ -840,7 +849,7 @@ Kiedy atak zredukuje OCHR postaci dokładnie do 0, postać zostaje nieodwracalni
 {: .stat-block }
 
 - Piękne, amoralne i długowieczne.
-- Odporny na większość form magii.
+- Odporne na większość form magii.
 
 **Bogin**  
 3 OCHR, 4 SIŁ, 17 ZRE, 13 WOL
@@ -876,7 +885,7 @@ Punkty zdolności: 3 ubogi/niedostateczny, 6 słaby, 10 średni, 14 godny uwagi,
 - Większość humanoidów ma co najmniej 4 OCHR.
 - Można również użyć **Morale** jako punktu odniesienia.
 
-Niektóre wskazówki:  
+Wskazówki:  
 
 - Czy jest dobry w unikaniu trafienia? Daj mu OCHR.
 - Czy pochłania obrażenia? Daj mu Pancerz.
@@ -1056,6 +1065,6 @@ Jeśli atak spowoduje, że OCHR postaci spadnie dokładnie do 0, gracz rzuca na 
 
 Obrażenia, które zmniejszają OCHR celu **poniżej** 0 obniżają jego SIŁ o pozostałą ilość punktów. Następnie postać musi wykonać rzut obronny SIŁ aby uniknąć **obrażeń krytycznych**. Porażka eliminuje ją z walki i postać umiera bez natychmiastowej pomocy medycznej.
 
-SIŁ na poziomie 0 oznacza **śmierć**; ZRE na poziomie 0 to paraliż; jeśli twoja WOL wynosi 0 - majaczysz.
+SIŁ na poziomie 0 oznacza **śmierć**; ZRE na poziomie 0 to paraliż; jeśli twoja WOL wynosi 0 - szaleństwo.
 
 [powrót do indeksu](#indeks)
