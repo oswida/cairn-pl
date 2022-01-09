@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Beetle, Tiger
-3 HP, 6 STR, 12 DEX, 6 WIL, bite (d6)  
-- 4’ long striped beetles with strong mandibles.  
-- Eats other smaller creatures but sometimes hunts humans.  
+# Żuk, tygrysi
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+3 OCHR, 6 SIŁ, 12 ZRE, 6 WOL, zęby (k6)
+{: .stat-block }
+
+- Pasiaste chrząszcze o długości 1,2 metra, z silnymi żuchwami.  
+- Zjada inne mniejsze stworzenia, ale czasami poluje na ludzi.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Bear, Cave
-8 HP, 17 STR, claws (d10)  
-- Ferocious 15’ tall carnivorous bears who live in caves.  
-- Have poor eyesight, but track using smell.   Follow tracks of blood.  
-- Critical damage: Hug victims for d8 damage.  
+# Niedźwiedź, jaskiniowy
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+8 OCHR, 17 SIŁ, pazury (k10)
+{: .stat-block }
+
+- Groźne, wysokie na 4,5 metra niedźwiedzie mięsożerne, które mieszkają w jaskiniach.  
+- Mają słaby wzrok, ale tropią za pomocą węchu. Podążają za śladami krwi.  
+- Obrażenia krytyczne: chwyta ofiarę w uścisk zadając k8 obrażeń.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

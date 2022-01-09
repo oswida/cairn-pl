@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Bear, Grizzly
-6 HP, 15 STR, claws (d8)  
-- Aggressive, 9’ tall reddish-brown furred bears who live in mountains.   Prefer to eat meat.  
-- Frequently are found sleeping.  
+# Niedźwiedź , grizzly
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+6 OCHR, 15 SIŁ, pazury (k8)
+{: .stat-block }
+
+- Agresywne, wysokie na 2,5 metra niedźwiedzie o czerwono-brązowym futrze, które żyją w górach. Najchętniej jedzą mięso.
+- Często spotyka się je śpiące.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

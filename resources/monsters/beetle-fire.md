@@ -1,12 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Żuk, ognisty
 
-# Beetle, Fire
-2 HP, 4 STR, 12 DEX, 6 WIL, bite(d4)  
-- 3’ long beetles commonly found underground.  
-- Emits light through glands located in the abdomens and above the eyes.  
+2 OCHR, 4 SIŁ, 12 ZRE, 6 WOL, zęby (k4)
+{: .stat-block }
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+- Metrowej długości żuki powszechnie występujące pod ziemią.  
+- Emituje światło przez gruczoły znajdujące się w brzuchu i nad oczami.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

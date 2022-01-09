@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Basilisk
-6 HP, 12 STR, 13 DEX, bite (d10)  
-- Long, magical, serpentine lizards that dwell in caverns.  
-- Anyone who looks directly at them starts to get petrified.  
-- Critical damage: the victim gets petrified (d8+d8 DEX damage).  
+# Bazyliszek
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+6 OCHR, 12 SIŁ, 13 ZRE, zęby (k10)
+{: .stat-block }
+
+- Długie, magiczne, wężowate jaszczurki zamieszkujące jaskinie.
+- Każdy, kto patrzy bezpośrednio na bazyliszka, zaczyna zamieniać się w kamień.
+- Obrażenia krytyczne: ofiara zostaje zamieniona w kamień (obrażenia k8+k8 ZRE).  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

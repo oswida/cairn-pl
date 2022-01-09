@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Blink Dog
-3 HP, 14 DEX, bite (d6)  
-- Intelligent, fey-like dogs that live in packs.  
-- Teleport away in a blink after attacking.  
+# Migający pies  (Blink Dog)
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+3 OCHR, 14 ZRE, zęby (k6)
+{: .stat-block }
+
+- Inteligentne, nadnaturalne psy, które żyją w stadach.  
+- Tuż po ataku mogą teleportować się natychmiast w dowolne miejsce.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

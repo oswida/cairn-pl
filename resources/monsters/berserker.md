@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
 # Berserker
-4 HP, 1 Armor, 14 STR, battleaxe (d10, bulky)  
-- Tribal fighters who fight recklessly, never taking prisoners.  
-- Can enter in battle rage, enhancing all damage dealt and received.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+4 OCHR, 1 Pancerza, 14 SIŁ, topór bojowy (k10, nieporęczny)
+{: .stat-block }
+
+- Plemienni wojownicy, którzy walczą nie bacząc na niebezpieczeństwo i nigdy nie biorą jeńców.  
+- Potrafią wpaść w szał bitewny, zwiększając wszystkie zadawane i otrzymywane obrażenia (atak i obrażenia *wzmocnione*).  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

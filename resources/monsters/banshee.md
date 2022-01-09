@@ -1,13 +1,17 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Banshee
-7 HP, 3 Armor, 6 STR, 12 DEX,  14 WIL, ghostly touch (d8)  
-- Incorporeal feminine spirits that lingered after death and haunt the living.  
-- Unharmed by cold, heat, or the elements.  
-- Critical damage: Their wailing freezes the victim’s soul (d8 WIL damage).  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+# Banshee
+
+7 OCHR, 3 Pancerza, 6 SIŁ, 12 ZRE,  14 WOL, upiorny dotyk (k8)
+{: .stat-block }
+
+- Bezcielesne duchy kobiece, które pozostają w naszym świecie po śmierci i nawiedzają żywych.
+- Odporne na zimno, gorąco i żywioły.
+- Obrażenia krytyczne: ich lament mrozi duszę ofiary (obrażenia k8 WOL).
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

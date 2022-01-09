@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Bear, Polar
-7 HP, 16 STR, claws (d8)  
-- 11’ tall white-furred bears who live in cold regions, eat mostly fish.  
-- Excellent at swimming.  
-- Can move effortlessly through snow and ice.  
+# Niedźwiedź, polarny
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+7 OCHR, 16 SIŁ, pazury (k8)
+{: .stat-block }
+
+- Wysokie na 3 metry niedźwiedzie o białej sierści, które żyją w zimnych regionach. Jedzą głównie ryby.  
+- Świetnie pływają.  
+- Mogą poruszać się bez wysiłku po śniegu i lodzie.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Czarny Pudding (Black Pudding)
 
-# Black Pudding
-10 HP, 5 DEX, devouring touch (d8)  
-- Huge, brainless blobs of black jelly driven by unstoppable hunger.  
-- Can only be harmed by flames.  
-- Can move in walls and ceilings and squeeze through small holes.  
+10 OCHR, 5 ZRE, pochłaniający dotyk (k8)
+{: .stat-block }
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+- Ogromne, bezmózgie plamy czarnej galarety ogarnięte niepohamowanym głodem.
+- Zranić je może tylko płomień.  
+- Potrafi poruszać się po ścianach i sufitach oraz przeciskać się przez małe otwory.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)
