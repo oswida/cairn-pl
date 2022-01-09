@@ -1,8 +1,3 @@
----
-layout: default
-title: Bestiariusz
-parent: Zasoby
----
 # Bestiariusz
 
 ## Akolita

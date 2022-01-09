@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
+parent: Bestiariusz
 grand_parent: Zasoby
 ---
 
-# Acolyte  
-4 HP, 1 Armor, 14 WIL, mace (d6), Holy Symbol (_Ward_ once per day)  
-- Holy men & women in a quest for their deity.  
-- Normally travel in groups of 4+.  
+# Akolita
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+4 OCHR, 1 Pancerza, 14 WOL, maczuga (k6), święty symbol (_Krąg ochronny_ raz dziennie)
+{: .stat-block }
+
+- Święci mężczyźni i kobiety wykonujący zadania lub poszukujący swojego bóstwa.  
+- Zazwyczaj podróżują w grupach po 4 osoby.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

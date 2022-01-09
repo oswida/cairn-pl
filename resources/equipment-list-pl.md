@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Lista ekwipunku
+title: Dodatkowy ekwipunek
 parent: Zasoby
 ---
 
-# Lista ekwipunku
+# Dodatkowy ekwipunek
 
 Ceny przedmiotów podane w sztukach złota.  
 Lista poniższa nie zmienia żadnego z przedmiotów wymienionych w SRD, dodaje tylko nowe. Główną inspiracją tego dokumentu jest cennik OSE [Old School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) oraz [strona K. Chapmana](https://kimberlychapman.com/rpg/equipment.html).

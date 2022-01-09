@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
 # Ankheg
-7 HP, 2 Armor, 16 STR, 8 WIL, bite (d8)  
-- Huge insectoids with multiple legs and shiny black eyes.  
-- Stay burrowed just beneath the surfaces to ambush creatures walking above.  
-- Squirts acid on distant enemies for d10 damage.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+7 OCHR, 2 Pancerza, 16 SIŁ, 8 WOL, zęby (k8)
+{: .stat-block }
+
+- Ogromne insektoidy z wieloma nogami i błyszczącymi czarnymi oczami.
+- Zagrzebują się tuż pod powierzchnią ziemi, aby zasadzać się na chodzące nad nimi stworzenia.  
+- Pryska kwasem na oddalonych wrogów, zadając k10 obrażeń.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)
