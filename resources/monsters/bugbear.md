@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Bugbear
-4 HP, 1 Armor, 14 DEX, club (d8, bulky)  
-- Large, hairy, goblinoid-like creatures.  
-- Use stealth to surprise and attack their victims.  
+# Postrach
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+4 OCHR, 1 Pancerza, 14 ZRE, pałka (k8, nieporęczna)
+{: .stat-block }
+
+- Duże, owłosione, goblinopodobne stworzenia.  
+- Zazwyczaj skradają się, aby zaskoczyć i zaatakować swoje ofiary.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

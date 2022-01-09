@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Blood Elk
-4 HP, 12 STR, 13 DEX, 5 WIL, horns (d8)
-- Born from a greedy, selfish act.
-- Attacks & kills to eat meat, but gains no sustenance.
-- Critical damage: gores its victims by ripping out their entrails.
+# Krwawy łoś
 
-author: [Yochai Gal](https://newschoolrevolution.com)
+4 OCHR, 12 SIŁ, 13 ZRE, 5 WOL, rogi (k8)
+{: .stat-block }
+
+- Zrodzony z chciwego, egoistycznego działania.
+- Atakuje i zabija, aby zjeść mięso, ale nie zaspokaja w ten sposób głodu.
+- Obrażenia krytyczne: pożera swoje ofiary, wyrywając im wnętrzności.
+
+autor: [Yochai Gal](https://newschoolrevolution.com)

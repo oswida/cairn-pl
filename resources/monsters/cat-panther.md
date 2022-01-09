@@ -1,12 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources 
---- 
+parent: Bestiariusz
+grand_parent: Zasoby
+---
+# Pantera
 
-# Cat, Panther
-4 HP, 14 DEX, bite (d8)  
-- Dark furred cats that live on forests and plains.  
-- Hunts medium or small-sized animals, using their high speed in their favor.  
+4 OCHR, 14 ZRE, zęby (k8)
+{: .stat-block }
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+- Koty o ciemnym futrze, które żyją w lasach i na równinach.
+- Poluje na średniej i małej wielkości zwierzęta, wykorzystując swoją szybkość.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

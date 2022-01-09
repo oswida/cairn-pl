@@ -1,12 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Korsarz
 
-# Buccaneer
-4 HP, 14 DEX, 12 WIL, scimitar (d6)  
-- Outlaw sailors who raid coastal settlements and board other ships.  
-- Travel in large ship crews, only fighting in clear advantage, generally numerical.  
+4 OCHR, 14 ZRE, 12 WOL, bułat (k6)
+{: .stat-block }
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+- Wyjęci spod prawa marynarze, którzy napadają na przybrzeżne osady i abordażują inne statki.  
+- Podróżują z dużymi załogami, walcząc tylko wtedy, gdy mają dużą przewagę liczebną.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

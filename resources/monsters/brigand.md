@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Brigand
-4 HP, 1 Armor, shortsword (d6) or short bow (d6)  
-- Outlaws and mercenaries who raid settlements and ambush travelers.  
-- Travel in large groups of at least one detachment.  
-- For each detachment of regular brigands, there’s one leader who has chainmail (2 Armor) and a longsword (d8).  
+# Rozbójnik
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+4 OCHR, 1 Pancerza, shortsword (k6) or short bow (k6)
+{: .stat-block }
+
+- Banici i najemnicy, którzy napadają na osady i zasadzają się na podróżnych.  
+- Podróżują w dużych grupach, składających się z co najmniej jednego oddziału.  
+- Na każdy oddział zwykłych rozbójników przypada jeden przywódca, który posiada kolczugę (2 Pancerza) i miecz długi (k8).  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

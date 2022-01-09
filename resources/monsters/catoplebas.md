@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Catoplebas
-7 HP, 13 STR, tail(d8)  
-- Monstrous creatures with a long, bony tail, a bloated body, short and stumpy legs, a long neck, and a boar-like head.   Dwell in swamps.  
-- Critical damage: the tail renders the victim stunned (d8 DEX damage).  
+# Katoblepas
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+7 OCHR, 13 SIŁ, ogon (k8)  
+{: .stat-block }
+
+- Dziwaczne stwory z długim, kościstym ogonem, rozdętym ciałem, krótkimi i chudymi nogami, długą szyją i głową przypominającą głowę dzika. Mieszkają na bagnach.  
+- Obrażenia krytyczne: ogon ogłusza ofiarę (k8 obrażeń ZRE).
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

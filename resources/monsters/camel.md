@@ -1,13 +1,17 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Camel
-3 HP, 15 STR, bite (d6)  
-- Beasts of burden native to dry lands.  
-- Might go weeks without water after being properly sated.  
-- Moves through sand and broken ground without difficulty.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+# Wielbłąd
+
+3 OCHR, 15 SIŁ, zęby (k6)
+{: .stat-block }
+
+- Zwierzęta juczne pochodzące z suchych krain.
+- Po odpowiednim napojeniu może tygodniami obywać się bez wody.  
+- Bez problemu porusza się po piasku i spękanej ziemi.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

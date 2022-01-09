@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Boar
-3 HP, 12 STR, 6 WIL, tusks (d6)  
-- Omnivorous wild boars that dwell primarily in forests.  
-- Not naturally aggressive, but can be dangerous if disturbed.  
+# Dzik
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+3 OCHR, 12 SIŁ, 6 WOL, kły (k6)
+{: .stat-block }
+
+- Wszystkożerne dziki, które zamieszkują głównie lasy.
+- Nie jest naturalnie agresywny, ale może być niebezpieczny jeśli zakłócisz mu spokój.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

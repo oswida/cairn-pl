@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources 
---- 
+parent: Bestiariusz
+grand_parent: Zasoby
+---
 
 # Centaur
-4 HP, 1 Armor, 12 STR, 12 DEX, 13 WIL, spear or short bow (d6)  
-- Creatures with the lower body and legs of a horse and the upper body and head of a human.  
-- Live in small tribes hidden amidst dense forests with labyrinthic paths.  
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+4 OCHR, 1 Pancerza, 12 SIŁ, 12 ZRE, 13 WOL, włócznia lub krótki łuk (k6)  
+{: .stat-block }
+
+- Stworzenia o dolnej części ciała i nogach konia oraz górnej części ciała i głowie człowieka.  
+- Żyją w małych plemionach, ukryte wśród gęstych lasów.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

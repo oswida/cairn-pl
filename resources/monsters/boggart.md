@@ -1,14 +1,17 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Boggart
-3 HP, 4 STR, 17 DEX, 13 WIL  
-- A wild, hairy trickster that takes pleasure in being a minor nuisance.  
-- Prizes relics and shiny trinkets above all else but unwilling to trade for coin.  
-- Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.  
 
+# Bogin
 
-source: [SRD](/cairn-srd#Bestiary)
+3 OCHR, 4 SIŁ, 17 ZRE, 13 WOL
+{: .stat-block }
+
+- Dziki, włochaty oszust, który czerpie przyjemność z utrudniania życia innym.
+- Ceni artefakty i błyszczące bibeloty, ale nie chce wymieniać ich na monety.
+- Boginy mają imiona, które opisują ich prawdziwą naturę. Znajomość ich prawdziwego imienia pozwala kontrolować Bogina.
+
+source: [SRD](./cairn-srd-pl.md#bestiariusz)

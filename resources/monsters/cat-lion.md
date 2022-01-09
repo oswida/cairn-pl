@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Lew
 
-# Cat, Lion
-5 HP, 12 STR, 12 DEX, bite (d10)  
-- Hunts in groups called pride. Live in savannahs or other similar drylands.  
-- Carnivorous. Prefer to eat bovines but might hunt even humans.  
-- Always chase prey that flees.  
+5 OCHR, 12 SIŁ, 12 ZRE, zęby (k10)
+{: .stat-block }
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+- Poluje w grupach. Żyją na sawannach lub innych podobnych suchych terenach.  
+- Mięsożerne. Preferuje bydło, ale może też upolować człowieka.  
+- Zawsze goni uciekającą ofiarę.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

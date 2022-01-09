@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Cat, Sabre-Toothed Tiger
-8 HP, STR 15, bite (d10)  
-- Huge, aggressive cats with foot-long fangs.  
-- Extremely rare, generally found in regions untouched by civilization.  
+# Tygrys szablozębny
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+8 OCHR, SIŁ 15, zęby (k10)
+{: .stat-block }
+
+- Ogromne, agresywne koty z kłami długimi na stopę.  
+- Niezwykle rzadki, zazwyczaj występuje w regionach nietkniętych przez cywilizację.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

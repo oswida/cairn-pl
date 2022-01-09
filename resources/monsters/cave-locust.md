@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources 
---- 
+parent: Bestiariusz
+grand_parent: Zasoby
+---
 
-# Cave Locust
-2 HP, 6 STR, 12 DEX, bite (d4)  
-- Giant, herbivorous crickets that dwell in caves.   Easily blend into stone due to their natural coloration.  
-- Emits loud shrieks when threatened, possibly alerting other nearby creatures.  
-- Immune to most types of poison.  
+# Szarańcza jaskiniowa
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+2 OCHR, 6 SIŁ, 12 ZRE, zęby (k4)  
+{: .stat-block }
+
+- Olbrzymie, roślinożerne świerszcze, które zamieszkują jaskinie. Dzięki swojemu naturalnemu ubarwieniu łatwo maskują się na kamiennym podłożu.  
+- W sytuacji zagrożenia emitują głośne wrzaski alarmując stworzenia w pobliżu.  
+- Odporne na większość rodzajów trucizn.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

@@ -1,12 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources 
---- 
+parent: Bestiariusz
+grand_parent: Zasoby
+---
+# Tygrys
 
-# Cat, Tiger
-6 HP, 14 STR, 14 DEX, bite (d8)  
-- Large, with striped fur.   Live in woodlands and colder regions.  
-- Hunt alone, using their coloration to camouflage and surprise their victims.  
+6 OCHR, 14 SIŁ, 14 ZRE, zęby (k8)
+{: .stat-block }
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+- Duże koty o prążkowanym futrze. Żyją w lasach i chłodniejszych regionach.  
+- Polują samotnie, wykorzystując swoje ubarwienie do kamuflażu i zaskakiwania swoich ofiar.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)
