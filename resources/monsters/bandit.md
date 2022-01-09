@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Bandit
-4 HP, 14 DEX, dagger (d6)  
-- Thieves who will value money over anything.  
-- Use disguises, stealth, and trickery to surprise victims.  
+# Bandyta
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+4 OCHR, 14 ZRE, sztylet (k6)
+{: .stat-block }
+
+- Złodzieje, którzy cenią pieniądze ponad wszystko.  
+- Używają przebrań, skradania się i podstępu, aby zaskoczyć swe ofiary.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

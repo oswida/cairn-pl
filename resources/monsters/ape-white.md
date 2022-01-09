@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Ape, White
-5 HP, 14 STR, claws (d6+d6)  
-- Albino gorillas with nocturnal habits.  
-- Defend their territory with threats and then violence.  
-- Throw rocks at enemies for d6 damage.  
+# Małpa, biała
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+5 OCHR, 14 SIŁ, pazury (k6+k6)
+{: .stat-block }
+
+- Goryle albinosy o nocnym cyklu życia.
+- Bronią swojego terytorium za pomocą gróźb, a następnie przemocy.  
+- Rzucają kamieniami w przeciwników, zadając im k6 obrażeń.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)
