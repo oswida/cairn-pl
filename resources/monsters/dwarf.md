@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Dwarf
-4 HP, 2 Armor, 14 STR, hammer (d8)  
-- Short and bulky, bearded humanoids who dwell in mountains and underground.  
-- Can see perfectly in low-light and partially in darkness.  
-- Highly resistant to poison and disease.  
+# Krasnolud
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+4 OCHR, 2 Pancerza, 14 SIŁ, młot (k8)  
+{: .stat-block }
+
+- Niskie i niezgrabne, brodate humanoidy, które zamieszkują góry i podziemia.
+- Doskonale widzą w słabym oświetleniu i częściowo w ciemności.  
+- Wysoce odporne na trucizny i choroby.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

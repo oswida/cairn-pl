@@ -1,12 +1,18 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources 
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
+
 # Draugr
-12 HP, 2 Armor, 15 STR, 9 DEX, 13 WIL, rusty broadsword (d8)
-- Undead horror made of withered flesh. Rises from those killed in battle and left to rot.
-- Critical damage: target is instantly  killed, only to rise later as a Thrall.
-- Upon hearing its name, the Draugr must make a WIL save or return to corpse-form.
-- Must be buried lying down or will soon return to undeath.
+
+12 OCHR, 2 Pancerza, 15 SIŁ, 9 ZRE, 13 WOL, zardzewiały miecz (k8)  
+{: .stat-block }
+
+- Nieumarły horror stworzony z wyschniętego ciała. Powstaje z tych, którzy polegli w bitwie i nie zostali pochowani.
+- Obrażenia krytyczne: cel zostaje natychmiast uśmiercony, by później zmartwychwstać jako Thrall.
+- Jeśli ktoś zna imię poległego i wypowie je, Draugr musi zdać test WOL lub powrócić do formy trupa.
+- Musi być pochowany w pozycji leżącej, inaczej w krótkim czasie znowu powstanie z martwych.
+
+autor: [Yochai Gal](https://newschoolrevolution.com)

@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Drow
-4 HP, 8 STR, 14 DEX, 12 WIL, shortsword (d6), a Spellbook (choose one: Web, Spider Climb, or Night Sphere)  
-- Elvish humanoids of dark skin and hair of silver and white.   Live deep in the underworld and feverishly worship strange deities.  
-- Can see perfectly in the dark, but are blinded by bright light.  
-- Wander in groups, frequently accompanied by giant spiders.  
+# Mroczny elf (Drow)
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+4 OCHR, 8 SIŁ, 14 ZRE, 12 WOL, krótki miecz (k6), księga zaklęć (wybierz jedno: Sieć, Pajęcza wspinaczka lub Nocna sfera)  
+{: .stat-block }
+
+- Elfickie humanoidy o ciemnej skórze i włosach koloru srebrnego i białego.   Żyją głęboko w podziemiach i gorączkowo oddają cześć dziwnym bóstwom.  
+- Doskonale widzą w ciemności, ale oślepia je jasne światło.  
+- Podróżują w grupach, często w towarzystwie gigantycznych pająków.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

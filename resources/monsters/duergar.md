@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
 # Duergar
-4 HP, 1 Armor, 14 STR, 8 WIL, Warhammer (d10, bulky)  
-- Scrawny dwarven creatures with grey skin and ugly visages.   Dwell in underworld strongholds and are known for their avarice.  
-- Can see perfectly in the dark, but are blinded by bright light.  
- - Surprise victims using their ability to turn invisible for a short time.   
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+4 OCHR, 1 Pancerza, 14 SIŁ, 8 WOL, młot bojowy (k10, nieporęczny)  
+{: .stat-block }
+
+- Chude krasnoludzkie stwory o szarej skórze i brzydkiej twarzy.   Mieszkają w podziemnych twierdzach i są znane z chciwości.  
+- Doskonale widzą w ciemności, ale jasne światło je oślepia.  
+- Mogą stawać się niewidzialne na krótki czas a przez to zaskakują swoje ofiary.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

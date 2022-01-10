@@ -1,13 +1,17 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Drider
-6 HP, 14 DEX, bite (d6)  
-- Hybrid monstrosities resulting from the transformation ritual of the servants of the Drow spider deity.   Have the 8 legs of a giant spider and the upper body and head of the Drow.  
-- Hunt on underworld caverns, eating the blood of paralyzed victims.   Frequently accompanied by giant spiders.  
-- Critical Damage: The poison paralyzes the victim’s body (d6 DEX damage).  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+# Drider
+
+6 OCHR, 14 ZRE, zęby (k6)  
+{: .stat-block }
+
+- Monstrum powstałe w wyniku rytuału transformacji sługi pajęczego bóstwa Mrocznych Elfów. Posiada 8 nóg gigantycznego pająka oraz górną część ciała i głowę Drowa.  
+- Polują w podziemnych jaskiniach, żywiąc się krwią sparaliżowanych ofiar. Często towarzyszą im gigantyczne pająki.  
+- Obrażenia krytyczne: Trucizna paraliżuje ciało ofiary (k6 obrażeń ZRE).  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)
