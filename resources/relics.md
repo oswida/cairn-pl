@@ -75,32 +75,38 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 #### Skrzydło szeptów Whisperwing, 3 ładunki
 
 - Brązowo-kremowe skrzydło ćmy zamknięte w małym pudełku wykonanym z żołędzia. Uwolnienie skrzydła z pudełka wycisza wszystkie pobliskie hałasy na czas potrzebny do opadnięcia na ziemię.
-- **Doładowanie**: Find a Whispermoth and convince it to trade you for one of its own wings. They tend to be understanding and agreeable, as long as you make the trade with a delicate hand and speak in a hushed voice.
+- **Doładowanie**: Znajdź Szepczącą Ćmę i przekonaj ją, aby przehandlowała jedno ze swoich skrzydeł. Ćmy są zazwyczaj wyrozumiałe i chętne do współpracy, o ile dokonasz wymiany delikatnie i będziesz mówił cichym głosem.
 
-#### Peregrine Pellets, 3 uses
-- A snakeskin pouch with three large bird pellets inside. They smell of tobacco. When the pellet is torn in half and consumed by two people, they learn a common, secret language that only the pair can understand.
-- The aesthetics of the language are peculiar to that pair. It may be communicated through sound or gesture, but there is no written version. The language cannot be deciphered by anyone else through mundane or magical means, and it cannot be taught to anyone but the original pair.
+#### Granulki wędrowca, 3 użycia
 
-#### Birch Barque, 1 charge
-- A folded sheet of pure white tree bark. When refolded into a toy dinghy and placed in a body of water it grows into a sturdy 8-footer with a remarkable resistance to capsizing, even in the roughest of waters. When you finish your journey, the bark will unfold back to its normal size, now soaked through and useless.
-- **Doładowanie**: Catch a fish under the full moon from a sacred pool or river. Wrap it in the bark and cook it, then give the fish back to the water. The bark will float back to the surface, pure white and whole once more.
+- Woreczek z wężowej skóry z trzema dużymi ptasimi granulkami w środku. Pachną one tytoniem. Kiedy granulat zostanie rozerwany na pół i zjedzony przez dwie osoby, uczą się one wspólnego, sekretnego języka, który rozumie tylko ta para.
+- Język jest specyficzny dla tej konkretnej pary. Można się nim porozumiewać za pomocą dźwięku lub gestów, ale nie ma wersji pisanej. Język ten nie może być rozszyfrowany przez nikogo innego za pomocą zwykłych lub magicznych środków i nie może być nauczany przez nikogo poza oryginalną parą.
 
-#### Frostberry Sprig, 4 ładunki
-- A small branch from a dark-leaved bush, laden with 4 ice-blue berries. The core of the branch is still green and lively. Plucking a berry and crushing it releases a blast of chill that leaves your fingers frostbitten. It might be useful to extinguish a fire, obscure someone's vision with rime, or momentarily freeze a limb in place.
-- **Doładowanie**: Plant the end of the branch in the carcass of a freshly-killed hare, then let it sprout outdoors over three nights, undisturbed in the bitter cold. On the third morning, you will find the hare whole and healthy, nibbling at the leaves, and d6 fresh frostberries.
+#### Brzozowa barka, 1 ładunek
 
-#### Crooked Canteen, 3 ładunki
-- A large flask, made of polished, deeply furrowed wood. The cap is attached by a silver ring, held closed with a pin. At the cost of one charge, twist the pin;  whatever fluid is inside is replaced with half a canteen-full of water. Twist it back, and the original fluid reappears. Handy for carrying extra water on journeys, hiding your best brandy from your fellow adventurers, or to convince a rival that there really isn't any poison in there, after all.
-- **Doładowanie**: Dowse and dig out a fresh well or untouched spring, or any source of water that has never before passed mortal lips. Fill the Canteen to the brim.
+- Złożony arkusz czystej, białej kory drzewnej. Po złożeniu w zabawkowy ponton i umieszczeniu go w zbiorniku wodnym, wyrasta on na mocny, 2,5-metrowy ponton, którego nie można wywrócić nawet na najbardziej wzburzonych wodach. Kiedy zakończysz swoją podróż, kora rozłoży się z powrotem do swoich normalnych rozmiarów, przemoczona i bezużyteczna.
+- **Doładowanie**: Złap rybę podczas pełni księżyca ze świętego basenu lub rzeki. Zawiń ją w zużytą korę i ugotuj, a następnie całość wrzuć z powrotem do wody. Kora wypłynie na powierzchnię, będzie czysto biała i znów gotowa do użycia.
 
-#### Bidding Bones, 3 ładunki
-- A pair of graying deer ribs cut to size for rhythmic performance. One has a crude skull etched into its surface, the other a skeletal hand. When played, they can be used to control the bones of another creature. If they still live, the effect is brief, a single instant of abrupt bodily control that may only be enough to foil another physical action. If they are dead or undead, the effect lasts for as long as the bearer can continue playing.
-- **Doładowanie**: Stand at the edge of the dark wood, and throw one of the Bones overhand as far as you can into the tangle. Keep your eyes tightly shut as you enter to recover it. Do not peek, and do not respond to the taunting whispers of the dead that greet you.
+#### Gałązka mrozu, 4 ładunki
 
-#### Grand Gob's Seal, 1 charge
-- A wax stamp made of rocks, sticks, a bird skull and a rat tail. A paper stamped with this seal in greenish-yellow wax will be considered by any goblin as an order from the Grand Gob themself.
-- At the cost of a charge, stamp a schematic describing a wondrous contraption or magical item, and gather a pile of shiny stones, straw, bugs, fungi, or the like into a pile vaguely shaped like said item. The pile binds together, and functions as the item described for about an hour. It then fails catastrophically.
-- **Doładowanie**: Supplicate before the Grand Gob, describing in flowery terms how inferior you and your fellows are to their magnificence. Beg a boon of them - if impressed, they will provide a small, probably slimy token to tack onto the seal.
+- Mała gałązka z ciemnolistnego krzewu, obłożona czterema lodowo-niebieskimi jagodami. Rdzeń gałązki jest jeszcze zielony i żywy. Zerwanie jagody i zmiażdżenie jej powoduje podmuch chłodu, który powoduje odmrożenie palców. Może się przydać do ugaszenia ognia, zasłonięcia komuś wzroku szronem lub chwilowego zamrożenia kończyny.
+- **Doładowanie**: Zasadź koniec gałązki w ciele świeżo zabitego zająca, a następnie pozwól jej kiełkować na zewnątrz przez trzy noce, bez przeszkód, na siarczystym mrozie. Trzeciego ranka znajdziesz zająca całego i zdrowego, skubiącego liście i k6 świeżych _Gałązek mrozu_.
+
+#### Krzywy Róg, 3 ładunki
+
+- Duża butla, wykonana z polerowanego, głęboko bruzdowanego drewna. Zakrętka jest przymocowana za pomocą srebrnego pierścienia i zamknięta szpilką. Za cenę jednego ładunku, przekręć zawleczkę; jakikolwiek płyn jest w środku, zostaje zastąpiony połową manierki wody. Przekręć go z powrotem, a oryginalny płyn pojawi się ponownie. Przydatny do noszenia dodatkowej wody podczas podróży, ukrywania najlepszej brandy przed innymi poszukiwaczami przygód lub do przekonania rywala, że w środku nie ma trucizny.
+- **Doładowanie**: znajdź nietknięte źródło, wykop świeżą studnie lub odkryj jakiekolwiek źródło wody, która nigdy wcześniej nie przeszła przez usta śmiertelnika. Napełnij manierkę po brzegi.
+
+#### Kości rozkazu, 3 ładunki
+
+- Para poszarzałych żeberek jelenia, przyciętych taj, aby można było nimi wybijać rytm. Jedno z nich ma wyrytą na powierzchni surową czaszkę, drugie szkieletową rękę. Kiedy się nimi zagra, można ich użyć do kontrolowania kości innego stworzenia. Jeśli ofiara nadal żyje, efekt jest krótkotrwały, jedna chwila nagłej kontroli nad ciałem, która może wystarczyć tylko do udaremnienia innej akcji fizycznej. Jeśli ofiara jest martwa lub nieumarła, efekt trwa tak długo, jak długo posiadacz może kontynuować grę.
+- **Doładowanie**: Stań na skraju ciemnego lasu i rzuć jedną z kości w gęstwinę tak daleko, jak tylko zdołasz. Trzymaj oczy zamknięte, gdy będziesz wchodził do lasu, by odzyskać kość. Nie podglądaj i nie reaguj na szydercze szepty zmarłych, którzy cię pozdrawiają.
+
+#### Pieczęć Wielkiego Goba, 1 ładunek
+
+- Woskowa pieczęć wykonana z kamieni, patyków, czaszki ptaka i ogona szczura. Papier z tą pieczęcią w zielonkawo-żółtym wosku każdy goblin uzna za rozkaz od samego Wielkiego Goba.
+- Za jeden ładunek, podstempluj schemat opisujący cudowny wynalazek lub magiczny przedmiot i zbierz kupkę błyszczących kamieni, słomy, robaków, grzybów i tym podobnych w stos o kształcie zbliżonym do tego przedmiotu. Materiały łączą się razem i działają jak opisany przedmiot przez około godzinę. Następnie urządzenie ulega katastrofalnej awarii.
+- **Doładowanie**: Błagaj o pomoc Wielkiego Goba, opisując w kwiecistych słowach, jak bardzo ty i twoi pobratymcy jesteście gorsi od jego wspaniałej osoby. Poproś o łaskę - jeśli zrobisz na Gobie odpowiednie wrażenie, da ci mały, prawdopodobnie oślizgły żeton, który przylepisz do pieczęci.
 
 ### From [Ialath](https://ialath.com/)
 #### Skull Cap, 1 charge
