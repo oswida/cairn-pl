@@ -4,8 +4,9 @@ title: Artefakty
 parent: Zasoby
 ---
 
-# Artefakty
-Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleniem.
+# Artefakty (w trakcie tłumaczenia)
+
+Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleniem autorów.
 
 ### [Glass Bird Games](https://glassbirdgames.blogspot.com/)
 
