@@ -52,23 +52,28 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 - Złożony arkusz wodoodpornego welinu, brązowy i mocno znoszony. Po otwarciu, na jego powierzchni pokazuje się mapa lokalnego regionu, ukazując główne cechy geograficzne i wszystkie pobliskie osady. Kosztem jednego ładunku można wpisać nazwę miejsca, które nie pojawia się na mapie, ale wiadomo, że istnieje gdzieś w regionie. Napis przesunie się, zatrzymując się na rzeczywistej lokalizacji tego miejsca na mapie. Napis pojawia się spontanicznie na wszystkich pozostałych istniejących mapach regionu.
 - **Doładowanie**: Zaśnij z mapą pod poduszką. Kiedy się obudzisz, mapa usunie z twojej pamięci lokalizację ważnego dla ciebie miejsca, miejsca które nie jest powszechnie znane.
 
-#### Sack of Schemes, 1 charge
-- A rust-colored suede bag that hosts a mischievous spirit and its host body, a random animal no larger than a dog. The host body shrinks to the size of a walnut while it is inside the bag, growing back to its normal size when it is released. After release, the spirit can be commanded for an hour, after which it will act according to its own capricious will. The spirit can speak in a wry, singsong voice regardless of its host body. If harm comes to its host body while or after it's been possessed, the spirit will become hostile toward the bearer.
-- **Doładowanie**: Return the spirit to the sack. Its host body is spit out unharmed, the spirit bored of its form. An appropriately-sized creature of a species the spirit has never possessed before must be captured in the sack before it can be released again.
+#### Worek knowań, 1 ładunek
 
-#### Mug of Good Health, 3 ładunki
-- An oversized mug of cracked earthenware. When filled and raised with a hearty toast, everything in earshot capable of hearing must pause what they're doing for a moment and return the toast, raising whatever item they hold in their hand.
-- **Doładowanie**: Offer to share a drink with a hostile creature, then convince them to agree of their own free will.
+- Zamszowa torba w kolorze rdzy, w której znajduje się psotny duch i jego ciało - losowe zwierzę, nie większe niż pies. Ciało gospodarza kurczy się do rozmiarów orzecha włoskiego, gdy jest w torbie, a po uwolnieniu wraca do normalnych rozmiarów. Po uwolnieniu, duch może być kontrolowany przez godzinę, po czym będzie działał według własnej kapryśnej woli. Duch może przemawiać skrzekliwym, śpiewnym głosem niezależnie od ciała gospodarza. Jeśli w czasie lub po opętaniu ciału gospodarza stanie się krzywda, duch stanie się wrogo nastawiony do właściciela torby.
+- **Doładowanie**: Wsadź ducha z powrotem do worka. Ciało gospodarza zostaje wyplute bez szwanku, duchowi znudziła się jego forma. Aby go ponownie uwolnić ducha należy schwytać w worek stworzenie odpowiedniej wielkości  z gatunku, którego duch nigdy wcześniej nie posiadał.
 
-#### Wrenpenny Bit
-- A small copper piece in the local style, save the chubby little wren printed on its transverse. Its most recent previous owner always has an instinctive idea of the direction the coin lies in, and in their presence it will let out a chittering birdsong.
+#### Kufel dobrego zdrowia, 3 ładunki
 
-#### Sanguine Lantern
-- A rectangular lantern with frosted, brown-stained glass. It's sealed tightly, with angular symbols scratched into the joints. A small reservoir on top feeds fuel to the petty Fae sealed inside, who illuminates the lamp with a pure white light.
-- The only fuel the Fae accepts is a good quantity of blood from whoever will be carrying the lantern (d4 STR damage for an hour of light). It gets irritated by attempts to trick it with other blood, and may attempt an escape if aggravated enough.
+- Ponadwymiarowy kufel z popękanej glinianej zastawy. Po napełnieniu i wzniesieniu toastu, każdy, kto jest w stanie usłyszeć, musi na chwilę przerwać to, co robi i odwzajemnić toast, podnosząc przedmiot, który trzyma w ręku.
+- **Doładowanie**: Zaproponuj, że podzielisz się drinkiem z wrogim stworzeniem, a następnie przekonaj je, aby zgodziło się z własnej woli.
 
-#### Whisperwing, 3 ładunki
-- A brown and cream moth wing contained in a small box fashioned from an acorn. Releasing the wing from the box mutes all nearby noise for the time it takes to flutter to the ground.
+#### Strzyżykowy miedziak
+
+- Mała miedziana moneta w lokalnej walucie, z wyjątkiem małego, pyzatego strzyżyka wygrawerowanego na jej awersie. Jej ostatni właściciel zawsze ma instynktowne pojęcie, w którym kierunku leży moneta, i w jego obecności wydaje ona z siebie świergotliwy ptasi śpiew.
+
+#### Krwista latarnia
+
+- Prostokątna latarnia z oszronionym, zabarwionym na brązowo szkłem. Jest szczelnie zamknięta, z kanciastymi symbolami wydrapanymi na łączeniach. Mały zbiorniczek na górze podaje paliwo zamkniętej wewnątrz drobnej wróżce, która oświetla lampion czystym białym światłem.
+- Jedynym paliwem, które wróżka akceptuje, jest spora ilość krwi tego, kto będzie niósł latarnię (k4 obrażeń SIŁ za godzinę światła). Wróżka irytuje się, gdy próbuje się ją oszukać inną krwią i może próbować uciec, jeśli jest wystarczająco zdenerwowana.
+
+#### Skrzydło szeptów Whisperwing, 3 ładunki
+
+- Brązowo-kremowe skrzydło ćmy zamknięte w małym pudełku wykonanym z żołędzia. Uwolnienie skrzydła z pudełka wycisza wszystkie pobliskie hałasy na czas potrzebny do opadnięcia na ziemię.
 - **Doładowanie**: Find a Whispermoth and convince it to trade you for one of its own wings. They tend to be understanding and agreeable, as long as you make the trade with a delicate hand and speak in a hushed voice.
 
 #### Peregrine Pellets, 3 uses

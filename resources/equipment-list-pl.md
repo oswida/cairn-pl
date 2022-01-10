@@ -9,7 +9,6 @@ parent: Zasoby
 Ceny przedmiotów podane w sztukach złota.  
 Lista poniższa nie zmienia żadnego z przedmiotów wymienionych w SRD, dodaje tylko nowe. Główną inspiracją tego dokumentu jest cennik OSE [Old School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php/Main_Page) oraz [strona K. Chapmana](https://kimberlychapman.com/rpg/equipment.html).
 
-
 ## Budynki - struktury podstawowe
 
 |                         |          |                     |          |
@@ -96,7 +95,9 @@ Pierwsza wartość oznacza wynagrodzenie za tydzień, druga to procent od skarbu
 | Łucznik (długi łuk), elf      | 20 / 4%                     | Piechur, lekki, goblin     | 1 / 0.2%                    |
 | Łucznik, człowiek             | 5 / 1%                      | Piechur, lekki, ork        | 1 / 0.2%                    |
 
-# Najemni specjaliści
+## Najemni specjaliści
+
+Wynagrodzenie prezentowane jako płaca za tydzień. Procentowy udział w skarbie powinien być zdefiniowany za pomocą fikcji.
 
 |                    |                    |
 | ------------------ | ------------------ |
@@ -152,7 +153,6 @@ Pierwsza wartość oznacza wynagrodzenie za tydzień, druga to procent od skarbu
 | Młotek                           | 5        | Zamek (klucz w zestawie)        | 30       |
 | Mydło                            | 1        | Zbroja dla konia                | 150      |
 | Namiot (dwuosobowy, nieporęczny) | 20       | Zestaw do szycia                | 15       |
-
 
 ## Odzież
 
@@ -215,7 +215,6 @@ Pierwsza wartość oznacza wynagrodzenie za tydzień, druga to procent od skarbu
 | Żaglowiec, duży        | 20000          |
 | Żaglowiec, mały        | 5000           |
 | Żaglówka               | 2000           |
-
 
 ## Zwierzęta gospodarskie
 
