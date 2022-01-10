@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources 
---- 
+parent: Bestiariusz
+grand_parent: Zasoby
+---
 
-# Cockatrice
-5 HP, 8 STR, 12 DEX, beak (d6)  
-- Small, hybrid creatures resembling chickens with reptilian features.  
-- Critical damage: the victim gets petrified (d8+d8 DEX damage).  
+# Kuroliszek (Cockatrice)
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+5 OCHR, 8 SIŁ, 12 ZRE, dziób (k6)  
+{: .stat-block }
+
+- Małe mieszańce przypominające połączenie kurczaka z jaszczurką.  
+- Obrażenia krytyczne: ofiara zostaje zamieniona w kamień (k8+k8 obrażeń ZRE).  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

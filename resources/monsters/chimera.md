@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources 
---- 
+parent: Bestiariusz
+grand_parent: Zasoby
+---
 
 # Chimera
-9 HP, 14 STR, bite (d6+d6+d6, blast)  
-- Three-headed flying monstrosities, hybrid of lion, goat, and dragon.  
-- The draconic head breaths fire in a cone for d10 damage.  
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+9 OCHR, 14 SIŁ, zęby (k6+k6+k6, blast)  
+{: .stat-block }
+
+- Trójgłowe latające potworności, hybryda lwa, kozy i smoka.  
+- Głowa smoka zieje ogniem w kształcie stożka, zadając k10 obrażeń.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

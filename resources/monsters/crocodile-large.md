@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Crocodile, Large
-6 HP, 1 Armor, 14 STR, 8 DEX, bite (d8)  
-- 20’ long, may attack small boats and canoes.  
-- Attracted to the scent of blood or heavy movement in the water.  
-- Swim silently just under the surface to ambush victims.  
+# Krokodyl
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+6 OCHR, 1 Pancerza, 14 SIŁ, 8 ZRE, zęby (k8)  
+{: .stat-block }
+
+- 6 metrów długości, mogą atakować małe łodzie i kajaki.  
+- Wabione zapachem krwi lub silnym ruchem w wodzie.  
+- Pływają bezgłośnie tuż pod powierzchnią, aby zaskoczyć ofiarę.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

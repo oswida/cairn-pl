@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Cobblehounds
-12 HP, 2 Armor, 14 STR, 1 DEX, 8 WIL, bite (d10)
-- Immobile constructs typically used as guardians to great tombs or artifacts.
-- Unaffected by mundane persuasion techniques - but do love a good bone.
+# Kamienne ogary
 
-source: [SRD](/cairn-srd#Bestiary)
+12 OCHR, 2 Pancerza, 14 SIŁ, 1 ZRE, 8 WOL, zęby (k10)  
+{: .stat-block }
+
+- Nieruchome konstrukty zwykle używane jako strażnicy wielkich grobowców lub artefaktów.
+- Niewrażliwe na zwykłe techniki perswazji - ale nie pogardzą dobrą kością.
+
+source: [SRD](./cairn-srd-pl.md#bestiariusz)

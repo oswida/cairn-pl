@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources 
---- 
+parent: Bestiariusz
+grand_parent: Zasoby
+---
 
-# Crab, Giant
-3 HP, 3 Armor, 11 STR, 4 DEX, pincers (d8)  
-- Huge crustaceans that live in coastal areas and mindlessly attack anything that comes near.  
-- Their heavy carapace makes them notably sturdy but slow and unable to swim.  
+# Krab olbrzymi
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+3 OCHR, 3 Pancerza, 11 SIŁ, 4 ZRE, szczypce (k8)  
+{: .stat-block }
+
+- Ogromne skorupiaki, które żyją w obszarach przybrzeżnych i bezmyślnie atakują wszystko, co znajdzie się w pobliżu.  
+- Ich ciężki pancerz sprawia, że są dość wytrzymałe, ale powolne i niezdolne do pływania.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

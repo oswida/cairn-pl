@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources 
---- 
+parent: Bestiariusz
+grand_parent: Zasoby
+---
 
-# Cyclops
-13 HP, 18 STR, 8 DEX, 6 WIL, club (d10)  
-- Giant humanoids with a single large eye centered on the face.   Dwell in caves and herd small animals.  
-- Slow-witted, can easily be fooled by other intelligent beings.  
+# Cyklop
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+13 OCHR, 18 SIŁ, 8 ZRE, 6 WOL, pałka (k10)  
+{: .stat-block }
+
+- Olbrzymie humanoidy z jednym dużym okiem umieszczonym centralnie na twarzy. Mieszkają w jaskiniach i trudnią pasterstwem.  
+- Wolno myślący, łatwo daje się oszukać innym inteligentnym istotom.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

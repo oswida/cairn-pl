@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources 
---- 
+parent: Bestiariusz
+grand_parent: Zasoby
+---
 
-# Crocodile, Giant
-15 HP, 1 Armor, 17 STR, 8 DEX, bite (d10+d10)  
-- 50’ long, extremely rare reptiles found on unexplored fluvial regions.  
-- Attracted to the scent of blood or movement in the water.  
-- Can easily destroy smaller ships with their crushing bite.  
+# Krokodyl olbrzymi
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+15 OCHR, 1 Pancerza, 17 SIŁ, 8 ZRE, zęby (k10+k10)  
+{: .stat-block }
+
+- Piętnastometrowe, niezwykle rzadkie gady występujące na niezbadanych terenach rzecznych.
+- Wabione zapachem krwi lub ruchem w wodzie.  
+- Potężnymi szczękami z łatwością mogą niszczyć mniejsze statki.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

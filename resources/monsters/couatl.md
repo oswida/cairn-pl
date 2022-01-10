@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources 
---- 
+parent: Bestiariusz
+grand_parent: Zasoby
+---
 
 # Couatl
-9 HP, 15 WIL, bite (d6)  
-- Long, feathered serpents with colorful wings.   Live in hot jungles and are considered divine by native people.  
-- Highly intelligent and magical, are capable of speaking multiple languages.  
-- Shapechanger: may take the form of beasts and humanoids.  
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+9 OCHR, 15 WOL, zęby (k6)  
+{: .stat-block }
+
+- Długie, pierzaste węże z kolorowymi skrzydłami. Żyją w gorących dżunglach i są uważane przez tubylców za stworzenia boskie.  
+- Bardzo inteligentne i magiczne, potrafią posługiwać się wieloma językami.  
+- Zmiennokształtny: może przybierać postać bestii i humanoidów.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

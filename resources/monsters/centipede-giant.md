@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources 
---- 
+parent: Bestiariusz
+grand_parent: Zasoby
+---
 
-# Centipede, Giant
-1 HP, 6 STR, 6 WIL, bite (d4)  
-- 1’ long centipedes that live in damp, underground places.  
-- Critical damage: their deadly poison hinders the target incapacitated for up to 10 days (save STR once a day to recover).  
+# Stonoga olbrzymia
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+1 OCHR, 6 SIŁ, 6 WOL, zęby (k4)  
+{: .stat-block }
+
+- Stonogi o długości 30 cm, które żyją w wilgotnych, podziemnych miejscach.  
+- Obrażenia krytyczne: ich śmiertelna trucizna obezwładnia cel na okres do 10 dni (rzut obronny SIŁ raz dziennie, aby odzyskać sprawność).  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)
