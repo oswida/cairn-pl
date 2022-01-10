@@ -4,7 +4,7 @@ title: Artefakty
 parent: Zasoby
 ---
 
-# Artefakty (w trakcie tłumaczenia)
+# Artefakty
 
 Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleniem autorów.
 
@@ -137,7 +137,7 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 
 #### Bransoletka skradania, 2 ładunki
 
-- Jadeitowa bransoleta, która pod kontrolą posiadacza zamienia się w jadowitego węża | 10 SIŁ / 11 ZRE / 8 WOL.
+- Jadeitowa bransoleta, która pod kontrolą posiadacza zamienia się w jadowitego węża: 10 SIŁ / 11 ZRE / 8 WOL.
 - **Doładowanie**: Nakarm węża czymś żywym.
 
 #### Lina mocująca, 5 ładunków
@@ -160,82 +160,99 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 - **Doładowanie**: Spędź 1 godzinę na kopaniu ziemi w deszczu.
 
 ### Serwer NSR Discord
-#### Last Breath, shortsword, d8 damage, 1 ładunek
-- Plunging **Last Breath** into the ground creates an [_Astral Prison_](/cairn-srd#100-spells) around the bearer. The bearer is invulnerable to harm but unable to move while contained in the prison.
-- **Doładowanie**: Last Breath by feeding it the souls it needs to build the prison.
+#### Ostatnie tchnienie, krótki miecz, k8 obrażeń, 1 ładunek
 
-#### Sword of the Holy Knight (d6), d6 ładunki
-- When attacking an undead enemy with this silver sword, you can expend one ładunek to ignore HP and deal damage directly to STR.
-- **Doładowanie**: Bathe in holy water and let dry completely in the morning sun.
+- Wetknięcie **Ostatniego tchnienia** w ziemię tworzy [_Więzienie astralne_](./../docs/cairn-srd-pl.md#setka-zaklęć) wokół noszącego. Używający jest niewrażliwy na krzywdę, ale nie może się poruszać, gdy znajduje się w więzieniu.
+- **Doładowanie**: Nakarm go duszami, których potrzebuje do zbudowania więzienia.
 
-#### Cloak of Displacement, 3 ładunki
-- A shadowy cloak that moves gently even when there’s no wind, the fabric is perfectly smooth, as if made of pure night. When suffering combat damage, you can spend one ładunek to ignore that damage.
-- **Doładowanie**: Leave it under the open sky for the entirety of a moonless night.
+#### Miecz Świętego Rycerza (k6), k6 ładunków
 
-#### Bracers of Strength, d6 ładunki
-- A pair of copper bracers long enough to cover the most of the wearer’s forearms. While wearing these bracers you can expend one ładunek to automatically succeed in a STR save. You must do so before rolling the dice.
-- **Doładowanie**: Defeat a foe stronger than you in combat.
+- Podczas atakowania nieumarłego wroga tym srebrnym mieczem możesz wydać jeden ładunek, aby zignorować OCHR i zadać obrażenia bezpośrednio w SIŁ.
+- **Doładowanie**: Obmyj w wodzie święconej i pozostaw do całkowitego wyschnięcia w porannym słońcu.
 
-#### Necklace of Fireballs, 1 ładunek
-- A necklace with a small ruby dangling from it. It can be thrown, summing a burst of flames in the area around where it landed, dealing d8+d8 damage to all caught.
-- **Doładowanie**: Leave it in a raging bonfire until the flames end naturally.
+#### Płaszcz przemieszczenia, 3 ładunki
 
-#### Murder Minion, dagger, d6 damage, 1 ładunek.
-- Mortally wounding it's victim, traps them inside the blade.
-- Pressing the mouse skull on the handle frees them to do the bidding of the wielder before they perish.
-- **Doładowanie**: Murder Minion by actively cleaning it in ice water for half a day.
+- Cienista peleryna, która porusza się delikatnie, nawet gdy nie ma wiatru. Tkanina jest idealnie gładka, jakby wykonana z czystej nocy. Kiedy otrzymujesz obrażenia w walce, możesz wydać jeden ładunek, aby je zignorować.
+- **Doładowanie**: Zostaw ją pod gołym niebem na całą bezksiężycową noc.
 
-#### Rod of Lordly Might, staff, 1 ładunek
-- Can Always be pounded against the ground to make your voice amplified
-- For a ładunek can be pointed at a creature with lower WIL than you who swears fealty to you indefinitely or until they witness you doing something they don’t believe in.
-- Will Never affect a Knight or anyone with a sacred vow.
+#### Karwasze Siły, k6 ładunków
+
+- Para miedzianych naramienników wystarczająco długich, aby zakryć większość przedramion noszącego. Podczas noszenia tych karwaszy możesz wydać jeden ładunek, aby automatycznie odnieść sukces w rzucie SIŁ. Musisz to zrobić przed rzutem kostką.
+- **Doładowanie**: Pokonaj w walce wroga silniejszego od ciebie.
+
+#### Naszyjnik ognistych kul, 1 ładunek
+
+- Naszyjnik ze zwisającym, małym rubinem. Można go rzucić, uzyskując wybuch płomieni w obszarze wokół miejsca, w którym wylądował, zadając wszystkim trafionym obrażenia k8+k8.
+- **Doładowanie**: Zostaw to w płonącym ognisku, aż płomienie całkiem wygasną.
+
+#### Morderczy sługus, sztylet, k6 obrażeń, 1 ładunek
+
+- Raniąc śmiertelnie ofiary, więzi je wewnątrz ostrza.
+- Naciśnięcie czaszki myszy na rękojeści uwalnia dusze, aby wykonały polecenie posiadacza, zanim odejdą na zawsze.
+- **Doładowanie**: Czyść go aktywnie w wodzie z lodem przez pół dnia.
+
+#### Laska Władczej Mocy, laska, 1 ładunek
+
+- Można nią zawsze uderzyć o ziemię, aby wzmocnić twój głos.
+- Za ładunek można wycelować w istotę o niższej WOL od ciebie.  Przysięgnie ci ona wierność na czas nieokreślony lub do momentu, gdy będzie świadkiem robienia przez ciebie czegoś, w co nie wierzy.
+- Nigdy nie będzie miała wpływa na rycerza ani nikogo, kto złożył świętą przysięgę.
+
 #### **Doładowanie**:s when you slay a nobleman or (as a noble yourself) knight someone.
 
-#### Forgotten Sword-Master's Blade d8 damage, 2 ładunki
-- Worn and weathered blue-gray longsword imbued with the memory of an ancient sword master, renown for his ability to duel multiple opponents at once.
-- Channeling the forgotten master's memory produces a whirling flourish, attacking all enemies around them within 10 feet (up to four) for d6 blast.
-- On critical damage save vs DEX or be disarmed.
-- **Doładowanie**: by defeating another worthy opponent in a duel or disarming an enemy in combat.
+#### Zapomniane ostrze mistrza miecza, k8 obrażeń, 2 ładunki
 
-#### Cloak of the Monarch Queen, 3 ładunki
-- Faded black great-cloak with orange and white geometric patterns.
-- Dash or fly swiftly across distances of 30 feet.
-- **Doładowanie**: by jumping from heights of 50 feet or greater, or from spending an hour adventuring through furious winds.
+- Zużyty i zwietrzały niebiesko-szary miecz nasycony pamięcią starożytnego mistrza miecza, znanego z umiejętności pojedynkowania się z wieloma przeciwnikami naraz.
+- Zogniskowanie pamięci zapomnianego mistrza wywołuje wir, który atakuje wszystkich przeciwników w promieniu 3 metrów (do czterech osób) za k6 z cechą _podmuch_.
+- Przy obrażeniach krytycznych cel musi zdać test ZRE lub zostanie rozbrojony.
+- **Doładowanie**: Pokonaj innego godnego przeciwnika w pojedynku lub rozbrój wroga w walce.
 
-#### Mirror Mirror, 1 ładunek
-- Large round mirror about the size of a wagon wheel. Framed in a swirling art-nouveau confection of green-glazed clay.
-- If you position yourself between Mirror Mirror and a mundane mirror and observe your infinite reflection between them, Mirror Mirror remembers the mundane mirror.
-- You can always look into Mirror Mirror to see the current reflection in any mundane mirror it remembers.
-- For one ładunek, you may reach through Mirror Mirror and out of any mundane mirror it remembers; as little as a limb, or as much as your whole body. When you withdraw your limb or emerge from another mirror, Mirror Mirror cracks down the middle, and a faint after-image of your person is etched into all other mirrors in Mirror Mirror's memory as it forgets them, one by one.
-- **Doładowanie**: locate every mirror etched with your after-image and thoroughly scratch out your face until it is unrecognizable. Sleep with Mirror Mirror under your head, and survive the onslaught of shattered reflection-selves that swarm you in your dreams, and you will find it healed and whole when you wake.
+#### Płaszcz Monarchini, 3 ładunki
 
-#### Dowsing Rod, 1 ładunek
-- Pick a general type of object or material. The rod indicates distance, direction and quantity to nearest match.
-- **Doładowanie**: Expose to lightning or powerful electricity.
+- Wyblakły czarny płaszcz w pomarańczowo-białe geometryczne wzory.
+- Szybki bieg lub lot na dystansie 9 metrów.
+- **Doładowanie**: Skocz z wysokości 15 metrów lub większej, albo spędź godzinę na przygodzie wyprawie  w miejsca, gdzie wieje wściekły wiatr.
 
-#### Snakeskin Boon, 1 ładunek
-- Over the course of several hours, you can painfully shed your skin, losing 1d4 STR.
-- After this time, you reveal a new skin, broadly the same as your previous, but with new features, seen or imagined.
-- **Doładowanie**: Devour every scrap of the skin of a giant snake.
+#### Lustereczko, 1 ładunek
 
-#### The Dwarf's Cloak, 1 ładunek
-- A lambskin cloak, taken from a dwarf, which renders its wearer invisible.
-- Burns to ash if exposed to sunlight.
-- **Doładowanie**: Eat seven ounces of human flesh.
+- Duże okrągłe lustro wielkości koła od wozu. Oprawione w wirującą secesyjną ramę z zielono-szkliwionej gliny.
+- Jeśli ustawisz się między Lustereczkiem a zwykłym lustrem i obserwujesz swoje nieskończone odbicie między nimi, Lustereczko zapamięta zwykłe lustro.
+- Możesz zawsze zajrzeć do Lustereczka, aby zobaczyć aktualne odbicie w dowolnym zwykłym lustrze, które zostało zapamiętane.
+- Za jednego ładunek możesz sięgnąć przez Lustereczko i  dalej z dowolnego zwykłego zapamiętanego lustra,na zewnątrz; tak blisko jak długość kończyny lub tak daleko, jak długość całego twojego ciała. Kiedy wycofujesz kończynę lub wyjdziesz z innego lustra, Lustereczko pęka w środku, a słaby powidok Twojej osoby jest wyryty we wszystkich zapamiętanych lustrach. Następnie Lustereczko zapomina wszystkie zwykłe lustra.
+- **Doładowanie**: Zlokalizuj każde zapamiętane lustro i dokładnie zdrap swoją twarz (ten powidok), aż stanie się nierozpoznawalna. Zaśnij z Lustereczkiem pod głową i przetrwaj we śnie atak twoich odbić. Gdy się obudzisz, odkryjesz, że Lustereczko jest całe i sprawne.
 
-####  Wand of the Thousand Paths, 1 ładunek
- - A walking stick with a big eyeball on top
- - You can fixate on the eye to see the outcome of one action in the immediate future (play it out and the player decides to confirm it or not) and then the eye shuts
- - **Doładowanie**: move exclusively in the same direction as the wind for a day
+#### Różdżka radiestezyjna, 1 ładunek
 
-#### Blade of Mighty Thews, 3 ładunki
-- A dark red shortsword with inscriptions of scenes of ancient battles on it.
-- Spend a ładunek to give yourself the strength of a demigod for the length of a single feat (bend bars, lift gates, hurl boulders)
- - **Doładowanie**: It deals a killing blow to a creature stronger than any human, living or dead.
+- Wybierz ogólny rodzaj przedmiotu lub materiału. Pręt wskazuje odległość, kierunek i ilość do najbliższego egzemplarza.
+- **Doładowanie**: Wystaw na działanie pioruna lub silnej energii elektrycznej.
 
-#### Bird Bomb, 1 ładunek
-- Fragile egg that releases an incredible stench that makes all folks around it vomit. How do you carry such an item? What happens if the egg breaks in your pack during combat?
-- **Doładowanie**: Bury the shell in a grave. The next morning there will be three more eggs there.
+#### Dar wężowej skóry, 1 ładunek
+
+- W przeciągu kilku godzin możesz boleśnie zrzucić skórę, tracąc 1k4 SIŁ.
+- Po tym czasie odsłaniasz nową skórę, zasadniczo taką samą jak poprzednia, ale z nowymi cechami, widzianymi lub wyobrażonymi.
+- **Doładowanie**: Zjedz skórę olbrzymiego węża aż do ostatniego skrawka.
+
+#### Płaszcz krasnoludów, 1 ładunek
+
+- Płaszcz z jagnięcej skóry, zabrany krasnoludowi. Sprawia, że jego użytkownik staje się niewidzialny.
+- Pod wpływem światła słonecznego spala się na popiół.
+- **Doładowanie**: Zjedz siedem uncji ludzkiego mięsa.
+
+#### Różdżka Tysiąca Ścieżek, 1 ładunek
+
+- Laska z dużą gałką oczną na górze
+- Możesz skupić się na oku, aby zobaczyć wynik jednej akcji w najbliższej przyszłości (w trakcie późniejszej gracz zdecyduje się potwierdzić ten wynik lub nie), po wykorzystaniu oko się zamyka.
+- **Doładowanie**: Poruszaj się wyłącznie w tym samym kierunku co wiatr przez jeden dzień.
+
+#### Ostrze potężnych muskułów, 3 ładunki
+
+- Ciemnoczerwony krótki miecz z napisami przedstawiającymi sceny starożytnych bitew.
+- Wydaj jeden ładunek, aby zapewnić sobie siłę półboga na jedną akcję (wygięcie prętów, podniesienie bramy, zrzucenie głazu)
+- **Doładowanie**: Zadaj śmiertelny cios stworzeniu silniejszemu niż jakikolwiek człowiek, żywy lub martwy.
+
+#### Ptasia bomba, 1 ładunek
+
+- Kruche jajko wydzielające niesamowity smród, który powoduje, że wszyscy wokół niego wymiotują. Jak nosić taki przedmiot? Co się stanie, jeśli jajo pęknie w plecaku podczas walki?
+- **Doładowanie**: Zakopcie skorupkę w grobie. Następnego ranka będą tam jeszcze trzy jajka.
 
 #### Spróchniały drewniany miecz
 
