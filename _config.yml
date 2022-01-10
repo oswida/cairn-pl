@@ -1,7 +1,9 @@
-title: Cairn po polsku
+title: Cairn
 remote_theme: pmarsceill/just-the-docs
 color_scheme: light
 encoding: UTF-8
+url: https://pl.cairnrpg.com
+logo: "/img/logo.png"
 plugins:
   - jekyll-redirect-from
 include:
