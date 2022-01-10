@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
 # Elf
-4 HP, 1 Armor, 8 STR, 14 DEX, 14 WIL, shortswords (d6+d6) or longbow (d8), a Spellbook (choose one: Charm or Detect Magic)  
-- Slender, long-lived, fey humanoids with pointed ears. Live in harmony with nature, adapting to it instead of conquering.  
-- Highly resistant to charming and mind-controlling effects.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+4 OCHR, 1 Pancerza, 8 SIŁ, 14 ZRE, 14 WOL, para krótkich mieczy (k6+k6) lub długi łuh (k8), księga zaklęć (wybierz jedno: Urok lub Wykrywanie magii)  
+{: .stat-block }
+
+- Smukłe, długowieczne humanoidy o spiczastych uszach. Żyją w harmonii z naturą.
+- Odporne na uroki i próby manipulacji lub kontroli umysłu.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

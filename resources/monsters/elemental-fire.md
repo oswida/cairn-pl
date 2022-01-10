@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Elemental, Fire
-16 HP, 12 DEX, 14 WIL, blow (d8)  
-- Living columns of pure flame that burn everything in their path.  
-- Highly vulnerable to being touched by water or rain.  
-- Can scatter their flames, freely changing its form.  
+# Żywiołak ognia
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+16 OCHR, 12 ZRE, 14 WOL, cios (k8)  
+{: .stat-block }
+
+- Żywe kolumny czystego płomienia, które spalają wszystko na swojej drodze.  
+- Bardzo wrażliwe na kontakt z wodą.  
+- Potrafi rozproszyć swoje płomienie, dowolnie zmieniając swoją formę.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

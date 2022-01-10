@@ -1,16 +1,18 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
 # Estrie
-10 HP, 11 STR, 15 DEX, 14 WIL, draining hair (1d8)
-- Appears as a woman with long dark hair that extends all the way to her feet.
-- Can transform into owls, but only at night. Their shriek is ear-piercing.
-- Drinking blood gives them power, but they can obtain sustenance from eating bread and salt if taken from those they have wronged.
-- Binding their hair prevents their transformation. They can be killed, but their head must then be buried, the mouth stuffed with dirt.  
-- Critical damage: target falls unconscious for 1d4 days.
 
+10 OCHR, 11 SIŁ, 15 ZRE, 14 WOL, drenujące włosy (1k8)  
+{: .stat-block }
 
-author: [Yochai Gal](https://newschoolrevolution.com)
+- Pojawia się jako kobieta z długimi ciemnymi włosami, które sięgają jej aż do stóp.
+- Potrafią przemieniać się w sowy, ale tylko w nocy. Ich krzyk rani uszy.
+- Picie krwi daje im moc, ale mogą się posilić jedząc chleb i sól, jeśli pochodzą one od tych, których skrzywdziły.
+- Związanie im włosów zapobiega przemianie. Można je zabić, ale głowę trzeba zakopać, a usta wypchać ziemią.
+- Obrażenia krytyczne: cel traci przytomność na 1k4 dni.
+
+autor: [Yochai Gal](https://newschoolrevolution.com)

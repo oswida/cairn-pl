@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Elemental, Air
-16 HP, 11 STR, 15 DEX, 8 WIL, wind blow (d8)  
-- Huge, living vortexes of whirling air.  
-- Sweep away lighter creatures with their strong winds.  
-- Harm aerial creatures by disrupting their flight.  
+# Żywiołak powietrza
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+16 OCHR, 11 SIŁ, 15 ZRE, 8 WOL, powiew wiatru (k8)  
+{: .stat-block }
+
+- Ogromne, żywe wiry powietrza.
+- Zmiatają lżejsze stworzenia swoimi podmuchami.
+- Szkodzą stworzeniom latającym, zakłócając ich lot.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

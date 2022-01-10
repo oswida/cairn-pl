@@ -1,14 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
-
-
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
-# Elephant
-9 HP, 16 STR, 6 DEX, tusks (d8)  
-- Large tusked animals that dwell near hot forests.   Found both alone and in herds.  
-- With enough open ground for a clear run, it will charge its victims, enhancing damage.  
-- Its tusks can be sold for high amounts of gold if removed whole.  
+# Słoń
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+9 OCHR, 16 SIŁ, 6 ZRE, kły (k8)  
+{: .stat-block }
+
+- Duże zwierzęta z kłami, które żyją w pobliżu gorących lasów.   Występują zarówno pojedynczo, jak i w stadach.  
+- Jeśli teren jest wystarczająco otwarty, by móc swobodnie się rozpędzić, szarżuje na swoje ofiary (wzmocnione obrażenia).  
+- Jego kły mogą być sprzedawane za duże sumy złota, jeśli zostaną odcięte w całości.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

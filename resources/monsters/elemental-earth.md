@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Elemental, Earth
-12 HP, 3 Armor, 16 STR, 8 DEX, fist (d10)  
-- Huge humanoid beings made of earth and stone.  
-- Create small earth tremors with their natural strength.  
-- Can meld into the earth and move through it as if swimming.  
+# Żywiołak  ziemi
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+12 OCHR, 3 Pancerza, 16 SIŁ, 8 ZRE, pięść (k10)  
+{: .stat-block }
+
+- Ogromne humanoidalne istoty wykonane z ziemi i kamienia.  
+- Wywołują małe trzęsienia ziemi.  
+- Potrafi wtopić się w ziemię i poruszać się w niej tak jakby pływał.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)
