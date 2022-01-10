@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Dog, War 
-3 HP, 1 Armor, 12 STR, bite (d8)  
-- Large breeds selected by their bulk and strength.  
-- Not scared by noise or battle.  
+# Pies bojowy
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+3 OCHR, 1 Pancerza, 12 SIŁ, zęby (k8)  
+{: .stat-block }
+
+- Duże rasy wybierane ze względu na swoją masywność i siłę.  
+- Nie boi się hałasu ani walki.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

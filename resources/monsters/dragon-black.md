@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Dragon, Black
-16 HP, 1 Armor, 13 STR, 18 DEX, 14 WIL, bite (d10), claws (d8+d8), _detachment_
-- A giant amphibious reptile with glossy black scales. Dwells in swamps and other hostile flooded environments.
-- Extremely cruel and violent, makes use of the dark, difficult environment and its surprising agility to separate its victims and kill them one by one.
-- Any critical damage saves provoked by the dragon's bite automatically fail, due to its powerful acidic saliva.
+# Smok, czarny
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+16 OCHR, 1 Pancerza, 13 SIŁ, 18 ZRE, 14 WOL, zęby (k10), pazury (k8+k8), _oddział_
+{: .stat-block }
+
+- Gigantyczny gad ziemnowodny p błyszczących czarnych łuskach. Mieszka na bagnach i innych nieprzyjaznych  terenach z przewagą wody.
+- Niezwykle okrutny i brutalny, wykorzystuje trudne środowisko i swoją zaskakującą zwinność, aby odseparować swoje ofiary i zabijać je jedna po drugiej.
+- Rzuty obronne na obrażenia krytyczne zadawane przez zęby smoka automatycznie zawodzą z powodu jego śliny będącej silnym kwasem.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

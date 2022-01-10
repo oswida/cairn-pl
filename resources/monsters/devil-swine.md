@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Devil Swine
-9 HP, 16 STR, 8 DEX, gore (d6+d6)
-- Corpulent humans who can change into massive swine. Lurk in isolated human settlements, hunting the people to eat their flesh.
-- Can only shape change at night, hunt in the dark, surprising victims.
-- Critical Damage: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
+# Diabelska świnia
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+9 OCHR, 16 SIŁ, 8 ZRE, rozszarpywanie (k6+k6)  
+{: .stat-block }
+
+- Korpulentni ludzie, którzy potrafią zmieniać się w masywne świnie. Czają się w odizolowanych osadach, polując na innych ludzi i zjadając ich.
+- Potrafią zmieniać kształt tylko w nocy, polują w ciemnościach, zaskakując ofiary.
+- Obrażenia krytyczne: ludzka ofiara zostaje zarażona, stając się po kilku tygodniach lykantropem tego samego typu.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

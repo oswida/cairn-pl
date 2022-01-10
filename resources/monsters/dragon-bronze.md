@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Dragon, Bronze
-13 HP, 2 Armor, 16 STR, 14 DEX, 14 WIL, bite (d8+d8)  
-- Coastal dwelling, good dragons who eat mostly fish and aquatic plants.
-- Shapechange into small beasts to watch nearby wildlife and passing ships.
-- Breathes lightning on a line for d10 damage or repulsion gas in a cone, pushing victims away.
+# Smok, spiżowy
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+13 OCHR, 2 Pancerza, 16 SIŁ, 14 ZRE, 14 WOL, zęby (k8+k8)  
+{: .stat-block }
+
+- Mieszkające na wybrzeżu, dobre smoki, które żywią się głównie rybami i roślinami wodnymi.  
+- Zmieniają się w małe bestie, aby obserwować okoliczne zwierzęta i przepływające statki.  
+- Zionie piorunami lub gazem (stożek). Piorun zadaje obrażenia k10 wszystkim postaciom na linii rażenia. Gaz odpycha ofiary.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

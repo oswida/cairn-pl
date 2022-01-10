@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Dragon, White
-16 HP, 1 Armor, 16 STR, 16 DEX, 12 WIL, bite (d10), claws (d8+d8), _detachment_
-- A massive winged creature of frost, it appears as if the winter itself coalesced into life. Wanders in the coldest regions, along with harsh snowstorms.
-- Extremely ferocious, is at the same time a clever hunter and a bestial predator. Tracks everything that lives, as if it was trying to satiate a endless hunger.
-- It's always surrounded by a storm of ice and cold wind, dealing d6 blast damage every round to everything nearby, in addition to its normal attacks.
+# Smok, biały
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+16 OCHR, 1 Pancerza, 16 SIŁ, 16 ZRE, 12 WOL, zęby (k10), pazury (k8+k8), _oddział_  
+{: .stat-block }
+
+- Masywne, skrzydlate stworzenie powstałe z mrozu. Wygląda jak żywy symbol zimy. Wędruje w najzimniejszych regionach, przemieszczając się wraz z ostrymi burzami śnieżnymi.
+- Niezwykle dziki, jest jednocześnie sprytnym łowcą i bestialskim drapieżnikiem. Tropi wszystko, co żyje, jakby próbował zaspokoić niekończący się głód.
+- Zawsze otacza go burza lodu i zimnego wiatru, która oprócz normalnych ataków zadaje co rundę k6 obrażeń typu _podmuch_.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

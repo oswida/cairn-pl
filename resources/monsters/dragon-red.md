@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Dragon, Red
-18 HP, 3 Armor, 18 STR, 12 DEX, 16 WIL, bite (d12), claws (d8+d8), _detachment_  
-- A gargantuan flaming creature, it's wingspan over a hundred feet. Arrogant and greedy, sees everything as its possession and everyone as its servant. Lairs within mountains with high volcanic activity.
-- Made of pure fire, is completely unharmed by any form of heat. Any cold vanishes within its presence.
-- Fire Breath: The dragon breathes a massive cone of pure flame dealing 12 damage (no roll) to all caught, the flame ignores and destroys any mundane armor. It needs a short rest before being able to do this again.
+# Smok, czerwony
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+18 OCHR, 3 Pancerza, 18 SIŁ, 12 ZRE, 16 WOL, zęby (k12), pazury (k8+k8), _oddział_
+{: .stat-block }
+
+- Ogromna, płonąca istota, której rozpiętość skrzydeł wynosi ponad 30 metrów. Arogancki i chciwy, uważa wszystko za swoją własność, a wszystkich za swoje sługi. Zamieszkuje w górach o dużej aktywności wulkanicznej.
+- Stworzony z czystego ognia, jest całkowicie odporny na wszelkie formy ciepła. W jego obecności nie utrzymuje się żaden chłód.
+- Ognisty oddech: Smok zionie potężnym stożkiem czystego płomienia zadając 12 obrażeń (bez rzutu) wszystkim ofiarom. Płomień ignoruje i niszczy wszelkie normalne Pancerze. Smok potrzebuje krótkiego odpoczynku, zanim będzie w stanie zionąć ponownie.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

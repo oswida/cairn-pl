@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources 
---- 
+parent: Bestiariusz
+grand_parent: Zasoby
+---
 
-# Demon Knight
-10 HP, 3 Armor, 16 STR, 8 DEX, 12 WIL, longsword (d8), Unholy Symbol (Hatred when bathed in blood)  
-- Once holy warriors who fell to the temptation of dark powers that they now serve in undeath.   Rides nightmarish steeds into battle.  
-- Lesser undead creatures mindlessly follow their command.  
-- Their evil aura frightens anyone who comes into nearby range.  
+# Demoniczny rycerz
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+10 OCHR, 3 Pancerza, 16 SIŁ, 8 ZRE, 12 WOL, długi miecz (k8), przeklęty symbol (*Nienawiść* gdy skąpany we krwi)  
+{: .stat-block }
+
+- Niegdyś święci wojownicy, którzy ulegli pokusie ciemnych mocy. Teraz, jako nieśmiertelni, służą tymże mocom. Do bitwy jeżdżą na koszmarnych rumakach.  
+- Mniejsze nieumarłe stworzenia bezmyślnie wykonują ich polecenia.  
+- Ich zła aura przeraża każdego, kto znajdzie się w pobliżu.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

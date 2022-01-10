@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources 
---- 
+parent: Bestiariusz
+grand_parent: Zasoby
+---
 
-# Deep Ones
-4 HP, 11 STR, 8 DEX, 12 WIL, dagger (d6)  
-- Amphibious, fish-headed humanoids with webbed fingers.   Live in deep seas and are able to see in the darkness.  
-- Highly resistant to magical effects.  
-- Occasionally surface to trade with coastal settlements, frequently requesting union between one of them and a human.  
+# Istoty z głębin (Deep Ones)
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+4 OCHR, 11 SIŁ, 8 ZRE, 12 WOL, sztylet (k6)  
+{: .stat-block }
+
+- Ziemnowodne humanoidy o rybich głowach z palcami połączonymi błoną. Żyją w głębokich morzach i potrafią widzieć w ciemności.  
+- Odporne na efekty magiczne.  
+- Sporadycznie wypływają na powierzchnię, by handlować z przybrzeżnymi osadami. Często w zamian żądają możliwości krzyżowania swojego gatunku z ludźmi.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

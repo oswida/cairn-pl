@@ -1,14 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
-  
-
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
-# Dog, Hunting
-2 HP, 12 DEX, bite (d6)  
-- Bulky, domestic-only breeds with a ferocious nature.  
-- Track by scent.   Once started, very difficult to put off the trail.  
-- Only attack at their owner’s command.  
+# Pies myśliwski
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+2 OCHR, 12 ZRE, zęby (k6)  
+{: .stat-block }
+
+- Masywne, domowe rasy o dzikim charakterze.  
+- Tropią za pomocą węchu. Jeśli raz chwycą trop, ciężko jest je zgubić.
+- Atakują tylko na rozkaz właściciela.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

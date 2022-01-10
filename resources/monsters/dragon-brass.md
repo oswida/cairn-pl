@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Dragon, Brass
-11 HP, 2 Armor, 16 STR, 19 WIL, bite (d8+d8)  
-- Charismatic, good-aligned dragons who hide their hoards in dunes of sand.
-- Highly value conversations, frequently shapechanges into humanoids to interact with adventurers.
-- Breathes gas in a cone, targets affected fall asleep or flee in fear.
+# Smok, mosiężny
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+11 OCHR, 2 Pancerza, 16 SIŁ, 19 WOL, zęby (k8+k8)  
+{: .stat-block }
+
+- Charyzmatyczne, dobre smoki, które ukrywają swoje skarby w piaskowych wydmach.  
+- Bardzo ceni sobie rozmowy, często zmienia się w humanoida, aby nawiązać kontakt z poszukiwaczami przygód.  
+- Zionie strugą gazu w postaci stożka. Każdy kto znajduje się w polu rażenia zasypia lub ucieka w popłochu.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

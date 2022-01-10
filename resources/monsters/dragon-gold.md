@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Dragon, Gold
-15 HP, 3 Armor, 18 STR, 13 DEX, 16 WIL, bite (d10+d10)  
-- Majestic, reserved dragons with dark golden scales. Can be found anywhere, but nest atop mountains, feeding of jewels and other minerals.
-- Master shapechangers, can take the form of any humanoid or animal.
-- Breath fire in a massive cone for d10 damage to all caught.
+# Smok, złoty
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+15 OCHR, 3 Pancerza, 18 SIŁ, 13 ZRE, 16 WOL, zęby (k10+k10)  
+{: .stat-block }
+
+- Majestatyczne, powściągliwe smoki o ciemnozłotych łuskach. Można je znaleźć wszędzie, ale gnieżdżą się na szczytach gór, żywiąc się klejnotami i innymi minerałami.  
+- Mistrz zmiennokształtnych, może przybrać postać dowolnego humanoida lub zwierzęcia.  
+- Zionie ogniem w kształcie potężnego stożka, zadając k10 obrażeń wszystkim ofiarom.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

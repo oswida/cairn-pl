@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Żółw smoczy
 
-# Dragon Turtle
-30 HP, 3 Armor, 20 STR, 6 DEX, bite (d10+d10)  
-- Gargantuan sea monsters with the shell of a turtle and draconic features.   Lurk in deep oceans and can be mistaken for a small island when on the surface.
-- Attack ships, sinking them to add any treasure to their massive underwater hoards.
-- Breathes large clouds of steam, clogging visions and damaging all inside for d8 damage.
+30 OCHR, 3 Pancerza, 20 SIŁ, 6 ZRE, zęby (k10+k10)  
+{: .stat-block }
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+- Gargantuiczne potwory morskie o żółwiej skorupie i smoczych rysach.   Czają się w głębokich oceanach, a na powierzchni mogą zostać pomylone z małą wyspą.  
+- Atakuj statki i zatapiają je, aby zdobyć kolejny skarb do swoich ogromnych podwodnych zasobów.  
+- Zionie dużą chmurą pary, blokując widoczność i zadając k8 obrażeń wszystkim w środku.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)
