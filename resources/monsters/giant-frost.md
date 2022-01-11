@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Giant, Frost
-10 HP, 2 Armor, 18 STR, 12 WIL, greataxe (d8+d8)  
-- 18’ tall humanoids with blue-ish skin and pale hair. Wear furs and iron Armor.  
-- Unharmed by cold and ice.  
-- Excellent trackers, hunt accompanied by dire wolves.  
+# Gigant lodowy
+
+10 OCHR, 2 Pancerza, 18 SIŁ, 12 WOL, topór bojowy (k8+k8)
+{: .stat-block }  
+
+- Wysokie na 5,5 metra humanoidy o niebieskawej skórze i jasnych włosach. Noszą futra i żelazne zbroje.  
+- Odporne na zimno i lód.  
+- Doskonali tropiciele, polują w towarzystwie wilkorów.  
 
 author: [xenio](https://xenioinabottle.blogspot.com)

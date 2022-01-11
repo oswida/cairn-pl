@@ -1,12 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Gorilla
-4 HP, 14 STR, fists (d6+d6)
-- Large, muscular apes that dwell in hot jungles. Peaceful and Shy.
-- Critical Damage: Rends the victim for 1d4 extra STR damage.
+# Goryl
+
+4 OCHR, 14 SIŁ, pięści (k6+k6)
+
+- Duże, muskularne małpy, które zamieszkują gorące dżungle. Spokojne i nieśmiałe.
+- Obrażenia krytyczne: Zadaje ofierze dodatkowe 1k4 obrażeń SIŁ.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

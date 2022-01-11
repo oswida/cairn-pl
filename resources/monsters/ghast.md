@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Ghast
-4 HP, 12 STR, WIL 6, claws (d6+d6)  
-- Grotesque, humanoid undead that craves eating flesh. Found in packs of Ghouls.  
-- Exhale a strong stench, nauseating nearby living creatures.  
-- Critical damage: Paralyzes victims (d6 DEX damage). After paralyzing a victim, it moves to another target.  
+# Upiór (Ghast)
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+4 OCHR, 12 SIŁ, WOL 6, pazury (k6+k6)  
+{: .stat-block }
+
+- Groteskowy, humanoidalny nieumarły, który uwielbia jeść mięso. Występuje w grupach Ghuli.  
+- Zionie silnym smrodem, który przyprawia pobliskie żywe istoty o mdłości.  
+- Obrażenia krytyczne: paraliżuje ofiary (k6 obrażeń ZRE). Po sparaliżowaniu przeciwnika atakuje inny cel.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

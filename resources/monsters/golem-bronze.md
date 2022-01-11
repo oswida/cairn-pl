@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Golem, Bronze
-20 HP, 3 Armor, 20 STR, 8 DEX, 11 WIL, fists (d10+d10)  
-- Towering constructs made of pure bronze.   Reassemble fire giants, and emanate strong heat.  
-- Immune to mundane attacks and fire.  
-- When it suffers slashing or piercing damage to its STR, spurts a burning liquid, damaging the attacker for 2d6.  
+# Golem spiżowy
+
+20 OCHR, 3 Pancerza, 20 SIŁ, 8 ZRE, 11 WOL, pięści (k10+k10)
+{: .stat-block }
+
+- Wielkie konstrukty z czystego brązu. Przypominają ogniste giganty i emanują silnym ciepłem.  
+- Odporne na zwykłe ataki i ogień.  
+- Kiedy otrzyma obrażenia cięte lub przebijające na SIŁ, tryska płonącą cieczą, zadając atakującemu obrażenia 2k6.  
 
 author: [xenio](https://xenioinabottle.blogspot.com)

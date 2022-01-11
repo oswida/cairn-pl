@@ -10,7 +10,7 @@ grand_parent: Zasoby
 {: .stat-block }
 
 - Ogromne, żywe wiry powietrza.
-- Zmiatają lżejsze stworzenia swoimi podmuchami.
-- Szkodzą stworzeniom latającym, zakłócając ich lot.  
+- Swoim podmuchem mogą zmieść lżejsze stworzenia lądowe.
+- Przeszkadzają stworzeniom latającym, zakłócając ich lot.  
 
 autor: [xenio](https://xenioinabottle.blogspot.com)

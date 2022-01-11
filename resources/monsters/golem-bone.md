@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Golem, Bone
-8 HP, 2 Armor, 15 STR, 8 WIL, arms (d8, blast)  
-- 6’ tall humanoid constructs made of human bone.   Have 4 arms spread around their torso.  
-- Immune to mundane attacks, fire, cold, and electricity.  
+# Golem kościany
+
+8 OCHR, 2 Pancerza, 15 SIŁ, 8 WOL, ramiona (k8, podmuch)
+{: .stat-block }
+
+- Humanoidalne konstrukty o wzroście 1,8 metra,  wykonane z ludzkich kości.   Posiadają 4 ramiona rozłożone wokół tułowia.  
+- Odporne na zwykłe ataki, ogień, zimno i elektryczność.  
 
 author: [xenio](https://xenioinabottle.blogspot.com)

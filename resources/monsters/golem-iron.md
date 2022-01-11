@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Golem, Iron
-18 HP, 3 Armor, 18 STR, 8 WIL, sword (d10+d10)  
-- 12’ humanoid statues forged with fire and magic.   Wield massive swords of iron.  
-- Immune to mundane attacks, electricity, and cold.  
-- Absorb electricity damage received, healing HP by the same amount instead.  
+# Golem żelazny
+
+18 OCHR, 3 Pancerza, 18 SIŁ, 8 WOL, miecz (k10+k10)  
+{: .stat-block }
+
+- 3,5-metrowe humanoidalne posągi wykute z ognia i magii. Władają potężnymi mieczami z żelaza.  
+- Odporny na zwykłe ataki, elektryczność i zimno.  
+- Absorbuje otrzymane obrażenia od elektryczności, lecząc w zamian OCHR o tę samą wartość.  
 
 author: [xenio](https://xenioinabottle.blogspot.com)

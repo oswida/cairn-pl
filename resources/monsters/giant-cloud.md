@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Giant, Cloud
-12 HP, 1 Armor, 19 STR, 12 DEX, 18 WIL, morningstar(d8+d8)  
-- 20’ tall humanoids with hair and skin in tones of grey and white. House in castles built atop the highest mountains or floating in cloud banks.  
-- Cannot be surprised due to its keen sight and smell senses.  
-- Can envelop itself in a wind aura, impairing missile attacks.  
+# Gigant chmurowy
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+12 OCHR, 1 Pancerza, 19 SIŁ, 12 ZRE, 18 WOL, morgensztern (k8+k8)  
+{: .stat-block }
+
+- Wysokie na 6 metrów humanoidy o włosach i skórze w odcieniach szarości i bieli. Mieszkają w zamkach zbudowanych na szczytach najwyższych gór lub fortecach unoszących się w ławicach chmur.
+- Dzięki doskonałym zmysłom wzroku i węchu nie da się ich zaskoczyć.  
+- Potrafią otoczyć się aurą wiatru, *osłabiając* ataki wykonywane za pomocą pocisków.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

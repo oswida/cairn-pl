@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Green Slime
-3 HP, 16 STR, 8 DEX, 6 WIL, acidic touch (d8+d8)
-- Large blobs of green slime that stick to walls and ceiling. Attack by dropping on top of their victims.
-- The acid corrodes both metal and wood along with the carrier, but cannot affect stone. Consumed flesh becomes more green slime.
-- Immune to all damage except fire. Once stuck on a victim, can only be removed if burned away.
+
+# Zielony szlam
+
+3 OCHR, 16 SIŁ, 8 ZRE, 6 WOL, kwasowy dotyk (k8+k8)
+
+- Duże plamy zielonego śluzu, które przyklejają się do ścian i sufitu. Atakują, spadając na swoje ofiary.
+- Kwas koroduje zarówno metal, jak i drewno wraz z właścicielem, ale nie może wpływać na kamień. Rozpuszczone ciało staje się kolejnym zielonym szlamem
+- Odporny na wszystkie obrażenia oprócz ognia. Raz przyklejony do ofiary, może zostać usunięty tylko po spaleniu.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

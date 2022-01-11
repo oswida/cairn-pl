@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Giant Pike
-4 HP, 14 DEX, bite (d6+d6)  
-- 10’ long, aggressive hunting fish. Dwell in deep lakes.  
-- Use their great speed to surprise victims.  
+# Szczupak olbrzymi
+
+4 OCHR, 14 ZRE, zęby (k6+k6)
+{: .stat-block }
+
+- Trzymetrowa, agresywna ryba łowna. Zamieszkują głębokie jeziora.
+- Wykorzystują swoją szybkość, aby zaskoczyć ofiary.  
 
 author: [xenio](https://xenioinabottle.blogspot.com)

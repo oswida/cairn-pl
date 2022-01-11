@@ -1,11 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Ghoul
-6 HP,  11 STR, 14 DEX, 3 WIL, elongated claws (d6), jagged teeth (d8)
-- Grey-skinned man-things wearing shredded clothes, hunkering over the ground.
-- Craves the flesh of the living, as it grows only more powerful with each victim.
-- Critical damage: target is immobilized. The wound turns fatal within 1d6 hours if not treated by a priest or skilled healer. If not burned, the victim will rise as a Ghoul.
+# Ghul
+
+6 OCHR,  11 SIŁ, 14 ZRE, 3 WOL, wydłużone pazury (k6), wyszczerbione zęby (k8)  
+{: .stat-block }
+
+- Szaroskóre monstra w poszarpanych ubraniach, przycupnięte tuż nad ziemią.
+- Łaknie mięsa żywych, a z każdą ofiarą staje się coraz potężniejszy.
+- Obrażenia krytyczne: cel zostaje unieruchomiony. Rana staje się śmiertelna w ciągu 1k6 godzin, jeśli nie zostanie opatrzona przez kapłana lub wykwalifikowanego uzdrowiciela. Przemieniona ofiara zmartwychwstanie jako Ghul jeśli nie zostanie spalona.

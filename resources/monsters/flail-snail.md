@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Flail Snail
-4 HP, 2 Armor, 14 STR, 6 DEX, tentacles (d8+d8)  
-- Giant snails with heavy, club-like tentacles and a colorful shell.   Dwell underground.  
-- Its colorful shell can deflect magic, possibly annulling it or reflecting it to its caster.  
+# Ślimak cep (Flail Snail)
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+4 OCHR, 2 Pancerza, 14 SIŁ, 6 ZRE, macki (k8+k8)  
+{: .stat-block }  
+
+- Olbrzymie ślimaki z ciężkimi, podobnymi do maczug mackami i kolorową muszlą. Żyją pod ziemią.
+- Jego kolorowa muszla może odbijać magię, anulując jej efekty lub odbijając w stronę rzucającego.
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

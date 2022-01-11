@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Golem, Flesh
-9 HP, 1 Armor, 15 STR, 8 DEX, 8 WIL, fists (d8)  
-- 7’ tall humanoid abominations made of flesh stitched together.  
-- Immune to mundane attacks, fire, and cold.  
-- Absorb electricity damage received, healing HP by the same amount instead.  
+# Golem z ciał
+
+9 OCHR, 1 Pancerza, 15 SIŁ, 8 ZRE, 8 WOL, pięści (k8)  
+{: .stat-block }
+
+- Wysokie na 2 metry humanoidalne obrzydlistwa wykonane ze zszytych ze sobą ciał.  
+- Odporny na zwykłe ataki, ogień i zimno.  
+- Absorbuje otrzymane obrażenia od elektryczności, lecząc w zamian OCHR o tę samą wartość.  
 
 author: [xenio](https://xenioinabottle.blogspot.com)

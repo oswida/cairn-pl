@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Giant, Storm
-15 HP, 2 Armor, 20 STR, 14 DEX, 18 WIL, greatsword (d10+d10)  
-- 22’ tall humanoids with bronze-hued skin and light-colored hair. Live in mountain peaks and deep waters.  
-- Unharmed by lightning, can summon storms at their will.  
-- Can summon lightning bolts to attack nearby enemies for d12 damage.  
+# Gigant burzowy
+
+15 OCHR, 2 Pancerza, 20 SIŁ, 14 ZRE, 18 WOL, wielki miecz (k10+k10)
+{: .stat-block }
+
+- Wysokie na 6,5 metra humanoidy o brązowej skórze i jasnych włosach. Zamieszkują górskie szczyty i głębokie wody.  
+- Odporne na błyskawice, mogą przywoływać burze według własnej woli.
+- Może przyzywać błyskawice, które atakują pobliskich wrogów zadając k12 obrażeń.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

@@ -1,12 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Foxwoman
-6 HP, 12 STR, 14 DEX, 11 WIL, teeth (d6), claws (d8+d8)
-- Appears as a 7-foot tall with a human woman with the head of a fox.
-- Transforms into a fox at will.
-- Immune to attacks from metal weapons.
-- Critical damage: victim is choked unconscious, to be fed on soon after.
+
+# Kobieta-lis
+
+6 OCHR, 12 SIŁ, 14 ZRE, 11 WOL, zęby (k6), pazury (k8+k8)  
+{: .stat-block }
+
+- Wygląda jak wysoka na 2 metry ludzka kobieta z głową lisa.
+- Zmienia się w lisa, kiedy tylko zechce.
+- Odporna na ataki metalową bronią.
+- Obrażenia krytyczne: ofiara zostaje zadławiona do nieprzytomności, aby następnie, w krótkim czasie zostać pożarta.

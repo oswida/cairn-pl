@@ -1,13 +1,17 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Gargoyle
-6 HP, 14 STR, 8 DEX, 12 WIL, claws (d6+d6)  
-- Magical creatures that look like monstrous, horned, winged statues.  
-- Guard places by standing still to pass like inanimate statues and attacking anything that comes near.  
-- Cannot be charmed and put to sleep.  
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+# Gargulec
+
+6 OCHR, 14 SIŁ, 8 ZRE, 12 WOL, pazury (k6+k6)  
+{: .stat-block }
+
+- Magiczne stworzenia, które wyglądają jak potworne, rogate, skrzydlate posągi.
+- Strzegą wybranych miejsc stojąc nieruchomo i udając martwe posągi. Atakują wszystko, co się zbliży.  
+- Nie można ich zaczarować ani uśpić.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

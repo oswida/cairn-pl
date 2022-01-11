@@ -1,12 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Frost Elf
-14 HP, 1 Armor, 8 STR, 13 DEX, 14 WIL, icicle dagger (d6), a Spellbook (Choose one: Sleep, Teleport, Detect Magic)
-- Beautiful, amoral, and long-lived.
-- Resistant to most forms of magic.
 
-source: [SRD](/cairn-srd#Bestiary)
+# Mroźny Elf
+
+14 OCHR, 1 Pancerza, 8 SIŁ, 13 ZRE, 14 WOL, sztylet z sopli (k6), księga zaklęć (wybierz jeden: _Sen, Teleportacja, Wykrywanie magii)_
+{: .stat-block }
+
+- Piękne, amoralne i długowieczne.
+- Odporny na większość form magii.
+
+source: [SRD](./cairn-srd-pl.md#bestiariusz)

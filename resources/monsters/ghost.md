@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Ghost
-10 HP, 3 Armor, 14 WIL, draining touch (d6)  
-- Incorporeal spirits of the restless dead.  
-- Can possess victims that fail a WIL save, taking control of their bodies.  
-- Critical damage: Drains the victim’s life force (d6 extra STR damage).  
+# Duch
 
-author: [xenio](https://xenioinabottle.blogspot.com) 
+10 OCHR, 3 Pancerza, 14 WOL, wysysający dotyk (k6)  
+{: .stat-block }
+
+- Bezcielesne duchy niespokojnych zmarłych.  
+- Potrafi opętać ofiary, które nie zdadzą testu WOL, przejmując kontrolę nad ich ciałami.  
+- Obrażenia krytyczne: wysysa siły życiowe ofiary (k6 dodatkowych obrażeń SIŁ).  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

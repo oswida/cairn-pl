@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Giant, Stone
-9 HP, 2 Armor, 16 STR, 14 DEX, stone club (d8+d8)  
-- 14’ tall slender humanoids with stone-like gray skin.   Dwell in caverns or build primitive homes of stone in valleys.  
-- Attack victims by throwing rocks at them from far away.  
-- Can easily camouflage into stone.  
+# Gigant kamienny
+
+9 OCHR, 2 Pancerza, 16 SIŁ, 14 ZRE, kamienna pałka (k8+k8)
+{: .stat-block }
+
+- Wysokie na 4 metry, smukłe humanoidy o szarej jak kamień skórze.   Mieszkają w jaskiniach lub budują w dolinach prymitywne domy z kamienia.  
+- Atakują ofiary rzucając w nie kamieniami z dużej odległości.  
+- Z łatwością może upodobnić się do kamienia.  
 
 author: [xenio](https://xenioinabottle.blogspot.com)

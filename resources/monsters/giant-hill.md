@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Gigant wzgórzowy
 
-# Giant, Hill
-8 HP, 15 STR, 6 WIL, great club (d8+d8)  
-- 12’ tall, hairy and brutish humanoids. Dwell in hills and plains.  
-- Low intelligence, relies only on its ferocity.  
-- Frequently attack settlements for food.  
+8 OCHR, 15 SIŁ, 6 WOL, wielka pałka (k8+k8)
+{: .stat-block }
+
+- Wysokie na 3,5 metra, włochate i brutalne humanoidy. Mieszkają na wzgórzach i równinach.  
+- Stworzenie o niskiej inteligencji, polega tylko na swojej dzikości.  
+- Często atakują osady w poszukiwaniu pożywienia.  
 
 author: [xenio](https://xenioinabottle.blogspot.com)

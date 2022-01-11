@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Pirania olbrzymia
 
-# Giant Piranha
-3 HP, 12 DEX, bite (d8)  
-- 5’ long piranhas with colorful scales.   Live in rivers and attack anything in the water.  
-- Dwell in large groups and overwhelm victims by swarming them.  
- - Once it smells blood, it will not stop attacking.   
+3 OCHR, 12 ZRE, zęby (k8)
+{: .stat-block }
+
+- Piranie o długości 1,5 metra z kolorowymi łuskami. Żyją w rzekach i atakują wszystko, co znajduje się w wodzie.  
+- Żyją w dużych grupach i atakują ofiary przytłaczając je swoją liczbą.
+- Nie przestanie atakować, dopóki czuje zapach krwi.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

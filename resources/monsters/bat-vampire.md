@@ -5,7 +5,7 @@ grand_parent: Zasoby
 ---
 
 
-## Nietoperz, wampir
+# Nietoperz, wampir
 
 3 OCHR, 8 SIŁ, zęby (k8)
 {: .stat-block }

@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Gelatinous Cube
-6 HP, 16 STR, 8 DEX, 4 WIL, touch (d8)  
-- Large cubes of transparent jelly, dwell in dungeons absorbing items and living creatures.  
-- May go undetected due to being transparent.  
-- Critical damage: Its touch paralyzes victims (d6 DEX damage).  
+# Żelatynowy sześcian
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+6 OCHR, 16 SIŁ, 8 ZRE, 4 WOL, dotyk (k8)  
+{: .stat-block }
+
+- Duże kostki przezroczystej galarety, mieszkają w lochach pochłaniając przedmioty i żywe stworzenia.  
+- Dzięki swojej przezroczystości, mogą pozostawać niezauważone.  
+- Obrażenia krytyczne: jego dotyk paraliżuje ofiary (k6 obrażeń ZRE).  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

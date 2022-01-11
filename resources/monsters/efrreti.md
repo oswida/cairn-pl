@@ -10,7 +10,7 @@ grand_parent: Zasoby
 {: .stat-block }
 
 - Wysoce inteligentne istoty z wymiaru żywiołu ognia.  Objawiają się jako olbrzymi mężczyźni o przerażających twarzach, z aurą żaru i dymu.  
-- Może przekształcić się w słup lub ścianę płomieni, paląc wszystko, czego dotknie.  
-- Może zostać przywołany przez potężną magię i zmuszony do wykonania zadań, ale będzie sabotował polecenia, jednocześnie wykonując je co do joty.  
+- Mogą przekształcić się w słup lub ścianę płomieni, paląc wszystko, czego dotkną.  
+- Mogą zostać przywołani przez potężną magię i zmuszeni do wykonania zadań, ale będą sabotowali polecenia, jednocześnie wykonując je co do joty.  
 
 autor: [xenio](https://xenioinabottle.blogspot.com)

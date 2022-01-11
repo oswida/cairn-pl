@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
 # Goblin
-4 HP, 8 STR, 12 DEX, 8 WIL, dagger or short bow (d6)  
-- Small, grotesque humanoids with skin in earthly tones of green, brown, and grey.  
-- Avoid combat, only attacking when in advantage, using hit-and-run tactics.  
-- Sometimes are found using dire wolves as mounts.  
+
+4 OCHR, 8 SIŁ, 12 ZRE, 8 WOL, sztylet lub krótki łuk (k6)
+{: .stat-block }
+
+- Małe, groteskowe humanoidy o skórze w ziemistych odcieniach zieleni, brązu i szarości.  
+- Unikają walki, atakując tylko wtedy, gdy mają przewagę, stosując taktykę "uderz i uciekaj".  
+- Czasami używają wilków jako wierzchowców.  
 
 author: [xenio](https://xenioinabottle.blogspot.com)

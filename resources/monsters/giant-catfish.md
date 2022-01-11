@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Giant Catfish
-8 HP, 14 STR, bite (d8+d8)  
-- Pale, 15’ long fish that lurk in the mud at the bottom of lakes and rivers.  
-- Attack creatures that swim above their hiding spot.  
+# Sum gigant
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+8 OCHR, 14 SIŁ, zęby (k8+k8)  
+{: .stat-block }
+
+- Blade, długie na 4,5 metra ryby, które czają się w mule na dnie jezior i rzek.  
+- Atakują stworzenia, które pływają w pobliżu ich kryjówki.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

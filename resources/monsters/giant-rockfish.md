@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Giant Rockfish
-5 HP, 1 Armor, 12 STR, spine (d6)  
-- Spiny fish with rock-like scales. Live in saltwater. Normally passive, but attacks if disturbed.  
-- Camouflages in rocks and coral formations.  
-- Critical damage: The spines release a highly lethal poison (d4 extra STR damage).  
+# Gigantyczny karmazyn
+
+5 OCHR, 1 Pancerza, 12 SIŁ, kolce (k6)
+{: .stat-block }
+
+- Kolczasta ryba z łuskami przypominającymi skałę. Żyje w słonej wodzie. Zwykle pasywna, ale atakuje, jeśli jest niepokojona.
+- Świetnie maskuje  się w skałach i formacjach koralowych.  
+- Obrażenia krytyczne: Kolce uwalniają śmiertelną truciznę (k4 dodatkowych obrażeń SIŁ).  
 
 author: [xenio](https://xenioinabottle.blogspot.com)

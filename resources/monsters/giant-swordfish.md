@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Giant Swordfish
-3 HP, 12 DEX, sword (d8)  
-- Long saltwater fish with a bone sword on the snout. Mostly peaceful.  
-- The bone sword might be used as a longsword(d8) if removed whole.  
+# Miecznik olbrzymi
+
+3 OCHR, 12 ZRE, miecz (k8)
+{: .stat-block }
+
+- Długa ryba słonowodna z kościanym mieczem na pysku. Przeważnie spokojna.  
+- Kościany miecz może być użyty jako miecz długi (k8), jeśli zostanie wyjęty w całości z ciała miecznika.  
 
 author: [xenio](https://xenioinabottle.blogspot.com)

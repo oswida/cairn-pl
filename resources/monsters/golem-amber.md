@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Golem bursztynowy
 
-# Golem, Amber
-10 HP, 3 Armor, 16 STR, 12 DEX, 14 WIL, claws (d8)  
-- Artificial constructs made in the shape of giant felines. Created by wizards in a slow and complex process.  
-- Track without error, able to see invisible creatures nearby.  
-- Immune to mundane attacks, gas, and mind-controlling effects.  
+10 OCHR, 3 Pancerza, 16 SIŁ, 12 ZRE, 14 WOL, pazury (k8)  
+{: .stat-block }
+
+- Sztuczne konstrukcje w kształcie olbrzymich kotów. Stworzone przez czarodziejów za pomocą powolnego i skomplikowanego procesu.  
+- Bezbłędnie tropi, potrafi dostrzec niewidzialne istoty w pobliżu.  
+- Odporny na zwykłe ataki, gaz i efekty kontroli umysłu.  
 
 author: [xenio](https://xenioinabottle.blogspot.com)

@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Giant Electric Eel
-2 HP, 12 DEX, bite (d6)  
-- 9’ long eels that live in warm, clear water.  
-- Able to emit an electric shock, damaging all in the nearby water for d10.  
+# Węgorz elektryczny, gigantyczny
 
-author: [xenio](https://xenioinabottle.blogspot.com)
+2 OCHR, 12 ZRE, zęby (k6)  
+{: .stat-block }
+
+- Węgorze o długości niemal 3 metrów, które żyją w ciepłej, przejrzystej wodzie.  
+- Potrafią wytworzyć impuls elektryczny, rażąc wszystkich w wodzie naokoło za k10 obrażeń.  
+
+autor: [xenio](https://xenioinabottle.blogspot.com)

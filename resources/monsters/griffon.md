@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Griffon
-7 HP, 14 STR, 12 DEX, 9 WIL, beak (d8+d8) or claws (d6, blast)
-- Ravenous hybrid predators, with the head and wings of an eagle and the lower body of a lion.
-- Naturally prey on horses, attacking then on sight.
-- Captured young can be trained as mounts, however, their instinct to hunt horses cannot be controlled.
+# Gryf
+
+7 OCHR, 14 SIŁ, 12 ZRE, 9 WOL, dziób (k8+k8) lub szpony (k6, podmuch)
+
+- Kruczoczarne, drapieżne hybrydy, z głową i skrzydłami orła i dolną częścią ciała lwa.
+- Żywią się końmi i atakują je jak tylko zobaczą.
+- Schwytane jako młode zwierzęta, mogą być szkolone na wierzchowce. Ich instynktu polowania na konie nie da się jednak opanować.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

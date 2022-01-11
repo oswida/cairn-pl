@@ -1,12 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Jesiotr olbrzymi
 
-# Giant Sturgeon
-10 HP, 2 Armor.   14 STR  
-- Huge, 30’ long, aggressive armored fish.  
-- Swallow its victims whole if able.  
+10 OCHR, 2 Pancerza, 14 SIŁ
+{: .stat-block }
+
+- Ogromna, długa na 9 metrów, opancerzona i agresywna ryba. 
+- Jeśli jest w stanie, połyka swoje ofiary w całości.  
 
 author: [xenio](https://xenioinabottle.blogspot.com)

@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
 # Gnoll
-4 HP, 1 Armor, 12 STR, 8 WIL, spear or short bow (d6)  
-- Monstrous humanoid hyenas of low intelligence.   Legend says they were created in a wizard’s experiments.  
-- Attack in large packs, intimidating its victims with numbers.  
-- Critical damage: the gnoll enters in a rampage after tasting blood, making another attack immediately.  
+
+4 OCHR, 1 Pancerza, 12 SIŁ, 8 WOL, włócznia lub krótki łuk (k6)  
+{: .stat-block }
+
+- Potworne humanoidalne hieny o niskiej inteligencji. Legenda głosi, że powstały w wyniku eksperymentów czarodzieja.  
+- Atakuje w dużych stadach, zastraszając swoje ofiary liczebnością.  
+- Obrażenia krytyczne: po skosztowaniu krwi Gnoll wpada w szał, natychmiast wykonując kolejny atak.  
 
 author: [xenio](https://xenioinabottle.blogspot.com)
