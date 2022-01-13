@@ -1,12 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Harpy
-5 HP, Armor 1, 12 STR, 12 DEX, 13 WIL, claws (d6+d6) or song (save)
-- Hideous monstrosities with the body of a giant eagle and a humanoid head.
-- Charming Song: Anyone who hears the song of a harpy must save WIL or be charmed, following the harpy and defending it from any threat. Killing the harpy breaks the charm.
+# Harpia
+
+5 OCHR,1 Pancerza, 12 SIŁ, 12 ZRE, 13 WOL, pazury (k6+k6) lub pieśń (rzut obronny)
+
+- Ohydne monstrum o ciele ogromnego orła i humanoidalnej głowie.
+- Czarująca Pieśń: Każdy, kto usłyszy pieśń harpii, musi zdać test WOL lub zostać oczarowany - staje się wtedy jej zwolennikiem i obrońcą. Zabicie harpii przerywa urok.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Hag, Black
-8 HP, 12 STR, 15 WIL, talons (d8)
-- Hideous, 8' tall creatures that reassemble female humans of old age. Possess talons and teeth like iron and skin ranging from dark blue to black. 
-- Dwell in dead forests and swamps, crave eating human flesh.
-- Can cloak their true appearance with an illusory form, and can see through any illusion. 
+# Wiedźma czarna
+
+8 OCHR, 12 SIŁ, 15 WOL, pazury (d8)
+
+- Ohydne, wysokie na 2,5 metra stwory, które przypominają kobiety w podeszłym wieku. Posiadają szpony i zęby jak z żelaza oraz skórę w kolorze od ciemnoniebieskiego do czarnego.
+- Mieszkają w martwych lasach i na bagnach, uwielbiają jeść ludzkie mięso.
+- Potrafi zamaskować swój prawdziwy wygląd iluzją i może przejrzeć każdą cudzą iluzję.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

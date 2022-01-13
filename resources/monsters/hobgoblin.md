@@ -1,13 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
-
 # Hobgoblin
-4 HP, 2 Armor, 14 STR, 8 DEX, mace (d8)
-- Large and burly relatives of goblins. Dwell in underground fortresses, but frequently seek victims above ground.
-- Highly lawful and militarized culture, follow orders without question.
-- Trained to fight together, damage dealt is enhanced if an ally is also engaged with the same enemy.
+
+4 OCHR, 2 Pancerza, 14 SIŁ, 8 ZRE, maczuga (k8)
+
+- Wielcy i masywni krewni goblinów. Mieszkają w podziemnych fortecach, ale często szukają ofiar na powierzchni ziemi.
+- Wysoce praworządna i zmilitaryzowana kultura, wykonują rozkazy bez pytania.
+- Wyszkoleni do walki w grupie, zadają zwiększone obrażenia, jeśli sojusznik walczy z tym samym przeciwnikiem.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Hawk, Normal
-2 HP, 8 STR, 15 DEX, 8 WIL, talons or beak (d4)
-- Small birds of prey. Hunt small rodents and reptiles, only attack larger creatures if they appear vulnerable.
-- Surprise their victims by diving to attack from a great height.
-- Can be trained as hunting companions.
+
+# Jastrząb
+
+2 OCHR, 8 SIŁ, 15 ZRE, 8 WOL, szpony lub dziób (k4)
+
+- Niewielkie ptaki drapieżne. Polują na małe gryzonie i gady, atakują większe stworzenia tylko wtedy, gdy te wydają się bezbronne.
+- Zaskakują swoje ofiary nurkując z dużej wysokości.
+- Mogą być szkolone do polowań.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Hippogriff
-3 HP, 12 STR, 14 DEX, claws (d6+d6) or bite (d10)
-- Hybrid creatures with the head and front half of an eagle and the back half of a horse.
-- Can be trained to be used as mounts.
-- Hate pegasi, attacking then on sight.
+
+# Hipogryf
+
+3 OCHR, 12 SIŁ, 14 ZRE, pazury (k6+k6) lub zęby (k10)
+
+- Stworzenia z głową i przednią połową orła oraz tylną połową konia.
+- Mogą być szkolone do wykorzystania jako wierzchowce.
+- Nienawidzą pegazów i atakują je jak tylko zobaczą.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

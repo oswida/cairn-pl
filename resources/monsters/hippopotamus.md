@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Hippopotamus
-8 HP, 1 Armor, 16 STR, 6 DEX, 8 WIL, bite (d8+d8)
-- Massive, thick-skinned animals that live in tropical waters. Herbivore, but aggressively territorial. 
-- Can hold their breath for long periods. Stay underwater and tip boats that come too close over.
+
+# Hipopotam
+
+8 OCHR, 1 Pancerza, 16 SIŁ, 6 ZRE, 8 WOL, zęby (k8+k8)
+
+- Masywne, gruboskórne zwierzęta żyjące w wodach tropikalnych. Roślinożerne, ale agresywnie terytorialne.
+- Potrafią wstrzymać oddech na długi czas. Spędzają czas pod wodą i przewracają łodzie, które podpływają zbyt blisko.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

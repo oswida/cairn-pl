@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Halfling
-4 HP, 8 STR, 14 DEX, 14 WIL, shortswords (d6+d6)
-- Small humanoids with hairy feet live in small settlements called shires.
-- Highly resistant to fear effects.
-- Each shire is led by a stronger halfling called shire-riff, who has access to better equipment.
+# Niziołek
+
+4 OCHR, 8 SIŁ, 14 ZRE, 14 WOL, krótkie miecze (k6+k6)
+
+- Małe humanoidy z owłosionymi stopami żyją w małych osadach zwanych hrabstwami.
+- Niesamowicie odporne na efekty strachu.
+- Na czele każdego hrabstwa stoi silniejszy niziołek zwany szeryfem, który ma dostęp do lepszego sprzętu.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

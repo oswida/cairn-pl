@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
 # Hydra
-9 HP, 1 Armor, 14 STR, 12 DEX, bite (d10, blast)
-- Draconian creatures with nine serpentine heads. Can attack a number of targets equal to the number of heads. 
-- Each time it takes damage to STR, loses one head. Severed heads regrow after one turn, recovering 1 HP for head regrown. 
-- Fire damage received is enhanced, and stops head regrowth for a turn.
+
+9 OCHR, 1 Pancerza, 14 SIŁ, 12 ZRE, zęby (k10, podmuch)
+
+- Smocze stwory z dziewięcioma wężowymi głowami. Mogą atakować liczbę celów równą liczbie głów.
+- Za każdym razem, gdy otrzymuje obrażenia SIŁ, traci jedną głowę. Odcięte głowy odrastają po jednej turze, hydra odzyskuje 1 OCHR za każdą odrośniętą głowę.
+- Otrzymane obrażenia od ognia są wzmocnione i zatrzymują odrastanie głowy na jedną turę.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

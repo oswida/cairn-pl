@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Hellhound
-5 HP, 1 Armor, 12 STR, 14 DEX, bite (d6) or fire breath (d8)
-- Monstrous, intelligent dogs with the size of a pony. Dwell near volcanoes and sometimes accompany other fire-related creatures.
-- Immune to fire and heat. Can breathe fire, burning one target.
-- Don't rely on sight to find its foes, due to its keen sense of smell. 
+
+# Piekielny ogar
+
+5 OCHR, 1 Pancerza, 12 SIŁ, 14 ZRE, zęby (k6) lub ognisty oddech (k8)
+
+- Monstrualne, inteligentne psy wielkości kucyka. Mieszkają w pobliżu wulkanów i czasami towarzyszą innym istotom związanym z ogniem.
+- Odporny na ogień i ciepło. Może zionąć ogniem, paląc jeden cel.
+- Ze względu na silny zmysł węchu, podczas tropienia, nie polegają na wzroku.
 
 author: [xenio](https://xenioinabottle.blogspot.com)
