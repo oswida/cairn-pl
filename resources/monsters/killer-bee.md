@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Killer Bee
-4 HP, 6 STR, 12 DEX, 8 WIL, sting (d4)
-- Giant bees that build hives underground. Hyper aggressive, attack anything that comes near.
-- Produce special honey that can heal d6 HP once per day if consumed.
-- Critical Damage: Leave their poisoned sting lodged in the target, inflicting d4 damage every round until removed. A killer bee dies soon after leaving its sting.
+
+# Pszczoła-zabójca
+
+4 OCHR, 6 SIŁ, 12 ZRE, 8 WOL, żądło (k4)
+
+- Olbrzymie pszczoły, które budują ule pod ziemią. Bardzo agresywne, atakują wszystko, co się do nich zbliży.
+- Produkuje specjalny miód, który po spożyciu może przywrócić k6 OCHR (raz dziennie).
+- Obrażenia krytyczne: Pozostawiają zatrute żądło w celu, zadając k4 obrażeń co rundę, dopóki nie zostanie usunięte. Pszczoła-zabójca umiera wkrótce po zostawieniu żądła.
 
 author: [xenio](https://xenioinabottle.blogspot.com)
