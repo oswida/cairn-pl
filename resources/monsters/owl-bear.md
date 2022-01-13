@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Owl Bear
-5 HP, 15 STR, 12 WIL, bite (d8) or claws (d6+d6)
-- Huge, carnivorous bear-like creatures with the face of an owl. Found in deep dense forests.
-- Highly territorial, attack anything that comes to near.
-- Critical damage: Hug victims for d8 damage.
+# Sowodźwiedź
+
+5 OCHR, 15 SIŁ, 12 WOL, zęby (k8) lub pazury (k6+k6)
+
+- Ogromne, mięsożerne niedźwiedziopodobne stworzenia o twarzy sowy. Występują w głębokich, gęstych lasach.
+- Bardzo terytorialne, atakują wszystko, co znajdzie się w pobliżu.
+- Obrażenia krytyczne: Ściska ofiarę zadając k8 obrażeń.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

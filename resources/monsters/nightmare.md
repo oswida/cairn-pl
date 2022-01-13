@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Nightmare
-6 HP, 2 Armor, 14 STR, 14 DEX, 12 WIL, flaming hooves (d6+d6) or bite (d8)
-- Intelligent demonic horses with burning-red eyes, smoldering nostrils, and flaming hooves.
-- Breathe a thick cloud of smoke, impairing damage dealt by anyone in melee with the nightmare.
-- Sometimes are used as steeds by powerful undead creatures.
+
+# Koszmar
+
+6 OCHR, 2 Pancerza, 14 SIŁ, 14 ZRE, 12 WOL, płonące kopyta (k6+k6) lub zęby (k8)
+
+- Inteligentne, demoniczne konie z płonącymi czerwonymi oczami, tlącymi się nozdrzami i płonącymi kopytami.
+- Wydycha gęstą chmurę dymu, która osłabia obrażenia zadawane przez każdego, kto walczy w zwarciu z Koszmarem.
+- Czasami są używane jako rumaki przez potężne nieumarłe istoty.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

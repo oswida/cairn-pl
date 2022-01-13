@@ -1,12 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Ogre
-4 HP, Armor 1, 16 STR, 8 DEX, 8 WIL, club (d10)
-- 10' tall brute humanoids dressed in animal hides. Mostly dwell in caves.
-- Carry sacks full of gold and riches with them.
+# Ogr
+
+4 OCHR, 1 Pancerza, 16 SIŁ, 8 ZRE, 8 WOL, pałka (k10)
+
+- Wysokie na 3 m brutalne humanoidy ubrane w skóry zwierząt. Najczęściej mieszkają w jaskiniach.
+- Noszą ze sobą worki pełne złota i innych skarbów.
 
 author: [xenio](https://xenioinabottle.blogspot.com)
