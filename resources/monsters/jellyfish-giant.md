@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Jellyfish, Giant
-4 HP, 12 STR, tentacles (d10,blast)
-- Huge, transparent sea creatures with a gelatinous body. Dwell in warm waters.
-- Critical Damage: The tentacles are covered in a poison that paralyzes the victim. (d8 DEX damage)
-- Killed victims are absorbed into the body and digested in a few minutes.
+# Meduza olbrzymia
+
+4 OCHR, 12 SIŁ, macki (k10, podmuch)
+
+- Ogromne, przezroczyste stworzenia morskie o galaretowatym ciele. Żyją w ciepłych wodach.
+- Obrażenia krytyczne: Macki pokryte są trucizną, która paraliżuje ofiarę. (k8 obrażeń ZRE)
+- Zabite ofiary są wchłaniane do organizmu i trawione w ciągu kilku minut.
 
 author: [xenio](https://xenioinabottle.blogspot.com)
