@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Lizard Man
-4 HP, 1 Armor, 14 STR, 12 DEX, 12 WIL, bone spear (d8)
-- Primitive, tribal, aquatic humanoids with reptilian heads and tails. Dwell in jungles nearby bodies of water.
-- Craft their Armors and weapons from the bones of their prey.
-- Carnivorous, hunt other humanoids, whose flesh they regard as a delicacy.
+# Człowiek jaszczur
+
+4 OCHR, 1 Pancerza, 14 SIŁ, 12 ZRE, 12 WOL, kościana włócznia (k8)
+
+- Prymitywne, plemienne, wodne humanoidy z jaszczurzymi głowami i ogonami. Zamieszkują dżungle w pobliżu zbiorników wodnych.
+- Wytwarzają zbroje i broń z kości swoich ofiar.
+- Mięsożerne, polują na inne humanoidy, których mięso uważają za przysmak.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

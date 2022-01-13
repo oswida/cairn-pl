@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Lizard, Giant Subterranean
-6 HP, 15 STR, 12 WIL, bite (d6+d6)
-- 20' long, aggressive lizards that dwell only underground.
-- Can walk on walls and ceilings.
-- Clamps their mouth shut after biting a target, making it impossible to force open without killing the lizard.
+# Jaszczurka olbrzymia, podziemna
+
+6 OCHR, 15 SIŁ, 12 WOL, zęby (k6+k6)
+
+- sześciometrowe, agresywne jaszczurki, które żyją tylko pod ziemią.
+- Mogą chodzić po ścianach i sufitach.
+- Po ugryzieniu ofiary tak zaciskają paszczę, że nie można jej otworzyć bez zabicia jaszczurki.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

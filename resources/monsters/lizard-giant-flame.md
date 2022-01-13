@@ -1,13 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Jaszczurka olbrzymia, ognista
 
-# Lizard, Giant Flame 
-7 HP, 14 STR, 12 WIL, bite (d8+d8) or fire breath (d6+d6,blast)
-- 30' long grey and red lizards that are sometimes mistaken by dragons. Lair underground but hunt on the surface. Sleep most of the day.
-- Unharmed by flames and heat.
-- Their eggs can be sold for a high price.
+7 OCHR, 14 SIŁ, 12 WOL, zęby (k8+k8) lub ognisty oddech (k6+k6, podmuch)
+
+- Szare i czerwone jaszczurki o długości 9 metrów, które czasami mylone są z smokami. Żyją pod ziemią, ale polują na powierzchni. Śpią przez większość dnia.
+- Odporne na płomienie i wysoką temperaturę.
+- Ich jaja mogą być sprzedane za wysoką cenę.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

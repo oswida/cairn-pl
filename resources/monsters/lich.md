@@ -1,13 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Licz
 
-# Lich
-11 HP, 1 Armor, 8 STR, 8 DEX, 18 WIL, dagger (d6)
-- Powerful wizards who refused death by turning themselves in soulless undead.
-- Able to cast virtually any spell
-- Critical Damage: Its touch paralyzes the victim (d8 DEX damage)
+11 OCHR, 1 Pancerza, 8 SIŁ, 8 ZRE, 18 WOL, sztylet (k6)
+
+- Potężni czarodzieje, którzy uniknęli śmierci, zamieniając się w bezdusznych nieumarłych.
+- Potrafi rzucić praktycznie każde zaklęcie.
+- Obrażenia krytyczne: Jego dotyk paraliżuje ofiarę (k8 obrażeń ZRE)
 
 author: [xenio](https://xenioinabottle.blogspot.com)

@@ -1,12 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Gekon olbrzymi
 
-# Lizard, Giant Gecko
-3 HP, 12 DEX, 12 WIL, bite (d8)
-- 5' long, carnivorous, nocturn lizards. Blue and Orange colored.
-- Climb on sheer surfaces and attack by dropping on victims.
+3 OCHR, 12 ZRE, 12 WOL, zęby (k8)
+
+- 1,5-metrowe, mięsożerne, nocne jaszczurki. Ubarwione na niebiesko i pomarańczowo.
+- Wspinają się po stromych powierzchniach i atakują, spadając na ofiary.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

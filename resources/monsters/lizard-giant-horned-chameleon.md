@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Lizard, Giant Horned Chameleon
-5 HP, 14 STR, 12 WIL, horn (d6) or tongue and bite (d6+d6)
-- 7' long lizards that camouflage by changing the color of their scales.
-- Use their camouflage to surprise victims.
-- Can attack further away targets by grabbing them with their elongated tongue. The victim must save STR or be pulled to the lizard's mouth and bitten.
+# Kameleon olbrzymi, rogaty
+
+5 OCHR, 14 SIŁ, 12 WOL, róg (k6) lub język i zęby (k6+k6)
+
+- Dwumetrowe jaszczurki, które kamuflują się poprzez zmianę koloru swoich łusek.
+- Wykorzystują kamuflaż, aby zaskoczyć ofiary.
+- Potrafią zaatakować oddalone cele, chwytając je wydłużonym językiem. Ofiara musi zdać test SIŁ lub zostać wciągnięta do paszczy jaszczura i pogryziona.
 
 author: [xenio](https://xenioinabottle.blogspot.com)
