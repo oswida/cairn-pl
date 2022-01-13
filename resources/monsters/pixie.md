@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Pixie
-10 HP, 6 STR, 15 DEX, 12 WIL, dagger (d6)
-- Tiny humanoids with insectoid wings. Close relatives of fairies.
-- Naturally invisible, can reveal themselves if choose to.
-- Small wings only allow it to fly for short periods of time before needing to rest.
+
+# Chochlik
+
+10 OCHR, 6 SIŁ, 15 ZRE, 12 WOL, sztylet (k6)
+
+- Maleńkie humanoidy z owadzimi skrzydłami. Bliscy krewni wróżek.
+- Naturalnie niewidzialni, mogą się ujawnić, jeśli zechcą.
+- Małe skrzydła pozwalają mu latać tylko przez krótki okres czasu, po chwili musi odpocząć.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

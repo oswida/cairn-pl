@@ -1,12 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Pegasus
-3 HP, 12 STR, 14 DEX, 12 WIL. hooves (d6+d6)
-- Intelligent winged horses, wilful and proud. Seen as symbols of beauty and nobility.
-- Can be trained to serve as mounts for lawful characters.
+
+# Pegaz
+
+3 OCHR, 12 SIŁ, 14 ZRE, 12 WOL, kopyta (k6+k6)
+
+- Inteligentne skrzydlate konie, dzikie i dumne. Postrzegane jako symbole piękna i szlachetności.
+- Mogą być wyszkolone, by służyć jako wierzchowce dla praworządnych postaci.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

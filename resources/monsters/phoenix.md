@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Phoenix
-20 HP, 3 Armor. 12 STR, 16 DEX, 14 WIL, talons (d8+d8)
-- Giant eagle-like birds made of pure flames, found in isolated regions and only attack in self-defense. Considered holy by some cultures.
-- Unharmed by fire and heat. Emits an aura of fire that does d6 damage to anyone that comes nearby.
-- If killed, disappears into a small sphere of flames. After a round, it is reborn from its ashes and flees.
+# Feniks
+
+20 OCHR, 3 Pancerza, 12 SIŁ, 16 ZRE, 14 WOL, szpony (k8+k8)
+
+- Olbrzymie orłopodobne ptaki z czystego ognia, występujące w odizolowanych regionach i atakujące tylko w obronie własnej. Przez niektóre kultury uważane za święte.
+- Odporne na ogień i ciepło. Emitują aurę ognia, która zadaje k6 obrażeń każdemu, kto znajdzie się w pobliżu.
+- Jeśli zostanie zabity, znika w małej kuli płomieni. Po jednej rundzie odradza się z popiołów i ucieka.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

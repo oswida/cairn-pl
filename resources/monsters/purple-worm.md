@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Purple Worm
-15 HP, 1 Armor, 18 STR, 7 WIL, bite (d8+d8) or poison sting (d8)
-- Gargantuan worms with bodies more than 100' long and 10' thick. Burrow in tunnels underground and surface to eat other creatures. Found in deserts and other drylands.
-- Victims bitten by the worm must save STR or be swallowed whole. Anything inside the worm receives 3d6 acid damage each round.
-- Critical Damage: The sting inflicts a highly lethal poison, dealing d8 extra STR damage.
+
+# Purpurowy robak
+
+15 OCHR, 1 Pancerza, 18 SIŁ, 7 WOL, zęby (k8+k8) lub zatrute żądło (k8)
+
+- Gargantuiczne robaki o ciałach ponad 30 m długości i 3 m grubości. Zagrzebują się w tunelach pod ziemią i wychodzą na powierzchnię, aby zjadać inne stworzenia. Występują na pustyniach i innych suchych terenach.
+- Ofiary ugryzione przez robaka muszą zdać test SIŁ lub zostaną połknięte w całości. Wszystko, co znajduje się wewnątrz robaka, otrzymuje co rundę 3k6 obrażeń od kwasu.
+- Obrażenia krytyczne: Żądło zawiera wysoce śmiertelną truciznę, zadając k8 dodatkowych obrażeń SIŁ.
 
 author: [xenio](https://xenioinabottle.blogspot.com)
