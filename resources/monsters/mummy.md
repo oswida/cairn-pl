@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Mummy
-5 HP, 12 STR, 8 DEX, 8 WIL, touch (d10)
-- Undead humanoids wrapped in funerary bandages. Found in ruins of temples and tombs.
-- The first time anyone sees the mummy, it must save WIL or be paralyzed. The paralysis ends immediately if the mummy attacks or goes out of sight. 
-- Critical Damage: The mummy inflicts a disease that rots open wounds, making them impossible to heal normally. Can only be removed by magic.
+
+# Mumia
+
+5 OCHR, 12 SIŁ, 8 ZRE, 8 WOL, dotyk (k10)
+
+- Nieumarłe humanoidy owinięte w pogrzebowe bandaże. Znajdowane w ruinach świątyń i grobowców.
+- Gdy ktoś po raz pierwszy zobaczy mumię, musi zdać test WOL lub zostaje sparaliżowany. Paraliż kończy się natychmiast, gdy mumia zaatakuje lub zniknie z pola widzenia.
+- Obrażenia krytyczne: Mumia zaraża chorobą, która powoduje gnicie otwartych ran, uniemożliwiając ich normalne wyleczenie. Choroba może być wyleczona tylko za pomocą magii.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

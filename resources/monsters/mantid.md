@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Mantid
-6 HP, 1 Armor, 8 STR, 15 DEX, claws (d6+d6, blast)
-- Intelligent, 4-armed insectoid warriors who hunt and consume humanoids. Dwell in arid regions.
-- Can do huge leaps without needing any previous impulse.
-- Extremely skilled in dodging projectiles. Ranged damage received is impaired. 
+# Mantyda
+
+6 OCHR, 1 Pancerza, 8 SIŁ, 15 ZRE, pazury (k6+k6, podmuch)
+
+- Inteligentni, czteroramienni insektoidalni wojownicy, którzy polują i pożerają humanoidy. Zamieszkują jałowe regiony.
+- Potrafią wykonywać ogromne skoki bez potrzeby wcześniejszego zbierania sił.
+- Niezwykle sprawny w unikaniu pocisków. Otrzymywane obrażenia dystansowe są osłabione.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

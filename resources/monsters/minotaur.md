@@ -1,12 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
 # Minotaur
-6 HP, Armor 1, 15 STR, 8 WIL, axe (d10) or horns (d6+d6)
-- Large, muscular humanoids with the head of a bull. Found in mazes and labyrinths. 
-- Attack other creatures on sight, pursuing until they are out of sight.
+
+6 OCHR, 1 Pancerza, 15 SIŁ, 8 WOL, topór (k10) lub rogi (k6+k6)
+
+- Duże, muskularne humanoidy z głową byka. Występują w labiryntach.
+- Atakują inne stworzenia na sam widok i ścigają je, dopóki te nie znikną z pola widzenia.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

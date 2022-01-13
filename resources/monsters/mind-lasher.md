@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Mind Lasher
-8 HP, Armor 1, 8 STR, 12 DEX, 18 WIL, tentacle (d4), or mind blast (save)
-- Humanoid creatures with purple skin and an octopus-like head. Dwell deep underground, plotting to slave humanity. Feed on the brains of other humanoids.
-- Mind Blast: Emits a frequency that affects the brains of nearby creatures, all caught must save WIL or be paralyzed.
-- Critical Damage: The tentacle rips the victim's brain out of the skull, and the mind lasher eats it, gaining all of the victim's memories.
+# Niszczyciel umysłu (Mind Lasher)
+
+8 OCHR, 1 Pancerza, 8 SIŁ, 12 ZRE, 18 WOL, macka (k4) lub destrukcja umysłu (rzut ochronny)
+
+- Humanoidalne istoty o fioletowej skórze i głowie przypominającej ośmiornicę. Żyją głęboko pod ziemią, knując spisek mający na celu zniewolenie ludzkości. Żywią się mózgami innych humanoidów.
+- Destrukcja umysłu: Emituje fale o częstotliwości, która wpływa na mózgi pobliskich stworzeń. Wszystkie ofiary muszą zdać test WOL lub zostają sparaliżowane.
+- Obrażenia krytyczne: Macki wyrywają mózg ofiary z czaszki, a mind lasher zjada go, zyskując wszystkie wspomnienia ofiary.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

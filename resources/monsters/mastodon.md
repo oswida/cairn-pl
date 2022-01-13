@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Mastodon
-15 HP, 18 STR, 6 DEX, tusks (d10)
-- Huge elephants with longer tusks. Found in icy regions.
-- With enough open ground for a clear run, it will charge its victims, enhancing damage.
-- Its tusks can be sold for high amounts of gold if removed whole.
+# Mastodont
+
+15 OCHR, 18 SIŁ, 6 ZRE, kły (k10)
+
+- Ogromne słonie z dłuższymi kłami. Występują w lodowatych regionach.
+- Jeśli teren jest wystarczająco otwarty, by móc swobodnie się rozpędzić, szarżuje na swoje ofiary. Zadane obrażenia zostają zwiększone.
+- Jego kły mogą być sprzedawane za duże sumy złota, jeśli zostaną usunięte w całości.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

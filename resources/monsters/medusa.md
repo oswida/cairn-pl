@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Medusa
-4 HP, 12 DEX, 16 WIL, snake bites (d6) or gaze (save)
-- Deadly magical creatures that look like women with snakes in place of hair.
-- Gaze: Anyone who looks directly at the medusa's face must save WIL or be turned to stone. Averting eyes from the face prevents this effect, but impairs any damage dealt. 
-- Critical Damage: The snakes' poison paralyzes the victim (d6 DEX damage)
+# Meduza
+
+4 OCHR, 12 ZRE, 16 WOL, ukąszenia węży (k6) lub spojrzenie (rzut obronny)
+
+- Śmiercionośne magiczne stworzenia, które wyglądają jak kobiety z wężami zamiast włosów.
+- Spojrzenie: Każdy, kto spojrzy bezpośrednio na twarz meduzy, musi zdać test WOL lub zostanie zamieniony w kamień. Odwrócenie wzroku od twarzy zapobiega temu efektowi, ale osłabia zadawane obrażenia.
+- Obrażenia krytyczne: Trucizna węży paraliżuje ofiarę (k6 obrażeń ZRE)
 
 author: [xenio](https://xenioinabottle.blogspot.com)
