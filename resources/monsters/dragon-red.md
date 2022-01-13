@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Smok, czerwony
 
 18 OCHR, 3 Pancerza, 18 SIŁ, 12 ZRE, 16 WOL, zęby (k12), pazury (k8+k8), _oddział_
-{: .stat-block }
 
 - Ogromna, płonąca istota, której rozpiętość skrzydeł wynosi ponad 30 metrów. Arogancki i chciwy, uważa wszystko za swoją własność, a wszystkich za swoje sługi. Zamieszkuje w górach o dużej aktywności wulkanicznej.
 - Stworzony z czystego ognia, jest całkowicie odporny na wszelkie formy ciepła. W jego obecności nie utrzymuje się żaden chłód.

@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Gnoll
 
 4 OCHR, 1 Pancerza, 12 SIŁ, 8 WOL, włócznia lub krótki łuk (k6)  
-{: .stat-block }
 
 - Potworne humanoidalne hieny o niskiej inteligencji. Legenda głosi, że powstały w wyniku eksperymentów czarodzieja.  
 - Atakuje w dużych stadach, zastraszając swoje ofiary liczebnością.  

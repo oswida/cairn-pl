@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Strażnik krypty
 
 12 OCHR, 3 Pancerza (przeciwko atakom niemagicznym), 8 SIŁ, 11 ZRE, 14 WOL, eteryczne pazury (k8)
-{: .stat-block }
 
 - Ożywiony szkielet odziany w powiewające szaty. Jego oczodoły są hipnotyzująco czerwone.
 - Obrońcy krypt i grobowców, nie zaatakują, jeśli zostawić je w spokoju.

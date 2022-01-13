@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Żelatynowy sześcian
 
 6 OCHR, 16 SIŁ, 8 ZRE, 4 WOL, dotyk (k8)  
-{: .stat-block }
 
 - Duże kostki przezroczystej galarety, mieszkają w lochach pochłaniając przedmioty i żywe stworzenia.  
 - Dzięki swojej przezroczystości, mogą pozostawać niezauważone.  

@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Smok, biały
 
 16 OCHR, 1 Pancerza, 16 SIŁ, 16 ZRE, 12 WOL, zęby (k10), pazury (k8+k8), _oddział_  
-{: .stat-block }
 
 - Masywne, skrzydlate stworzenie powstałe z mrozu. Wygląda jak żywy symbol zimy. Wędruje w najzimniejszych regionach, przemieszczając się wraz z ostrymi burzami śnieżnymi.
 - Niezwykle dziki, jest jednocześnie sprytnym łowcą i bestialskim drapieżnikiem. Tropi wszystko, co żyje, jakby próbował zaspokoić niekończący się głód.

@@ -8,7 +8,6 @@ grand_parent: Zasoby
 # Golem
 
 16 OCHR, 2 Pancerza, 15 SIŁ, 6 ZRE, 2 WOL, kamienne pięści (k10)
-{: .stat-block }
 
 - Ogromny 2,5-metrowy posąg wykonany z gliny, błota i modlitwy.
 - Bezmyślnie wykonuje wszelkie polecenia swojego pana, nawet po jego śmierci.

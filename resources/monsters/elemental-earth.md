@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Żywiołak  ziemi
 
 12 OCHR, 3 Pancerza, 16 SIŁ, 8 ZRE, pięść (k10)  
-{: .stat-block }
 
 - Ogromne humanoidalne istoty wykonane z ziemi i kamienia.  
 - Wywołują małe trzęsienia ziemi.  

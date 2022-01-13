@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Małpa, biała
 
 5 OCHR, 14 SIŁ, pazury (k6+k6)
-{: .stat-block }
 
 - Goryle albinosy o nocnym cyklu życia.
 - Bronią swojego terytorium za pomocą gróźb, a następnie przemocy.  

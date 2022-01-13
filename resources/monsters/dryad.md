@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Driada
 
 4 OCHR, 14 WOL, nieuzbrojona (k4)  
-{: .stat-block }
 
 - Nieśmiałe, spokojne duchy drzew, które przyjmują piękną kobiecą postać.  
 - Duchowo połączone z drzewem, mogą znikać poprzez połączenie się z pniem. Nie mogą oddalić się od drzewa zbyt daleko i umierają, gdy to drzewo umiera.

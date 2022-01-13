@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Smok, zielony
 
 14 OCHR, 2 Pancerza, 14 SIŁ, 16 ZRE, 18 WOL, zęby (k10), pazury (k6+k6 _podmuch_), _oddział_
-{: .stat-block }
 
 - Gad o długości 30 metrów, przypominający stonogę, który zamieszkuje pustynie i skaliste suche tereny, zwłaszcza te narażone na burze piaskowe. Dumny i próżny, często trzyma ofiary jako niewolników. Im bardziej prestiżowa osoba, tym bardziej smok będzie zainteresowany jej uwięzieniem.
 - Buduje legowiska drążąc tunele głęboko w ziemi i używa ich do zasadzania się na podróżników.

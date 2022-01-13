@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Krwawy łoś
 
 4 OCHR, 12 SIŁ, 13 ZRE, 5 WOL, rogi (k8)
-{: .stat-block }
 
 - Zrodzony z chciwego, egoistycznego działania.
 - Atakuje i zabija, aby zjeść mięso, ale nie zaspokaja w ten sposób głodu.

@@ -8,7 +8,6 @@ grand_parent: Zasoby
 # Smok, niebieski
 
 13 OCHR, 2 Pancerza, 16 SIŁ, 17 WOL, zęby (k10+k10)  
-{: .stat-block }
 
 - Dumne smoki, które mieszkają na pustyniach i innych suchych terenach.  
 - Niezwykle próżny, często bierze ofiary jako niewolników, aby go adorowali.  

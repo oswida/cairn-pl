@@ -8,7 +8,6 @@ grand_parent: Zasoby
 # Banshee
 
 7 OCHR, 3 Pancerza, 6 SIŁ, 12 ZRE,  14 WOL, upiorny dotyk (k8)
-{: .stat-block }
 
 - Bezcielesne duchy kobiece, które pozostają w naszym świecie po śmierci i nawiedzają żywych.
 - Odporne na zimno, gorąco i żywioły.

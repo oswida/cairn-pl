@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Ghul
 
 6 OCHR,  11 SIŁ, 14 ZRE, 3 WOL, wydłużone pazury (k6), wyszczerbione zęby (k8)  
-{: .stat-block }
 
 - Szaroskóre monstra w poszarpanych ubraniach, przycupnięte tuż nad ziemią.
 - Łaknie mięsa żywych, a z każdą ofiarą staje się coraz potężniejszy.

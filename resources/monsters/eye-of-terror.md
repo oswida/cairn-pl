@@ -6,7 +6,6 @@ grand_parent: Zasoby
 # Oko Terroru
 
 12 OCHR, 12 SIŁ, 8 ZRE, 16 WOL, zęby (k8+k8)  
-{: .stat-block }
 
 - Latające kule z dużą paszczą, jednym dużym centralnym okiem i kilkoma małymi oczami na szypułkach rozrzuconych po całym ciele.   Podstępne i chciwe, żyją głęboko pod ziemią.
 - Anuluje każdy efekt magiczny w pobliżu, naprzeciwko centralnego oka.  

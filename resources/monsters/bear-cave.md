@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Niedźwiedź, jaskiniowy
 
 8 OCHR, 17 SIŁ, pazury (k10)
-{: .stat-block }
 
 - Groźne, wysokie na 4,5 metra niedźwiedzie mięsożerne, które mieszkają w jaskiniach.  
 - Mają słaby wzrok, ale tropią za pomocą węchu. Podążają za śladami krwi.  

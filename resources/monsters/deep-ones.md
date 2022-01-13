@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Istoty z głębin (Deep Ones)
 
 4 OCHR, 11 SIŁ, 8 ZRE, 12 WOL, sztylet (k6)  
-{: .stat-block }
 
 - Ziemnowodne humanoidy o rybich głowach z palcami połączonymi błoną. Żyją w głębokich morzach i potrafią widzieć w ciemności.  
 - Odporne na efekty magiczne.  

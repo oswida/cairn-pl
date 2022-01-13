@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Ankheg
 
 7 OCHR, 2 Pancerza, 16 SIŁ, 8 WOL, zęby (k8)
-{: .stat-block }
 
 - Ogromne insektoidy z wieloma nogami i błyszczącymi czarnymi oczami.
 - Zagrzebują się tuż pod powierzchnią ziemi, aby zasadzać się na chodzące nad nimi stworzenia.  

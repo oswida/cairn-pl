@@ -8,7 +8,6 @@ grand_parent: Zasoby
 # Draugr
 
 12 OCHR, 2 Pancerza, 15 SIŁ, 9 ZRE, 13 WOL, zardzewiały miecz (k8)  
-{: .stat-block }
 
 - Nieumarły horror stworzony z wyschniętego ciała. Powstaje z tych, którzy polegli w bitwie i nie zostali pochowani.
 - Obrażenia krytyczne: cel zostaje natychmiast uśmiercony, by później zmartwychwstać jako Thrall.

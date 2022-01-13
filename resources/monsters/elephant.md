@@ -6,7 +6,6 @@ grand_parent: Zasoby
 # Słoń
 
 9 OCHR, 16 SIŁ, 6 ZRE, kły (k8)  
-{: .stat-block }
 
 - Duże zwierzęta z kłami, które żyją w pobliżu gorących lasów.   Występują zarówno pojedynczo, jak i w stadach.  
 - Jeśli teren jest wystarczająco otwarty, by móc swobodnie się rozpędzić, szarżuje na swoje ofiary (wzmocnione obrażenia).  

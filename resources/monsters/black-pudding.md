@@ -6,7 +6,6 @@ grand_parent: Zasoby
 # Czarny Pudding (Black Pudding)
 
 10 OCHR, 5 ZRE, pochłaniający dotyk (k8)
-{: .stat-block }
 
 - Ogromne, bezmózgie plamy czarnej galarety ogarnięte niepohamowanym głodem.
 - Zranić je może tylko płomień.  

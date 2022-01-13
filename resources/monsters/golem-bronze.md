@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Golem spiżowy
 
 20 OCHR, 3 Pancerza, 20 SIŁ, 8 ZRE, 11 WOL, pięści (k10+k10)
-{: .stat-block }
 
 - Wielkie konstrukty z czystego brązu. Przypominają ogniste giganty i emanują silnym ciepłem.  
 - Odporne na zwykłe ataki i ogień.  

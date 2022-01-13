@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Smok, spiżowy
 
 13 OCHR, 2 Pancerza, 16 SIŁ, 14 ZRE, 14 WOL, zęby (k8+k8)  
-{: .stat-block }
 
 - Mieszkające na wybrzeżu, dobre smoki, które żywią się głównie rybami i roślinami wodnymi.  
 - Zmieniają się w małe bestie, aby obserwować okoliczne zwierzęta i przepływające statki.  

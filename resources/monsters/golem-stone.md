@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Golem kamienny
 
 14 OCHR, 3 Pancerza, 17 SIŁ, 8 ZRE, pięści (k10)  
-{: .stat-block }
 
 - Wysokie na 3 metry, animowane posągi wyrzeźbione z czystego kamienia.  
 - Odporne na zwykłe ataki, ogień, zimno i elektryczność.  

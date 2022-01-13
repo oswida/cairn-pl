@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Postrach
 
 4 OCHR, 1 Pancerza, 14 ZRE, pałka (k8, nieporęczna)
-{: .stat-block }
 
 - Duże, owłosione, goblinopodobne stworzenia.  
 - Zazwyczaj skradają się, aby zaskoczyć i zaatakować swoje ofiary.  

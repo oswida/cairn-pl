@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Centaur
 
 4 OCHR, 1 Pancerza, 12 SIŁ, 12 ZRE, 13 WOL, włócznia lub krótki łuk (k6)  
-{: .stat-block }
 
 - Stworzenia o dolnej części ciała i nogach konia oraz górnej części ciała i głowie człowieka.  
 - Żyją w małych plemionach, ukryte wśród gęstych lasów.  

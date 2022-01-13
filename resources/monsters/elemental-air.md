@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Żywiołak powietrza
 
 16 OCHR, 11 SIŁ, 15 ZRE, 8 WOL, powiew wiatru (k8)  
-{: .stat-block }
 
 - Ogromne, żywe wiry powietrza.
 - Swoim podmuchem mogą zmieść lżejsze stworzenia lądowe.

@@ -7,7 +7,6 @@ grand_parent: Zasoby
 # Estrie
 
 10 OCHR, 11 SIŁ, 15 ZRE, 14 WOL, drenujące włosy (1k8)  
-{: .stat-block }
 
 - Pojawia się jako kobieta z długimi ciemnymi włosami, które sięgają jej aż do stóp.
 - Potrafią przemieniać się w sowy, ale tylko w nocy. Ich krzyk rani uszy.
