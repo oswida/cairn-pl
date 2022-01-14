@@ -288,3 +288,8 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 - Szata z mieniącego się, niemal przezroczystego, fioletowego jedwabiu.
 - Wydając jeden ładunek, osoba nosząca go może całkowicie zignorować jeden przypadek obrażeń WOL.
 - **Doładowanie**: Noś szatę podczas przez całą noc podczas magicznie wywołanego snu.
+
+#### Ręka Ser Crufiksa, 1 ładunek
+
+- Psy i inne udomowione bestie stają się potulne pod dotykiem tej zmumifikowanej ręki.
+- **Doładowanie**: Poświęć trochę czasu na głaskanie grzecznego chłopca.
