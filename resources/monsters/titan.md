@@ -1,16 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Titan
-20 HP, 2 Armor, 18 STR, 12 DEX, 14 WIL, sword (d10+d10)
--   20’ tall humanoids of radiant beauty and athletic build. Beneficent
-    of character, but prone to megalomania. Natives of higher planes,
-    but sometimes have strongholds in the mortal world.
--   Can become invisible and levitate at will. Know a large number of
-    spells.
--   Frequently command storm giants as their guards.
+
+# Tytan
+
+20 OCHR, 2 Pancerza, 18 SIŁ, 12 ZRE, 14 WOL, miecz (k10+k10)
+
+- Sześciometrowe humanoidy o promiennej urodzie i atletycznej budowie. Dobroczynni z charakteru, ale skłonni do megalomanii. Mieszkańcy wyższych planów, ale czasami posiadają twierdze w świecie śmiertelników.
+- Potrafią stać się niewidzialni i lewitować według własnego uznania. Znają dużą liczbę zaklęć.
+- Często dowodzą burzowymi gigantami jako swoimi strażnikami.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

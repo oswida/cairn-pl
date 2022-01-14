@@ -1,15 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Treant
 
-8 HP, 1 Armor, 15 STR, 8 DEX, fists (d6+d6)
--   Giant humanoids made of tree bark and foliage. Dwell in forests. Are
-    concerned only with protecting the plants of their home.
--   Hate fire, and attack anyone who wields it.
--   Surprise victims by standing still and passing for a normal tree.
+# Drzewiec
+
+8 OCHR, 1 Pancerza, 15 SIŁ, 8 ZRE, pięści (k6+k6)
+
+- Olbrzymie humanoidy zbudowane z kory drzew i liści. Mieszkają w lasach. Zainteresowane jedynie ochroną roślin w swoim otoczeniu.
+- Nienawidzą ognia i atakują każdego, kto nim włada.
+- Mogą zaskoczyć przeciwnika stojąc w miejscu i udając zwykłe drzewo.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

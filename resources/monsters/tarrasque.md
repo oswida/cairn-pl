@@ -1,20 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
+
 # Tarrasque
-20 HP, 3 Armor, 20 STR, 8 DEX, 8 WIL, claws (d12+d12)
--   Legendary, gargantuan (50’ long) reptilian monstrosities with plated
-    skin, dreaded throughout all lands. Spend most of their time
-    sleeping in their underground lairs. Emerge periodically and ravage
-    vast swaths of land, consuming all plants and animals in the path.
-    Possibly the most feared monster of all.
--   Regenerates 1 HP every turn. A Tarrasque always regenerates, even if
-    its body is reduced to pieces. The way of permanently killing it is
-    unknown.
--   Critical Damage: The razor-sharp claws sever a part of the victim's
-    body.
+
+20 OCHR, 3 Pancerza, 20 SIŁ, 8 ZRE, 8 WOL, pazury (k12+k12)
+
+- Legendarne, gargantuiczne (15 m długości), jaszczurowate monstra o platerowanej skórze, budzące postrach we wszystkich krainach. Spędzają większość czasu śpiąc w swoich podziemnych legowiskach. Wychodzą okresowo i pustoszą ogromne połacie ziemi, pożerając wszystkie rośliny i zwierzęta na swojej drodze. Prawdopodobnie najbardziej przerażający potwór ze wszystkich.
+- Regeneruje 1 OCHR co turę. Tarrasque zawsze się regeneruje, nawet jeśli jego ciało zostanie rozłożone na części. Sposób na jego trwałe zabicie jest nieznany.
+- Obrażenia krytyczne: ostre jak brzytwa pazury odcinają część ciała ofiary.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

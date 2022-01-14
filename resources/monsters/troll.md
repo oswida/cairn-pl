@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
 # Troll
-6 HP, 1 Armor, 14 STR, 12 DEX, talons (d6+d6) or bite (d8)
-- Wicked, 8’ tall humanoids with rubbery bodies. Consume the flesh of other humanoids. Dwell underground, in the barren  wilderness, and in the ruined homes of former victims.
-- Fire and acid damage received is enhanced, and stops a troll's regeneration. When attacked with either of those, the troll fails all morale checks.
-- Regains 3hp per round, and even severed limbs are reattached. If killed, will regenerate and fight again in 2d6 minutes.
+
+6 OCHR, 1 Pancerza, 14 SIŁ, 12 ZRE, szpony (k6+k6) lub zęby (k8)
+
+- Nikczemne, wysokie na 2,5 m humanoidy o gumowatych ciałach. Pożerają ciała innych humanoidów. Mieszkają pod ziemią, na jałowych pustkowiach i w zrujnowanych domach byłych ofiar.
+- Otrzymane obrażenia od ognia i kwasu są *wzmocnione* i zatrzymują regenerację trolla. W przypadku ataku ogniem lub kwasem, troll automatycznie nie zdaje testów morale.
+- Odzyskuje 3 OCHR na rundę, odrastają mu nawet odcięte kończyny. Jeśli zostanie zabity, regeneruje się i walczy ponownie w ciągu 2k6 minut.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

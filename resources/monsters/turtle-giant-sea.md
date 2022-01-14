@@ -1,14 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Turtle, Giant Sea
-15 HP, 2 Armor, 15 STR, 6 DEX, 12 WIL, bite (d6+d6)
--   20’ long, peaceful marine reptiles that drift in warm oceans, eating
-    sea plants. Dangerous if threatened.
--   Tip over small boats that come into their territory.
+
+# Żółw morski, olbrzymi
+
+15 OCHR, 2 Pancerza, 15 SIŁ, 6 ZRE, 12 WOL, zęby (k6+k6)
+
+- Sześciometrowe, spokojne morskie gady, które dryfują w ciepłych oceanach, jedząc morskie rośliny. Niebezpieczne tylko jeśli są zagrożone.
+- Przewracają małe łodzie, które wpływają na ich terytorium.
 
 
 author: [xenio](https://xenioinabottle.blogspot.com)

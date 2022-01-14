@@ -1,15 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Troglodyta
 
-# Troglodyte
-4 HP, 12 DEX, claws (d6+d6)
--   Intelligent, reptilian humanoids with agile hands, long legs, short
-    tails, and spiky combs on their heads and arms.
--   Can change color to match their surroundings. Lurk by rock walls and
-    await victims.
--   Emits an oil with a nauseating stench from its pores.
+4 OCHR, 12 ZRE, pazury (k6+k6)
+
+- Inteligentne, reptoidalne humanoidy ze zwinnymi rękami, długimi nogami, krótkimi ogonami i kolczastymi grzebieniami na głowach i ramionach.
+- Potrafią zmieniać kolor, aby dopasować się do otoczenia. Czają się przy skalnych ścianach i czekają na ofiary.
+- Z porów ciała wydzielają olej o mdławym smrodzie.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

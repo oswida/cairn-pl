@@ -1,16 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Triton
-4 HP, 1 Armor, 12 STR, 12 DEX, 12 WIL, trident (d6)
--   Aquatic humanoids with silvery skin, blue-green hair, and scaled
-    legs ending in fins. Dwell in warm waters both in shallows and at
-    great depths.
--   Frequently use seahorses and hippocamps as mounts.
--   Lair in beautiful castles sculpted from sea rocks and corals,
-    guarded by other sea creatures.
+# Tryton
+
+4 OCHR, 1 Pancerza, 12 SIŁ, 12 ZRE, 12 WOL, trójząb (k6)
+
+- Wodne humanoidy o srebrzystej skórze, niebiesko-zielonych włosach i łuskowatych nogach zakończonych płetwami. Żyją w ciepłych wodach zarówno na płyciznach, jak i na dużych głębokościach.
+- Często używają koników morskich i hippokampów jako wierzchowców.
+- Mieszkają w pięknych zamkach wyrzeźbionych z morskich skał i koralowców, strzeżonych przez inne morskie stworzenia.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

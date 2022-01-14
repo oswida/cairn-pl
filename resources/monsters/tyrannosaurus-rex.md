@@ -1,13 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Tyrannosaurus Rex
-20 HP, 1 Armor, 18 STR, 12 DEX, bite (d10+d10)
--   Massive, over 20’ tall, two-legged, predatory dinosaurs with huge
-    jaws. Hunt human-sized or larger prey. Dwell in Lost World regions.
--   Always attack the largest, most threatening foe first.
+# Tyrannozaur
+
+20 OCHR, 1 Pancerza, 18 SIŁ, 12 ZRE, zęby (k10+k10)
+
+- Masywne, wysokie na ponad 6 m, dwunożne, drapieżne dinozaury z ogromnymi szczękami. Polują na ofiary wielkości człowieka lub większe. Zamieszkują regiony Zaginionego Świata.
+- Zawsze najpierw atakują największego, najgroźniejszego przeciwnika.
 
 author: [xenio](https://xenioinabottle.blogspot.com)
