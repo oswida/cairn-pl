@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
+
 # Remorhaz
-11 HP, 1 Armor, 14 STR, 12 DEX, 8 WIL, bite (d8+d8)
-- Wormy-like creatures with multiple legs and eyes, long bodies, and strong, crushing maws. Dwell in frozen lands, sustained by their burning internal heat.
-- If their nests are found, eggs can be sold for high prices.
-- Critical Damage: The victim is swallowed whole, and instantly killed by the internal heat.
+
+11 OCHR, 1 Pancerza, 14 SIŁ, 12 ZRE, 8 WOL, zęby (k8+k8)
+
+- Robalopodobne stworzenia o wielu nogach i oczach, długich ciałach i silnych, miażdżących paszczach. Mieszkają w zamarzniętych krainach.
+- Ich jaja są bardzo wartościowe, pod warunkiem, że znajdziesz ich gniazdo.
+- Obrażenia krytyczne: Ofiara zostaje połknięta w całości i zabita przez żar w ciele bestii.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

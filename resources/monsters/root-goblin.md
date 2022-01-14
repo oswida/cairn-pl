@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Root Goblin
-4 HP, 8 STR, 14 DEX, 8 WIL, spear (d6)
-- Avoid combat unless they have the advantage (such as greater numbers).
-- Guard their stolen goods to the death.
-- Prize Spellbooks; willing to trade.
+# Goblin korzeniowy
 
-source: [SRD](/cairn-srd#Bestiary)
+4 OCHR, 8 SIŁ, 14 ZRE, 8 WOL, włócznia (k6)
+
+- Unikają walki, chyba że mają przewagę (np. większą liczebność).
+- Strzegą swoich skradzionych dóbr nawet za cenę życia.
+- Cenią księgi zaklęć; chętni na wymianę.
+
+source: [SRD](./../../docs/cairn-srd-pl.md#bestiariusz)

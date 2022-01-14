@@ -1,12 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Rhinoceros
-6 HP, 2 Armor, 16 STR, 8 DEX, horn (d6+d6)
-- Huge, armored, herbivorous mammals. Highly territorial, dwell in warm climates.
-- With enough open ground for a clear run, it will charge its victims, enhancing damage.
+# Nosorożec
+
+6 OCHR, 2 Pancerza, 16 SIŁ, 8 ZRE, róg (k6+k6)
+
+- Ogromne, opancerzone, roślinożerne ssaki. Bardzo terytorialne, mieszkają w ciepłym klimacie.
+- Jeśli teren jest na tyle otwarty, by móc się rozpędzić - szarżuje na swoje ofiary, zwiększając obrażenia.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

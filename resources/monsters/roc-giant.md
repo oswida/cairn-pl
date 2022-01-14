@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Roc, Giant
-30 HP, 18 STR, 14 DEX, 12 WIL, claws (d6+d6, blast) or bite (d10+d10)
-- Gargantuan birds of prey that nest atop the highest peaks and attack anything that approaches their nests. Considered myths by most people.
-- Surprise victims by swooping down from above.
-- Can be domesticated if captured when young. 
+
+# Rok olbrzymi
+
+30 OCHR, 18 SIŁ, 14 ZRE, 12 WOL, pazury (k6+k6, podmuch) lub zęby (k10+k10)
+
+- Ogromne ptaki drapieżne, gnieżdżące się na najwyższych szczytach. Atakują wszystko, co zbliży się do ich gniazda. Przez większość ludzi uważane za mity.
+- Zaskakują ofiary, spadając z góry.
+- Jeśli zostanie schwytany za młodu, może być udomowiony.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

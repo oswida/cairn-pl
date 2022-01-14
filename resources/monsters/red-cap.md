@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Red Cap
-4 HP, 10 STR, 12 DEX, 8 WIL, two sickles (d6+d6)
-- Borne from blood left to rot in the fae. Hats colored by blood; they even bathe in blood.
-- Attack travelers, but will ignore those with little to live for, as there is no pleasure in it.
-- Critical damage: eviscerate the target, showering in blood, restoring any lost STR & HP.
+# Czerwona czapka
+
+4 OCHR, 10 SIŁ, 12 ZRE, 8 WOL, dwa sierpy (k6+k6)
+
+- Zrodzeni z zepsutej krwi wróżek. Zakrwawione kapelusze, nawet kąpią się we krwi.
+- Atakują podróżników, chociaż ignorują tych, którzy nie mają za co żyć - nie ma w tym żadnej frajdy.
+- Obrażenia krytyczne: patroszą ofiarę, oblewając się jej krwią i przywracając sobie utraconą SIŁ i OCHR.
 
 author: [Yochai Gal](https://newschoolrevolution.com)

@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Rust Monster
-5 HP, 12 DEX, 12 WIL, bite (d6)
-- Armadillo-like creatures with long tails and two long antennae. Feed on rusted metal.
-- Any metal that touches the antennae instantly becomes rusted. Magical items are partially resistant to this effect.
-- Can smell metal at long distances.
+# Rdzawy potwór
+
+5 OCHR, 12 ZRE, 12 WOL, zęby (k6)
+
+- Stworzenia podobne do pancerników z długimi ogonami i dwoma długimi czułkami. Jedzą zardzewiały metal.
+- Każdy metal, który dotknie czułka, natychmiast rdzewieje. Przedmioty magiczne są częściowo odporne na ten efekt.
+- Potrafi wyczuć metal z dużej odległości.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

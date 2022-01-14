@@ -1,13 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
-
 # Rakshasa
-7 HP, 12 DEX, 15 WIL, claws (d6+d6), 3 random spellbooks
-- Cunning spirits that take the fort of great humanoid cats. Feed on human flesh, deceiving their victims with illusions and then attacking. 
-- Can read the mind of other creatures and then cloak their true form with an illusory form that the creature deems friendly.
-- A blessed weapon instantly kills a rakshasa.
+
+7 OCHR, 12 ZRE, 15 WOL, pazury (k6+k6), 3 losowe księgi zaklęć
+
+- Przebiegłe duchy, które przybierają postać wielkich humanoidalnych kotów. Żywią się ludzkim mięsem, zwodząc swoje ofiary iluzjami, a następnie atakując.
+- Potrafi czytać w myślach innych stworzeń, a następnie zamaskować prawdziwą postać iluzoryczną formą, którą stwór uzna za przyjazną.
+- Błogosławiona broń natychmiast zabija rakshasę.
 
 author: [xenio](https://xenioinabottle.blogspot.com)
