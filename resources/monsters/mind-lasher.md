@@ -4,7 +4,7 @@ parent: Bestiariusz
 grand_parent: Zasoby
 ---
 
-# Niszczyciel umysłu (Mind Lasher)
+# Niszczyciel umysłu
 
 8 OCHR, 1 Pancerza, 8 SIŁ, 12 ZRE, 18 WOL, macka (k4) lub destrukcja umysłu (rzut ochronny)
 

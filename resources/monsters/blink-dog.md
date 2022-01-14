@@ -4,7 +4,7 @@ parent: Bestiariusz
 grand_parent: Zasoby
 ---
 
-# Migający pies  (Blink Dog)
+# Migający pies
 
 3 OCHR, 14 ZRE, zęby (k6)
 

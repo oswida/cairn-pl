@@ -4,7 +4,7 @@ parent: Bestiariusz
 grand_parent: Zasoby
 ---
 
-# Ślimak cep (Flail Snail)
+# Ślimak cep
 
 4 OCHR, 2 Pancerza, 14 SIŁ, 6 ZRE, macki (k8+k8)  
 

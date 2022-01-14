@@ -4,7 +4,7 @@ parent: Bestiariusz
 grand_parent: Zasoby
 ---
 
-# Istoty z głębin (Deep Ones)
+# Istoty z głębin
 
 4 OCHR, 11 SIŁ, 8 ZRE, 12 WOL, sztylet (k6)  
 

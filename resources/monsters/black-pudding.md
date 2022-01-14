@@ -3,7 +3,7 @@ layout: default
 parent: Bestiariusz
 grand_parent: Zasoby
 ---
-# Czarny Pudding (Black Pudding)
+# Czarny Pudding
 
 10 OCHR, 5 ZRE, pochłaniający dotyk (k8)
 

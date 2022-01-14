@@ -6,4 +6,4 @@ has_children: true
 nav_order: 10
 ---
 
-# Bestiariusz (w trakcie tłumaczenia)
+# Bestiariusz

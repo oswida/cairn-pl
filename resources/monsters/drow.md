@@ -4,7 +4,7 @@ parent: Bestiariusz
 grand_parent: Zasoby
 ---
 
-# Mroczny elf (Drow)
+# Mroczny elf
 
 4 OCHR, 8 SIŁ, 14 ZRE, 12 WOL, krótki miecz (k6), księga zaklęć (wybierz jedno: Sieć, Pajęcza wspinaczka lub Nocna sfera)  
 

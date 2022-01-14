@@ -3,7 +3,7 @@ layout: default
 parent: Bestiariusz
 grand_parent: Zasoby
 ---
-# Mrówka nomadna (Driver Ant)
+# Mrówka nomadna
 
 3 OCHR, 12 ZRE, zęby (k6)  
 

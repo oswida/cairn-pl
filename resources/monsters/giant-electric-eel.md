@@ -4,7 +4,7 @@ parent: Bestiariusz
 grand_parent: Zasoby
 ---
 
-# Węgorz elektryczny, gigantyczny
+# Węgorz elektryczny olbrzymi
 
 2 OCHR, 12 ZRE, zęby (k6)  
 
