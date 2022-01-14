@@ -1,15 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Gnilec
 
-# Shambling Mound
-9 HP, 15 STR, 8 DEX, 8 WIL, fists (d8+d8)
--   Plant monsters with the rough shape of a 9' tall humanoid made of
-    slimy vegetation. Dwell in dark swamps and damp undergrounds.
--   Damage received from weapons is impaired.
--   Entagles its victims to suffocate them in the roots and tendrils of
-    its body.
+9 OCHR, 15 SIŁ, 8 ZRE, 8 WOL, pięści (k8+k8)
+
+- Potwory o kształcie 2,5-metrowego humanoida zbudowanego z oślizgłej roślinności. Mieszkają na mrocznych bagnach i w wilgotnych podziemiach.
+- Obrażenia otrzymane od broni są osłabione.
+- Oplata ofiary, aby udusić je w korzeniach i wiciach swojego ciała.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

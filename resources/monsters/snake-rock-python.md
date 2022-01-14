@@ -1,14 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Snake, Rock Python
-5 HP, 14 STR, bite (d6)
--   20' long, thick snakes with brown and yellow scales.
--   After a biting attack, attempts to constrict the victim with its
-    body. The victim must save STR or be restrained, taking d8 damage
-    every turn. 
+# Wąż, pyton skalny
+
+5 OCHR, 14 SIŁ, zęby (k6)
+
+- Długie na 6 m, grube węże z brązowymi i żółtymi łuskami.
+- Po ugryzieniu, próbuje skrępować ofiarę swoim ciałem. Ofiara musi wykonać rzut obronny SIŁ lub zostaje uwięziona, otrzymując co turę k8 obrażeń.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

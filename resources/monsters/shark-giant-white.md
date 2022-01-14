@@ -1,14 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Shark, Great White
-8 HP. 14 STR, 14 DEX, 6 WIL, bite (d10+d10)
--   30' long aggressive fish of a grey coloration. Dwell deep salt water, and sometimes attack smaller boats.
--   Can detect the smell of blood from great distances.
--   Once moves to attack, doesn't stop until death, succeeding all morale
-    rolls.
+# Rekin biały olbrzymi
+
+8 OCHR, 14 SIŁ, 14 ZRE, 6 WOL, zęby (k10+k10)
+
+- 9-metrowa agresywna ryba o szarym ubarwieniu. Zamieszkuje głębokie słone wody i czasami atakuje mniejsze łodzie.
+- Potrafi wyczuć zapach krwi z dużej odległości.
+- Gdy zaatakuje, nie wycofa się aż do śmierci jednej ze stron (zdaje wszystkie testy morale).
 
 author: [xenio](https://xenioinabottle.blogspot.com)

@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Shadow
-3 HP, 8 STR, 14 WIL, touch (d6) 
--   Incorporeal monsters that look like living shadows.
--   Unharmed by mundane attacks.
--   Critical Damage: The shadow drains d4 STR from the victim. Lethal damage turns the target into a Shadow.
+
+# Cień
+
+3 OCHR, 8 SIŁ, 14 WOL, dotyk (k6)
+
+- Bezcielesne potwory, które wyglądają jak żywe cienie.
+- Odporne na zwykłe ataki.
+- Obrażenia krytyczne: Cień wysysa z ofiary k4 SIŁ. Obrażenia śmiertelne zamieniają cel w Cień.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

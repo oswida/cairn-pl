@@ -1,15 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
+
 # Sahuagin
-3 HP, 12 STR, 12 DEX, trident (d6)
--   Aquatic humanoids with black-green scales and deep black eyes, known
-    in some places as "sea devils". Dwell in warm salt waters and raid
-    coastal villages during the night.
--   Can breathe outside of water for up to 4 hours.
--   Command sharks to guard their lairs.
+
+3 OCHR, 12 SIŁ, 12 ZRE, trójząb (k6)
+
+- Wodne humanoidy o czarno-zielonymi łuskach i czarnych oczach, znane w niektórych miejscach jako "diabły morskie". Mieszkają w ciepłych słonych wodach i napadają nocą na przybrzeżne wioski.
+- Mogą oddychać poza wodą do 4 godzin.
+- Rekiny pilnują ich legowisk.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

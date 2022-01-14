@@ -1,16 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Spider, Giant Phase
-5 HP, 14 DEX, 12 WIL, bite (d6)
--   8’ long, black spiders that have the ability to become intangible.
-    Dwell in web-filled lairs and sometimes prey on humans.
--   Can shift out of phase with surroundings, becoming intangible.
-    Attack by briefly phasing back in.
--   Critical Damage: The poison kills the target in 2d6 turns if not
-    treated.
+# Pająk fazowy, gigantyczny
+
+5 OCHR, 14 ZRE, 12 WOL, zęby (k6)
+
+- Czarne pająki o długości 2,5 metra, które potrafią stać się niewidzialne. Mieszkają w wypełnionych pajęczynami legowiskach i czasami żerują na ludziach.
+- Potrafi przesunąć się w fazie i stać niematerialny.  Atakuje, na krótko wracając we właściwą fazę.
+- Obrażenia krytyczne: Jeśli ofiara nie jest leczona, trucizna zabija ją w ciągu 2k6 tur.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

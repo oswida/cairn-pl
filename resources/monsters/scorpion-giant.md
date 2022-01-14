@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Scorpion, Giant
-4 HP, 2 Armor, 12 STR, 12 DEX, 8 WIL, claws (d6+d6) or sting (d8)
--   Huge arachnids, the size of a horse, with pincers and poisonous stingers. Found in drylands and caverns. Highly aggressive, normally attack on sight.
--   Immobilizes its victims with the claws, and then attack with the sting.
--   Critical Damage: The sting's poison instantly kills the target.
+# Skorpion olbrzymi
+
+4 OCHR, 2 Pancerza, 12 SIŁ, 12 ZRE, 8 WOL, pazury (k6+k6) lub żądło (k8)
+
+- Ogromne pajęczaki, wielkości konia, z kleszczami i jadowitymi żądłami. Występują na suchych terenach i w jaskiniach. Bardzo agresywne, zwykle atakują od razu.
+- Unieruchamia swoje ofiary za pomocą pazurów, a następnie atakuje za pomocą żądła.
+- Obrażenia krytyczne: Trucizna z żądła natychmiast zabija cel.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

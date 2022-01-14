@@ -1,18 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Sphinx
-12 HP, 12 STR, 15 WIL, claws (d6+d6) or roar (save)
--   Large monsters with bird wings, the body of a lion, and a human
-    face. Collect puzzles, riddles, and obscure knowledge. May pose
-    riddles to those they meet, attacking and consuming any who cannot
-    give the correct answer.
--   Roar: Anyone who hears the sphinx's roar must save WIL or flee in
-    fear.
--   Can innately cast *Comprehend*, *Detect Magic,* and *Telekinesis*.
-    Once per day each.
+
+# Sfinks
+
+12 OCHR, 12 SIŁ, 15 WOL, pazury (k6+k6) lub ryk (rzut obronny)
+
+- Duże potwory z ptasimi skrzydłami, ciałem lwa i ludzką twarzą. Zbierają zagadki, łamigłówki i mroczną wiedzę. Mogą zadawać zagadki napotkanym osobom, atakując i pożerając każdego, kto nie potrafi udzielić poprawnej odpowiedzi.
+- Ryk: Każdy, kto usłyszy ryk sfinksa, musi zdać test WOL lub uciec w popłochu.
+- Potrafi naturalnie rzucać *Zrozumienie*, *Wykrywanie Magii* i *Telekinezę*. Raz dziennie każde z nich.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

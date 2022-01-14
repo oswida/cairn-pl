@@ -1,16 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Snake, Pit Viper
-3 HP, 12 DEX, bite (d4)
--   5' long snakes with greyish scales, found in caves and other dark
-    places.
--   Does not rely on vision, instead, senses its victims by their body
-    heat.
--   Critical Damage: The poison kills the target in 2d4 turns if not
-    treated.
+
+# Wąż, grzechotnik
+
+3 OCHR, 12 ZRE, zęby (k4)
+
+- Węże długie na 1,5 m, z szarawymi łuskami, spotykane w jaskiniach i innych ciemnych miejscach.
+- Nie polega na wzroku, zamiast tego wyczuwa swoje ofiary poprzez ciepło ich ciała.
+- Obrażenia krytyczne: Jeśli ofiara nie jest leczona, trucizna zabija ją w ciągu 2k4 tur.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

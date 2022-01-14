@@ -1,16 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
 # Satyr
-5 HP, 12 DEX, 16 WIL, horns (d6) or pipes (save)
--   Magical humanoids with the legs and horns of a goat. Love to dance
-    and drink. Found in deep forests.
--   Highly resistant to magic effects.
--   Pipes: Anyone who hears the music from a satyr's pipes must save WIL
-    or fall asleep, be charmed or frightened. The Satyr chooses which
-    effect when playing the pipes.
+
+5 OCHR, 12 ZRE, 16 WOL, rogi (k6) lub dudy (rzut obronny)
+
+- Magiczne humanoidy z nogami i rogami kozy. Uwielbiają tańczyć i pić. Zamieszkują głębokie lasy. 
+- Niesamowicie odporne na działanie magii.
+- Dudy: Każdy, kto usłyszy muzykę z piszczałek satyra, musi zdać test WOL lub zasnąć, zostać oczarowany lub przestraszony. Satyr wybiera, który efekt chce uzyskać.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

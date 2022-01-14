@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
 # Svirneblin
-4 HP, 1 Armor, 8 STR, 12 DEX, 14 WIL, adze (d6)
--   Short, thickset demihumans with long noses and gnarled, hairless, grey skin. Also known as deep gnomes. Dwell deep in the Underworld in labyrinthine lairs riddled with cunning secret passages and chambers.
--   Can see perfectly in the dark, but are blinded by bright light.
--   Love machinery, mining, and gems.
+
+4 OCHR, 1 Pancerza, 8 SIŁ, 12 ZRE, 14 WOL, adze (k6)
+
+- Niscy, chudzi pół-ludzie o długich nosach i zgrubiałej, bezwłosej, szarej skórze. Znani również jako gnomy głębinowe. Mieszkają głęboko w Podziemiu, w labiryntach  pełnych sekretnych przejść i komnat.
+- Doskonale widzą w ciemności, ale oślepia ich jasne światło.
+- Uwielbiają maszyny, górnictwo i kamienie szlachetne.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

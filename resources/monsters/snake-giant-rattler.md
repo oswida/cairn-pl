@@ -1,15 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Snake, Giant Rattler
-4 HP, 14 DEX, bite (d6)
--   10' long snakes with brown and white scales and a rattle of hardened
-    scales on the tip of their tail.
--   Can attack two targets in the same round, due to its great speed.
--   Critical Damage: The poison kills the target in 2d6 turns if not
-    treated.
+
+# Wąż, grzechotnik olbrzymi
+
+4 OCHR, 14 ZRE, zęby (k6)
+
+- 3-metrowe węże z brązowymi i białymi łuskami oraz grzechotką z utwardzonych łusek na czubku ogona.
+- Dzięki swojej szybkości może zaatakować dwa cele w tej samej rundzie.
+- Obrażenia krytyczne: Jeśli ofiara nie jest leczona, trucizna zabija ją w ciągu 2k6 tur.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

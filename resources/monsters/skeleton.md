@@ -1,11 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Skeleton
-5 HP, 1 Armor, 13 DEX, rusty sword (d6)
-- If a skeleton is killed and its bones are not scattered, it reforms.
+# Szkielet
+
+5 OCHR, 1 Pancerza, 13 ZRE, zardzewiały miecz (k6)
+
+- Jeśli szkielet zostanie zabity, a jego kości nie zostaną rozrzucone, odradza się.
 
 author: [Yochai Gal](https://newschoolrevolution.com)
