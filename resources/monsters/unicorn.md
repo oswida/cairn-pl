@@ -1,13 +1,13 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Jednorożec
 
-# Unicorn
-4 HP, 12 DEX, 14 WIL, horn (d8)
--   Magical horses with a single longhorn. Unicorns are timid, but proud
-    and wilful. Seen as divine beings by many.
--   Can teleport to a visible distance once a day.
+4 OCHR, 12 ZRE, 14 WOL, róg (k8)
+
+- Magiczne konie z jednym długim rogiem. Jednorożce są płochliwe, ale dumne i dzikie. Przez wielu postrzegane jako istoty boskie.
+- Raz dziennie potrafi teleportować się w zasięgu wzroku.
 
 author: [xenio](https://xenioinabottle.blogspot.com)
