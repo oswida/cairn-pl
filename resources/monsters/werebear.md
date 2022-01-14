@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Werebear
-6 HP, 14 STR, 8 DEX, claws (d6+d6) or bite (d8)
-- Highly intelligent, even in bear form. Frequently dwell among normal bears.
-- Can be reasoned with, if approached peacefully.
-- Critical Damage: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
+
+# Niedźwiedziołak
+
+6 OCHR, 14 SIŁ, 8 ZRE, pazury (k6+k6) lub zęby (k8)
+
+- Wysoce inteligentne, nawet w formie niedźwiedzia. Często żyją wśród normalnych niedźwiedzi.
+- Jeśli unikamy agresji, można się z nimi dogadać.
+- Obrażenia krytyczne: ludzka ofiara zostaje zarażona, stając się po kilku tygodniach lykantropem tego samego typu.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Wereboar
-4 HP, 13 STR, 12 DEX, 8 WIL, tusks (d6+d6)
-- Highly aggressive, even in human form. Fight until death.
-- While in human form, can enter in battle rage, enhancing all damage dealt and received.
-- Critical Damage: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
+# Dzikołak
+
+4 OCHR, 13 SIŁ, 12 ZRE, 8 WOL, kły (k6+k6)
+
+- Bardzo agresywne, nawet w ludzkiej postaci. Walczą aż do śmierci.
+- W ludzkiej postaci może wpaść w szał bitewny: wszystkie zadawane i otrzymywane obrażenia są *wzmocnione*.
+- Obrażenia krytyczne: ludzka ofiara zostaje zarażona, stając się po kilku tygodniach lykantropem tego samego typu.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

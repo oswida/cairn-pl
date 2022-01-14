@@ -1,13 +1,16 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Weretiger
-5 HP, 12 STR, 14 DEX, 12 WIL, claws (d6+d6) or bite (d8)
-- Behave like felines: Curious, but dangerous if cornered. Skilled trackers and swimmers.
-- Hunt by sneaking on their prey.
-- Critical Damage: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
+
+# Tygrysołak
+
+5 OCHR, 12 SIŁ, 14 ZRE, 12 WOL, pazury (k6+k6) lub zęby (k8)
+
+- Zachowują się jak koty: ciekawskie ale niebezpieczne, jeśli zostaną złapane w pułapkę. Zdolni tropiciele i pływacy.
+- Polują skradając się do swoich ofiar.
+- Obrażenia krytyczne: ludzka ofiara zostaje zarażona, a po kilku tygodniach przemienia się w lykantropa tego samego typu.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

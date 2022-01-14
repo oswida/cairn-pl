@@ -1,13 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Wilkołak
 
-# Werewolf
-4 HP, 12 STR, 14 DEX, 12 WIL, claws (d4+d4) or bite (d6)
-- Semi-intelligent, ferocious hunters.
-- Sometimes hunts in packs with regular wolves.
-- Critical Damage: Victim becomes infected, transforming into a lycanthrope of the same type after a couple of weeks.
+4 OCHR, 12 SIŁ, 14 ZRE, 12 WOL, pazury (k4+k4) lub zęby (k6)
+
+- Półinteligentni, dzicy łowcy.
+- Czasami polują w stadach z normalnymi wilkami.
+- Obrażenia krytyczne: ludzka ofiara zostaje zarażona, a po kilku tygodniach przemienia się w lykantropa tego samego typu.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

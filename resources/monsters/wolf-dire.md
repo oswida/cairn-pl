@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Wolf, Dire
-5 HP, 14 STR, 12 DEX, bite (d8)
-- Large, savage, semi-intelligent wolves. Dwell in caves, mountains, and forests.
--   Can be trained like dogs if captured young. Dire wolves are particularly difficult to train.
--   Sometimes are seem used as mounts by goblins.
+# Wilkor
+
+5 OCHR, 14 SIŁ, 12 ZRE, zęby (k8)
+
+- Olbrzymie, dzikie, półinteligentne wilki. Mieszkają w jaskiniach, górach i lasach.
+- Jeśli zostaną pojmane w młodym wieku, mogą być szkolone tak samo jak psy, ale jest to bardzo trudne zadanie.
+- Gobliny używają ich czasami jako wierzchowców.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

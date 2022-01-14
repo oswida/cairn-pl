@@ -1,13 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Wererat
-3 HP, 8 STR, 14 DEX, 12 WIL, bite (d4+d4) or weapon (d6)
-- Intelligent, humanoid rats that can change into normal humans.
-- Can speak and wield weapons normally while in rat form.
-- Critical Damage: A human victim gets infected, becoming a lycanthrope of the same type after a couple of weeks.
+# Szczurołak
+
+3 OCHR, 8 SIŁ, 14 ZRE, 12 WOL, zęby (k4+k4) lub broń (k6)
+
+- Inteligentne, humanoidalne szczury, które potrafią zmieniać się w normalnych ludzi.
+- Nawet w szczuropodobnej postaci mogą normalnie mówić i władać bronią.
+- Obrażenia krytyczne: ludzka ofiara zostaje zarażona, stając się po kilku tygodniach lykantropem tego samego typu.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

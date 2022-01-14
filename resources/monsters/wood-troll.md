@@ -1,12 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Wood Troll
-12 HP, 15 STR, 12 DEX, 7 WIL, claws and bite (d8+d8 blast)
-- As an action, can recover lost HP.
-- Critical damage: moss and twigs begin growing out of target’s wounds.
+# Troll drzewny
+
+12 OCHR, 15 SIŁ, 12 ZRE, 7 WOL, pazury i zęby (k8+k8 podmuch)
+
+- Zużywając jedną akcję, może odzyskać utracone punkty OCHR.
+- Obrażenia krytyczne: z ran ofiary zaczynają wyrastać mchy i gałązki.
 
 source: [SRD](/cairn-srd#Bestiary)

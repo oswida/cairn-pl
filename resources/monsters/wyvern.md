@@ -1,14 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Wyvern
-7 HP, 14 DEX, 11 WIL, bite (d8+d8) or poisonous sting (d6)
-- Winged, two-legged, dragon-like monsters with a long tail tipped
-    with a venomous stinger. Dwell in any terrain, but favor cliffs and
-    forests.
--   Critical Damage: The deadly poison inflicts d8 extra STR damage.
+# Wiwerna
+
+7 OCHR, 14 ZRE, 11 WOL, zęby (k8+k8) lub zatrute żądło (k6)
+
+- Skrzydlate, dwunożne, smokopodobne potwory z długim ogonem zakończonym jadowitym żądłem. Żyją na każdym terenie ale preferują klify i lasy.
+- Obrażenia krytyczne: Śmiertelna trucizna zadaje k8 dodatkowych obrażeń SIŁ.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

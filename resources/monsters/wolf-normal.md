@@ -1,14 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
+# Wilk, zwykły
 
-# Wolf, Normal
-3 HP, 14 DEX, bite (d6)
-- Dwell primarily in wildlands, but occasionally lair in caves.
--   Can be trained like dogs if captured young.
--   When found in packs of at least 4, treat WIL as 15 for morale
-    checks.
+3 OCHR, 14 ZRE, zęby (k6)
+
+- Zamieszkują przede wszystkim dzikie tereny, ale od czasu do czasu zaszywają się w jaskiniach.
+- Jeśli zostaną pojmane w młodym wieku, mogą być szkolone tak samo jak psy.
+- Jeśli znajdują się w grupie co najmniej 4 osobników, przy sprawdzaniu morale wartość ich WOL wynosi 15.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

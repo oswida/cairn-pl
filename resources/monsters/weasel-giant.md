@@ -1,17 +1,15 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
 
-# Weasel, Giant
-4 HP, 12 DEX, 12 WIL, bite (d6)
--   9’ long, vicious, predatory mammals with rich fur of brown, gold, or
-    white. Dwell in subterranean tunnels, hunting alone or in small
-    groups.
--   After attacking, locks onto the victim and drains its blood for 1d8
-    automatic damage each round. Detaches only if the weasel or the
-    victim dies.
--   Track by scent, preferring wounded victims.
+# Łasica olbrzymia
+
+4 OCHR, 12 ZRE, 12 WOL, zęby (k6)
+
+- Długie na 2,5 m, złośliwe, drapieżne ssaki o grubym futrze w kolorze brązowym, złotym lub białym. Mieszkają w podziemnych tunelach, polując samotnie lub w małych grupach.
+- Po ataku przyczepia się do ofiary i co rundę wysysa z niej krew, zadając 1k8 obrażeń. Odczepia się tylko wtedy, gdy łasica lub ofiara umrze.
+- Tropią po zapachu, preferując ranne ofiary.
 
 author: [xenio](https://xenioinabottle.blogspot.com)

@@ -1,13 +1,14 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Bestiariusz
+grand_parent: Zasoby
 ---
-
 # Zombie
-2 HP, 14 STR, 6 DEX, 3 WIL, weapon (d8)
--  Slow, mindless humanoid corpses, reanimated as guardians by  powerful clerics or wizards.
--   Attack anything that comes nearby.
--   Immune to any mind affect effects
+
+2 OCHR, 14 SIŁ, 6 ZRE, 3 WOL, broń (k8)
+
+- Powolne, bezmyślne humanoidalne zwłoki, ożywiane przez potężnych kleryków lub czarodziejów i wykorzystywane jako strażnicy.
+- Atakują wszystko, co znajdzie się w pobliżu.
+- Odporne na wszelkie próby manipulacji umysłem
 
 author: [xenio](https://xenioinabottle.blogspot.com)
