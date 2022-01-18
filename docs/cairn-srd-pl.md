@@ -2,6 +2,7 @@
 layout: default
 title: SRD
 parent: Dokumenty
+nav_order: 1
 ---
 
 # Dokument referencyjny systemu Cairn (wersja 1.0)

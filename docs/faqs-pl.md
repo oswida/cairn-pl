@@ -2,6 +2,7 @@
 layout: default
 title: FAQs
 parent: Dokumenty
+nav_order: 2
 ---
 
 # Najczęściej zadawane pytania

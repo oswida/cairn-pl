@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Modułowe zasady i procedury
+title: Procedury dodatkowe
 parent: Dokumenty
+nav_order: 3
 ---
 
-# Modułowe zasady i procedury dla Cairn
+# Procedury dodatkowe (w trakcie tłumaczenia)
 
-- Na bazie [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn) stworzonych przez Adama Hensley, wykorzystane za zgodą. Wersję PDF można znaleźć na stronie [Cairn Adventurer Guide](https://adamhensley.itch.io/cairn-adventurers-guide)
+- Na bazie [Modular Rules & Procedures for Cairn](https://adamhensley.itch.io/modular-rules-and-procedures-for-cairn) stworzonych przez Adama Hensley, wykorzystane za zgodą autora.
+Wersję PDF można znaleźć na stronie [Cairn Adventurer Guide](https://adamhensley.itch.io/cairn-adventurers-guide)
 - Zawartość dostępna na licencji [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - Ten dokument zawiera kilka opcjonalnych zasad i procedur dla Cairn (przy minimalnych zmianach, powinien być łatwy do zaadaptowania w większości innych gier OSR).
 - Zasady te zostały zaprojektowane tak, aby można było je stosować jako `plug-n-play`, więc po prostu weź to, co ci się podoba, a resztę wyrzuć.
@@ -14,7 +16,7 @@ parent: Dokumenty
 
 ## Eksploracja Lochów
 
-_**Uwaga**: L jest używane w odniesieniu do poziomu gracza. Przykład: Gracz na poziomie 2 zobaczyłby Lk6 i rzuciłby 2k6._
+_**Uwaga**: L jest używane w odniesieniu do poziomu gracza. Przykład: Gracz na poziomie 2 widząc Lk6 rzuciłby 2k6._
 
 ### Tury
 

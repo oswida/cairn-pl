@@ -2,6 +2,7 @@
 layout: default
 title: Magia GLOG
 parent: Dokumenty
+nav_order: 4
 ---
 
 # Magia GLOG
