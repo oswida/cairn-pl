@@ -40,45 +40,46 @@ Jedna tura w lochu trwa **10 minut**. Eksploracja lochów może być przekształ
 - Szczegółowe przeszukanie trwa 10 minut (1 runda), obejmuje obszar 9x9m i ujawnia większość ukrytych informacji, według uznania GM.
 - Możesz zastąpić obszar 9x9 małymi, średnimi i dużymi pomieszczeniami, a także wymagać dodatkowych tur, aby zakończyć szczegółowe poszukiwania.
 
-### Loaded Encounter Roll
+### Rozbudowany rzut na spotkanie
 
-Roll a d6 encounter dice every 2 or 3 rounds (at your discretion, adjust as needed). Only a roll of 1 will result in an encounter, and they won’t always be hostile. Roll the reaction dice to see their disposition, and remember that they’re already doing something.
+Rzucaj kością spotkania k6 co 2 lub 3 tury (według własnego uznania, dostosuj do potrzeb). Tylko wypadnięcie 1 spowoduje spotkanie, a do tego BN nie zawsze będą wrogo nastawieni.
+Rzuć kośćmi reakcji, aby określić usposobienie napotkanych postaci i pamiętaj, że te postacie już coś robią (nie czekają biernie w tym miejscu na graczy).
 
-1. **Encounter** (roll on encounter table or choose, roll reactions + wants)
-2. **Sign** (Clue, “spoor”,  track, abandoned lair, scent, victim, droppings, etc.)
-3. **Locality** (context-dependent timer, water rising, ritual completing, The party's surroundings shift or escalate in some way.)
-4. **Exhaustion** (rest next round or deprived)
-5. **Expiration** (Ongoing effects end, light usage roll, resource usage, bellies rumble.)
-6. **Discovery or Treasure** (The party finds something interesting and possibly beneficial.)
+1. **Spotkanie** (rzuć na tabelę spotkań lub wybierz wynik, rzuć na reakcję + czego chcą BN)
+2. **Sygnał** (wskazówka, trop, opuszczone legowisko, zapach, ofiara, odchody, itp.)
+3. **Otoczenie** (zegar zależny od kontekstu, wzbieranie wody, zakończenie rytuału - otoczenie drużyny zmienia się lub eskaluje w jakiś sposób.)
+4. **Wyczerpanie** (postacie muszą odpocząć w następnej turze albo zaczną odczuwać **dyskomfort**)
+5. **Upływ czasu** (koniec efektów długotrwałych, rzut na zużycie światła, zużycie zasobów, burczenie w brzuchu)
+6. **Odkrycie lub skarb** (drużyna znajduje coś interesującego i prawdopodobnie przydatnego)
 
 ### Światło
 
-Torches, lanterns, and other radial sources of light illuminate 40’ clearly and provide dim outlines and shadows for a further 40’. In the dark, light sources are visible miles away. Standard torches will last about 6 turns, or 1 hour, before they burn out. If *expiration* is rolled on the encounter die, consider prematurely snuffing out a torch or rolling a usage die.
+Pochodnie, latarnie i inne źródła światła oświetlają wyraźnie 12 m i zapewniają niewyraźne kontury i cienie na dalszych 12. W ciemności, źródła światła są widoczne w odległości wielu kilometrów. Standardowe pochodnie, zanim się przepalą, wytrzymują około 6 tur, czyli 1 godzinę. Jeśli na kości spotkania wypadnie *upływ czasu*, rozważ przedwczesne zgaszenie pochodni lub rzuć na jej zużycie.
 
 ### Reakcje
 
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll **2d6** and consult the following table:
+Kiedy gracze napotkają postać niezależną, której reakcja na to spotkanie nie jest oczywista, Strażnik może rzucić **2k6** i sprawdzić w poniższej tabeli:
 
-|         |         |         |          |         |
-| :-----: | :-----: | :-----: | :------: | :-----: |
-|  **2**  | **3-5** | **6-8** | **9-11** | **12**  |
-| Hostile |  Wary   | Curious | Friendly | Helpful |
+|       |          |           |           |         |
+| :---: | :------: | :-------: | :-------: | :-----: |
+| **2** | **3-5**  |  **6-8**  | **9-11**  | **12**  |
+| Wrogi | Ostrożny | Ciekawski | Przyjazny | Pomocny |
 
 ### Czego chcą napotkane postacie?
 
-|         |                 |                                                                                                                                                                                                                                                                            |
-| :-----: | :-------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **d10** |    **Want**     |                                                                                                                              **Description**                                                                                                                               |
-|    1    | **Food or Aid** |                                                                 They’re hungry. You can distract them with rations, point them towards corpses, cast a food illusion. They could be hurt and need healing.                                                                 |
-|    2    |    **Gold**     |                                                    They want d100 gold x the players’ level. This could be a tax, a toll, tribute, tith, or they could just be greedy bastards, or easily distracted by shiny baubles.                                                     |
-|    3    |  **Treasure**   |                                                       They want a number of items equal to the players’ level. Scrolls and potions count here as well. Excellent pairings can result in their friendship as allies.                                                        |
-|    4    | **Random Item** |                                                                                                Roll a random item from a random PC’s sheet, they want that for some reason.                                                                                                |
-|    5    |  **Territory**  |                                                                   This is their territory, they will defend it, but mostly they just want you to leave or prove why you should be able to pass through.                                                                    |
-|    6    | **Information** |                                                                                      They want to know about a rival faction, nearby NPC or monster, or dungeon landmark or location.                                                                                      |
-|    7    |    **Help**     |             They need something from further in the dungeon, or from a nearby wilderness location. They may want you to kill other monsters in the dungeon or clear out a hex. They may be haunting the area and can only leave when their quest is fulfilled.             |
-|    8    |    **Trade**    | They have a random item from each category on the equipment list (one piece of armor, one weapon, one piece of equipment, etc.) and they’re willing to trade those items or save them. All trades made inside the dungeon are at a higher markup that you’ll find in town. |
-|    9    |   **Mission**   |                                                          They’re in service to the closest NPC in the dungeon (or GM choice) and whatever that NPC wants, this monster is on a mission to help achieve that aim.                                                           |
-|   10    |  **Direction**  |                                                                                       They’re lost and are looking for directions out, or for someone to escort them to a safe area.                                                                                       |
+|         |                       |                                                                                                                                                                                                                         |
+| :-----: | :-------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **k10** |       **Chcą**        |                                                                                                        **Opis**                                                                                                         |
+|    1    | **Żywność lub pomoc** |                                 Są głodni. Możesz odwrócić ich uwagę racjami żywnościowymi, skierować ich w stronę ciał, rzucić iluzję jedzenia. Mogą być ranni i potrzebować leczenia.                                 |
+|    2    |       **Złoto**       |                             Chcą k100 złota razy poziom gracza. To może być podatek, myto, danina, dziesięcina,  mogą być po prostu chciwymi draniami  lub łatwo rozpraszają ich błyskotki.                             |
+|    3    |       **Skarb**       |                               Chcą przedmiotów w liczbie równej poziomowi graczy. Liczą się również zwoje i mikstury. Dobrze dobrane oferty mogą zaowocować ich przyjaźnią albo sojuszem.                               |
+|    4    | **Losowy przedmiot**  |                                                              Wylosuj przedmiot z losowo wybranej karty postaci - z jakiegoś powodu pragną tego przedmiotu.                                                              |
+|    5    |    **Terytorium**     |                                    To jest ich terytorium i będą go bronić. Najczęściej jednak chcą tylko, żebyś sobie poszedł lub uzasadnił, dlaczego powinni pozwolić Ci przejść.                                     |
+|    6    |    **Informacja**     |                                                       Chcą wiedzieć coś o rywalizującej frakcji, pobliskim BN lub potworze, czy też punkcie orientacyjnym lochu.                                                        |
+|    7    |       **Pomoc**       | Potrzebują czegoś z dalszej części lochu lub z pobliskiej dziczy. Mogą chcieć, abyś zabił inne potwory w lochu lub oczyścił jakiś heks. Mogą nawiedzać okolicę i odejść tylko wtedy, gdy ich zadanie zostanie wykonane. |
+|    8    |      **Handel**       |  Mają losowy przedmiot z każdej kategorii na liście ekwipunku (jedna zbroja, jedna broń, jeden element wyposażenia, itd.) i są gotowi nimi hadlować. Wszystkie transakcje dokonywane w lochu są droższe niż w mieście.  |
+|    9    |       **Misja**       |                                     Są w służbie najbliższego BN w lochu (lub tego, którego wybierze Strażnik). Wypełniają jakąś misję, która ma pomóc temu BN osiągnąć jakiś cel.                                      |
+|   10    |     **Kierunek**      |                                                                Zgubili się i szukają drogi ucieczki lub kogoś, kto odprowadzi ich w bezpieczne miejsce.                                                                 |
 
 ---
 
@@ -86,33 +87,33 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 
 ### Hex Crawling
 
-Each hex represents 6 miles. An adventuring day is divided into 6 turns of approximately 4 hours each. Two of these phases, approximately 8 hours, must be spent sleeping in order to avoid becoming deprived. In each turn, the following procedure is followed:
+Każdy heks reprezentuje 10 km (6 mil). Dzień przygody podzielony jest na 6 tur po około 4 godziny każda. Dwie z tych faz, czyli około 8 godzin, muszą być przeznaczone na sen, aby uniknąć odczuwania **dyskomfortu**. W każdej turze postępuje się zgodnie z następującą procedurą:
 
-1. **Action:** The party decides on one exploration action for that turn.
-2. **Event Roll:** The GM rolls on the event die for encounters and other random events.
-3. **Resolution:** The action and event rolls are resolved.
+1. **Akcja:** Drużyna decyduje się na jedną akcję eksploracyjną w tej turze.
+2. **Rzut na wydarzenie:** Strażnik rzuca kością spotkania, żeby określić losowe wydarzenie.
+3. **Rozstrzygnięcie:** Rozpatruje się rzuty akcji i wydarzeń.
 
 ### Akcje eksploracji
 
-The party may choose one of the following standard actions each 4-hour turn.
+Drużyna może wybrać jedną z poniższych standardowych akcji w każdej 4-godzinnej turze.
 
-1. **Travel:** passing through a hex and into an adjacent one. On roads marked on the map, the party travels through two hexes (three if mounted). Off-road, one hex is traversed. There is also a 2-in-6 chance, when traveling off-road, of getting lost. This is increased to 3-in-6 in hexes classified as difficult terrain. An experienced woodsman decreases the chance of getting lost by 1-in-6. If players get lost, they will need to spend the next turn using the “search” action to reorient themselves. The effects of getting lost are rolling a d6, assigning a number to each side of the current hex, and moving the players one hex off course in that direction.
-2. **Explore:** Looking for interesting features within a hex. There is a 4-in-6 chance of discovering the main location in the hex description. Difficult terrain reduces this to 3-in-6. An experienced woodsman increases the chance by 1-in-6.
-3. **Search:** Looking for something which was previously encountered in a hex. The basic chance is 5-in-6 or 4-in-6 in difficult terrain. An experienced woodsman, tracker, or navigator increases the chance by 1-in-6.
-4. **Interact:** Staying in the current location (e.g. exploring a dungeon, town, etc).
-5. **Camp:** Resting and/or sleeping.
-6. **Forage:** Hunt, fish, or forage for food. There is a basic 3-in-6 chance of success. An experienced hunter, angler, or woodsman increases the chance.
+1. **Podróż:** przejście przez jeden heks i wkroczenie na sąsiedni. Na drogach zaznaczonych na mapie drużyna przemierza dwa heksy (trzy, jeśli jest w siodle). W terenie przemierzany jest jeden heks. Podczas podróży poza drogami istnieje szansa 2 na 6 na zgubienie właściwego kierunku. Zwiększa się ona do 3 na 6 na heksach sklasyfikowanych jako trudny teren. Doświadczony leśnik zmniejsza szansę na zgubienie się o 1 na 6. Jeśli gracze się zgubią, będą musieli spędzić następną turę używając akcji "poszukiwanie", aby powrócić na właściwy kurs. Efektem zgubienia się jest rzucenie kostką k6, przypisanie liczby do każdej strony aktualnego heksu i przesunięcie graczy o jeden heks w tym kierunku.
+2. **Odkrywanie:** Szukanie interesujących cech w obrębie heksu. Szansa na odkrycie głównej lokacji w opisie heksu wynosi 4 na 6. Trudny teren zmniejsza tę szansę do 3 na 6. Doświadczony leśnik zwiększa tę szansę o 1 na 6.
+3. **Przeszukiwanie:** Szukanie czegoś, co zostało wcześniej napotkane w danym heksie. Podstawowa szansa to 5 na 6 lub 4 na 6 w trudnym terenie. Doświadczony leśnik, tropiciel lub nawigator zwiększa tę szansę o 1 na 6.
+4. **Interakcja:** Pozostawanie w aktualnej lokacji (np. eksploracja lochu, miasta, itp.).
+5. **Obozowanie:** Odpoczynek i/lub sen.
+6. **Zdobywanie pożywienia:** Polowanie, łowienie ryb lub zdobywanie pożywienia. Szansa na sukces wynosi 3 do 6. Doświadczony myśliwy, wędkarz lub leśnik zwiększa tę szansę.
 
 ### Rzut na wydarzenie
 
-The DM rolls 1d6 and consults the table appropriate to the party’s location.
+Strażnik rzuca 1k6 i sprawdza tabelę odpowiednią dla miejsca, w którym znajduje się drużyna.
 
-1. **Encounter:** Roll on an encounter table for that terrain type or location.
-2. **Sign:** Clue, spoor, or indication of nearby encounter, locality, hidden feature, or information about a nearby hex.
-3. **Locality:** Shifts in weather, terrain, or other local changes.
-4. **Expiration:** Exhaustion (Rest next turn or add 1 fatigue), Hunger (Eat a ration or add 1 fatigue), or another resource is needed.
-5. **Discovery:** Discover something useful such as food, treasure, or other resources.
-6. **Hidden Feature:** The main feature of the hex is discovered, or, choose or roll randomly for a unique hex feature from a random table. Options include small dungeons, secret areas, factions, etc.
+1. **Spotkanie:** Rzuć na tabelę spotkań dla tego typu terenu lub lokacji.
+2. **Sygnał:** Trop lub wskazówka o pobliskim spotkaniu, miejscu, ukrytej funkcji, lub informacja o pobliskim heksie.
+3. **Otoczenie:** Zmiany pogody, ukształtowania terenu lub inne zmiany lokalne.
+4. **Upływ czasu:**  Wyczerpanie (odpocznij w następnej turze lub dodaj 1 zmęczenie), Głód (Zjedz rację żywnościową lub dodaj 1 zmęczenie) albo potrzebny jest jakiś inny zasób.
+5. **Odkrycie:** Odkryj coś pożytecznego, np. jedzenie, skarb lub inne zasoby.
+6. **Ukryta cecha:** Główna cecha heksu zostaje odkryta. Unikalną cechę heksu można też wybrać lub wylosować z tabeli. Opcje obejmują małe lochy, sekretne obszary, frakcje, itp.
 
 ---
 
@@ -126,25 +127,27 @@ Gracze mogą zdecydować się na pochłonięcie wszystkich obrażeń z jednego a
 
 ### Punkty doświadczenia (PD)
 
-Gain a new level every 1000 XP. Roll 1d6 x new level to determine your new HP. If lower than current HP, increase by new level. Example: If you are level 1 with 3 HP, and hit level 2, then you roll 1 and 2 on the 2d6 HP roll, take 2 HP (your new level) for a new total of 5 HP.
+Zyskaj nowy poziom co 1000 PD.  
+Rzuć 1k6 tyle razy ile wynosi nowy poziom, aby określić twoje nowe OCHR (najwyższy z wyników). Jeśli najwyższy wynik jest nadal niższy od obecnego OCHR, zwiększ obecną wartość o nowy poziom.  
+_Przykład: Jeśli jesteś na 1 poziomie z 3 OCHR i osiągasz 2 poziom - rzucasz 2k6 (1k6 razy 2). Przy wynikach 1 i 2 na kostkach, bierzesz, zamiast najwyższego z nich, 2 dodatkowe punkty OCHR (twój nowy poziom) otrzymując nową wartość 5 OCHR._
 
-Optionally, you can increase the experience needed to level if needed. Increments of +500 at each level are a good starting point.
+Opcjonalnie, możesz zwiększyć doświadczenie potrzebne do zdobycia poziomu, jeśli jest to konieczne. Przyrosty +500 na każdym poziomie są dobrym punktem wyjścia.
 
 ### Zdobywanie PD
 
-Experience points are gained at a rate of 1 XP for every 1 gold (or your game's standard currency) retrieved and returned to the safety of a town or your base of operations.
+Punkty doświadczenia są zdobywane w tempie 1 PD za każde 1 złoto (lub standardową walutę gry) pozyskane i dostarczone do bezpiecznego miasta lub Twojej bazy operacyjnej.
 
-### Ability Scores
+### Punkty zdolności
 
-Each time you level up, re-roll your Ability Scores with 3d6. If the results are higher than your current scores, increase by 1.
+Za każdym razem, gdy zdobędziesz poziom, rzuć ponownie 3k6 dla każdej zdolności. Jeśli wyniki są wyższe niż Twoje obecne, zwiększ odpowiednie wartości o 1.
 
 ---
 
-## Imprezowanie
+## Hulanki
 
 You can spend your hard-earned gold on experiences rather than on things. Carousing lets you double-dip your experience by spending it at a 1-1 ratio. The more you spend, the more impactful or eventful your experience. Carousing represents having a good time or in some other way an experience involving spending your wealth to blow off steam. Alter these tables or add your own mishaps and fortunes. They generally represent getting into shenanigans while inebriated but can also be sober celebratory outcomes.
 
-### Rzut na imprezowanie
+### Rzut na hulanki
 
 Declare the amount of gold you're spending and roll 2d6 to see how your evening went.
 
