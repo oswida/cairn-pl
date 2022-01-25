@@ -589,7 +589,7 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 |                                    |
 | ---------------------------------- |
-| Długi miecz (k8, nieporęczny)      |
+| Długi miecz (k10, nieporęczny)      |
 | Kolczuga (2 pancerza, nieporęczny) |
 | Hełm (+1  do pancerza)             |
 | Peleryna z barwami rodu            |
