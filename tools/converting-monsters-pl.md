@@ -51,7 +51,6 @@ Poniższa tabela oferuje zasady konwersji **ML** na **WOL**.
 
 Jest wiele sposobów, aby to zrobić, niemniej warto być konsekwentnym! W Cairn zapisuję to tak:
 
----
 
 #### Nazwa
 
@@ -61,7 +60,6 @@ X OCHR, X Pancerza, X SIŁ, X ZRE, X WOL, Broń (kX, _cechy_), przedmioty specja
 - Cecha, taktyka lub osobliwość, która czyni tę postać niezależną i wyjątkową
 - Efekt specjalny lub skutek obrażeń krytycznych
 
----
 
 ## Użyj fikcji
 

@@ -7,8 +7,6 @@ nav_order: 2
 
 # Najczęściej zadawane pytania
 
----
-
 ## Wstęp
 
 Poniżej znajduje się kilka odpowiedzi na najczęściej zadawane pytania.  

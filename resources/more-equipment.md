@@ -78,22 +78,22 @@ Lista poniższa nie zmienia żadnego z przedmiotów wymienionych w SRD, dodaje t
 
 Pierwsza wartość oznacza wynagrodzenie za tydzień, druga to procent od skarbu (może być negocjowana).
 
-|                               |                             |                            |                             |
-| ----------------------------- | --------------------------- | -------------------------- | --------------------------- |
-| **Najemnik**                  | **Pensja na tydz / % łupu** | **Najemnik**               | **Pensja ma tydz / % łupu** |
-| Chłop                         | 1 / 0.2%                    | Łucznik, elf               | 10 / 2%                     |
-| Jeździec na wilku, goblin     | 5 / 1%                      | Łucznik, goblin            | 2 / 0.4%                    |
-| Jeździec, ciężki              | 20 / 4%                     | Łucznik, konny, człowiek   | 15 / 3%                     |
-| Jeździec, lekki, człowiek     | 10 / 2%                     | Łucznik, konny, elf        | 30 / 6%                     |
-| Jeździec, lekki, elf          | 20 / 4%                     | Łucznik, ork               | 3 / 0.6%                    |
-| Jeździec, średni              | 15 / 3%                     | Piechur, ciężki, człowiek  | 2 / 0.4%                    |
-| Kusznik, człowiek             | 4 / 0.8 %                   | Piechur, ciężki, elf       | 6 / 1.2%                    |
-| Kusznik, konny, krasnolud     | 15 / 3%                     | Piechur, ciężki, krasnolud | 5 / 1%                      |
-| Kusznik, krasnolud            | 6 / 1.2%                    | Piechur, ciężki, ork       | 15 / 3%                     |
-| Kusznik, ork                  | 2 / 0.4%                    | Piechur, lekki, człowiek   | 2 / 0.4%                    |
-| Łucznik (długi łuk), człowiek | 10 / 2%                     | Piechur, lekki, elf        | 4 / 0.8 %                   |
-| Łucznik (długi łuk), elf      | 20 / 4%                     | Piechur, lekki, goblin     | 1 / 0.2%                    |
-| Łucznik, człowiek             | 5 / 1%                      | Piechur, lekki, ork        | 1 / 0.2%                    |
+|                               |                          |                            |                          |
+| ----------------------------- | ------------------------ | -------------------------- | ------------------------ |
+| **Najemnik**                  | **Pensja tyg. / % łupu** | **Najemnik**               | **Pensja tyg. / % łupu** |
+| Chłop                         | 1 / 0.2%                 | Łucznik, elf               | 10 / 2%                  |
+| Jeździec na wilku, goblin     | 5 / 1%                   | Łucznik, goblin            | 2 / 0.4%                 |
+| Jeździec, ciężki              | 20 / 4%                  | Łucznik, konny, człowiek   | 15 / 3%                  |
+| Jeździec, lekki, człowiek     | 10 / 2%                  | Łucznik, konny, elf        | 30 / 6%                  |
+| Jeździec, lekki, elf          | 20 / 4%                  | Łucznik, ork               | 3 / 0.6%                 |
+| Jeździec, średni              | 15 / 3%                  | Piechur, ciężki, człowiek  | 2 / 0.4%                 |
+| Kusznik, człowiek             | 4 / 0.8 %                | Piechur, ciężki, elf       | 6 / 1.2%                 |
+| Kusznik, konny, krasnolud     | 15 / 3%                  | Piechur, ciężki, krasnolud | 5 / 1%                   |
+| Kusznik, krasnolud            | 6 / 1.2%                 | Piechur, ciężki, ork       | 15 / 3%                  |
+| Kusznik, ork                  | 2 / 0.4%                 | Piechur, lekki, człowiek   | 2 / 0.4%                 |
+| Łucznik (długi łuk), człowiek | 10 / 2%                  | Piechur, lekki, elf        | 4 / 0.8 %                |
+| Łucznik (długi łuk), elf      | 20 / 4%                  | Piechur, lekki, goblin     | 1 / 0.2%                 |
+| Łucznik, człowiek             | 5 / 1%                   | Piechur, lekki, ork        | 1 / 0.2%                 |
 
 ## Najemni specjaliści
 

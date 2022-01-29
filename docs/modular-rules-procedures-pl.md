@@ -14,7 +14,7 @@ Wersję PDF można znaleźć na stronie [Cairn Adventurer Guide](https://adamhen
 - Zasady te zostały zaprojektowane tak, aby można było je stosować jako `plug-n-play`, więc po prostu weź to, co ci się podoba, a resztę wyrzuć.
 - Zasady te nie są kluczowe dla struktury gry i mogą być odrzucone lub zignorowane w dowolnym momencie.
 
-## Eksploracja Lochów
+## Eksploracja lochów
 
 _**Uwaga**: L jest używane w odniesieniu do poziomu gracza. Przykład: Gracz na poziomie 2 widząc Lk6 rzuciłby 2k6._
 
@@ -81,11 +81,10 @@ Kiedy gracze napotkają postać niezależną, której reakcja na to spotkanie ni
 |    9    |       **Misja**       |                                     Są w służbie najbliższego BN w lochu (lub tego, którego wybierze Strażnik). Wypełniają jakąś misję, która ma pomóc temu BN osiągnąć jakiś cel.                                      |
 |   10    |     **Kierunek**      |                                                                Zgubili się i szukają drogi ucieczki lub kogoś, kto odprowadzi ich w bezpieczne miejsce.                                                                 |
 
----
 
 ## Eksploracja dziczy
 
-### Hex Crawling
+### Poruszanie się po heksach
 
 Każdy heks reprezentuje 10 km (6 mil). Dzień przygody podzielony jest na 6 tur po około 4 godziny każda. Dwie z tych faz, czyli około 8 godzin, muszą być przeznaczone na sen, aby uniknąć odczuwania **dyskomfortu**. W każdej turze postępuje się zgodnie z następującą procedurą:
 
@@ -115,13 +114,11 @@ Strażnik rzuca 1k6 i sprawdza tabelę odpowiednią dla miejsca, w którym znajd
 5. **Odkrycie:** Odkryj coś pożytecznego, np. jedzenie, skarb lub inne zasoby.
 6. **Ukryta cecha:** Główna cecha heksu zostaje odkryta. Unikalną cechę heksu można też wybrać lub wylosować z tabeli. Opcje obejmują małe lochy, sekretne obszary, frakcje, itp.
 
----
 
 ## Rozbicie tarczy
 
 Gracze mogą zdecydować się na pochłonięcie wszystkich obrażeń z jednego ataku w zamian za zniszczenie swojej tarczy.
 
----
 
 ## Poziomy postaci
 
@@ -141,7 +138,6 @@ Punkty doświadczenia są zdobywane w tempie 1 PD za każde 1 złoto (lub standa
 
 Za każdym razem, gdy zdobędziesz poziom, rzuć ponownie 3k6 dla każdej zdolności. Jeśli wyniki są wyższe niż Twoje obecne, zwiększ odpowiednie wartości o 1.
 
----
 
 ## Hulanki i swawole
 
@@ -178,7 +174,6 @@ Rzuć 1k6 + 1 za każde 200 złota, które wydajesz na zabawę. Bardziej dekaden
 | 11  | **Pobity i okradziony.** Zostajesz napadnięty przez  bandytów podczas pijackiej hulanki. Tracisz Lk6x100 złota.                                                                                                                                                                                                                          | **Gorąca plotka** Twój czas spędzony na zabawie pozwolił Ci poznać kilka soczystych plotek. Dowiedziałeś się jednego ważnego sekretu na temat wpływowej osoby.                                                                                                                                                                                                               |
 | 12  | **Dach! Dach! Dach się pali!** Przypadkowo wywołaliście pożar. Rzuć 1k6 dwa razy. **(1-2)** spłonęła twoja ulubiona gospoda **(3-5)** inna melina została spalona na popiół **(6)** spory kawałek miasta poszedł z dymem. **(1-2)** nikt nie wie, że to byliście wy **(3-5)** jedna osoba wie, że to zrobiliście **(6)** wszyscy wiedzą. | **Legendarna impreza!** To była noc prawdziwie epickiej rozpusty. Każdy rzuca k6, aby zobaczyć jak urosła twoja legenda.  **(1)** Rzuć ponownie OCHR dla swojego poziomu, weź nowy wynik jeśli wyższy, zwiększ o 1 jeśli niższy. **(2)** Zyskaj 1 SIŁ **(3)** Zyskaj 1 ZRE **(4)** Zyskaj 1 WOL, **(5)** Zyskaj losową księgę zaklęć **(6)** Zyskaj Lk6 x 100 złota.         |
 
----
 
 **Referencje i inspiracje:**
 
@@ -189,4 +184,3 @@ Rzuć 1k6 + 1 za każde 200 złota, które wydajesz na zabawę. Bardziej dekaden
 - [Ten Foot Polemic](http://tenfootpolemic.blogspot.com/2015/04/the-cost-of-living-downtime-activities.html)
 - [Xenio in a Bottle](https://xenioinabottle.blogspot.com/2021/04/maze-rats-spells-in-cairn.html)
 
----

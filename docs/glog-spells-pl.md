@@ -11,7 +11,6 @@ nav_order: 5
 - [suma] to liczba równa sumie wyrzuconych wyników **Kości Magicznych**.
 - **przedmiot** to cokolwiek, co możesz podnieść jedną ręką, a **obiekt** to cokolwiek o wielkości człowieka.
 - Jeśli nie zaznaczono inaczej, wszystkie zaklęcia z efektami ciągłymi trwają do [suma]×10 minut i mają zasięg do 12 metrów.
-- Spójrz [tutaj](./glog-magic-pl.md), aby dowiedzieć się więcej na temat magii GLOG.
 
 ## Zaklęcia
 
@@ -69,7 +68,7 @@ nav_order: 5
 | 50  | Odpychanie                | [suma]+1 obiektów jest silnie odpychanych magnetycznie od siebie w odległości 3 metrów.                                                                                                      |
 | 51  | Ożywienie obiektu         | Wskazane [kości] obiektów wykonuje twoje polecenia najlepiej jak potrafi.                                                                                                                    |
 | 52  | Pajęcza wspinaczka        | Możesz wspinać się po powierzchniach jak pająk przez [kości] minut.                                                                                                                          |
-| 53  | Pchanie/Ciągnięcie        | [kości] obiektów dowolnej wielkości jest przyciąganych bezpośrednio do ciebie lub odpychanych bezpośrednio od ciebie z siłą [suma] ludzi                                                     |
+| 53  | Pchanie / Ciągnięcie      | [kości] obiektów dowolnej wielkości jest przyciąganych bezpośrednio do ciebie lub odpychanych bezpośrednio od ciebie z siłą [suma] ludzi                                                     |
 | 54  | Pierwotna siła            | Wybrane stworzenie szybko ewoluuje w przyszłą wersję swojego gatunku.                                                                                                                        |
 | 55  | Podświetlenie             | Tworzysz lewitujące światło, które porusza się zgodnie z Twoją wolą.                                                                                                                         |
 | 56  | Przebranie                | Możesz dowolnie zmieniać wygląd [suma] postaci, dopóki pozostają one humanoidalne. Próby kopiowania innych postaci będą wydawać się nierealne.                                               |

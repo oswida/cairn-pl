@@ -7,7 +7,6 @@ nav_order: 4
 
 # Magia GLOG
 
----
 
 Aby wykorzystać [Magię GLOG](http://goblinpunch.blogspot.com/2016/05/the-glog.html) w Cairn, rozważ użycie następujących zasad:
 
