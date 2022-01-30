@@ -177,7 +177,7 @@ Gracze angażują się we wspólną wizję świata, współdzielą cele postaci 
 **Imię, przeszłość i cechy**  
 Najpierw wybierz lub wylosuj **imię** dla swojej postaci z tabeli [**Imię i przeszłość**](#imię-i-przeszłość-(d20)), następnie wybierz jej **przeszłość**, która informuje o wiedzy i potencjalnych umiejętnościach.
 
-W następnym kroku wylosuj resztę **cech** postaci (wygląd, mowa, manieryzmy, przekonania, reputacja, itp) z tabel [**Cechy postaci**](#cechy-postaci-(d10)).
+W następnym kroku wylosuj resztę **cech** postaci (wygląd, mowa, manieryzmy, przekonania, reputacja, itp) z tabel [**Cechy postaci**](#cechy-postaci-(k10)).
 
 Na koniec, rzuć kością, żeby określić **wiek** bohatera (2k20+10).
 
@@ -211,7 +211,7 @@ Wszystkie postacie graczy rozpoczynają grę z:
 - Pochodnią (jedno miejsce)
 - 3k6 sztukami złota
 
-Z tabeli **Wyposażenie startowe** wylosuj jaką zbroję, broń, narzędzia i przedmioty posiada twoja postać. Jeśli to wskazane wylosuj również księgi zaklęć z tabeli [**Księgi zaklęć**](#księgi-zaklęć-(d100)) za pomocą rzutu 1k100 (lub 2k10, gdzie jedna kość oznacza cyfrę jedynek a druga - cyfrę dziesiątek).
+Z tabeli **Wyposażenie startowe** wylosuj jaką zbroję, broń, narzędzia i przedmioty posiada twoja postać. Jeśli to wskazane wylosuj również księgi zaklęć z tabeli [**Księgi zaklęć**](#księgi-zaklęć-(k100)) za pomocą rzutu 1k100 (lub 2k10, gdzie jedna kość oznacza cyfrę jedynek a druga - cyfrę dziesiątek).
 
 Spójrz na **Listę wyposażenia** aby uzyskać informacje o zbrojach, obrażeniach i miejscach w ekwipunku. Małe przedmioty czasami mogą być pakowane razem w jednym miejscu.
 
@@ -219,7 +219,7 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 <p></p>
 
-## Imię i przeszłość (d20)
+## Imię i przeszłość (k20)
 
 #### Imiona żeńskie
 
@@ -263,7 +263,7 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 <p></p>
 
-## Cechy postaci (d10)
+## Cechy postaci (k10)
 
 #### Budowa
 
@@ -367,7 +367,7 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 <p></p>
 
-## Wyposażenie startowe (d20)
+## Wyposażenie startowe (k20)
 
 #### Zbroja
 
@@ -429,7 +429,7 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 <p></p>
 
-#### Księgi zaklęć (d100)
+#### Księgi zaklęć (k100)
 
 |     |                           |     |                    |     |                         |     |                    |
 | --- | ------------------------- | --- | ------------------ | --- | ----------------------- | --- | ------------------ |
@@ -589,7 +589,7 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 
 |                                    |
 | ---------------------------------- |
-| Długi miecz (k10, nieporęczny)      |
+| Długi miecz (k10, nieporęczny)     |
 | Kolczuga (2 pancerza, nieporęczny) |
 | Hełm (+1  do pancerza)             |
 | Peleryna z barwami rodu            |
