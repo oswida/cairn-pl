@@ -1,3 +1,7 @@
+---
+layout: default
+published: false
+---
 # Dokument referencyjny systemu Cairn (wersja 1.0)
 
 **Cairn** jest publikowany na licencji [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
