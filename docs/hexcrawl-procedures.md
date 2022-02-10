@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Hexcrawl
-parent: Dokumenty
-nav_order: 4
+parent: Zasady dodatkowe
+grand_parent: Dokumenty
+nav_order: 3
 ---
 
 # Jeszcze jedna procedura poruszania się po heksach (Hexcrawl)
@@ -31,7 +32,7 @@ Drużyna podróżuje w ramach heksa.
 - Drużyna musi uważać, aby nie [stracić orientacji](./hexcrawl-procedures.md#utrata-orientacji).
 - Rzuć na [tabelę zdarzeń](./hexcrawl-procedures.md/#tabela-zdarzeń).
 
-#### Utrata orientacji
+##### Utrata orientacji
 
 - W 2 przypadkach na 6 istnieje szansa, że drużyna zgubi się podczas podróży przez trudny teren lub teren o słabej widoczności.
 - Mapy i odpowiednia przeszłość postaci eliminują potrzebę rzutu, lub zmniejszają szanse do 1 na 6.

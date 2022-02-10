@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Więcej procedur 
-parent: Dokumenty
-nav_order: 3
+parent: Zasady dodatkowe
+grand_parent: Dokumenty
+nav_order: 4
 ---
 
 # Więcej procedur

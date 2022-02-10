@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Magia GLOG
-parent: Dokumenty
-nav_order: 5
+parent: Zasady dodatkowe
+grand_parent: Dokumenty
+nav_order: 1
 ---
 
 # Magia GLOG

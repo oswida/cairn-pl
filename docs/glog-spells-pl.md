@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Zaklęcia GLOG
-parent: Dokumenty
-nav_order: 6
+parent: Zasady dodatkowe
+grand_parent: Dokumenty
+nav_order: 2
 ---
 
 # Zaklęcia GLOG
