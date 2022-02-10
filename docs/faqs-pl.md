@@ -10,9 +10,9 @@ nav_order: 2
 ## Wstęp
 
 Poniżej znajduje się kilka odpowiedzi na najczęściej zadawane pytania.  
-Podczas czytania poniższych odpowiedzi, proszę odnosić się do dokumentu [SRD](./cairn-srd-pl.md) , szczególnie jeśli chodzi o [**rzuty obronne**](./cairn-srd-pl.md#rzuty-obronne) i [walkę](./cairn-srd-pl.md#walka).
+Podczas czytania poniższych odpowiedzi, należy odnosić się do dokumentu [SRD](./cairn-srd-pl.md) , szczególnie jeśli chodzi o [**rzuty obronne**](./cairn-srd-pl.md#rzuty-obronne) i [walkę](./cairn-srd-pl.md#walka).
 
-**Podczas czytania tekstu przykładów należy pamiętać o następujących kwestiach!**  
+**Podczas czytania tekstu przykładów należy pamiętać o następujących kwestiach:**  
 
 - **Esther** gra byłą **Zielarkę**.
 - **Barry** gra byłego **Myśliwego**.
