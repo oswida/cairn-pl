@@ -5,9 +5,8 @@ nav_order: 3
 parent: Narzędzia
 ---
 
-# Rozwój postaci (WIP)
+# Rozwój postaci (w przygotowaniu)
 
-Narzędzia wspomagające rozwój postaci w Cairn.
 Dokument ten stworzyłem zainspirowany licznymi pytaniami dotyczącymi rozwoju postaci w Cairn. Jest to swobodna interpretacja reguł opisanych przez autora w [SRD](../docs/cairn-srd-pl.md) oraz [FAQ](../docs/faqs-pl.md).
 
 ## Podstawa: rozwój za pomocą fikcji
@@ -39,3 +38,12 @@ Wszystkie propozycje poniżej zostały opisane w schemacie:
 - `Mistrzostwo we władaniu wybraną bronią`: Twoje możliwości walki wybraną bronią są nieprzeciętne - **wszystkie ataki tym orężem są _wzmocnione_.** [koszt szkolenia i instruktorów]
 - `Mistrzostwo w sztuce walki wręcz`: Intensywny rozwój ciała i ducha pozwala Ci unikać ciosów w nieprawdopodobny wręcz sposób - **wszystkie ataki w zwarciu wymierzone przeciwko Tobie są _osłabione_**. [koszt szkolenia, zobowiązania wobec mistrzów]
 - `Trening dobywania broni i odpierania ataków z zaskoczenia`: doskonałe wyczucie dystansu i kierunku ataku przeciwnika, perfekcyjne opanowanie chwytu i sposobu dobywania własnej broni powoduje, że **nie musisz wykonywać testu ZRE jeśli chcesz działać przed przeciwnikiem w danej turze walki**. [koszty treningu, zobowiązania wobec mistrza]
+- `Trening szermierczy`: twoje umiejętności władania bronią białą pozwalają na pełną kontrolę przebiegu pojedynku - **obrażenia krytyczne: jeśli chcesz, możesz zadecydować o tym, że: wytrąciłeś przeciwnikowi broń z ręki lub pozbawiłeś go równowagi i przewrócił się.** [koszty treningu]
+- `Służba w wojsku`: Standardowe szkolenie wojskowe i trudy przebytych kampanii ukształtowały prawdziwego twardziela - **nie wykonujesz pierwszego rzutu na obrażenia krytyczne (tego, który zmniejsza OCHR poniżej zera), pozostałe rzuty na obrażenia krytyczne wykonywane są tak jak zwykle.** [czas poświęcony na służbę, wykonywanie rozkazów podczas pełnienia służby, zobowiązania wobec towarzyszy broni]
+- `Zdobycie stopnia oficerskiego w wojsku`: Potrafisz nie tylko sprawnie walczyć ale inspirować ludzi i koordynować ich działania - **podczas walki, ataki twoje i twoich sojuszników są rozliczane tak jak ataki _oddziału_**. [czas służby, wykonywanie rozkazów, koszt zdobycia szlifów, zobowiązania wobec przełożonych, patronów]  
+- `Służba w milicji/straży miejskiej`: Struganie bohatera może się skończyć szybką śmiercią w ciemnej uliczce. Jedną z bardziej cenionych umiejętności w tym zawodzie jest zdolność do szybkiego opuszczenia strefy zagrożenia. **Nie musisz wykonywać testu ZRE podczas odwrotu i instynktownie zawsze znajdziesz miejsce, do którego możesz uciec** [czas służby, zobowiązania wobec przełożonych i towarzyszy].
+
+### Inne umiejętności
+
+- `Szkolenie samodzielne w dowolnej umiejętności poza walką i magią`: Intensywny, samodzielny trening danej umiejętności powoduje, że jej wykonywanie staje się prostsze, chociaż szanse niepowodzenia nadal istnieją. **Jeśli wybrana czynność wymaga rzutu obronnego związanego z trenowaną umiejętnością, rzuć 1k6. Wynik 1 oznacza, że nie musisz wykonywać tego rzutu obronnego** [koszty związane specyficznie z wybraną umiejętnością]
+- `Szkolenie zorganizowane w dowolnej umiejętności poza walką i magią (trenerzy, mistrzowie, szkoły)`: Trening lub szkolenie opracowane przez wykwalifikowanych nauczycieli dodatkowo zmniejsza szanse niepowodzenia. **Jeśli wybrana czynność wymaga rzutu obronnego związanego z trenowaną umiejętnością, rzuć 1k6. Wynik 1-3 oznacza, że nie musisz wykonywać tego rzutu obronnego** [koszty związane z uczestnictwem w szkoleniu] 
