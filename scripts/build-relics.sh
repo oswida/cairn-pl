@@ -17,11 +17,11 @@ CSS_FILE=$SCRIPT_DIR/epub.css
 OUT_FILE=$SCRIPT_DIR/cairn-pl-relics.epub
 DOC_TITLE="Cairn PL: Artefakty"
 DOC_SUBTITLE="Przygotowany $date, Oskar Świda, Oryginał dostępny na: cairnrpg.com, CC-BY-SA 4.0"
-COVER_IMG=$SCRIPT_DIR/cairn.jpg
+COVER_IMG=$SCRIPT_DIR/cairn-relics.jpg
 
 pandoc -c "$CSS_FILE" -M title="$DOC_TITLE" -M subtitle="$DOC_SUBTITLE" -f gfm --toc --toc-depth=4 --epub-embed-font Alegreya-Regular.ttf --epub-embed-font Alegreya-Italic.ttf --epub-embed-font Alegreya-Bold.ttf --epub-embed-font Alegreya-SemiBold.ttf --epub-cover-image "$COVER_IMG" -s tmp/*.md -o "$OUT_FILE"
 
-# rm -rf tmp
+rm -rf tmp
 
 # PDF brochure
 pdfbook2 -p=a4 -s "cairn-pl-relics.pdf"
