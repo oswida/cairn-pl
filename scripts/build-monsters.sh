@@ -16,7 +16,6 @@ do
 done
 
 # PDF
-
 pandoc -V geometry:margin=2.5cm --variable papersize=A4 --variable title="Cairn Bestiariusz" --variable subtitle="Przygotowany " --variable subtitle="$date" --variable subtitle="\linebreak przez Oskara Świda| Oryginał: Yochai Gal \linebreak CC-BY-SA 4.0" -V fontfamily:Alegreya  -f gfm --toc -s monsters/*.md -o "$SCRIPT_DIR/../../cairn-pl-monsters.pdf"
 
 # EPUB

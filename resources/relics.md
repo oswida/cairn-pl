@@ -72,7 +72,7 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 - Prostokątna latarnia z oszronionym, zabarwionym na brązowo szkłem. Jest szczelnie zamknięta, z kanciastymi symbolami wydrapanymi na łączeniach. Mały zbiorniczek na górze podaje paliwo zamkniętej wewnątrz drobnej wróżce, która oświetla lampion czystym białym światłem.
 - Jedynym paliwem, które wróżka akceptuje, jest spora ilość krwi tego, kto będzie niósł latarnię (k4 obrażeń SIŁ za godzinę światła). Wróżka irytuje się, gdy próbuje się ją oszukać inną krwią i może próbować uciec, jeśli jest wystarczająco zdenerwowana.
 
-#### Skrzydło szeptów Whisperwing, 3 ładunki
+#### Skrzydło szeptów, 3 ładunki
 
 - Brązowo-kremowe skrzydło ćmy zamknięte w małym pudełku wykonanym z żołędzia. Uwolnienie skrzydła z pudełka wycisza wszystkie pobliskie hałasy na czas potrzebny do opadnięcia na ziemię.
 - **Doładowanie**: Znajdź Szepczącą Ćmę i przekonaj ją, aby przehandlowała jedno ze swoich skrzydeł. Ćmy są zazwyczaj wyrozumiałe i chętne do współpracy, o ile dokonasz wymiany delikatnie i będziesz mówił cichym głosem.
@@ -108,7 +108,7 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 - Za jeden ładunek, podstempluj schemat opisujący cudowny wynalazek lub magiczny przedmiot i zbierz kupkę błyszczących kamieni, słomy, robaków, grzybów i tym podobnych w stos o kształcie zbliżonym do tego przedmiotu. Materiały łączą się razem i działają jak opisany przedmiot przez około godzinę. Następnie urządzenie ulega katastrofalnej awarii.
 - **Doładowanie**: Błagaj o pomoc Wielkiego Goba, opisując w kwiecistych słowach, jak bardzo ty i twoi pobratymcy jesteście gorsi od jego wspaniałej osoby. Poproś o łaskę - jeśli zrobisz na Gobie odpowiednie wrażenie, da ci mały, prawdopodobnie oślizgły żeton, który przylepisz do pieczęci.
 
-###  [Ialath](https://ialath.com/)
+### [Ialath](https://ialath.com/)
 
 #### Czapka z czaszką, 1 ładunek
 
@@ -186,20 +186,20 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 - Naszyjnik ze zwisającym, małym rubinem. Można go rzucić, uzyskując wybuch płomieni w obszarze wokół miejsca, w którym wylądował, zadając wszystkim trafionym obrażenia k8+k8.
 - **Doładowanie**: Zostaw to w płonącym ognisku, aż płomienie całkiem wygasną.
 
-#### Morderczy sługus, sztylet, k6 obrażeń, 1 ładunek
+#### Morderczy sługus, sztylet (k6), 1 ładunek
 
 - Raniąc śmiertelnie ofiary, więzi je wewnątrz ostrza.
 - Naciśnięcie czaszki myszy na rękojeści uwalnia dusze, aby wykonały polecenie posiadacza, zanim odejdą na zawsze.
 - **Doładowanie**: Czyść go aktywnie w wodzie z lodem przez pół dnia.
 
-#### Laska Władczej Mocy, laska, 1 ładunek
+#### Laska Władczej Mocy, 1 ładunek
 
 - Można nią zawsze uderzyć o ziemię, aby wzmocnić twój głos.
 - Za ładunek można wycelować w istotę o niższej WOL od ciebie.  Przysięgnie ci ona wierność na czas nieokreślony lub do momentu, gdy będzie świadkiem robienia przez ciebie czegoś, w co nie wierzy.
 - Nigdy nie będzie miała wpływa na rycerza ani nikogo, kto złożył świętą przysięgę.
 - **Doładowanie**: zabij szlachcica lub (samemu będąc szlachcicem) pasuj kogoś na rycerza.
 
-#### Zapomniane ostrze mistrza miecza, k8 obrażeń, 2 ładunki
+#### Zapomniane ostrze mistrza miecza (k8), 2 ładunki
 
 - Zużyty i zwietrzały niebiesko-szary miecz nasycony pamięcią starożytnego mistrza miecza, znanego z umiejętności pojedynkowania się z wieloma przeciwnikami naraz.
 - Zogniskowanie pamięci zapomnianego mistrza wywołuje wir, który atakuje wszystkich przeciwników w promieniu 3 metrów (do czterech osób) za k6 z cechą _podmuch_.
@@ -330,7 +330,7 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 - Przetrzymuje obraz jednej rzeczy/osoby, którą wcześniej odbijało. Jeśli w lustro spojrzy żywa istota lub jeśli trzyma się przed nim przedmiot nieożywiony, zostaje on przekształcony w przechowywane odbicie. Obraz w lustrze znika.
 - Ożywione stworzenie można zamienić tylko w inne ożywione stworzenie, a przedmiot nieożywiony można zamienić tylko w coś nieożywionego.
 
-#### Miecz Popiołów (d8), 5 ładunków
+#### Miecz Popiołów (k8), 5 ładunków
 
 - Prosty miecz, pokryty popiołem i sadzą, z krawędziami pokrytymi rysami i śladami zużycia.
 - Posiadacz musi _odczuwać dyskomfort_, aby aktywować magiczne właściwości miecza.
