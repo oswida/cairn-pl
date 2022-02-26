@@ -86,7 +86,7 @@ Pierwsza wartość oznacza wynagrodzenie za tydzień, druga to procent od skarbu
 | Jeździec, ciężki              | 20 / 4%                  | Łucznik, konny, człowiek   | 15 / 3%                  |
 | Jeździec, lekki, człowiek     | 10 / 2%                  | Łucznik, konny, elf        | 30 / 6%                  |
 | Jeździec, lekki, elf          | 20 / 4%                  | Łucznik, ork               | 3 / 0.6%                 |
-| Jeździec, średni              | 15 / 3%                  | Piechur, ciężki, człowiek  | 2 / 0.4%                 |
+| Jeździec                      | 15 / 3%                  | Piechur, ciężki, człowiek  | 2 / 0.4%                 |
 | Kusznik, człowiek             | 4 / 0.8 %                | Piechur, ciężki, elf       | 6 / 1.2%                 |
 | Kusznik, konny, krasnolud     | 15 / 3%                  | Piechur, ciężki, krasnolud | 5 / 1%                   |
 | Kusznik, krasnolud            | 6 / 1.2%                 | Piechur, ciężki, ork       | 15 / 3%                  |

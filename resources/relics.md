@@ -147,7 +147,8 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 
 #### Świeca Ciemności, 7 ładunków
 
-- Świeca, która emanuje czystą ciemnością zamiast światła w promieniu 3 metrów. Brak **Doładowania**.
+- Świeca, która emanuje czystą ciemnością zamiast światła w promieniu 3 metrów.
+- Brak **Doładowania**.
 
 #### Tarcza Magnetyzmu, 5 ładunków
 
@@ -196,8 +197,7 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 - Można nią zawsze uderzyć o ziemię, aby wzmocnić twój głos.
 - Za ładunek można wycelować w istotę o niższej WOL od ciebie.  Przysięgnie ci ona wierność na czas nieokreślony lub do momentu, gdy będzie świadkiem robienia przez ciebie czegoś, w co nie wierzy.
 - Nigdy nie będzie miała wpływa na rycerza ani nikogo, kto złożył świętą przysięgę.
-
-#### **Doładowanie**:s when you slay a nobleman or (as a noble yourself) knight someone.
+- **Doładowanie**: zabij szlachcica lub (samemu będąc szlachcicem) pasuj kogoś na rycerza.
 
 #### Zapomniane ostrze mistrza miecza, k8 obrażeń, 2 ładunki
 
@@ -293,3 +293,160 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 
 - Psy i inne udomowione bestie stają się potulne pod dotykiem tej zmumifikowanej ręki.
 - **Doładowanie**: Poświęć trochę czasu na głaskanie grzecznego chłopca.
+
+#### Rzecz, która zniszczy świat
+
+- Stalowy sześcian o boku 5 cm (2 cale), z czerwonym przyciskiem zajmującym większą część powierzchni.
+- Po naciśnięciu przycisku w zasięgu plucia tworzy się identyczny sześcian (kopia może też tworzyć takie same sześciany). Przytrzymanie przycisku powoduje tworzenie 1 sześcianu na sekundę.
+- Z prawdopodobieństwem 1 na 6, nowa kostka pojawia się stroną z guzikami do dołu. W ten sposób ciągle powstają kolejne kopie.
+
+#### Amulet ochrony życia, 1 ładunek
+
+- Prosty dysk z brązu, na którym widnieje starożytny symbol. Symbol ten jest pokryty pigmentem w kolorze głębokiej czerwieni.
+- Noszący automatycznie odnosi sukces przy rzucie na obrażenia krytyczne, nie może wybrać, czy mu się powiedzie, czy nie.
+- **Doładowanie**: Zakop wyblakły amulet wśród korzeni drzewa jarzębiny. Zawieś na gałęziach świeżą pępowinę zwierzęcia hodowlanego lub niemowlęcia. Jeśli dziecko lub zwierzę zostało skrzywdzone podczas jej pozyskiwania, magia nie zadziała. Pępowina musi całkowicie wyschnąć, gdy wisi na gałęziach. Po tym czasie możesz wykopać amulet, który teraz będzie wyglądał jak nowy.
+
+#### Pierścień ochrony przed magią, 1 ładunek
+
+- Cienka opaska z niebieskawego metalu inkrustowana perłą.
+- Osoba nosząca pierścień może zanegować efekty zaklęcia, które jest w nią wymierzone.
+- **Doładowanie**: Przechowuj obrączkę w ptasim gnieździe, w pobliżu kościoła z dzwonem, przez co najmniej dwa tygodnie.
+
+#### Halabarda Księżyca, 3 ładunki
+
+- Kunsztownie wykonana broń drzewcowa z głowicą w kształcie półksiężyca. Ostrze i szpikulce zdobią srebrne, spiralne inkrustacje.
+- Jeśli ostrze odbija naturalne światło księżyca, posiadacz może wydać ładunek i traktować ataki bronią jako wzmocnione, ponadto za każdym razem, gdy jakaś istota zostanie trafiona halabardą, otrzymuje obrażenia od Księżycowej Trucizny (1 pkt WOL).
+- W świetle pełni księżyca posiadacz może zużyć wszystkie 3 ładunki i "wyciąć" przejście przez zbiornik wodny, trwające tak długo, aż księżyc stanie się niewidoczny.
+- **Doładowanie**: Umieść halabardę w przeznaczonym dla niej miejscu w Świątyni Księżyca na 1 rok.
+
+#### Żelazne Rękawice Potęgi
+
+- Rękawice wykonane z ciemnych żelaznych pierścieni, wyglądają na prymitywnie wykonane i widać na nich stare ślady przypalenia i plamy krwi.
+- Po ich założeniu noszący je natychmiast zyskuje 1 punkt zmęczenia, a po każdej kolejnej godzinie noszenia o jeden więcej. Jeśli osoba nosząca je kiedykolwiek osiągnie 7 lub więcej zmęczenia, traci przytomność i umiera w ciągu godziny. Strażnik powinien wyraźnie poinformować o tym niebezpieczeństwie.
+- Wszystkie ataki są wzmocnione, a wszystkie próby siłowe z użyciem rąk/rękawic noszącego automatycznie kończą się sukcesem.
+
+#### Lustro polimorficzne
+
+- Przetrzymuje obraz jednej rzeczy/osoby, którą wcześniej odbijało. Jeśli w lustro spojrzy żywa istota lub jeśli trzyma się przed nim przedmiot nieożywiony, zostaje on przekształcony w przechowywane odbicie. Obraz w lustrze znika.
+- Ożywione stworzenie można zamienić tylko w inne ożywione stworzenie, a przedmiot nieożywiony można zamienić tylko w coś nieożywionego.
+
+#### Miecz Popiołów (d8), 5 ładunków
+
+- Prosty miecz, pokryty popiołem i sadzą, z krawędziami pokrytymi rysami i śladami zużycia.
+- Posiadacz musi _odczuwać dyskomfort_, aby aktywować magiczne właściwości miecza.
+- Po zużyciu 1 ładunku, ostrze miecza zapala się ciemnoczerwonym płomieniem, który wytwarza gęsty, czarny dym. Wszystkie ataki wykonywane mieczem są _wzmocnione_ i za każdym razem, gdy zadaje on obrażenia SIŁ, podpala swój cel. Płomień trwa, dopóki posiadacz miecza nie schowa go, nie odłoży lub przestanie odczuwać dyskomfort.
+- **Doładowanie**: Przygotuj duże ognisko i oblej ostrze mieszanką tłuszczu zwierzęcego, żywicy i igieł sosnowych. Następnie owiń go w płótno, w którym ktoś został pochowany i włóż miecz do ogniska. Rozpal je i poczekaj, aż całkowicie zgaśnie - wtedy będziesz mógł odzyskać doładowany miecz.
+
+#### Vademecum Potęgi
+
+- Znane również jako _Księga Zwinności_ lub _Tom Mądrości_.
+- Duża, stara, trzytomowa książka z pożółkłymi stronami i poobijaną okładką.
+- Przestudiowanie jej zajmuje co najmniej miesiąc. Po przeczytaniu, możesz zwiększyć swoją wartość SIŁ, ZRE lub WOL (w zależności od księgi) o 1k4 punktów (maksymalnie do 18).
+- **Doładowanie**: Umieść książkę na półce w legendarnej, dawno zaginionej bibliotece cieni i pozostaw ją tam na 12 lat.
+
+#### Wilcza skóra, 2 ładunki
+
+- Płaszcz wykonany ze skóry wilka.
+- Noszący i cały jego dobytek zmieniają się w zwykłego wilka. Za każdy wydany ładunek efekt utrzymuje się przez 3 godziny.
+- **Doładowanie**: Nie używając Wilczej Skóry, upoluj żywe stworzenie, a następnie zjedz jego serce i wątrobę na surowo.
+
+#### Złote Jabłko Bogów, 1 użycie
+
+- Doskonale ukształtowane, małe, złote jabłko.
+- Spożycie jabłka powoduje obniżenie wieku jedzącego do wieku idealnego dla jego gatunku.
+- **Doładowanie**: Jeśli nasiona jabłka zostaną zasadzone w ziemi, może z nich wyrosnąć drzewo, ale taki czyn z pewnością rozgniewałby bogów.
+
+#### Moneta pechowca
+
+- Za każdym razem, gdy rzut Kością Losu, miałby wpływ na jej właściciela, traktuj wynik rzutu jako 1.
+- Właściciel nie może pozbyć się monety w normalny sposób.
+- **Pozbycie się klątwy**: Inna osoba musi przyjąć monetę z własnej woli, będąc świadomą ciążącej na niej klątwy.
+
+#### Buty ślimaka
+
+- Blade buty ze śluzem pod podeszwami.
+- Buty zmniejszają zasięg ruchu do 6 m na turę.
+- **Pozbycie się klątwy**: Można je zdjąć dopiero po dniu całkowitego bezruchu.
+
+#### Kielich Najświętszej Krwi, 3 ładunki
+
+- Złoty kielich ozdobiony rubinami.
+- Jeśli kielich zostanie napełniony płynem, który nie jest krwią, płyn zamienia się w krew. Jeśli kielich zostanie napełniony wodą święconą, rozlatuje się na kawałki.
+- Jeśli do kielicha zostanie wlana krew, i zostanie zużyty ładunek, krew staje się ciemna i lepka. Jeśli wypije się cały kielich tej błogosławionej krwi, osoba pijąca odzyskuje wszystkie utracone punkty SIŁ i ochrony. Jeśli ktoś wypije pobłogosławioną krew z kielicha 3 razy, powoli zmienia się w wampiryczną istotę.
+- **Doładowanie**: Umyj kielich we krwi wampira.
+
+#### Maska Siedmiu Twarzy, 7 ładunków
+
+- Zwykła maska porcelanowa z dyskretnymi rysami twarzy.
+- Po zużyciu ładunku użytkownik może zmienić rysy maski, aby wyglądała jak dokładna kopia twarzy innej osoby.
+- **Doładowanie**: Maskę musi założyć doppelganger.
+
+#### Różdżka Czarownego Ludu, 3 ładunki
+
+- Laska wykonana z drzewa jabłoni, ozdobiona rzeźbionymi motywami uśmiechniętych twarzy otoczonych wiosennymi kwiatami.
+- Może rzucić zaklęcie Urok, Sen lub Chmura Mgły, zużywając ładunek.
+- **Doładowanie**: Dumnie dzierżąc różdżkę w dłoni, tańcz od zachodu do wschodu słońca w "pierścieniu wróżek" lub aż padniesz z wyczerpania.
+
+#### Peleryna Gwiazd, 6 ładunków
+
+- Długa peleryna wykonana z niebiesko-czarnego materiału bez wyraźnej faktury. Na całej pelerynie znajdują się jasne, migoczące gwiazdy.
+- Podczas noszenia płaszcza maksymalna OCHR użytkownika jest o 1 większa niż normalnie.
+- Po zużyciu 1 ładunku, użytkownik może wziąć gwiazdę z peleryny i użyć jej jako broni do rzucania, zadając k6 punktów obrażeń.
+- **Doładowanie**: Rozłóż pelerynę na ziemi w pogodną noc i poczekaj do rana.
+
+#### Elderstaff (k6), 3 ładunki
+
+- Zgrabna laska wykonana z drzewa bzu, posiada rzeźby przedstawiające kwiaty bzu i ptaki w locie.
+- Wydając jeden ładunek, możesz rzucić Leczenie ran, Tarczę lub Gąszcz.
+- **Doładowanie**: Przygotuj mieszankę z galaretki z grzybów usznych i oleju, a następnie natrzyj nią laskę 3 razy. Połóż laskę przy domostwie i poczekaj 3 dni. W tym czasie 3 razy pomóż matce w jej codziennych obowiązkach.
+
+#### Miotacz Gniewu Nieba (k10, nieporęczny), 9 ładunków
+
+- Zniszczony przez warunki atmosferyczne miecz pokryty starożytnymi runami.
+- Podczas burzy z piorunami wszystkie ataki wykonywane tym mieczem są _wzmocnione_.
+- Wydaj 1 ładunek, aby wywołać lokalną burzę z piorunami, w zależności od pogody może to potrwać kilka godzin.
+- Wydaj 2 ładunki, aby skierować błyskawicę z nieba przez miecz do wybranego miejsca. Zadaje to k4 obrażeń tobie (pancerz jest ignorowany) i k10 obrażeń w wybranym miejscu.
+- **Doładowanie**: Przejdź przez burzę z piorunami, trzymając miecz, aż uderzy w niego piorun.
+
+#### Ocet na kwaśne nastroje, 4 użycia
+
+- Butelka starego octu winnego, zaczarowana przez zrzędliwego czarnoksiężnika.
+- Kiedy przyrządza się jedzenie lub napoje z użyciem octu, wszyscy, którzy je spożywają, zostają dotknięci zaklęciem Nienawiść. Nienawidzą pierwszej osoby, którą zobaczą.
+
+#### Worek goblinów, 1 ładunek
+
+- Brązowy worek w fatalnym stanie, z małą dziurą w jednym z rogów.
+- Wypełnij worek liśćmi, łupinami orzechów, świerkowymi igłami itp. i zużyj ładunek. Kiedy zawartość w końcu wyleci przez otwór w dolnym rogu, będzie wyglądała jak błyszczące monety, w sumie 100 sztuk. Po upływie 1 godziny monety wracają do postaci leśnych szczątków.
+- **Doładowanie**: Goblin musi napluć do worka.
+
+#### Kostur Iskier (k6), 6 ładunków
+
+- Długa laska wykonana z drewna jodłowego. Ma rzeźbiony wierzchołek przypominający gwiazdę.
+- Wydaj 1 ładunek, aby rzucić Flarę lub Formę Dymu. Wydaj 2 ładunki, aby rzucić Ścianę Żywiołów (tylko ogień).
+**Doładowanie**: Smok zionący ogniem powinien dmuchnąć dymem na laskę.
+
+#### Fajka Iluzjonisty, 5 ładunków
+
+- Długa, zakrzywiona fajka do palenia, wycięta z korzeni drzewa gruszy.
+- Podczas palenia fajki można sprawić, że dym będzie zmieniał kolor i przybierał fantastyczne kształty (np. galopujące konie).
+- Podczas palenia fajki i po zużyciu 1 ładunku możesz dmuchnąć komuś dymem w oczy, dezorientując go dziwnymi kolorami i kształtami.
+- **Doładowanie**: Potrzyj fajkę o nos skrzata.
+
+#### Ręka Chwały
+
+- Piklowana, a następnie suszona na słońcu, odrąbana lewa ręka powieszonego mordercy z przymocowaną świeczką wykonaną z tłuszczu tego mordercy.
+- Każdy, kto zobaczy zapaloną Rękę Chwały, musi wykonać test WOL lub zostać sparaliżowany, dopóki świeca znajduje się w jego polu widzenia. Jeśli światło świecy padnie na zamknięte drzwi, zostaną one odblokowane. Świeca utrzymuje się przez kilka godzin.
+- **Doładowanie**: Tak długo, jak z tkanki tłuszczowej tego samego mordercy można zrobić nową świecę, ręka może być użyta ponownie.
+
+#### Papierowa pułapka na dłoń, 3 użycia
+
+- Kolorowa tuba wykonana z tkanego papieru, ozdobiona wizerunkami cyrkowców, funkcjonująca jako większa wersja klasycznej pułapki na palce.
+- Każdy, kto włoży ręce do środka tuby, zostaje zatrzymany na godzinę, ponieważ jego ręce zamieniają się w papier.
+- Urządzenie jest magicznie zaprojektowane tak, aby testowało cierpliwość, a nie brutalną siłę. Jeśli rura zostanie rozerwana lub przecięta, dłonie wewnątrz pozostaną w postaci papieru i nigdy nie powrócą do normalnego stanu.
+- Po 3 użyciach, urządzenie rozpada się na stertę papierowych pasków i konfetti.
+
+#### Kamień Czarownicy, 2 ładunki
+
+- Zielone skamieniałe kurze jajo, ciepłe w dotyku. Po zużyciu ładunku ciepło słabnie.
+- Wydając ładunek, możesz rzucić zaklęcie, nie zyskując zmęczenia.
+- **Doładowanie**: Zakop je w poświęconej ziemi, odczekaj 5 dni i wykop.
