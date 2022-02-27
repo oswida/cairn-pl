@@ -26,7 +26,7 @@ CSS_FILE=$SCRIPT_DIR/epub.css
 OUT_FILE=$SCRIPT_DIR/../../cairn-pl-companion.epub
 DOC_TITLE="Cairn PL: Materiały dodatkowe"
 DOC_SUBTITLE="Przygotowany $date, Oskar Świda, Oryginał: Yochai Gal, CC-BY-SA 4.0"
-COVER_IMG=$SCRIPT_DIR/cairn-companion.jpg
+COVER_IMG=$SCRIPT_DIR/covers/cairn-companion.jpg
 
 pandoc -c "$CSS_FILE" -M title="$DOC_TITLE" -M subtitle="$DOC_SUBTITLE" -f gfm --toc --epub-embed-font Alegreya-Regular.ttf --epub-embed-font Alegreya-Italic.ttf --epub-embed-font Alegreya-Bold.ttf --epub-embed-font Alegreya-SemiBold.ttf --epub-cover-image "$COVER_IMG" -s companion/*.md -o "$OUT_FILE"
 

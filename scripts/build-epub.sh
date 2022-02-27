@@ -24,7 +24,7 @@ OUT_FILE=$SCRIPT_DIR/cairn-pl.epub
 TOC_DEPTH=2
 
 # Cover image path
-COVER_IMG=$SCRIPT_DIR/cairn.jpg
+COVER_IMG=$SCRIPT_DIR/covers/cairn.jpg
 
 # Document title
 DOC_TITLE="Cairn PL"

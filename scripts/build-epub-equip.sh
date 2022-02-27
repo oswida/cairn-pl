@@ -24,7 +24,7 @@ OUT_FILE=$SCRIPT_DIR/more-equipment.epub
 TOC_DEPTH=3
 
 # Cover image path
-COVER_IMG=$SCRIPT_DIR/cairn.jpg
+COVER_IMG=$SCRIPT_DIR/covers/cairn.jpg
 
 # Document title
 DOC_TITLE="Cairn: More equipment"
