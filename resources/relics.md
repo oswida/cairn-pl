@@ -13,15 +13,15 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 #### Chwyt Gaei , 5 ładunków
 
 - Opaska z delikatnych, splecionych pnączy. Gdy noszący ją chwyci kogoś lub coś, pnącza wypuszczają twarde pędy, które zabezpieczają chwyt. Puszczają tylko wtedy, gdy zostaną podpalone lub na życzenie noszącego opaskę.
-- **Doładowanie**: Zasadź uschniętą bransoletkę w bogatej leśnej ziemi i podlej obficie krwią fae. W ciągu jednej nocy zakwitnie nowa bransoletka.
+- **Doładowanie**: Zasadź uschniętą bransoletkę w bogatej leśnej ziemi i podlej obficie krwią Fae. W ciągu jednej nocy zakwitnie nowa bransoletka.
 
 #### Kruczy porter, 1 użycie
 
-- Duża brązowa butelka pełna ciemnego, gorzkiego piwa. Na etykiecie widnieje kruk z szerokim dziobem, a z wylatują mu poszarpane linie imitujące dźwięk. Podczas picia piwa, pijący będzie głośno i nieostrożnie przechwalał się swoimi najgłębszymi sekretami, niezależnie od tego, czy są one warte przechwałek, czy też nie.
+- Duża brązowa butelka pełna ciemnego, gorzkiego piwa. Na etykiecie widnieje kruk o szerokim dziobie, z którego wylatują poszarpane linie imitujące dźwięk. Podczas picia piwa, pijący będzie głośno i nieostrożnie przechwalał się swoimi najgłębszymi sekretami, niezależnie od tego, czy są one warte przechwałek, czy też nie.
 
 #### Pas Pretendenta, 3 ładunki
 
-- Szeroki pas z pogniecionej czarnej skóry, duża mosiężna klamra w kształcie zaciśniętej pięści. Ataki bez broni mogą być wykonywane jak wzmocnione (k12 obrażeń).
+- Szeroki pas z pogniecionej czarnej skóry, duża mosiężna klamra w kształcie zaciśniętej pięści. Ataki bez broni mogą być wykonywane jako wzmocnione (k12 obrażeń).
 - **Doładowanie**: Wygraj walkę na pięści ze zdeterminowanym przeciwnikiem, mając na sobie pas, bez użycia jego mocy.
 
 #### Wykręcone skrzydła, 2 ładunki
@@ -34,9 +34,9 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 - Czarne pióro ptaka, ze złotymi plamami. Jeśli spisać umowę tym piórem, wszyscy, którzy się pod nią podpisują, są magicznie zmuszeni do przestrzegania jej postanowień, z wyjątkiem tego, który ją napisał.
 - **Doładowanie**: Powstrzymaj się od czytania lub pisania przez cały cykl księżycowy, trzymając pióro przy sobie.
 
-#### Palce ghula, 3 użycia
+#### Palce Ghula, 3 użycia
 
-- Wiązka trzech odciętych ludzkich palców, szarych i częściowo zmumifikowanych. Palcami można pstryknąć, uwalniając przy tym tuman kurzu. Każdy, kto nawdycha się pyłu, zostaje tymczasowo sparaliżowany, otrzymuje k8 obrażeń ZRE oraz trwałą odporność na efektu czarów snu i uroku.
+- Wiązka trzech odciętych ludzkich palców, szarych i częściowo zmumifikowanych. Palcami można pstryknąć, uwalniając przy tym tuman kurzu. Każdy, kto nawdycha się pyłu, zostaje tymczasowo sparaliżowany, otrzymuje k8 obrażeń ZRE oraz trwałą odporność na efekt czarów Snu i Uroku.
 
 #### Runa Thud
 
@@ -46,7 +46,7 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 #### Wibrozbroja, 1 użycie
 
 - Pełna zbroja wykonana z długich, poziomych metalowych prętów (2 pancerza, _nieporęczna_).
-- Poruszanie się w zbroi powoduje, że pręty uderzają o siebie i wibrują, tworząc przyjemne, dźwięczne i zdecydowanie słyszalne dźwięki muzyczne. Kiedy SIŁ noszącego spadnie do 0, wszystkie pręty aktywują się, wibrując i dzwoniąc. Śmierć noszącego zostaje opóźniona, jego ciało jest utrzymywane w całości i zasilane przez wibracje, co pozwala mu stać na nogach i funkcjonować tak, jakby miał 18 SIŁ. Trwa to do momentu, gdy dźwięk zbroi osiągnie ogłuszający poziom i pręty pękną (około minuty). Następnie postać umiera normalnie.
+- Poruszanie się w zbroi powoduje, że pręty uderzają o siebie i wibrują, tworząc przyjemne, dźwięczne i zdecydowanie słyszalne dźwięki muzyczne. Kiedy SIŁ noszącego spadnie do zera, wszystkie pręty aktywują się, wibrując i dzwoniąc. Śmierć noszącego zostaje opóźniona, jego ciało jest utrzymywane w całości i zasilane przez wibracje, co pozwala mu stać na nogach i funkcjonować tak, jakby miał 18 SIŁ. Trwa to do momentu, gdy dźwięk zbroi osiągnie ogłuszający poziom i pręty pękną (około minuty). Następnie postać umiera normalnie.
 
 #### Mapa mistrzów, 2 ładunki
 
@@ -79,7 +79,7 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 
 #### Granulki wędrowca, 3 użycia
 
-- Woreczek z wężowej skóry z trzema dużymi ptasimi granulkami w środku. Pachną one tytoniem. Kiedy granulat zostanie rozerwany na pół i zjedzony przez dwie osoby, uczą się one wspólnego, sekretnego języka, który rozumie tylko ta para.
+- Woreczek z wężowej skóry z trzema dużymi ptasimi granulkami w środku. Pachną tytoniem. Kiedy granulat zostanie rozerwany na pół i zjedzony przez dwie osoby, uczą się one wspólnego, sekretnego języka, który rozumie tylko ta para.
 - Język jest specyficzny dla tej konkretnej pary. Można się nim porozumiewać za pomocą dźwięku lub gestów, ale nie ma wersji pisanej. Język ten nie może być rozszyfrowany przez nikogo innego za pomocą zwykłych lub magicznych środków i nie może być nauczany przez nikogo poza oryginalną parą.
 
 #### Brzozowa barka, 1 ładunek
@@ -89,17 +89,17 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 
 #### Gałązka mrozu, 4 ładunki
 
-- Mała gałązka z ciemnolistnego krzewu, obłożona czterema lodowo-niebieskimi jagodami. Rdzeń gałązki jest jeszcze zielony i żywy. Zerwanie jagody i zmiażdżenie jej powoduje podmuch chłodu, który powoduje odmrożenie palców. Może się przydać do ugaszenia ognia, zasłonięcia komuś wzroku szronem lub chwilowego zamrożenia kończyny.
+- Mała gałązka z ciemnolistnego krzewu, obłożona czterema niebieskimi jagodami. Rdzeń gałązki jest jeszcze zielony i żywy. Zerwanie jagody i zmiażdżenie jej wyzwala podmuch chłodu, który powoduje odmrożenie palców. Może się przydać do ugaszenia ognia, zasłonięcia komuś widoku szronem lub chwilowego zamrożenia kończyny.
 - **Doładowanie**: Zasadź koniec gałązki w ciele świeżo zabitego zająca, a następnie pozwól jej kiełkować na zewnątrz przez trzy noce, bez przeszkód, na siarczystym mrozie. Trzeciego ranka znajdziesz zająca całego i zdrowego, skubiącego liście i k6 świeżych _Gałązek mrozu_.
 
 #### Krzywy Róg, 3 ładunki
 
-- Duża butla, wykonana z polerowanego, głęboko bruzdowanego drewna. Zakrętka jest przymocowana za pomocą srebrnego pierścienia i zamknięta szpilką. Za cenę jednego ładunku, przekręć zawleczkę; jakikolwiek płyn jest w środku, zostaje zastąpiony połową manierki wody. Przekręć go z powrotem, a oryginalny płyn pojawi się ponownie. Przydatny do noszenia dodatkowej wody podczas podróży, ukrywania najlepszej brandy przed innymi poszukiwaczami przygód lub do przekonania rywala, że w środku nie ma trucizny.
+- Duża butla, wykonana z polerowanego drewna. Zakrętka jest przymocowana za pomocą srebrnego pierścienia i zamknięta szpilką. Za cenę jednego ładunku, przekręć zawleczkę; jakikolwiek płyn jest w środku, zostaje zastąpiony połową manierki wody. Przekręć go z powrotem, a oryginalny płyn pojawi się ponownie. Przydatny do noszenia dodatkowej wody podczas podróży, ukrywania najlepszej brandy przed innymi poszukiwaczami przygód lub do przekonania rywala, że w środku nie ma trucizny.
 - **Doładowanie**: znajdź nietknięte źródło, wykop świeżą studnie lub odkryj jakiekolwiek źródło wody, która nigdy wcześniej nie przeszła przez usta śmiertelnika. Napełnij manierkę po brzegi.
 
 #### Kości rozkazu, 3 ładunki
 
-- Para poszarzałych żeberek jelenia, przyciętych taj, aby można było nimi wybijać rytm. Jedno z nich ma wyrytą na powierzchni surową czaszkę, drugie szkieletową rękę. Kiedy się nimi zagra, można ich użyć do kontrolowania kości innego stworzenia. Jeśli ofiara nadal żyje, efekt jest krótkotrwały, jedna chwila nagłej kontroli nad ciałem, która może wystarczyć tylko do udaremnienia innej akcji fizycznej. Jeśli ofiara jest martwa lub nieumarła, efekt trwa tak długo, jak długo posiadacz może kontynuować grę.
+- Para poszarzałych żeberek jelenia, przyciętych tak, aby można było nimi wybijać rytm. Jedno z nich ma wyrytą na powierzchni surową czaszkę, drugie szkieletową rękę. Kiedy się nimi zagra, można ich użyć do kontrolowania kości innego stworzenia. Jeśli ofiara nadal żyje, efekt jest krótkotrwały, jedna chwila nagłej kontroli nad ciałem, która może wystarczyć tylko do udaremnienia innej akcji fizycznej. Jeśli ofiara jest martwa lub nieumarła, efekt trwa tak długo, jak długo posiadacz może grać.
 - **Doładowanie**: Stań na skraju ciemnego lasu i rzuć jedną z kości w gęstwinę tak daleko, jak tylko zdołasz. Trzymaj oczy zamknięte, gdy będziesz wchodził do lasu, by odzyskać kość. Nie podglądaj i nie reaguj na szydercze szepty zmarłych, którzy cię pozdrawiają.
 
 #### Pieczęć Wielkiego Goba, 1 ładunek
@@ -143,12 +143,12 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 #### Lina mocująca, 5 ładunków
 
 - Koniec tej 15-metrowej liny przyczepia się do każdej powierzchni. Pociągnij dwa razy, aby ją uwolnić.
-- **Doładowanie**: Odciąć 1,5 metra liny.
+- **Doładowanie**: Odetnij 1,5 metra liny.
 
 #### Świeca Ciemności, 7 ładunków
 
 - Świeca, która emanuje czystą ciemnością zamiast światła w promieniu 3 metrów.
-- Brak **Doładowania**.
+- **Doładowanie**: brak.
 
 #### Tarcza Magnetyzmu, 5 ładunków
 
@@ -161,7 +161,7 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 - **Doładowanie**: Spędź 1 godzinę na kopaniu ziemi w deszczu.
 
 ### Serwer NSR Discord
-#### Ostatnie tchnienie, krótki miecz, k8 obrażeń, 1 ładunek
+#### Ostatnie tchnienie, krótki miecz (k8), 1 ładunek
 
 - Wetknięcie **Ostatniego tchnienia** w ziemię tworzy [_Więzienie astralne_](./../docs/cairn-srd-pl.md#setka-zaklęć) wokół noszącego. Używający jest niewrażliwy na krzywdę, ale nie może się poruszać, gdy znajduje się w więzieniu.
 - **Doładowanie**: Nakarm go duszami, których potrzebuje do zbudowania więzienia.
@@ -184,13 +184,13 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 #### Naszyjnik ognistych kul, 1 ładunek
 
 - Naszyjnik ze zwisającym, małym rubinem. Można go rzucić, uzyskując wybuch płomieni w obszarze wokół miejsca, w którym wylądował, zadając wszystkim trafionym obrażenia k8+k8.
-- **Doładowanie**: Zostaw to w płonącym ognisku, aż płomienie całkiem wygasną.
+- **Doładowanie**: Zostaw naszyjnik w płonącym ognisku, aż płomienie całkiem wygasną.
 
 #### Morderczy sługus, sztylet (k6), 1 ładunek
 
 - Raniąc śmiertelnie ofiary, więzi je wewnątrz ostrza.
 - Naciśnięcie czaszki myszy na rękojeści uwalnia dusze, aby wykonały polecenie posiadacza, zanim odejdą na zawsze.
-- **Doładowanie**: Czyść go aktywnie w wodzie z lodem przez pół dnia.
+- **Doładowanie**: Czyść go w wodzie z lodem przez pół dnia.
 
 #### Laska Władczej Mocy, 1 ładunek
 
@@ -210,14 +210,14 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 
 - Wyblakły czarny płaszcz w pomarańczowo-białe geometryczne wzory.
 - Szybki bieg lub lot na dystansie 9 metrów.
-- **Doładowanie**: Skocz z wysokości 15 metrów lub większej, albo spędź godzinę na przygodzie wyprawie  w miejsca, gdzie wieje wściekły wiatr.
+- **Doładowanie**: Skocz z wysokości 15 metrów lub większej, albo spędź godzinę na wyprawie w miejsca, gdzie wieje wściekły wiatr.
 
 #### Lustereczko, 1 ładunek
 
-- Duże okrągłe lustro wielkości koła od wozu. Oprawione w wirującą secesyjną ramę z zielono-szkliwionej gliny.
-- Jeśli ustawisz się między Lustereczkiem a zwykłym lustrem i obserwujesz swoje nieskończone odbicie między nimi, Lustereczko zapamięta zwykłe lustro.
+- Duże okrągłe lustro wielkości koła od wozu. Oprawione w secesyjną ramę z zielono-szkliwionej gliny.
+- Jeśli ustawisz się między Lustereczkiem a zwykłym lustrem i obserwujesz swoje nieskończone odbicie między nimi, Lustereczko zapamięta to zwykłe lustro.
 - Możesz zawsze zajrzeć do Lustereczka, aby zobaczyć aktualne odbicie w dowolnym zwykłym lustrze, które zostało zapamiętane.
-- Za jednego ładunek możesz sięgnąć przez Lustereczko i  dalej z dowolnego zwykłego zapamiętanego lustra,na zewnątrz; tak blisko jak długość kończyny lub tak daleko, jak długość całego twojego ciała. Kiedy wycofujesz kończynę lub wyjdziesz z innego lustra, Lustereczko pęka w środku, a słaby powidok Twojej osoby jest wyryty we wszystkich zapamiętanych lustrach. Następnie Lustereczko zapomina wszystkie zwykłe lustra.
+- Za jeden ładunek możesz sięgnąć przez Lustereczko i dalej z dowolnego zwykłego zapamiętanego lustra na zewnątrz; tak blisko jak długość kończyny lub tak daleko, jak długość całego twojego ciała. Kiedy wycofujesz kończynę lub wyjdziesz z innego lustra, Lustereczko pęka w środku, a słaby powidok Twojej osoby jest wyryty we wszystkich zapamiętanych lustrach. Następnie Lustereczko zapomina wszystkie zwykłe lustra.
 - **Doładowanie**: Zlokalizuj każde zapamiętane lustro i dokładnie zdrap swoją twarz (ten powidok), aż stanie się nierozpoznawalna. Zaśnij z Lustereczkiem pod głową i przetrwaj we śnie atak twoich odbić. Gdy się obudzisz, odkryjesz, że Lustereczko jest całe i sprawne.
 
 #### Różdżka radiestezyjna, 1 ładunek
@@ -239,8 +239,8 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 
 #### Różdżka Tysiąca Ścieżek, 1 ładunek
 
-- Laska z dużą gałką oczną na górze
-- Możesz skupić się na oku, aby zobaczyć wynik jednej akcji w najbliższej przyszłości (w trakcie późniejszej gracz zdecyduje się potwierdzić ten wynik lub nie), po wykorzystaniu oko się zamyka.
+- Laska z dużą gałką oczną na górze.
+- Możesz skupić się na oku, aby zobaczyć wynik jednej akcji w najbliższej przyszłości (w trakcie późniejszej gry, gracz może zdecydować czy potwierdzić ten wynik lub nie), po wykorzystaniu oko się zamyka.
 - **Doładowanie**: Poruszaj się wyłącznie w tym samym kierunku co wiatr przez jeden dzień.
 
 #### Ostrze potężnych muskułów, 3 ładunki
@@ -252,15 +252,15 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 #### Ptasia bomba, 1 ładunek
 
 - Kruche jajko wydzielające niesamowity smród, który powoduje, że wszyscy wokół niego wymiotują. Jak nosić taki przedmiot? Co się stanie, jeśli jajo pęknie w plecaku podczas walki?
-- **Doładowanie**: Zakopcie skorupkę w grobie. Następnego ranka będą tam jeszcze trzy jajka.
+- **Doładowanie**: Zakop skorupkę w grobie. Następnego ranka będą tam jeszcze trzy jajka.
 
 #### Spróchniały drewniany miecz
 
 - Wygląda jak prawdziwy miecz, kiedy się nim włada.
-- Zadaje k4 obrażeń, ale ofiary wyglądają przez chwilę na brutalnie ranne, nawet jeśli tak naprawdę wcale nie zostały trafione.
+- Zadaje k4 obrażeń, ale ofiary wyglądają przez chwilę na brutalnie zranione, nawet jeśli tak naprawdę wcale nie zostały trafione.
 - Pęknie przy wyrzuceniu 1.
 
-#### Twinvine
+#### Bliźniacza winorośl
 
 - Lepka, zielona lina o długości 5 metrów.
 - Jeśli owiniesz linę raz wokół przedmiotu i zasadzisz jej koniec w ziemi, to w ciągu nocy wyrośnie replika owiniętego obiektu.
@@ -268,14 +268,14 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 
 #### Mapa drapieżcy, 1 ładunek
 
-- Pusty skórzany pergamin. Rozlej na niego krew, a zostanie wchłonięta.
+- Pusty skórzany pergamin. Jeśli rozlejesz na niego krew, zostanie ona wchłonięta.
 - Rozwiń później mapę, aby dowiedzieć się, gdzie jest pozostała część rozlanej krwi.
 - Efekt znika, gdy mapa znajdzie się kilka stóp od celu.
 - **Doładowanie**: Pergamin musi zostać w całości połknięty, a następnie wydalony przez dowolne stworzenie, które poluje wabione przez zapach krwi. Wilk, tygrys, rekin, mucha krwiopijca, itd.
 
 #### Uczciwe robaczki douszne
 
-- Wijący się robak wielkości dziecięcego palca u nogi. Okropnie śmierdzi. Wrzuć człowiekowi do ucha, a wyjawi prawdę, wbrew sobie.
+- Wijący się robak wielkości dziecięcego palca u nogi. Okropnie śmierdzi. Jeśli wsadzisz go człowiekowi do ucha, osoba ta wyjawi wbrew sobie prawdę na wybrany temat.
 - **Doładowanie**: Przeszukaj las w poszukiwaniu największej kupy zbutwiałych liści, jaką uda Ci się znaleźć. Następnie wykrzycz w powietrze swoje najbardziej osobiste sekrety, myśli i pragnienia. Potem zjedz tyle liści i resztek, ile zdołasz. Następnego dnia obudzisz się i znajdziesz 1k4-1 larw, które wyrosną z twoich uszu.
 
 #### Święty Mściciel (miecz, k8)
@@ -402,16 +402,16 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 
 #### Miotacz Gniewu Nieba (k10, nieporęczny), 9 ładunków
 
-- Zniszczony przez warunki atmosferyczne miecz pokryty starożytnymi runami.
+- Zniszczony przez warunki atmosferyczne miecz, pokryty starożytnymi runami.
 - Podczas burzy z piorunami wszystkie ataki wykonywane tym mieczem są _wzmocnione_.
-- Wydaj 1 ładunek, aby wywołać lokalną burzę z piorunami, w zależności od pogody może to potrwać kilka godzin.
+- Wydaj 1 ładunek, aby wywołać lokalną burzę z piorunami, w zależności od pogody może ona potrwać kilka godzin.
 - Wydaj 2 ładunki, aby skierować błyskawicę z nieba przez miecz do wybranego miejsca. Zadaje to k4 obrażeń tobie (pancerz jest ignorowany) i k10 obrażeń w wybranym miejscu.
-- **Doładowanie**: Przejdź przez burzę z piorunami, trzymając miecz, aż uderzy w niego piorun.
+- **Doładowanie**: W trakcie burzy z piorunami, trzymaj miecz wysoko nad głową, aż uderzy w niego piorun.
 
 #### Ocet na kwaśne nastroje, 4 użycia
 
 - Butelka starego octu winnego, zaczarowana przez zrzędliwego czarnoksiężnika.
-- Kiedy przyrządza się jedzenie lub napoje z użyciem octu, wszyscy, którzy je spożywają, zostają dotknięci zaklęciem Nienawiść. Nienawidzą pierwszej osoby, którą zobaczą.
+- Kiedy przyrządza się jedzenie lub napoje z użyciem tego octu, wszyscy, którzy je spożywają, zostają dotknięci zaklęciem Nienawiść. Nienawidzą pierwszej osoby, którą zobaczą.
 
 #### Worek goblinów, 1 ładunek
 
@@ -434,15 +434,15 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 
 #### Ręka Chwały
 
-- Piklowana, a następnie suszona na słońcu, odrąbana lewa ręka powieszonego mordercy z przymocowaną świeczką wykonaną z tłuszczu tego mordercy.
-- Każdy, kto zobaczy zapaloną Rękę Chwały, musi wykonać test WOL lub zostać sparaliżowany, dopóki świeca znajduje się w jego polu widzenia. Jeśli światło świecy padnie na zamknięte drzwi, zostaną one odblokowane. Świeca utrzymuje się przez kilka godzin.
+- Piklowana, a następnie suszona na słońcu, odrąbana lewa ręka powieszonego mordercy z przymocowaną świeczką wykonaną z tłuszczu tego złoczyńcy.
+- Każdy, kto zobaczy zapaloną Rękę Chwały, musi wykonać test WOL lub zostanie sparaliżowany, dopóki świeca znajduje się w jego polu widzenia. Jeśli światło świecy padnie na zamknięte drzwi, zostaną one odblokowane. Świeca pali się przez kilka godzin.
 - **Doładowanie**: Tak długo, jak z tkanki tłuszczowej tego samego mordercy można zrobić nową świecę, ręka może być użyta ponownie.
 
 #### Papierowa pułapka na dłoń, 3 użycia
 
 - Kolorowa tuba wykonana z tkanego papieru, ozdobiona wizerunkami cyrkowców, funkcjonująca jako większa wersja klasycznej pułapki na palce.
-- Każdy, kto włoży ręce do środka tuby, zostaje zatrzymany na godzinę, ponieważ jego ręce zamieniają się w papier.
-- Urządzenie jest magicznie zaprojektowane tak, aby testowało cierpliwość, a nie brutalną siłę. Jeśli rura zostanie rozerwana lub przecięta, dłonie wewnątrz pozostaną w postaci papieru i nigdy nie powrócą do normalnego stanu.
+- Każdy, kto włoży ręce do środka tuby, zostaje unieruchomiony na godzinę, ponieważ jego ręce zamieniają się w papier.
+- Urządzenie jest magicznie zaprojektowane tak, aby testowało cierpliwość, a nie brutalną siłę. Jeśli rura zostanie rozerwana lub przecięta, dłonie wewnątrz pozostaną w postaci papierowej i nigdy nie powrócą do normalnego stanu.
 - Po 3 użyciach, urządzenie rozpada się na stertę papierowych pasków i konfetti.
 
 #### Kamień Czarownicy, 2 ładunki

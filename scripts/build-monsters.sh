@@ -16,9 +16,9 @@ do
 done
 
 # PDF
-pandoc -V geometry:margin=2.5cm --variable papersize=A4 -V title=" " --variable subtitle="Przygotowany " --variable subtitle="$date" --variable subtitle="\linebreak przez Oskara Świda| Oryginał: Yochai Gal \linebreak CC-BY-SA 4.0" -V fontfamily:Alegreya -H monsters-cover.tex -f gfm --toc -s  monsters/*.md -o "$SCRIPT_DIR/../../cairn-pl-monsters0.pdf"
-pdftk "$SCRIPT_DIR/../../cairn-pl-monsters0.pdf" cat 2-end output "$SCRIPT_DIR/../../cairn-pl-monsters.pdf"
-rm "$SCRIPT_DIR/../../cairn-pl-monsters0.pdf"
+pandoc -V geometry:margin=2.5cm --variable papersize=A4 -V title=" " --variable subtitle="Przygotowany " --variable subtitle="$date" --variable subtitle="\linebreak przez Oskara Świda| Oryginał: Yochai Gal \linebreak CC-BY-SA 4.0" -V fontfamily:Alegreya -H monsters-cover.tex -f gfm --toc -s  monsters/*.md -o "$SCRIPT_DIR/../../cairn-pl-monsters.pdf"
+# pdftk "$SCRIPT_DIR/../../cairn-pl-monsters0.pdf" cat 2-end output "$SCRIPT_DIR/../../cairn-pl-monsters.pdf"
+# rm "$SCRIPT_DIR/../../cairn-pl-monsters0.pdf"
 
 # EPUB
 CSS_FILE=$SCRIPT_DIR/epub.css
