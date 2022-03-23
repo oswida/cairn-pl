@@ -14,7 +14,7 @@ Zapoznaj się z dokumentami w [repozytorium](https://github.com/yochaigal/cairn)
 
 Autorem gry jest: [Yochai Gal](https://newschoolrevolution.com/).
 
-Polskie tłumaczenie: [Oskar Świda](https://twitter.com/OskarSwida).
+Tłumaczenie polskie: [Oskar Świda](https://twitter.com/OskarSwida).
 
 **Cairn** to gra przygodowa dla jednego moderatora (**Strażnika**) i co najmniej jednego gracza.
 Gracze wcielają się w rolę zahartowanych poszukiwaczy przygód eksplorujących mroczny i tajemniczy Las pełen dziwnych postaci, ukrytych skarbów i niewypowiedzianych potworności.
@@ -523,6 +523,7 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 ## Opcjonalne pakiety wyposażenia
 
 #### Kleryk
+
 |                                              |
 | -------------------------------------------- |
 | Młot bojowy (k10, nieporęczny)               |
@@ -531,6 +532,7 @@ Jeśli chciałbyś/chciałabyś posłużyć się czymś podobnym do tradycyjnych
 | Zakrzywione ostrze (k6)                      |
 | Święty symbol (_Krąg ochronny_ raz dziennie) |
 | Płaszcz Zakonu                               |
+
 #### Różdżkarz
 
 |                                                           |
