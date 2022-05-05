@@ -450,3 +450,97 @@ Poniżej znajduje się lista artefaktów z całej sieci, skopiowana za pozwoleni
 - Zielone skamieniałe kurze jajo, ciepłe w dotyku. Po zużyciu ładunku ciepło słabnie.
 - Wydając ładunek, możesz rzucić zaklęcie, nie zyskując zmęczenia.
 - **Doładowanie**: Zakop je w poświęconej ziemi, odczekaj 5 dni i wykop.
+
+#### Lira morska, 3 ładunki
+
+- Lira wykonana z czerwonego koralu, ze strunami z włosów syreny.
+- Grając na lirze i wydając ładunek, użytkownik może przyciągnąć do siebie ławicę ryb.
+- Grając na lirze i zużywając ładunek, użytkownik może tworzyć fale o coraz większej intensywności, dopóki gra.
+- **Doładowanie**: Syrena musi pocałować lirę.
+
+#### Uszy złodzieja, 2 ładunki
+
+- Te duże uszy z brązu są połączone ze sobą miedzianą opaską i noszone na głowie.  - Nosząc Uszy, posiadacz może podsłuchiwać, co dzieje się w innym pomieszczeniu, kierując głowę w stronę drzwi lub okna.
+- **Doładowanie**: Przykryj Uszy w całości złotymi monetami i zakop je na dzień i noc.
+
+#### Inwestor ran (d6), 10 ładunków
+
+- Ten cienki jak brzytwa krótki miecz rani przy pierwszym cięciu, a potem jeszcze raz, gdy ofiara się poruszy (k4).
+- **Doładowanie**: Trwale zakończ ważny związek.
+
+#### Zbroja termiczna
+
+- Ciepła w dotyku zbroja łuskowa. Zawsze utrzymuje komfort cieplny użytkownika, niezależnie od temperatury otoczenia.
+- Wszystkie obrażenia od ognia i ciepła zadawane w pobliżu są pochłaniane przez noszącego i traktowane jako wzmocnione.
+
+#### Pożeracz zaklęć
+
+- Mała, ozdobna skrzynka z brązu, pożera wszystkie zaklęcia wypowiedziane w pobliżu przez 1k4 tur.
+- **Doładowanie**: Ten, kto otworzył skrzynię, musi milczeć przez tyle dni, ile zaklęć pożarła skrzynia.
+
+#### Moneta podrzucającego
+
+- Zadaj pytanie, na które można odpowiedzieć "tak" lub "nie" i rzuć monetą. Gdy moneta jest w powietrzu, ogłaszasz, która strona jest "tak", a która "nie". Moneta odpowiada zgodnie z prawdą.
+- **Doładowanie**: Podejmując ważną decyzję, rzuć monetą. Gdy moneta jest w powietrzu, ogłaszasz, która strona jest "tak", a która "nie". Działaj zgodnie z odpowiedzią monety. Jeśli nie podejmiesz odpowiednich działań, Twoje przedsięwzięcie zostanie przeklęte, a moneta na zawsze utraci swoje moce.
+
+#### Misa do serwowania
+
+- Jeśli podasz komuś w domu, w obozie lub w gościnie jedzenie w tej prostej, drewnianej misce, osoba, która je przyjmie, nie będzie mogła cię skrzywdzić przez tydzień.
+- **Doładowanie**: Napełnij tę miskę jedzeniem i zanoś je potrzebującym, codziennie przez siedem dni. Jeśli będziesz skąpy, następnym razem, gdy będziesz jadł z tej miski, zakrztusisz się. Tylko ktoś inny może cię uratować.
+
+#### Czarny Piorun, 3 ładunki
+
+- Wystrzelony z kuszy bełt zawsze (a przynajmniej 3 razy) trafia celnie. Przy zadawaniu obrażeń zignoruj pancerz.
+- **Doładowanie**: Zestrzel jabłko z głowy członka grupy.
+
+#### Święty z katakumb
+
+- Wypowiedz modlitwę powołując się na imię świętego, aby ożywić szkielet ubrany w złotą zbroję ozdobioną klejnotami. Będzie on walczył u twojego boku, dopóki on lub twój przeciwnik nie zostaną zniszczeni.
+- **Doładowanie**: Musisz umieścić świętego z powrotem w jego katakumbie, dodać cenny klejnot do jego zbroi i pozostawić go w spokoju na 12 tygodni. Jeśli tego nie zrobisz, narazisz się na gniew kościoła.
+
+#### Zwój gigantów, księga zaklęć, nieporęczna
+
+Ten ozdobny, wysuwany zwój, wykonany z kości wieloryba, ma srebrną folię, na której zapisane są zaklęcia, jest gigantycznych rozmiarów i w rękach człowieka wymaga dwóch rąk do trzymania. Gdy ktoś ma zwój przy sobie, zaczyna odczuwać ciągły chłód. Po kilku godzinach jego dotyk staje się lodowaty, a do niego i jego rzeczy przywierają szron i śnieg.
+
+- Tchnienie zimy: stożek mrozu o zasięgu 18 metrów zadający k8 obrażeń wszystkim, którzy się w nim znajdą, pozostawia ziemię śliską od płatów lodu.
+- Pełzająca mgła: przywołuje nienaturalną, zimną mgłę, która powoli wypełnia duży obszar.
+- Oko Arghamok: Jedna docelowa istota musi zdać test WOL lub zacznie mieć halucynacje dotyczące okropności ze swojej przeszłości. Klątwa ta trwa, dopóki cel nie odpocznie przez całą noc.
+
+#### Gromowładny
+
+- Bambusowa laska, w której uwięziony został żywy szerszeń. Kiedy uderzysz laską o ziemię, gniewny duch szerszenia zostaje obudzony i natychmiast przywołuje burzę z piorunami. Każda żywa istota, która się nie schroni, ma szansę na uderzenie pioruna (1 na 4), co zadaje 1k12 obrażeń istotom organicznym.
+- **Doładowanie**: włóż do laski kolejnego żywego szerszenia.
+
+#### Czapka pamięci, 3 ładunki
+
+- Duży kapelusz grzyba, którym można rzucić i który wraca do rzucającego po spiralnym torze o promieniu równym SIŁ rzucającego x 10. W trakcie lotu rozrzuca na ziemię zarodniki, które emitują fosforyzującą poświatę  w każdym miejscu, po którym chodziła istota od ostatniego zachodu słońca.
+- **Doładowanie**: umieścić na noc w ciemnym pojemniku z glebą wzbogaconą nawozem centaura.
+
+#### Flitterflare, 3 ładunki
+
+- Mały gliniany amulet w kształcie muchy, z przegródką wypełnioną nektarem. Po rzuceniu unosi się w miejscu i przyciąga wszystkie robaczki świętojańskie w promieniu 700 m, tworząc oślepiające światło (i zaciemniając inne części lasu). Flitterflare opada, a ogniki rozpraszają się po 1 minucie.
+- **Doładowanie** przez napełnienie nektarem.
+
+#### Ptasia rzeżucha, 3 użycia
+
+- Pojemnik z tykwy wypełniony suszonym zielem ptasiej rzeżuchy, rzadkim ziołem, któremu żaden ptak nie może się oprzeć. Gdziekolwiek rozsypie się to ziele, w ciągu 30 sekund wszystkie ptaki w okolicy zlatują się do tego miejsca na 5 minut, a każdy, kto znajdzie się w środku, otrzymuje 1k4 obrażeń od dziobania/drapania na rundę, dopóki ptaki nie zjedzą całego ziela lub ofiara nie wskoczy do wody, nie podpali się itp. Ptaki utrzymują jednak dystans 1,5 metra od tykwy i jej nosiciela.
+- **Doładowanie**: Rzeżucha rośnie tylko na zboczach gór pod szczytami, gdzie gnieżdżą się drapieżne ptaki olbrzymy.
+
+#### Ruyi strażnika,  3 ładunki
+
+- Berło ruyi wykonane z drewna brzoskwiniowego, ozdobione nimfami drzew i talizmanami. Kiedy posiadacz tego ruyi dotknie drzewa i wskaże miejsce w promieniu 6 m od niego, drzewo wykorzeni się, przejdzie i zapuści korzenie we wskazanym miejscu. Ruyi jest ładowany przez nimfy drzewne po tym, jak posiadacz wykona dla nich jakąś (rzekomo) drobną pracę.
+
+#### Pisarski kamień szeptów
+
+Kamień pisarski ze świętej groty, w której mieszkał leśny pustelnik. Jeśli atrament roztarty na tym kamieniu zostanie użyty do napisania imienia celu na liściu, wszystkie liście w lesie będą szeptać to imię. Jeśli cel znajdzie się w zasięgu słuchu, to przez 1k8 rund będzie majaczył i będzie musiał zdać test WOL lub spanikować i uciekać przez 1k6 rund.
+
+- Tuszu nie można używać do wielokrotnego pisania tego samego nazwiska. Tusz musi być używany na świeżo, w przeciwnym razie stanie się zwykłym tuszem.
+- Rozcieranie atramentu i napisanie imienia zajmuje 3 tury. Atrament wcierany w ten kamień jest skuteczny tylko wtedy, gdy używa się wody źródlanej z tej samej groty, z której pochodzi kamień.
+
+#### Garnek odwracający
+
+- Prosty gliniany dzbanek z wyrytym żurawiem z jednej strony i stonogą z drugiej. Jeśli w tym czajniczku zaparzy się trującą roślinę, otrzymana herbata jest na nią antidotum. Podobnie dobroczynne zioła zaparzone w tym czajniczku wytwarzają truciznę.
+
+#### Zwój z tygrysem i jeleniem
+
+- Obraz na zwoju przedstawiający tygrysa polującego na trzy jelenie w zalesionym górskim krajobrazie. Jeśli posiadacz otworzy ten zwój w obliczu wroga, pochłonie on jednego wroga wybranego przez posiadacza, który pojawi się na obrazie. W zamian jedna z istot na obrazie przedostaje się do wymiaru bohatera. **Rzuć 1k4**: 1-3 pojawia się jeden z jeleni i ucieka. Przy 4 pojawia się tygrys i natychmiast atakuje posiadacza zwoju.
