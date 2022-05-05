@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Cairn po polsku
+title: Cairn
 nav_order: 1
 permalink: /
 ---
 
-# Cairn po polsku
+# Cairn
 
 Repozytorium z polskimi tłumaczeniami materiałów do [Cairn](https://cairnrpg.com/).
 
