@@ -1,0 +1,14 @@
+\usepackage{titling}
+\usepackage{pdfpages}
+\pretitle{\begin{center}
+\includepdf{covers/cover-relics-pf.jpg}}
+\posttitle{\end{center}}
+\thispagestyle{empty}
+\setcounter{page}{0}
+\let\oldtoc\tableofcontents
+\renewcommand{\tableofcontents}{\oldtoc\newpage}
+\renewcommand{\contentsname}{}
+\widowpenalty=10000
+\clubpenalty=10000
+\usepackage{atbegshi}
+\AtBeginDocument{\AtBeginShipoutNext{\AtBeginShipoutDiscard}}
