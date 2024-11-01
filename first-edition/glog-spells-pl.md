@@ -2,7 +2,6 @@
 layout: default
 title: Zaklęcia GLOG
 parent: Pierwsza edycja
-grand_parent: Dokumenty
 nav_order: 2
 ---
 

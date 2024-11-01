@@ -544,3 +544,8 @@ Kamień pisarski ze świętej groty, w której mieszkał leśny pustelnik. Jeśl
 #### Zwój z tygrysem i jeleniem
 
 - Obraz na zwoju przedstawiający tygrysa polującego na trzy jelenie w zalesionym górskim krajobrazie. Jeśli posiadacz otworzy ten zwój w obliczu wroga, pochłonie on jednego wroga wybranego przez posiadacza, który pojawi się na obrazie. W zamian jedna z istot na obrazie przedostaje się do wymiaru bohatera. **Rzuć 1k4**: 1-3 pojawia się jeden z jeleni i ucieka. Przy 4 pojawia się tygrys i natychmiast atakuje posiadacza zwoju.
+
+#### Oszczep z piorunem (k12, ignoruje pancerz), 1 ładunek
+- Oszczep wykonany z jednego kawałka litej miedzi. Po rzuceniu zamienia się w błyskawicę. Zaraz potem zamienia się z powrotem w oszczep.
+- **Doładowanie**: Spraw, by uderzył w niego piorun.
+

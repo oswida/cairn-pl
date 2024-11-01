@@ -1,11 +1,11 @@
 ---
-title: Fungal Forager
+title: Grzybiarz
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
 ---
 
-# Fungal Forager
+# Grzybiarz
 
 > You follow the whisperings of the deep earth, the rhythmic pulse of the mycelium forest that grows beneath the surface. The dark holds no terror for you. Also, you really love mushrooms.
 

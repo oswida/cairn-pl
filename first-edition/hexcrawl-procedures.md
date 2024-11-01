@@ -2,7 +2,6 @@
 layout: default
 title: Hexcrawl
 parent: Pierwsza edycja
-grand_parent: Dokumenty
 nav_order: 3
 ---
 

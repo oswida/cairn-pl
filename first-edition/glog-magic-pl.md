@@ -2,7 +2,6 @@
 layout: default
 title: Magia GLOG
 parent: Pierwsza edycja
-grand_parent: Dokumenty
 nav_order: 1
 ---
 

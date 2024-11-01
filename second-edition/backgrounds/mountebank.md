@@ -1,11 +1,11 @@
 ---
-title: Mountebank
+title: Hochsztapler
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
 ---
 
-# Mountebank
+# Hochsztapler
 
 > Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly. 
 
@@ -36,11 +36,11 @@ Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, No
 
 ## What keepsake could always identify you? Roll 1d6:
 
-|       |                       |                                                                                                                                                                                  |
-| ----- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       |                       |                                                                                                                                                                                 |
+| ----- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | **Royal Crest**       | Born into royalty, you chose a different life. The crest grants you access but also alerts your family of your whereabouts. _Petty_.                                            |
-| **2** | **Miracle Oil**       | A smelly, slippery concoction. 2 uses.                                                                                                                                           |
-| **3** | **Surgeon's Soap**    | A lye and ash block that makes skin temporarily transparent, revealing the anatomy within. 4 uses.                                                                               |
-| **4** | **Goat Powder**       | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours.                                                                   |
-| **5** | **Cursed Sapphire**   | Worth **200gp**, it noticeably returns to your pocket shortly after you spend it. You can't seem to get rid of it.                                                             |
+| **2** | **Miracle Oil**       | A smelly, slippery concoction. 2 uses.                                                                                                                                          |
+| **3** | **Surgeon's Soap**    | A lye and ash block that makes skin temporarily transparent, revealing the anatomy within. 4 uses.                                                                              |
+| **4** | **Goat Powder**       | Derived from the placenta of a baby goat.  Temporarily cures any affliction, but symptoms return within hours.                                                                  |
+| **5** | **Cursed Sapphire**   | Worth **200gp**, it noticeably returns to your pocket shortly after you spend it. You can't seem to get rid of it.                                                              |
 | **6** | **Alchemical Tattoo** | A dog, cat, or bird that can leave your body on demand. It follows your commands to the best of its abilities and can pass its injuries (_as STR loss_) back onto you. _Petty_. |

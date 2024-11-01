@@ -1,11 +1,11 @@
 ---
-title: Bonekeeper
+title: Opiekun kości
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
 ---
 
-# Bonekeeper
+# Opiekun kości
 
 > You are a shepherd to the departed. You listen to the final whispers of the dead as they descend into the cold, unyielding earth. You know that to fully celebrate the gift of life, we must honor its finale as well. 
 
@@ -40,7 +40,7 @@ Rook, Ebon, Moro, Yew, Pall, Leth, Bea, Barnaby, Vesper, Leder
 | 1   | **Manacles**  | Though old, it's still effective even against the very strong. You don't have the key.                                     |
 | 2   | **Sponge**    | Supposedly made from the remains of a rare sea creature. It never seems to dry out.                                        |
 | 3   | **Pulley**    | Great for moving gravestones, rocks, or even bodies.                                                                       |
-| 4   | **Incense**   | Perfect for rituals or to keep the flies at bay. Cools the blood.                                                         |
+| 4   | **Incense**   | Perfect for rituals or to keep the flies at bay. Cools the blood.                                                          |
 | 5   | **Crowbar**   | d6 damage. Sometimes you just need to get the damn thing open!                                                             |
 | 6   | **Repellent** | Powerful stuff. Its faded label makes it unclear what it is actually _meant_ to repel, though. Perhaps everything. 3 uses. |
 
