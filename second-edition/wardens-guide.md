@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Przewodnik Strażnika
+title: Poradnik Strażnika
 parent: Druga edycja
 has_children: true
 ---
 
-# Przewodnik Strażnika
+# Poradnik Strażnika

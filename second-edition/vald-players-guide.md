@@ -6,13 +6,13 @@ parent: Druga edycja
 
 # Vald (Podręcznik gracza)
 
-## Introduction
+## Wstęp
 
-The implied setting of Cairn is called **Vald**, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as most adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative. 
+Domyślny świat stworzony do gry Cairn to **Vald**, obejmuje on wszystkie zasiedlone ziemie, miasta, miasteczka, lasy itp. Konkretny władca nie ma znaczenia, ponieważ większość przygód będzie rozgrywać się w mniejszych miastach i wioskach, lasach i na obrzeżach królestwa. Większość mieszkańców (niezależnie od regionu) nazywa lokalne ośrodki władzy „miastami”, czasami nadając temu wydźwięk pejoratywny. 
 
-Towns and villages are built near water and lumber sources, within a day's walk of each other. Larger villages may rely on nearby farms and hunters. Settlements are often organized around specific industries like lumber, brewing, fishing, or mining, with a Fieldwarden or Beast Handler protecting their most valued assets. 
+Miasta i wioski budowane są w pobliżu źródeł wody i drewna, w odległości jednego dnia drogi od siebie. Większe wioski mogą zależeć od pobliskich farm i myśliwych. Osady są często zorganizowane wokół konkretnych gałęzi przemysłu, takich jak tartacznictwo, browarnictwo, rybołówstwo czy górnictwo, a ich najcenniejsze zasoby chronione są przez Strażnika Polnego lub Opiekuna Zwierząt. 
 
-Established trails between larger towns are fairly common, while maintained roads are almost non-existent except to the distant cities. Itinerant merchants, Kettlewrights, and various peddlers pass through settlements on a semi-regular basis, sometimes hiring Outriders to protect and escort larger caravans, or Rill Runners to help ferry passengers in the Riverlands.
+Stałe szlaki między większymi miastami są dość powszechne, podczas gdy drogi utrzymywane publicznie prawie nie istnieją, za wyjątkiem odległych miast. Wędrowni kupcy, Kettlewrights i  handlarze przejeżdżają przez osady półregularnie, czasami wynajmując Outriderów do ochrony i eskortowania większych karawan lub Rill Runnerów do przewożenia pasażerów w Riverlands.
 
 Even the smallest village may play host to scholarly types from the cities: a Scrivener, Aurifex, or Greenwise with keen interest in nearby tombs, barrows, and Gates. Often a Bonekeeper or Fungal Forager will be hired for their expertise, while clever adventurers will ensure that a Barber-Surgeon is never far away, or a Cutpurse if there is unsavory business that needs tending to. Of course, Mountebanks and Jongleurs often accompany these sorts, riding their coattails in hopes that they too will benefit from the next major discovery.
 

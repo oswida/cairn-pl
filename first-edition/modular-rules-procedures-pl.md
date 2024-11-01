@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Więcej procedur 
-parent: Zasady dodatkowe
+parent: Pierwsza edycja
 grand_parent: Dokumenty
 nav_order: 4
 ---

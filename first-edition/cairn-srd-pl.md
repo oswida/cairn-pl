@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SRD
-parent: Dokumenty
+parent: Pierwsza edycja
 nav_order: 1
 ---
 

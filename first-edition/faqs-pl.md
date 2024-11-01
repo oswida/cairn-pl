@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQs
-parent: Dokumenty
+parent: Pierwsza edycja
 nav_order: 2
 ---
 
