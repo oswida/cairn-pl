@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Vald (Podręcznik gracza)
-parent: Druga edycja
+title: Vald
+parent: Podręcznik gracza
+grand_parent: Druga edycja
+nav_order: 6
 ---
 
-# Vald (Podręcznik gracza)
+# Vald
 
 ## Wstęp
 

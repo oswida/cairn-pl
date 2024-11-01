@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Zasady podstawowe
-parent: Druga edycja
+parent: Podręcznik gracza
+grand_parent: Druga edycja
+nav_order: 3
 ---
 
 # Zasady podstawowe
@@ -42,10 +44,10 @@ Each of the three **Attributes** are used in different circumstances. (See **Sav
 
 When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
 
-|         |      |         |      |         |
-| :-----: | :--: | :-----: | :--: | :-----: |
-|    2    | 3-5  |   6-8   | 9-11 |   12    |
-| Hostile | Wary | Curious | Kind | Helpful |
+|         |       |         |       |         |
+| :-----: | :---: | :-----: | :---: | :-----: |
+|    2    |  3-5  |   6-8   | 9-11  |   12    |
+| Hostile | Wary  | Curious | Kind  | Helpful |
 
 ## Morale
 
@@ -135,7 +137,7 @@ If damage to a PC would reduce their HP to exactly 0, look up the result on the 
 | 7           | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.                                                              |
 | 8           | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.                                                                              |
 | 9           | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.                                                                                    |
-| 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                                |
+| 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                              |
 | 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
 | 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 

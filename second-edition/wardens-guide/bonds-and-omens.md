@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bonds and Omens
-parent: Przewodnik Strażnika 
+parent: Poradnik Strażnika 
 grand_parent: Druga edycja
 ---
 

@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Tworzenie postaci
-parent: Druga Edycja
+parent: Podręcznik gracza
+grand_parent: Druga edycja
+nav_order: 2
 ---
 
 # Tworzenie postaci 

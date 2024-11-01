@@ -1,7 +1,7 @@
 ---
 title: Creating Monsters
 layout: default
-parent: Przewodnik Strażnika 
+parent: Poradnik Strażnika 
 grand_parent: Druga edycja
 ---
 

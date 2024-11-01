@@ -2,7 +2,7 @@
 layout: default
 title: Hexcrawl
 parent: Pierwsza edycja
-nav_order: 3
+nav_order: 5
 ---
 
 # Jeszcze jedna procedura poruszania się po heksach (Hexcrawl)

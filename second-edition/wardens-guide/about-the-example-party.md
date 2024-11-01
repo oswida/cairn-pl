@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About the Example Party
-parent: Przewodnik Strażnika 
+parent: Poradnik Strażnika 
 grand_parent: Druga edycja
 ---
 

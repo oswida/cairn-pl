@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Targowisko
-parent: Druga edycja 
+parent: Podręcznik gracza
+grand_parent: Druga edycja
+nav_order: 5
 ---
 
 # Targowisko 

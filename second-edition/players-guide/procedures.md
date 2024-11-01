@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Procedury
-parent: Druga edycja
+parent: Podręcznik gracza
+grand_parent: Druga edycja
+nav_order: 4
 ---
 
 # Procedury
@@ -151,15 +153,15 @@ Each day, the Warden should roll on the weather table for the appropriate season
 
 #### Weather Difficulty
 
-|                  |                                                                                                         |                                                           |
-| :--------------: | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-|   **Weather**    | **Effect**                                                                                              | **Examples**                                              |
-|     **Nice**     | Favorable conditions for travel.                                                                        | _Clear skies, sunny_                                      |
-|     **Fair**     | Favorable conditions for travel.                                                                        | _Overcast, breezy_                                        |
-|  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                                                | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Add a **Fatigue** _or_ add **+1 watch**. Increase terrain **Difficulty** by a step.  | _Thunderstorms, lightning, rain, muddy ground_           |
+|                  |                                                                                      |                                                           |
+| :--------------: | ------------------------------------------------------------------------------------ | --------------------------------------------------------- |
+|   **Weather**    | **Effect**                                                                           | **Examples**                                              |
+|     **Nice**     | Favorable conditions for travel.                                                     | _Clear skies, sunny_                                      |
+|     **Fair**     | Favorable conditions for travel.                                                     | _Overcast, breezy_                                        |
+|  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                             | _Gusting winds, rain showers, sweltering heat, chill air_ |
+|  **Inclement**   | Add a **Fatigue** _or_ add **+1 watch**. Increase terrain **Difficulty** by a step.  | _Thunderstorms, lightning, rain, muddy ground_            |
 |   **Extreme**    | Add a **Fatigue** _and_ add **+1 watch**. Increase terrain **Difficulty** by a step. | _Blizzards, freezing winds, flooding, mud slides_         |
-| **Catastrophic** | Most parties cannot travel under these conditions.                                                      | _Tornados, tidal waves, hurricane, volcanic eruption_     |
+| **Catastrophic** | Most parties cannot travel under these conditions.                                   | _Tornados, tidal waves, hurricane, volcanic eruption_     |
 
 ### Wilderness Exploration Cycle
 
@@ -171,7 +173,7 @@ Each day, the Warden should roll on the weather table for the appropriate season
 
 |       |                 |                                                                                                                                                                                                                            |
 | ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/wip/2e/core-rules.md/#reactions) if applicable.                                                                               |
+| **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/wip/2e/core-rules.md/#reactions) if applicable.                                                                    |
 | **2** | **Sign**        | The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.                                                                                      |
 | **3** | **Environment** | A shift in weather or terrain.                                                                                                                                                                                             |
 | **4** | **Loss**        | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort.                                                                                                                        |

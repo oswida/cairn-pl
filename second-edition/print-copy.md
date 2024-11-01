@@ -2,6 +2,7 @@
 layout: default
 title: Kopia papierowa (ang.)
 parent: Druga edycja
+nav_order: 5
 ---
 
 # Kopia papierowa (ang)

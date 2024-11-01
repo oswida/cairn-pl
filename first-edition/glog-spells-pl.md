@@ -2,7 +2,7 @@
 layout: default
 title: Zaklęcia GLOG
 parent: Pierwsza edycja
-nav_order: 2
+nav_order: 4
 ---
 
 # Zaklęcia GLOG

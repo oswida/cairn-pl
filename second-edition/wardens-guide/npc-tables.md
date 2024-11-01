@@ -1,7 +1,7 @@
 ---
 layout: default
 title: NPC Tables
-parent: Przewodnik Strażnika 
+parent: Poradnik Strażnika 
 grand_parent: Druga edycja
 ---
 

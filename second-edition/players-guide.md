@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Poradnik Strażnika
+title: Podręcznik gracza
 parent: Druga edycja
 has_children: true
-nav_order: 3
+nav_order: 2
 ---
 
-# Poradnik Strażnika
+# Podręcznik gracza

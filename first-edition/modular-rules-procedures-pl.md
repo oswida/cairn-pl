@@ -2,7 +2,7 @@
 layout: default
 title: Więcej procedur 
 parent: Pierwsza edycja
-nav_order: 4
+nav_order: 6
 ---
 
 # Więcej procedur

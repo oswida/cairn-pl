@@ -2,7 +2,7 @@
 layout: default
 title: Magia GLOG
 parent: Pierwsza edycja
-nav_order: 1
+nav_order: 3
 ---
 
 # Magia GLOG

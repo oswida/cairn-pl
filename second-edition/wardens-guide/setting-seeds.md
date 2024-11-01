@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Setting Seeds
-parent: Przewodnik Strażnika 
+parent: Poradnik Strażnika 
 grand_parent: Druga edycja
 ---
 

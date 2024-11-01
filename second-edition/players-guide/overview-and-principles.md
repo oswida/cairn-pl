@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Informacje ogólne i główne zasady
-parent: Druga edycja
+title: Wstęp i pryncypia
+parent: Podręcznik gracza
+grand_parent: Druga edycja
+nav_order: 1
 ---
 
-# Informacje ogólne i główne zasady
+# Wstęp i pryncypia
 
 ## Overview
 
