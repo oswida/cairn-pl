@@ -8,118 +8,118 @@ nav_order: 5
 
 # Targowisko 
 
-> All prices are in gold pieces  
+> Wszystkie ceny w sztukach złota (sz).
 
-## Armor
+## Pancerz
 
-|                               |     |
-| ----------------------------- | --- |
-| Shield (+1 Armor)             | 10  |
-| Helmet (+1 Armor)             | 10  |
-| Gambeson (+1 Armor)           | 15  |
-| Brigandine (1 Armor, _bulky_) | 20  |
-| Chainmail (2 Armor, _bulky_)  | 40  |
-| Plate (3 Armor, _bulky_)      | 60  |
+|                                          |     |
+| ---------------------------------------- | --- |
+| Tarcza (+1 do Pancerza)                  | 10  |
+| Hełm (+1 do Pancerza)                    | 10  |
+| Przeszywanica (+1 do Pancerza)           | 15  |
+| Brygantyna (1 Pancerza, nieporęczna)     | 20  |
+| Kolczuga (2 Pancerza, nieporęczna)       | 40  |
+| Zbroja płytowa (3 Pancerza, nieporęczna) | 60  |
 
-## Weapons
+## Broń
 
-|                                                             |     |
-| ----------------------------------------------------------- | --- |
-| Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)             | 5   |
-| Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)            | 10  |
-| Halberd, War Hammer, Long Sword, etc. (d10 damage, _bulky_) | 20  |
-| Sling (d6 damage)                                           | 5   |
-| Bow (d6 damage, _bulky_)                                    | 20  |
-| Crossbow (d8 damage, _bulky_)                               | 30  |
+|                                                                    |     |
+| ------------------------------------------------------------------ | --- |
+| Sztylet, pałka, sierp, laska itp (k6 obrażeń)                      | 5   |
+| Włócznia, miecz, buzdygan, topór, cep, itp (k8 obrażeń)            | 10  |
+| Halabarda, młot bojowy, długi miecz itp (k10 obrażeń, nieporęczna) | 20  |
+| Proca (k4  obrażeń)                                                | 5   |
+| Łuk  (k6  obrażeń, nieporęczny)                                    | 20  |
+| Kusza (k8  obrażeń, nieporęczna)                                   | 30  |
 
 ## Transport
 
-|                          |     |
-| ------------------------ | --- |
-| Cart (+4 slots, _bulky_) | 30  |
-| Wagon (+8 slots, slow)   | 200 |
-| Horse (+4 slots)         | 75  |
-| Mule (+6 slots, slow)    | 30  |
-| Carriage Seat            | 5   |
-| Ship's Passage           | 10  |
+|                                         |     |
+| --------------------------------------- | --- |
+| Wózek, mały (+4 miejsca, _nieporęczny_) | 30  |
+| Wóz, duży (+8 miejsc, wolny)            | 200 |
+| Koń (+4 miejsca)                        | 75  |
+| Muł (+6 miejsc, wolny)                  | 30  |
+| Miejsce w powozie                       | 5   |
+| Podróż statkiem                         | 10  |
 
-## Upkeep & Recovery
+## Utrzymanie i regeneracja
 
-|                               |     |
-| ----------------------------- | --- |
-| Room & Board (per night)      | 10  |
-| Private Room & Board (fits 4) | 35  |
-| Stable & Feed (per night)     | 5   |
-| Medical Healing               | 50  |
-| Rations (3 uses)              | 10  |
-| Animal Feed (3 uses, bulky)   | 5   |
+|                                           |     |
+| ----------------------------------------- | --- |
+| Pokój i wyżywienie (za noc)               | 10  |
+| Prywatny pokój z wyżywieniem (dla 4 osób) | 35  |
+| Stajnia i pasza (za noc)                  | 5   |
+| Leczenie (medyk)                          | 50  |
+| Racje żywnościowe (3 porcje)              | 10  |
+| Pasza dla zwierząt (3 porce, bulky)       | 5   |
 
-## Hirelings (per day)
+## Najemnicy (dziennie)
 
-|                   |     |
-| ----------------- | --- |
-| Alchemist         | 30  |
-| Animal Handler    | 5   |
-| Blacksmith        | 15  |
-| Bodyguard         | 10  |
-| Local Guide       | 5   |
-| Lockpick          | 10  |
-| Navigator         | 10  |
-| Sailor            | 5   |
-| Scholar           | 20  |
-| Tracker           | 5   |
-| Trapper           | 5   |
-| Veteran Bodyguard | 20  |
+|                    |     |
+| ------------------ | --- |
+| Alchemik           | 30  |
+| Treser zwierząt    | 5   |
+| Kowal              | 15  |
+| Ochroniarz         | 10  |
+| Lokalny przewodnik | 5   |
+| Włamywacz          | 10  |
+| Nawigator          | 10  |
+| Żeglarz            | 5   |
+| Uczony             | 20  |
+| Tropiciel          | 5   |
+| Łowca              | 5   |
+| Ochroniarz weteran | 20  |
 
 
-## Gear
+## Sprzęt
 
-|                                                    |     |
-| -------------------------------------------------- | --- |
-| Air Bladder                                        | 5   |
-| Antitoxin                                          | 20  |
-| Bandages (3 uses)                                  | 30  |
-| Bathing Goods (Soap, Perfume, etc.)                | 5   |
-| Book                                               | 50  |
-| Caltrops                                           | 10  |
-| Card Deck                                          | 5   |
-| Chain (10ft)                                       | 10  |
-| Chalk (_petty_)                                    | 1   |
-| Chest                                              | 25  |
-| Chisel                                             | 5   |
-| Common Agents (Glue, Grease, etc.)                 | 10  |
-| Common Tools (Hammer, Shovel, etc.)                | 10  |
-| Compass                                            | 75  |
-| Complex Instruments (Bagpipes, Fiddle, etc.)       | 50  |
-| Containers (Sack, Waterskin, etc.)                 | 10  |
-| Cooking Gear (Pots, Utensils, etc.)                | 10  |
-| Costume Gear (Face Paint, Disguise)                | 15  |
-| Dowsing Rod                                        | 15  |
-| Expeditionary Gear (Climbing Spikes, Pulley, etc.) | 10  |
-| Fire Oil                                           | 10  |
-| Fishing Rod                                        | 10  |
-| Games (Cards, Dice, etc.)                          | 10  |
-| Gloves (_petty_)                                   | 20  |
-| Grappling Hook                                     | 25  |
-| Lantern                                            | 10  |
-| Mirror                                             | 5   |
-| Net                                                | 10  |
-| Oil Can (6 uses)                                   | 10  |
-| Outdoor Comfort (Blanket, Hammock, etc.)           | 10  |
-| Parchment (3 uses)                                 | 10  |
-| Pole (10ft)                                        | 5   |
-| Repellent (Wolfsbane, Mugwort, etc.)               | 10  |
-| Rope (25ft)                                        | 5   |
-| Sedative                                           | 30  |
-| Sewing Kit                                         | 20  |
-| Simple Instruments (Pipes, Lute, etc.)             | 10  |
-| Smoking Pipe (_petty_)                             | 15  |
-| Specialized Tools (Ink, etc.)                      | 20  |
-| Spiked Boots                                       | 15  |
-| Spyglass                                           | 40  |
-| Tent (fits 2, _bulky_)                             | 20  |
-| Thieving Tools (Lockpick, Metal File, etc.)        | 25  |
-| Torch (3 uses)                                     | 5   |
-| Trap (d6 STR damage)                               | 35  |
-| Whistle (_petty_)                                  | 15  |
-| Wilderness Clothes (Poncho, Cloak, etc.) (_petty_) | 15  |
+|                                                               |     |
+| ------------------------------------------------------------- | --- |
+| Pęcherz pławny                                                | 5   |
+| Antidotum                                                     | 20  |
+| Bandaże (3 użycia)                                            | 30  |
+| Artykuły kąpielowe (mydło, perfumy itp.)                      | 5   |
+| Książka                                                       | 50  |
+| Caltrops                                                      | 10  |
+| Talia kart                                                    | 5   |
+| Łańcuch (3m)                                                  | 10  |
+| Kreda (_drobna_)                                              | 1   |
+| Skrzynia                                                      | 25  |
+| Dłuto                                                         | 5   |
+| Powszechne substancje (klej, smar itp.)                       | 10  |
+| Popularne narzędzia (młotek, łopata itp.)                     | 10  |
+| Kompas                                                        | 75  |
+| Złożone instrumenty (dudy, skrzypce itp.)                     | 50  |
+| Pojemniki (worek, bukłak itp.)                                | 10  |
+| Sprzęt do gotowania (garnki, przybory kuchenne itp.)          | 10  |
+| Wyposażenie do przebierania się (farby do twarzy, przebrania) | 15  |
+| Różdżka radiestezyjna                                         | 15  |
+| Sprzęt ekspedycyjny (kolce wspinaczkowe, bloczek itp.)        | 10  |
+| Olej opałowy                                                  | 10  |
+| Wędka                                                         | 10  |
+| Gry (Karty, kości, etc.)                                      | 10  |
+| Rękawice (_drobne_)                                           | 20  |
+| Linka z kotwiczką                                             | 25  |
+| Latarnia                                                      | 10  |
+| Lustro                                                        | 5   |
+| Sieć                                                          | 10  |
+| Puszka oleju (6 użyć)                                         | 10  |
+| Wygoda na świeżym powietrzu (koc, hamak itp.)                 | 10  |
+| Pergamin (3 użycia)                                           | 10  |
+| Tyczka (3m)                                                   | 5   |
+| Środek odstraszający (wilcza jagoda, bylica itp.)             | 10  |
+| Lina (8m)                                                     | 5   |
+| Środki uspokajające                                           | 30  |
+| Sewing Kit                                                    | 20  |
+| Proste instrumenty (piszczałki, lutnia itp.)                  | 10  |
+| Fajka do palenia (_drobna_)                                   | 15  |
+| Specjalistyczne narzędzia (atrament itp.)                     | 20  |
+| Buty z kolcami                                                | 15  |
+| Luneta                                                        | 40  |
+| Namiot (dwuosobowy, nieporęczny)                              | 20  |
+| Narzędzia złodziejskie (wytrych, metalowy pilnik itp.)        | 25  |
+| Pochodnia (3 użycia)                                          | 5   |
+| Pułapka (k6 obrażeń SIŁ)                                      | 35  |
+| Gwizdek (_drobny_)                                            | 15  |
+| Ubrania na bezdroża (poncho, płaszcz itp.) (_drobne_)         | 15  |
