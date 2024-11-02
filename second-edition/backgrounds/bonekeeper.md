@@ -1,11 +1,11 @@
 ---
-title: Opiekun kości
+title: Opiekun Kości
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
 ---
 
-# Opiekun kości
+# Opiekun Kości
 
 > You are a shepherd to the departed. You listen to the final whispers of the dead as they descend into the cold, unyielding earth. You know that to fully celebrate the gift of life, we must honor its finale as well. 
 

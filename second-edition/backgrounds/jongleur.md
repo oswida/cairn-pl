@@ -1,11 +1,11 @@
 ---
-title: Bard
+title: Kuglarz
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
 ---
 
-# Bard
+# Kuglarz
 
 > What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside? 
 
