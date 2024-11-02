@@ -14,26 +14,27 @@ Domyślny świat stworzony do gry Cairn to **Vald**, obejmuje on wszystkie zasie
 
 Miasta i wioski budowane są w pobliżu źródeł wody i drewna, w odległości jednego dnia drogi od siebie. Większe wioski mogą zależeć od pobliskich farm i myśliwych. Osady są często zorganizowane wokół konkretnych gałęzi przemysłu, takich jak tartacznictwo, browarnictwo, rybołówstwo czy górnictwo, a ich najcenniejsze zasoby chronione są przez Strażnika Polnego lub Opiekuna Zwierząt. 
 
-Stałe szlaki między większymi miastami są dość powszechne, podczas gdy drogi utrzymywane publicznie prawie nie istnieją, za wyjątkiem odległych miast. Wędrowni kupcy, Kettlewrights i  handlarze przejeżdżają przez osady półregularnie, czasami wynajmując Outriderów do ochrony i eskortowania większych karawan lub Rill Runnerów do przewożenia pasażerów w Riverlands.
+Stałe szlaki między większymi miastami są dość powszechne, podczas gdy drogi utrzymywane publicznie prawie nie istnieją, za wyjątkiem odległych miast. Wędrowni kupcy, Druciarze i  handlarze przejeżdżają przez osady półregularnie, czasami wynajmując Najemników do ochrony i eskortowania większych karawan lub Bardów rzecznych do przewożenia pasażerów w Krainie Rzek.
 
-Even the smallest village may play host to scholarly types from the cities: a Scrivener, Aurifex, or Greenwise with keen interest in nearby tombs, barrows, and Gates. Often a Bonekeeper or Fungal Forager will be hired for their expertise, while clever adventurers will ensure that a Barber-Surgeon is never far away, or a Cutpurse if there is unsavory business that needs tending to. Of course, Mountebanks and Jongleurs often accompany these sorts, riding their coattails in hopes that they too will benefit from the next major discovery.
 
-Those who enter the Wood hire a guide familiar with the territory, such as a Prowler or Fletchwind, while the truly determined traveler will seek the wisdom of a Half Witch or Foundling with some connection to its darker secrets. Closer to the border, the Marchguard work to keep the realm free of outside influence, while the Hexenbane seek to protect it from forces within.
+Nawet najmniejsza wioska może gościć uczonych z miast: Skrybę, Alchemika lub Leśnika, którzy interesują się pobliskimi grobowcami, kurhanami i bramami. Często zatrudniani są również Opiekunowie Kości lub Grzybiarze, a sprytni poszukiwacze przygód zadbają o to, by Cyrulik był zawsze w pobliżu, albo i Kieszonkowiec, jeśli trzeba zająć się nieprzyjemnymi sprawami. Oczywiście, Hochsztaplerzy i Kuglarze często towarzyszą tym awanturnikom, licząc na to, że oni skorzystają na kolejnym ważnym odkryciu.
 
-## The Wood
+Ci, którzy wkraczają do Lasu, wynajmują przewodnika zaznajomionego z tym terenem, takiego jak Skrytobójca lub Mistrz łuku, podczas gdy prawdziwie zdeterminowani podróżnicy szukają mądrości Półczarownicy lub Podrzutka, zaznajomionych z mrocznymi tajemnicami. Bliżej granicy Straż graniczna pracuje nad utrzymaniem królestwa wolnym od wpływów zewnętrznych, podczas gdy Łowca czarownic stara się chronić je przed zagrożeniami wewnętrznymi.
 
-The **Wood** surrounds and divides the realm, representing not just one forest, but _all_ forests. Denizens of the Wood are fiercely independent, believing they are subject solely to its rules. Its various peoples, creatures, and unrelenting natural elements have kept the outside world at bay since time immemorial. 
+## Las
 
-At the core of each forest is a Heart Tree, the place where the forest is at its most powerful as well as its most dangerous. Each Heart Tree is born from a single Heartseed, acquired exclusively from a Heart Tree that is dying or dead. 
+**Las** to ogromna puszcza, która otacza królestwo ale także lasy znajdujące się w jego wnętrzu. Pojęcie to reprezentuje _wszystkie_ lasy. Mieszkańcy Lasu są niezwykle niezależni, i wierzą, że podlegają wyłącznie jego zasadom. Jego różne ludy, stworzenia i nieubłagane żywioły trzymają świat zewnętrzny na dystans od niepamiętnych czasów.
 
-The Wood is populated by creatures strange and wondrous, such as Goblins, Spirits, Treants, Trolls, Werewolves, Witches, and even talking plants and animals. Most are openly hostile to outsiders (particularly humans), but others will (on occasion) parley with those that have shown respect for the Wood. Of course, all demonstrate utter respect for the Fae (sometimes called the **Pale Folk**, or the **Neighbors**).
+W środku każdego lasu znajduje się Drzewo Serca, miejsce, w którym las jest najpotężniejszy i najbardziej niebezpieczny. Każde Drzewo Serca rodzi się z pojedynczego Nasiona Serca, pozyskanego wyłącznie z umierającego lub martwego Drzewa. 
 
-Of course, the Wood is not empty of people. Those who can survive (or even thrive) in such places learn to live according to the rules of the forest, for those who ignore or foolishly oppose these rules often meet grisly ends. 
+Las zamieszkują dziwne i cudowne stworzenia, takie jak gobliny, duchy, drzewce, trolle, wilkołaki, czarownice, a nawet mówiące rośliny i zwierzęta. Większość z nich jest otwarcie wrogo nastawiona do przybyszów z zewnątrz (zwłaszcza ludzi), ale niektórzy (od czasu do czasu) rozmawiają z tymi, którzy okazali szacunek ich domenie. Oczywiście wszyscy składają hołd Fae (nazywanymi czasem **Bladym Ludem** lub **Sąsiadami**).
 
-## The Roots
+Las nie jest całkowicie pozbawiony obecności ludzi. Ci, którzy zdołają przetrwać (a nawet rozwijać się) w takim miejscu, uczą się żyć zgodnie z zasadami puszczy. Tych, którzy ignorują lub głupio sprzeciwiają się jego regułom, najczęściej czeka makabryczny koniec. 
 
-The **Roots** is a realm of mystery and horror underground, where vast caves loom as large as an emptied ocean, without even a hint of sunlight. The various creatures and wild animals that survive there have developed natural means to live in the utter darkness, adapting their eyesight to function in even the dimmest light or eschewing vision altogether.
+## Korzenie
 
-Entrances to the Roots, known as Gates, are scattered across the lands and are usually hidden or protected by powerful forces. Once opened, Gates permit dangerous creatures to pass through, giving them free reign over the weak and vulnerable.
+**Korzenie** to podziemne królestwo pełne tajemnic i grozy, rozległych jaskiń wielkich jak ocean, bez odrobiny światła słonecznego. Najróżniejsze stworzenia i dzikie zwierzęta, które tam przetrwały, rozwinęły naturalne sposoby życia w całkowitej ciemności. Wiele z nich dostosowało swój wzrok do funkcjonowania nawet w najsłabszym świetle lub całkowicie zrezygnowało z tego zmysłu.
 
-Only the brave and foolish enter the Roots, and most do not return. The few that do whisper of the indescribable horrors and evil intelligence guarding these lost treasures. Still, there will always be those who cannot resist the draw of forgotten Relics, profound wealth, or knowledge, for there are rumors that creatures far more interesting than wild beasts make their home in the depths below.
+Wejścia do Korzeni, znane jako Bramy, są rozproszone po całej krainie i zazwyczaj ukryte lub chronione przez potężne siły. Głównie dlatego, że po otwarciu umożliwiają przejście niebezpiecznym stworzeniom, które bez skrupułów wykorzystają słabych i bezbronnych.
+
+Tylko odważni i głupi decydują się wejść do Korzeni, a większość z nich nigdy nie wraca. Nieliczni, którzy to robią, szepczą o nieopisanych okropnościach i złowrogiej inteligencji strzegącej zaginionych skarbów. Mimo to zawsze znajdą się tacy, którzy nie oprą się urokowi zapomnianych artefaktów, wielkiego bogactwa lub wiedzy, ponieważ krążą pogłoski, że w głębinach poniżej mieszkają stworzenia o wiele bardziej interesujące niż dzikie bestie.
