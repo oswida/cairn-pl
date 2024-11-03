@@ -14,7 +14,7 @@ nav_order: 2
 - Wybierz imię z listy a następnie zanotuj wyposażenie startowe swojej postaci. Przeczytaj rozdziały [Wyposażenie](#inventory) i [Miejsca w ekwipunku](#inventory-slots) aby dowiedzieć się jak zapisujemy informacje o posiadanych przedmiotach. 
 - Wylosuj elementy ze wszystkich tabel znajdujących się w opisie wybranej przeszłości. Zanotuj przedmioty, umiejętności lub zdolności wynikające z tych losowań. Niektóre rodzaje przeszłości postaci mogą również wymagać zajrzenia do tabel w rozdziale [Targowisko](https://cairnrpg.com/wip/2e/marketplace).
 
-## Przeszłości
+## Przeszłość
 
 |         |                                                                            |        |                                                                        |
 | ------- | -------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------- |

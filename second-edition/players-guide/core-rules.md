@@ -8,161 +8,163 @@ nav_order: 3
 
 # Zasady podstawowe
 
-## Attributes
+## Atrybuty
 
-Each of the three **Attributes** are used in different circumstances. (See **Saves**, below.)
+Każdy z trzech **atrybutów** jest używany w innej sytuacji. (patrz **Rzuty obronne** poniżej)
 
-- **Strength (STR)**: Used for saves requiring physical power, like lifting gates, bending bars, resisting poison, etc.
-- **Dexterity (DEX)**: Used for saves requiring poise, speed, reflexes, dodging, climbing, sneaking, balancing, etc.
-- **Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+- **Siła (SIŁ)**: Używana w sytuacjach wymagających siły fizycznej takich jak podnoszenie bram, wyginanie prętów, opieranie się truciznom itp.
+- **Zręczność (ZRE)**: Używana do rzutów obronnych wymagających opanowania, szybkości i refleksu takich jak uniki, wspinaczka, skradanie się, balansowanie, itp.
+- **Wola (WOL)**: Używana do rzutów obronnych w celu przekonania, oszukania, przesłuchania, zastraszenia, oczarowania, sprowokowania, manipulacji zaklęciami itp.
 
-## Saves
+## Rzuty obronne
 
-- A save is a roll to avoid negative outcomes from risky choices. Characters roll a d20 and compare the results to the appropriate attribute. If they roll equal to or under that attribute, they succeed. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
-- If two opponents are each trying to overcome the other, whoever is most at risk should save.
-- If two characters need to take an action together, whoever is most at risk should save (usually the character with the lowest relevant Attribute).
+- Rzut obronny to test, który pozwala uniknąć negatywnych skutków ryzykownych wyborów i okoliczności. Gracze rzucają 1k20 i porównują wynik z poziomem wybranego atrybutu. Jeśli wynik rzutu jest **równy lub niższy** od poziomu atrybutu, test został zdany. W przeciwnym razie, test się nie udaje. 1 to zawsze sukces, a 20 to zawsze porażka.
+- Jeśli dwóch przeciwników próbuje pokonać jeden drugiego, ten, kto jest bardziej zagrożony, powinien wykonać rzut obronny.
+- Jeśli dwie postacie muszą wykonać jakąś akcję razem, rzut obronny powinna wykonać ta postać, która jest bardziej zagrożona (zazwyczaj jest to postać z najniższym odpowiednim atrybutem).
 
-## Healing & Recovery
+## Leczenie i regeneracja
 
-- Resting for a few moments and having a drink of water restores lost HP but may leave the party exposed. Bandages can stabilize a character that has taken critical damage.
-- Attribute loss (see **Critical Damage**) can usually be restored with a week's rest, facilitated by a healer or other appropriate source of expertise. 
-- Some healing services are free, while magical or more expedient means of recovery may come at a cost. 
+- Odpoczynek przez kilka chwil i łyk wody przywraca utracone punkty OCHR. Bandaże mogą ustabilizować postać, która otrzymała obrażenia krytyczne.
+- Utracone punkty atrybutów (patrz **Obrażenia krytyczne**) można zazwyczaj przywrócić poprzez tygodniowy odpoczynek wspomagany przez uzdrowiciela lub innego, odpowiedniego specjalistę.
+- Niektóre z tych usług mogą być darmowe, podczas gdy te bardziej specjalistyczne lub magiczne sposoby regeneracji - mniej lub bardziej kosztowne.
 
-## Deprivation & Fatigue
+## Dyskomfort i zmęczenie
 
-- A PC that lacks a crucial need (such as food or rest) is **Deprived**. Anyone **Deprived** for more than a day adds **Fatigue** to their inventory, one for each day. A **Deprived** PC cannot recover HP, Attributes, or item slots from **Fatigue**.
-- A PC may also be forced to add **Fatigue** after casting spells or due to events occurring in the fiction. Each Fatigue occupies one slot and lasts until the PC is able to recuperate (such as with a full night’s rest in a safe spot).
-- If a character is forced to add **Fatigue** to their inventory but they have no free slots, they must drop an item from their inventory.
+- Postać pozbawiona możliwości zaspokojenia kluczowej potrzeby (takiej jak jedzenie lub odpoczynek), odczuwa **dyskomfort**. Każda osoba odczuwająca dyskomfort przez więcej niż jeden dzień, dodaje do swojego ekwipunku **Zmęczenie**, jedno na każdy dzień. Dyskomfort uniemożliwia również odzyskiwanie OCHR, punktów atrybutów i miejsc w ekwipunku oznaczonych jako **zmęczenie**.
+- Postacie mogą również zyskać **zmęczenie** poprzez rzucanie zaklęć albo wydarzenia w fikcji. Każde **zmęczenie** blokuje jedno miejsce w ekwipunku i trwa do czasu, aż postać będzie w stanie się zregenerować (np. odpoczywając całą noc w bezpiecznym miejscu).
+- Jeśli postać jest zmuszona dodać **zmęczenie**, ale nie ma wolnych miejsc, musi odrzucić wybrany przedmiot z ekwipunku.
 
-## Armor
+## Pancerz
 
-- Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. 
-- Shields and similar armor provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn. Some may also provide additional benefits, depending on the fiction.
-- A PC, NPC, or monster cannot have more than 3 Armor.  
+- Zanim określisz obrażenia na OCHR, od wyniku rzutów na obrażenia odejmij wartość **Pancerza** celu.
+- Tarcze i niektóre zbroje zapewniają dodatkową obronę (np. +1 do pancerza), ale tylko wtedy, gdy przedmiot jest trzymany lub noszony. Niektóre mogą również zapewniać dodatkowe korzyści, w zależności od ich roli fikcji.
+- Żadna postać gracza, bohater niezależny ani potwór nie mogą mieć więcej niż 3 pancerza.
 
-## Reactions
+## Reakcje
 
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+Kiedy postacie napotkają Bohatera Niezależnego, którego reakcja na to spotkanie nie jest oczywista, Strażnik może rzucić 2k6 i sprawdzić w poniższej tabeli:
 
-|         |       |         |       |         |
-| :-----: | :---: | :-----: | :---: | :-----: |
-|    2    |  3-5  |   6-8   | 9-11  |   12    |
-| Hostile | Wary  | Curious | Kind  | Helpful |
+|       |          |           |          |         |
+| :---: | :------: | :-------: | :------: | :-----: |
+|   2   |   3-5    |    6-8    |   9-11   |   12    |
+| Wrogi | Ostrożny | Ciekawski | Uprzejmy | Pomocny |
 
 ## Morale
 
-- Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. 
-- Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. 
-- Morale does not affect PCs.
+- Podczas starcia, gdy pierwszy z wrogów polegnie i ponownie, gdy grupa wrogów straci połowę swojej liczby - nieprzyjaciele muszą zdać test WOL, aby pozostać na polu bitwy.
+- Niektóre grupy mogą używać WOL swojego lidera zamiast własnego. Samotni wrogowie muszą wykonać rzut obronny WOL gdy ich OCHR spadnie do zera.
+- Morale nie stosuje się do postaci graczy.
 
-## Hirelings
+## Najemnicy
 
-- Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.  
-- To create a hireling, choose an appropriate role from the [Hirelings](/wip/2e/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
-- Alternatively, choose an appropriate [**background**](/wip/2e/character-creation#backgrounds) and **name** from the [Character Creation](/wip/2e/character-creation) guide. Roll (or choose from) the tables for that background. Then roll for Rations, Gold Pieces, Attributes, HP, and age. 
+- Poszukiwacze przygód mogą rekrutować najemników do pomocy w wyprawach, polegając na ich unikalnych umiejętnościach, wiedzy i wyszkoleniu.
+- Aby utworzyć najemnika, wybierz odpowiednią rolę z listy [Najemnicy](/second-edition/players-guide/marketplace#najemnicy-dziennie) w rozdziale Targowisko. Rzuć 3k6 dla każdego z atrybutów i przydziel mu 1k6 OCHR. Daj mu **wyposażenie** odpowiednie do roli, a następnie rzuć na tabele cech postaci, aby jeszcze bardziej go rozwinąć.
+- Alternatywnie można wybrać odpowiednią [**przeszłość**](/second-edition/players-guide/character-creation#przeszłość) i **imię** z rozdziału [Tworzenie postaci](/second-edition/players-guide/character-creation). Rzucić (lub wybrać) elementy z tabel dla wybranej przeszłości. Następnie wylosować ilość racji żywnościowych, złota, atrybuty, ochronę przed trafieniem i wiek.
 
-## Die of Fate  
+## Kość Przeznaczenia
 
-- Optionally, roll 1d6 whenever the outcome of an event is uncertain or to simulate an element of randomness and chance.
-- A roll of 4 or more generally favors the PCs, while a roll of 3 or under usually means bad luck for the PCs.
+- Jeżeli wynik wydarzenia jest niepewny lub gdy chcesz zasymulować element losowości i przypadku, możesz rzucić 1k6.
+- Wynik 4 lub więcej zazwyczaj faworyzuje graczy, a wynik 3 lub mniej oznacza niekorzystne rozwiązanie dla postaci.
 
-## Combat
+## Walka
 
-### Rounds
+### Rundy
 
-- A **Round** is roughly ten seconds of in-game time and and proceeds with each side taking turns. Each round starts with any PC that is able to act, followed by their opponents. _The result of each side's actions occur simultaneously_. 
-- During the _first round of combat_, each PC must make a DEX save in order to act. Special circumstances, abilities, items, or skills may negate this requirement. PCs that fail their save _lose their turn_ for this round.
-- Their opponents then take their turn, and the first round ends. The next round begins with the PCs taking their turn, followed by their opponents, and so on until combat has ended with one side defeated or fled.
+- **Runda** trwa około dziesięciu sekund w grze i jest rozgrywana na zmianę przez każdą ze stron. Każdą rundę rozpoczynają postacie graczy, które są w stanie wykonać akcję, a następnie działają ich przeciwnicy. _Wyniki działań każdej ze stron są rozpatrywane jednocześnie_. 
+- Podczas _pierwszej rundy walki_, każda postać gracza **musi** wykonać **rzut obronny ZRE**, aby móc działać. Specjalne okoliczności, zdolności, przedmioty lub umiejętności mogą zanegować ten wymóg. Postacie, które nie wykonają rzutu obronnego _tracą swoją turę_ w tej rundzie.
+- Następnie przeciwnicy wykonują swoją turę i pierwsza runda dobiega końca. Kolejną rundę rozpoczynają gracze, a następnie ich przeciwnicy i tak dalej, aż walka zakończy się porażką lub ucieczką jednej ze stron.
 
-### Actions
+### Akcje
 
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, moving for a second time, or some other reasonable action. Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Warden calls for a save for appropriate players or NPCs. 
+W swojej turze postać może poruszyć się na odległość do 12 metrów i wykonać jedną akcję. Może to być rzucenie zaklęcia, atak, drugi ruch lub inne rozsądne działanie. W każdej rundzie, gracze deklarują co robią, zanim rzucone zostaną jakiekolwiek kości. Jeśli jakaś postać próbuje czegoś ryzykownego, Strażnik żąda od odpowiednich graczy lub BN wykonania rzutu obronnego. 
 
-### Attacking & Damage
+### Atak i obrażenia
 
-- The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Attacks in combat automatically hit.
-- If multiple attackers target the same foe, roll all damage dice and keep the single highest result. All actions are declared before being resolved.
-- If an attack would take a PC's HP exactly to 0, refer to the [Scars](#scars-table) table to see how they are uniquely impacted.
+- Atakujący rzuca kością obrażeń dla swojej broni i odejmuje pancerz celu, a następnie odejmuje pozostałą wartość od OCHR przeciwnika. Ataki w walce trafiają automatycznie.
+- Jeśli kilku atakujących celuje w tego samego przeciwnika, rzuć wszystkimi kośćmi obrażeń i zachowaj jeden najwyższy wynik. Wszystkie akcje są deklarowane przed ich rozwiązaniem.
+- Gdy obrażenia zadane postaci redukują jej **OCHR dokładnie do 0**, bohater może doznać nieodwracalnych zmian. Aby dowiedzieć się więcej patrz [Blizny](#scars-table).
 
-### Attack Modifiers
+### Modyfikatory ataku
 
-- If fighting from a position of weakness (such as through cover or with bound hands), the attack is _Impaired_, and the attacker must roll 1d4 damage regardless of the attacks damage die. Unarmed attacks always do d4 damage.
-- If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is _Enhanced_, allowing the attacker to roll 1d12 damage instead of their normal die.
-- Attacks with the _Blast_ quality affect all targets in the noted area, rolling separately for each affected character. This can be anything from explosions to a dragon’s breath or the impact of a meteorite. If unsure how many targets can be affected, _roll the related damage die for a result_.
-- If attacking with two weapons at the same time, roll both damage dice and keep the single highest result (denoted with a plus symbol, e.g. d8+d8).
+- Jeśli walczysz ze słabszej pozycji (np. przez osłonę lub ze związanymi rękoma), atak jest _osłabiony_ i atakujący musi rzucić 1k4 obrażeń, bez względu na kość obrażeń ataku. Ataki bez broni zawsze zadają 1k4 obrażeń.
+- Jeśli walczysz w przewadze (np. przeciwko bezbronnemu wrogowi lub poprzez odważny manewr), atak jest _wzmocniony_, pozwalając atakującemu na zadanie 1k12 obrażeń zamiast normalnej liczby.
+- Ataki z cechą _podmuch_ wpływają na wszystkie cele w oznaczonym obszarze i są rzucane oddzielnie dla każdej dotkniętej postaci. Podmuch odnosi się do całej grupy efektów obszarowych, od klasycznej eksplozji, przez oddech smoka, aż po uderzenie meteorytu. Jeśli nie jesteś pewien ile celów może zostać dotkniętych, _rzuć odpowiednią kością obrażeń_, aby uzyskać wynik.
+- Jeśli atakujesz dwoma rodzajami broni jednocześnie, rzuć obiema kostkami obrażeń i zatrzymaj pojedynczy, najwyższy wynik (taki podwójny atak jest oznaczony symbolem plus, np. k8+k8).
 
-### Critical Damage
+### Obrażenia krytyczne
 
-- Damage that reduces a target's HP below zero is subtracted _from their STR_ by the amount of damage remaining. The target must then immediately make a STR save to avoid taking **Critical Damage**, using their _new STR score_. On a success, the target is still in the fight (albeit with a lower STR score) and must continue to make critical damage saves when incurring damage.
-- Any PC that suffers Critical Damage cannot do anything but crawl weakly, grasping for life. If given aid (such as bandages), they will stabilize. If left untreated, they die within the hour. NPCs and monsters that fail a Critical Damage save are considered dead, per the **Warden's** discretion. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a critical damage save. 
+- Obrażenia, które redukują OCHR celu poniżej zera, zmniejszają _SIŁ celu_ o ich pozostałą ilość. Ofiara musi wykonać rzut obronny SIŁ, aby uniknąć **obrażeń krytycznych**, przy czym używa do tego _nowej wartości atrybutu SIŁ_ (już po redukcji). Dodatkowo, niektórzy wrogowie posiadają specjalne umiejętności lub efekty, które są uruchamiane, gdy ich cel nie zaliczy testu na obrażenia krytyczne. W przypadku powodzenia, cel nadal bierze udział w walce (choć z niższym poziomem SIŁ) i musi nadal wykonywać test na obrażenia krytyczne jeśli otrzymuje kolejne obrażenia.
+- Każda postać, która otrzyma obrażenia krytyczne, nie może zrobić nic poza słabym czołganiem się i kurczowym chwytaniem się resztek życia. Jeśli otrzyma pomoc (np z użyciem bandaży) jej stan ulegnie stabilizacji. Jeśli postać nie będzie leczona, umrze w ciągu godziny. Postacie niezależne i potwory, którym nie powiedzie się rzut na obrażenia krytyczne, są uznawane za martwe (według uznania **Strażnika**). Dodatkowo, niektórzy wrogowie będą posiadać specjalne zdolności lub efekty, które zostaną uruchomione, gdy ich cel nie zda testu na obrażenia krytyczne. 
 
-### Attribute Loss
+### Utrata punktów atrybutu
 
-- If a PC takes damage outside of combat, they should instead receive damage to an Attribute, typically STR.
-- If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their WIL is reduced to 0, they are delirious. Complete DEX and WIL loss renders the character unable to act until they are restored through extended rest or by extraordinary means.
+- Jeśli postać otrzymuje obrażenia poza walką, powinna odejmować obrażenia bezpośrednio od atrybutu, zazwyczaj SIŁ.
+- Jeśli SIŁ postaci zostanie zredukowana do 0, postać umiera. Jeśli ZRE postaci osiągnie 0, bohater jest sparaliżowany. W sytuacji gdy WOL spadnie do 0, postać zaczyna majaczyć. Całkowita utrata ZRE i WOL czyni postać niezdolną do działania, dopóki nie odzyska ich poprzez dłuższy odpoczynek lub za pomocą nadzwyczajnych środków.
 
-### Character Death
+### Śmierć postaci
 
-- When a character dies, the player should create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+- Kiedy postać ginie, gracz powinien stworzyć nową postać lub przejąć kontrolę nad najemnikiem. Nowa postać dołącza natychmiast do drużyny w celu ograniczenia przestojów.
 
-### Detachments
+### Oddziały
 
-- Large groups of similar combatants fighting together are treated as a single _Detachment_. When a _detachment_ takes **Critical Damage**, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
-- Attacks against detachments by individuals are _impaired_ (excluding _blast_ damage). Attacks against individuals by detachments are _enhanced_ and deal _blast_ damage.
+- Duże grupy podobnych wrogów walczących razem są traktowane jako pojedyncze _oddziały_. Kiedy _oddział_ otrzymuje **obrażenia krytyczne**, zostaje rozproszony lub znacznie osłabiony. Kiedy osiągnie 0 SIŁ, zostaje zniszczony.
+- Ataki jednostek na oddziały są _osłabione_ (za wyjątkiem obrażeń od podmuchu). Ataki oddziałów na jednostki są _wzmocnione_ i zadają obrażenia z cechą _podmuch_.
 
-### Retreat
+### Odwrót
 
-- Running away from a dire situation always requires a successful DEX save, as well as a safe destination to run to.
+- Ucieczka w trudnej sytuacji zawsze wymaga udanego rzutu obronnego ZRE, jak również bezpiecznego miejsca, do którego można uciec.
 
-### Ranged Attacks
+### Ataki dystansowe
 
-- Ranged weapons can target any enemy near enough to see the whites of their eyes. Attacks against especially distant targets are _Impaired_.
-- Ammunition is not tracked unless otherwise specified. 
+- Broń dystansowa może trafić każdego wroga znajdującego się na tyle blisko, że widać białka jego oczu. Ataki na szczególnie odległe cele są _osłabione_.
+- Ilość amunicji nie jest kontrolowana, chyba że określono inaczej. 
 
-## Scars
+## Blizny
 
-If damage to a PC would reduce their HP to exactly 0, look up the result on the table below based on the _amount of HP lost in the attack_. For example, if a PC went from 3 HP to 0 HP, they would look at entry #3 (Walloped). 
+Jeśli obrażenia zadane postaci gracza zmniejszą jego OCHR dokładnie do 0, należy sprawdzić wynik w poniższej tabeli na podstawie _ilości OCHR utraconej w wyniku ataku_. Na przykład, jeśli postać została zredukowana z 3 OCHR do 0, należy sprawdzić pozycję numer 3 (Powalony). 
+
 
 ### Scars Table
 
-|             |                                                                                                                                                                                                                           |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **HP Lost** | **Result**                                                                                                                                                                                                                |
-| 1           | Lasting Scar: Roll 1d6. 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                     |
-| 2           | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max HP, take the new result.                                                                           |
-| 3           | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max HP.                                                         |
-| 4           | Broken Limb: Roll 1d6. 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max HP, take the new result.                                                                         |
-| 5           | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max HP, take the new result.                                                           |
-| 6           | Reorienting Head Wound: Roll 1d6. 1-2: STR, 3-4: DEX, 5-6: WIL. Roll 3d6. If the total is higher than your current attribute, take the new result.                                                                        |
-| 7           | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max DEX, take the new result.                                                              |
-| 8           | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a WIL save. If you pass, increase your max WIL by 1d4.                                                                              |
-| 9           | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max WIL, take the new result.                                                                                    |
-| 10          | Sundered: An appendage is torn off, crippled, or useless. (The Warden will tell you which.) Then make a WIL save. If you pass, increase your max WIL by 1d6.                                                              |
-| 11          | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP.                                                                         |
-| 12          | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+|                   |                                                                                                                                                                                                                                                                                                                          |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Utracona OCHR** | **Rezultat**                                                                                                                                                                                                                                                                                                             |
+| 1                 | Trwała blizna: Rzuć 1k6 &#124; 1: Kark, 2: Ręce, 3: Oko, 4: Klatka piersiowa, 5: Nogi, 6: Ucho. Rzuć 1k6. Jeśli suma jest wyższa niż twoja maksymalna OCHR,  wynik staje się twoją nową maksymalną OCHR.                                                                                                                 |
+| 2                 | Gruchoczący cios: Jesteś zdezorientowany i roztrzęsiony. Opisz, jak się koncentrujesz. Rzuć 1k6. Jeśli suma jest wyższa niż twoja maksymalna OCHR,  wynik staje się twoją nową maksymalną OCHR.                                                                                                                          |
+| 3                 | Powalony: Zostajesz wysłany w powietrze i lądujesz płasko na twarzy. Odczuwasz dyskomfort, dopóki nie odpoczniesz przez kilka godzin. Następnie, rzuć 1k6. Dodaj tę liczbę do swojej maksymalnej OCHR.                                                                                                                   |
+| 4                 | Złamana kość: Rzuć 1k6 &#124; 1-2: Noga, 3-4: Ramię, 5: Żebro, 6: Czaszka. Po zrośnięciu, rzuć 2k6. Jeśli suma jest wyższa niż twoja maksymalna OCHR,  wynik staje się twoją nową maksymalną OCHR.                                                                                                                       |
+| 5                 | Choroba: Cierpisz na obrzydliwą, nieprzyjemną infekcję. Kiedy wydobrzejesz, rzuć 2k6. Jeśli suma jest wyższa niż twoja maksymalna OCHR,  wynik staje się twoją nową maksymalną OCHR.                                                                                                                                     |
+| 6                 | Poważna rana głowy: Rzuć 1k6 &#124; 1-2: SIŁ, 3-4: ZRE, 5-6: WOL. Rzuć 3k6. Jeśli wynik jest wyższy niż aktualny poziom zdolności, staje się on nową wartością wskazanej cechy.                                                                                                                                          |
+| 7                 | Wstrząs: Ledwo możesz się poruszać, dopóki nie otrzymasz poważnej pomocy i nie odpoczniesz. Po wyzdrowieniu, rzuć 3k6. Jeśli suma jest wyższa niż twoja maksymalna wartość ZRE, nowy wynik staje się nową maksymalną wartością.                                                                                          |
+| 8                 | Ogłuszenie: Nic nie słyszysz dopóki nie uzyskasz jakiejś wyjątkowej pomocy. Niezależnie od tego, wykonaj rzut obronny WOL. Jeśli test się uda, zwiększ swoją maksymalną WOL o 1k4.                                                                                                                                       |
+| 9                 | Uraz psychiczny: Jakaś ukryta część twojej psychiki została wytrącona z równowagi. Rzuć 3k6. Jeśli suma jest wyższa niż twoja maksymalna wartość WOL, nowy wynik staje się nową maksymalną wartością.                                                                                                                    |
+| 10                | Utrata kończyny: Kończyna została oderwana, jest kaleka lub bezużyteczna. Strażnik określi, która to kończyna. Następnie wykonaj rzut obronny WOL. Jeśli test się uda, zwiększ swoją maksymalną wartość WOL o 1k6.                                                                                                       |
+| 11                | Śmiertelna rana: Odczuwasz dyskomfort i zostajesz wyłączony z gry. Umierasz w ciągu godziny, chyba że zostaniesz uleczony. Po wyzdrowieniu, rzuć 2k6. Wynik staje się twoją nową maksymalną OCHR.                                                                                                                        |
+| 12                | Skazany na zagładę: Śmierć wydawała się bliska, ale jakoś udało ci się przeżyć. Jeśli twój następny rzut obronny przeciwko obrażeniom krytycznym jest nieudany, umierasz okropną śmiercią. Jeśli zdasz test, rzuć 3k6. Jeśli suma jest większa niż twoje maksymalne OCHR, weź nowy wynik jako aktualną, maksymalną OCHR. |
 
-## Magic
 
-### Spellbooks 
+## Magia
 
-- **Spellbooks** contain a single spell and take up one slot. They cannot be easily transcribed or created; instead they are recovered from places like tombs, dungeons, and manors.
-- Spellbooks sometimes display unusual properties or limitations, such as producing a foul or unearthly smell when opened, possessing an innate intelligence, or being legible only when held in moonlight.
-- Spellbooks will attract the attention of those who seek the arcane power within, and it is considered dangerous to display them openly.
+### Księgi zaklęć 
 
-### Casting Spells
+- **Księgi zaklęć** zawierają jedno zaklęcie i zajmują jedno miejsce ekwipunku. Nie można ich przepisać ani stworzyć, zamiast tego są pozyskiwane z miejsc takich jak grobowce, lochy i rezydencje.
+- Księgi zaklęć czasami wykazują niezwykłe właściwości lub ograniczenia, takie jak wydzielanie nieprzyjemnego lub nieziemskiego zapachu po otwarciu, wrodzona inteligencja lub możliwość czytania ich tylko wtedy, gdy są trzymane w świetle księżyca.
+- Księgi zaklęć przyciągają uwagę tych, którzy szukają w nich magicznej mocy, a otwarte wystawianie ich na widok publiczny jest uważane za niebezpieczne.
 
-- Anyone can cast a spell by holding a Spellbook in both hands and reading its contents aloud. They must then add a **Fatigue** to inventory. 
-- Given time and safety, PCs can _enhance_ a spell's impact (e.g., affecting multiple targets, increasing its power, etc.) without any additional cost. 
-- If the PC is _deprived_ or in danger (such as during combat), the Warden may require a PC to make a WIL save to avoid any ill-effects from casting the spell. Consequences of failure are on par with the intended effect and may result in added **Fatigue**, the destruction of the Spellbook, injury, and even death.
+### Rzucanie zaklęć
 
-### Scrolls
+- Każda postać może rzucić zaklęcie, trzymając księgę zaklęć w obu rękach i czytając jej zawartość na głos. Następnie musi zaznaczyć w ekwipunku **zmęczenie**, zajmując jedno miejsce. 
+- Jeśli postać ma czas i jest bezpieczna, może _wzmocnić_ zaklęcie (np. rozszerzając efekt na wiele celów, zwiększając jego moc, itp.) bez dodatkowych kosztów.
+- Jeśli postać gracza odczuwa _dyskomfort_ lub znajduje się w niebezpieczeństwie (np w trakcie walki), Strażnik może zażądać wykonania rzutu obronnego WOL, aby uniknąć negatywnych skutków ubocznych rzucania zaklęcia. Konsekwencje porażki odpowiadają zamierzonemu efektowi zaklęcia i mogą skutkować dodatkowym **zmęczeniem**, zniszczeniem księgi zaklęć, obrażeniami, a nawet śmiercią.
 
-**Scrolls** are similar to Spellbooks, however:
+### Zwoje
 
-- They are _petty_.
-- They do not cause **Fatigue**.
-- They disappear after one use.
+**Zwoje** są podobne do ksiąg zaklęć, jednakże:
 
-### Relics
+- Mają cechę _drobny_.
+- Nie powodują **zmęczenia**.
+- Znikają po jednym użyciu.
 
-**Relics** are items imbued with a magical spell or power. They do not cause Fatigue. Relics usually have limited use, as well as a **Recharge** condition.
+### Artefakty
+
+**Artefakty** to przedmioty nasycone magicznym zaklęciem lub mocą. Nie powodują zmęczenia. Mają zwykle ograniczone zastosowanie, jak również warunek ponownego **doładowania**. 
