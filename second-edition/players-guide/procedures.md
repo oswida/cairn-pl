@@ -8,295 +8,296 @@ nav_order: 4
 
 # Procedury
 
-## Dungeon Exploration
+## Eksploracja lochów
 
-### The Basics
+### Podstawy
 
-- The dungeon exploration cycle (see below) is divided into a series of **Turns**, **Actions**, and their consequences. 
-- On their **turn**, a character can move a distance equal to their torchlight's perimeter (about 40ft), and perform one **action**. Players can use their **action** to move up to three times that distance though that will increase the chance of triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
-- The **Warden** should present obvious information about an area and its dangers freely and at no cost. Moving quickly or without caution may increase the chance of encountering a wandering monster, springing a trap, or triggering a roll on the [**Dungeon Events**](#dungeon-events) table.
+- Cykl eksploracji lochów (patrz poniżej) jest podzielony na serię **Tur**, **Akcji** i ich konsekwencji. 
+- W swojej **turze** postać może przemieścić się na odległość równą zasięgowi pochodni (około 12 m) i wykonać jedną **akcję**. Gracze mogą użyć swojej **akcji**, aby przemieścić się do trzech razy na tę odległość, choć zwiększy to szansę na uruchomienie rzutu na tabelę [**Wydarzeń w lochu**] (#wydarzenia-w-lochu).
+- **Strażnik** powinien przedstawiać oczywiste informacje o obszarze i jego niebezpieczeństwach bez ograniczeń i bez ponoszenia kosztów. Poruszanie się szybko lub nieostrożnie może zwiększyć szansę na napotkanie błąkającego się potwora, uruchomienie pułapki lub wywołanie rzutu na tabelę [**Wydarzeń w lochach**](#wydarzenia w lochach).
 
-> Although the term "dungeon" is used here, it can mean any dangerous locale (mansions, farmhouses, adventure site, etc).
+> Chociaż używany jest tutaj termin „loch”, może on oznaczać dowolne niebezpieczne miejsce (rezydencje, domy wiejskie, inne miejsce przygody itp.).
 
-### Dungeon Exploration Cycle
+### Cykl eksploracji podziemi
 
-1. The **Warden** describes the party's surroundings and any immediate dangers (combat, traps, surprises, etc.). The players then declare their character's intended movements and **actions**. 
-2. The Warden resolves the **actions** of each character simultaneously, along with any **actions** that are already in progress. Remember, the Die of Fate can be a useful tool whenever the Warden is in doubt!
-3. The players record any loss of resources and any new conditions (i.e. item use, _deprivation_, etc). The cycle then begins again. If appropriate, the **Warden** should roll on the [**Dungeon Events**](#dungeon-events) table. Keep common sense in mind when interpreting the results! 
+1. **Strażnik** opisuje otoczenie drużyny i wszelkie bezpośrednie zagrożenia (walka, pułapki, niespodzianki itp.). Następnie gracze deklarują planowane ruchy i **akcje** swoich postaci.
+2. Strażnik rozpatruje **akcje** każdej postaci jednocześnie, wraz z **akcjami**, które są już w toku. Pamiętaj, że Kość Przeznaczenia może być przydatnym narzędziem, gdy Strażnik ma wątpliwości! 
+3. Gracze odnotowują wszelkie straty zasobów i nowe stany (np. zużycie przedmiotów, _dyskomfort_ itp.). Następnie cykl rozpoczyna się od nowa. W razie potrzeby **Strażnik** powinien rzucić na tabelę [**Wydarzeń w lochu**](#wydarzenia-w-lochu). Podczas interpretacji wyników należy zachować zdrowy rozsądek!
 
-### Dungeon Events
+### Wydarzenia w lochu
 
-Exploring a dungeon is always dangerous, and time must always be weighed against the risk of awakening the location's denizens, natural hazards, and worse.  
-When the party:
+Eksploracja lochów jest zawsze niebezpieczna, a upływ czasu musi być zawsze zestawiony z ryzykiem przebudzenia mieszkańców lokacji, naturalnymi zagrożeniami i gorszymi rzeczami.  
+Kiedy drużyna:
 
-- Spends more than one dungeon cycle in a single room or location 
-- Moves quickly or haphazardly through a room
-- Moves into a new area, level, or zone
-- Creates a loud disturbance 
+- Spędza więcej niż jeden cykl lochu w jednym pomieszczeniu lub lokacji. 
+- Porusza się szybko lub nieuważnie po pomieszczeniu
+- Przechodzi do nowego obszaru, poziomu lub strefy
+- Głośno hałasuje
 
-**Roll on the table below.**
+**Rzuć na poniższą tabelę.**
 
-|       |                 |                                                                                                           |
-| :---: | :-------------: | :-------------------------------------------------------------------------------------------------------: |
-| **1** |  **Encounter**  |    Roll on an encounter table. Possibly **hostile**. (See [Reactions](/wip/2e/core-rules/#reactions).)    |
-| **2** |    **Sign**     |                  A clue, spoor, track, abandoned lair, scent, victim, etc is discovered.                  |
-| **3** | **Environment** |      Surroundings shift or escalate. Water rises, ceilings collapse, a ritual nears completion, etc.      |
-| **4** |    **Loss**     | Torches are blown out, an ongoing spell fizzles, etc. The party must resolve the effect before moving on. |
-| **5** | **Exhaustion**  |   The party must rest (triggering another roll on this table), add a **Fatigue**, or consume a ration.    |
-| **6** |    **Quiet**    |                          The party is left alone (and safe) for the time being.                           |
+|       |               |                                                                                                                          |
+| :---: | :-----------: | :----------------------------------------------------------------------------------------------------------------------: |
+| **1** | **Spotkanie** | Rzuć na tabelę spotkań. Prawdopodobnie **wrogie**. (Zobacz [Reakcje](/second-edition/players-guide/core-rules/#reakcje). |
+| **2** |  **Sygnał**   |                         Odkryto wskazówkę, ślad, trop, opuszczoną kryjówkę, zapach, ofiarę itp.                          |
+| **3** | **Otoczenie** |        Otoczenie zmienia się lub eskaluje. Woda się podnosi, sufity się zawalają, rytuał zbliża się do końca itp.        |
+| **4** |  **Strata**   |    Pochodnie zostały zdmuchnięte, trwające zaklęcie wygasa itp. Drużyna musi rozwiązać efekt przed przejściem dalej.     |
+| **5** | **Znużenie**  |    Drużyna musi odpocząć (uruchamiając kolejny rzut na tej tabeli), dodać **zmęczenie** lub zużyć rację żywnościową.     |
+| **6** |  **Spokój**   |                                      Grupa ma na razie spokój (i jest bezpieczna).                                       |
 
-### Actions
+### Akcje
 
-- **Actions** are any non-passive activities, such as _searching for traps_, _forcing open a door_, _listening for danger_, _disarming a trap_, _engaging an enemy in combat_, _casting a spell_, _dodging a trap_, _running away_, _resting_, etc. 
-- Some **actions** have special rules (see below), while others may take multiple **turns** to complete. 
-- Loud or noticeable **actions** may also trigger an **encounter** with the dungeon's denizens. 
+- **Akcje** to wszelkie aktywne działania, takie jak _poszukiwanie pułapek_, _wymuszanie otwarcia drzwi_, _nasłuchiwanie niebezpieczeństwa_, _rozbrajanie pułapki_, _angażowanie wroga w walkę_, 
+- Niektóre **akcje** mają specjalne zasady (patrz poniżej), podczas gdy inne mogą wymagać wielu **tur** do ukończenia. 
+- Głośne lub łatwo zauważalne **działania** mogą również wywołać **spotkanie** z mieszkańcami lochu. 
 
-#### Searching
+#### Przeszukiwanie
 
-- A character can spend a **turn** performing an _exhaustive_ search of **one** object or location in an area, revealing any relevant hidden treasure, traps, secret doors, etc. 
-- Larger rooms and difficult or complex dungeon terrain may take a few **turns** to properly search.
-- Searching a room _first_ is a safer way to explore the dungeon, but it has a steep cost: time.
+- Postać może poświęcić **turę** na _dokładne_ przeszukanie **jednego** obiektu lub lokacji na danym obszarze, ujawniając wszelkie istotne ukryte skarby, pułapki, sekretne drzwi itp. 
+- Przeszukanie większych pomieszczeń i trudnego lub złożonego terenu lochów może zająć kilka **tur**.
+- Przeszukiwanie pomieszczeń _w pierwszej kolejności_ jest bezpieczniejszym sposobem eksploracji lochów, ale wiąże się z wysokim kosztem: upływem czasu.
 
-#### Resting
+#### Odpoczynek
 
-- A character can spend a turn **resting** to restore all **HP**.
-- A light source and a _safe location_ are required to **rest**. Present or oncoming danger makes **rest** impossible.
-- **Resting** does not restore **Fatigue**, as it is impossible to safely **Make Camp** in a dungeon.
+- Postać może poświęcić turę na **odpoczynek**, aby odzyskać wszystkie punkty **OCHR**.
+- Źródło światła i _bezpieczne miejsce_ są wymagane do **odpoczynku**. Aktualne lub nadchodzące niebezpieczeństwo uniemożliwia **odpoczynek**.
+- **Odpoczynek** nie przywraca **zmęczenia**, ponieważ niemożliwe jest bezpieczne **rozbicie obozu** w lochu.
 
-## Panic
+## Panika
 
-- A character that is surrounded by enemies, enveloped by darkness, or facing their greatest fears may experience _panic_. A **WIL** **save** is typically required to avoid losing control and becoming _panicked_. 
-- A _panicked_ character must make a **WIL** **save** to overcome their condition as an **action** on their **turn**.
-- A _panicked_ character has 0 **HP**, does not act in the first round of combat, and all of their attacks are _impaired_.  
+- Postać, która jest otoczona przez wrogów, spowita przez ciemność lub musi stawić czoła swoim największym lękom, może wpaść w _panikę_. Aby uniknąć utraty kontroli i popadnięcia w _panikę_, zazwyczaj wymagane jest wykonanie **rzutu obronnego WOL**. 
+- Aby przezwyciężyć _panikę_, postać musi wykonać **rzut obronny WOL** jako **akcję** w swojej **turze**.
+- Postać _spanikowana_ ma 0 **HP**, nie działa w pierwszej rundzie walki, a wszystkie jej ataki są _osłabione_.
 
-### Dungeon Elements
+### Elementy lochu
 
-#### Light
-- Torches and other radial sources of light illuminate 40ft of dungeon and beyond that only a dim outline of objects. Torches last until they are put out by a character or their environment.
-- A torch can be lit 3 times before permanently degrading. A lantern can be relit 6 times per oil can, but requires more inventory slots.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
+#### Światło
+- Pochodnie i inne promieniste źródła światła oświetlają 12 m lochu, a poza nim tylko niewyraźny zarys obiektów. Pochodnie działają dopóki nie zostaną zgaszone przez postać lub przez jej otoczenie.
+- Pochodnię można zapalić 3 razy, zanim ulegnie trwałej degradacji. Latarnię można ponownie zapalić 6 razy na każdy pojemnik z olejem, ale wymaga ona więcej miejsc w ekwipunku.
+- Postacie bez źródła światła mogą odczuwać _panikę_, dopóki ich sytuacja nie zostanie zmieniona. 
 
-#### Doors
+#### Drzwi
 
-- Doors and entryways may be locked, stuck, or blocked entirely. Characters can try to force a door open (or wedge it shut) using available resources (spikes, glue) or through raw ability. 
-- The party's marching order determines who is most impacted by whatever lies beyond a door.
-- A character can detect, through careful observation (listening, smelling, etc.), signs of life and other hazards through nearby doors and walls.
+- Drzwi i wejścia mogą być zamknięte, zaklinowane lub całkowicie zablokowane. Postacie mogą próbować otworzyć drzwi (lub je zablokować), korzystając z dostępnych zasobów (kolce, klej) lub wykorzystując swoje umiejętności. 
+- Szyk marszowy grupy określa, na kogo największy wpływ ma to, co znajduje się za drzwiami.
+- Postać może wykryć, poprzez uważną obserwację (nasłuchiwanie, wąchanie itp.), oznaki życia i inne zagrożenia przez pobliskie drzwi i ściany.
 
-#### Traps 
+#### Pułapki 
 
-- A cautious character should be presented with any and all information that would allow them the opportunity to _avoid_ springing a trap. An unwitting character will trigger a trap according to the fiction, or otherwise will have a 2-in-6 chance.
-- **Traps** can usually be detected by carefully **searching** a room.
-- Damage from traps is taken from Attributes (usually **STR** or **DEX**) and _not_ from **HP**. Armor can reduce damage, but only if applicable (e.g. a shield would not reduce damage from noxious gas).
+- Ostrożna postać powinna otrzymać wszelkie informacje, które pozwolą jej _uniknąć_ uruchomienia pułapki. Nieświadoma postać uruchomi pułapkę zgodnie z fikcją albo będzie miała szansę uruchomienia 2 na 6.
+- **Pułapki** można zazwyczaj wykryć poprzez dokładne **przeszukanie** pomieszczenia.
+- Obrażenia od pułapek są odejmowane od atrybutów (zazwyczaj **SIŁ** lub **ZRE**), a _nie_ od **OCHR**. Pancerz może zmniejszyć obrażenia, ale tylko jeśli ma to sens w fikcji (np. tarcza nie zmniejszy obrażeń od trującego gazu).
 
-## Wilderness Exploration
+## Eksploracja dziczy
 
-### Watches
+### Wachty
 
-- A day is divided into three **watches**, called _morning_, _afternoon_, and _night_. 
-- Each character can choose _one_ [**Wilderness Action**](#wilderness-actions) per **watch**. 
-- If the characters split up, each group is treated as an independent entity.
+- Dzień podzielony jest na trzy **wachty**, zwane _poranną_, _popołudniową_ i _nocną_. 
+- Każda postać może wybrać _jedną_ [**akcję dziczy**] (#akcje-dziczy) na **wachtę**. 
+- Jeśli postacie rozdzielają się, każda grupa jest traktowana jako niezależna jednostka.
 
-### Points
+### Punkty orientacyjne
 
-- Potential destinations on a map are called **points**. 
-- One or more **watches** may be required to journey between two **points** on a map, depending on the path, terrain, weather, and party status.
-- The party has a rough idea of the challenges involved to get to their destination, but rarely any specifics. 
+- Potencjalne miejsca docelowe na mapie nazywane są **punktami**.
+- Podróż między dwoma **punktami** na mapie może wymagać jednej lub więcej **wacht**, w zależności od ścieżki, terenu, pogody i statusu drużyny.
+- Podróżnicy mają ogólne pojęcie o wyzwaniach związanych z dotarciem do celu, ale rzadko znają jakiekolwiek szczegóły. 
 
-### Travel Duration
+### Czas trwania podróży
 
-Travel time in Cairn is counted in watches, divided into three eight-hour segments per day. However, as most parties elect to spend the third watch of the day resting, one can use "days" as a shorthand for travel time.
+Czas podróży w Cairn liczony jest w wachtach, podzielonych na trzy ośmiogodzinne segmenty dziennie. Ponieważ jednak większość graczy decyduje się spędzić trzecią wachtę dnia na odpoczynku, można użyć „dni” jako skrótu do czasu podróży.
 
-To determine the distance between two points, combine all penalties from the path, terrain, and weather difficulty tables, taking into account any changes to those elements along the route. For travel via waterways, refer to the surrounding terrain difficulty. For especially vast terrain, assign a penalty of up to +2 watches to the journey.
+Aby określić odległość między dwoma punktami, połącz wszystkie kary z tabel trudności ścieżki, terenu i pogody, biorąc pod uwagę wszelkie zmiany tych elementów na trasie. W przypadku podróży drogami wodnymi należy odnieść się do trudności otaczającego terenu. W przypadku szczególnie rozległego terenu należy przypisać do podróży karę do +2 wacht.
 
-The weather, terrain, darkness, injured party members, and other obstacles can impact travel or even make it impossible! In some cases, the party may need to add **Fatigue** or expend resources in order to sustain their pace. Mounts, guides, and maps can increase the party’s travel speed or even negate certain penalties.
+Pogoda, teren, ciemność, ranni członkowie drużyny i inne przeszkody mogą wpłynąć na podróż lub nawet ją uniemożliwić! W niektórych przypadkach drużyna może być zmuszona do dodania **zmęczenia** lub wydania zasobów, aby utrzymać tempo. Wierzchowce, przewodnicy i mapy mogą zwiększyć prędkość podróży, a nawet zniwelować niektóre kary.
 
-### Path Difficulty
 
-|            |             |                          |
-| ---------- | ----------- | ------------------------ |
-| **Path**   | **Penalty** | **Odds of Getting Lost** |
-| Roads      | None        | None                     |
-| Trails     | +1 Watch    | 2-in-6                   |
-| Wilderness | +2 Watches  | 3-in-6                   |
+### Stopień trudności trasy
 
-|                   |             |
-| ----------------- | ----------- |
-| **Path Distance** | **Penalty** |
-| Short             | +1 Watch    |
-| Medium            | +2 Watches  |
-| Long              | +3 Watches  |
+|           |           |                             |
+| --------- | --------- | --------------------------- |
+| **Trasa** | **Kara**  | **Szansa na zgubienie się** |
+| Drogi     | None      | None                        |
+| Ścieżki   | +1 wachta | 2-na-6                      |
+| Dzicz     | +2 wachty | 3-na-6                      |
 
-## Terrain Difficulty
+|                         |           |
+| ----------------------- | --------- |
+| **Odległość na trasie** | **Kara**  |
+| Mała                    | +1 wachta |
+| Średnia                 | +2 wachty |
+| Duża                    | +3 wachty |
 
-|                |                               |             |                                                                                                       |
-| -------------- | ----------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
-| **Difficulty** | **Terrain**                   | **Penalty** | **Factors**                                                                                           |
-| **Easy**       | **Plains, plateaus, valleys** | none        | _Safe areas for rest, fellow travelers, good visibility_                                              |
-| **Tough**      | **Forests, deserts, hills**   | +1 Watch    | _Wild animals, flooding, broken equipment, falling rocks, unsafe shelters, hunter's traps_            |
-| **Perilous**   | **Mountains, jungles, swamp** | +2 Watches  | _Quicksand, sucking mud, choking vines, unclean water, poisonous plants and animals, poor navigation_ |
+## Stopień trudności terenu
 
-### Weather
+|                   |                                 |           |                                                                                                                   |
+| ----------------- | ------------------------------- | --------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Trudność**      | **Teren**                       | **Kara**  | **Okoliczności**                                                                                                  |
+| **Łatwy**         | **Równiny, płaskowyże, doliny** | brak      | _Bezpieczne miejsca do odpoczynku, współtowarzysze podróży, dobra widoczność_                                     |
+| **Trudny**        | **Lasy, pustynie, wzgórza**     | +1 wachta | _Dzikie zwierzęta, powodzie, uszkodzony sprzęt, spadające skały, niebezpieczne schronienia, pułapki myśliwych_    |
+| **Niebezpieczny** | **Góry, dżungle, bagna**        | +2 wachty | _Ruchome piaski, wciągające błoto, dławiące pnącza, nieczysta woda, trujące rośliny i zwierzęta, słaba nawigacja_ |
 
-Each day, the Warden should roll on the weather table for the appropriate season. If the "**Extreme**" weather result is rolled twice in a row, the weather turns to "**Catastrophic**". A squall becomes a hurricane, a storm floods the valley, etc.
+### Pogoda
 
-#### Weather Type
+Każdego dnia Strażnik powinien rzucić na tabelę pogody dla odpowiedniej pory roku. Jeśli wynik „**Ekstremalna**” zostanie wyrzucony dwa razy z rzędu, pogoda zmienia się w „**Katastrofalną**”. Szkwał staje się huraganem, burza zalewa dolinę itd.
 
-|        |            |            |            |            |
-| :----: | :--------: | :--------: | :--------: | :--------: |
-| **d6** | **Spring** | **Summer** |  **Fall**  | **Winter** |
-| **1**  |    Nice    |    Nice    |    Fair    |    Fair    |
-| **2**  |    Fair    |    Nice    |    Fair    | Unpleasant |
-| **3**  |    Fair    |    Fair    | Unpleasant | Inclement  |
-| **4**  | Unpleasant | Unpleasant | Inclement  | Inclement  |
-| **5**  | Inclement  | Inclement  | Inclement  |  Extreme   |
-| **6**  |  Extreme   |  Extreme   |  Extreme   |  Extreme   |
+#### Typ pogody
 
-#### Weather Difficulty
+|        |              |              |              |              |
+| :----: | :----------: | :----------: | :----------: | :----------: |
+| **k6** |  **Wiosna**  |   **Lato**   |  **Jesień**  |   **Zima**   |
+| **1**  |    Piękna    |    Piękna    |    Dobra     |    Dobra     |
+| **2**  |    Dobra     |    Piękna    |    Dobra     | Nieprzyjemna |
+| **3**  |    Dobra     |    Dobra     | Nieprzyjemna | Niekorzystna |
+| **4**  | Nieprzyjemna | Nieprzyjemna | Niekorzystna | Niekorzystna |
+| **5**  | Niekorzystna | Niekorzystna | Niekorzystna | Ekstremalna  |
+| **6**  | Ekstremalna  | Ekstremalna  | Ekstremalna  | Ekstremalna  |
 
-|                  |                                                                                      |                                                           |
-| :--------------: | ------------------------------------------------------------------------------------ | --------------------------------------------------------- |
-|   **Weather**    | **Effect**                                                                           | **Examples**                                              |
-|     **Nice**     | Favorable conditions for travel.                                                     | _Clear skies, sunny_                                      |
-|     **Fair**     | Favorable conditions for travel.                                                     | _Overcast, breezy_                                        |
-|  **Unpleasant**  | Add a **Fatigue** _or_ add one **watch** to the journey.                             | _Gusting winds, rain showers, sweltering heat, chill air_ |
-|  **Inclement**   | Add a **Fatigue** _or_ add **+1 watch**. Increase terrain **Difficulty** by a step.  | _Thunderstorms, lightning, rain, muddy ground_            |
-|   **Extreme**    | Add a **Fatigue** _and_ add **+1 watch**. Increase terrain **Difficulty** by a step. | _Blizzards, freezing winds, flooding, mud slides_         |
-| **Catastrophic** | Most parties cannot travel under these conditions.                                   | _Tornados, tidal waves, hurricane, volcanic eruption_     |
+#### Opis warunków pogodowych
 
-### Wilderness Exploration Cycle
+|                   |                                                                                             |                                                     |
+| :---------------: | ------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+|    **Pogoda**     | **Efekt**                                                                                   | **Przykłady**                                       |
+|    **Piękna**     | Korzystne warunki do podróżowania.                                                          | _Czyste niebo, słonecznie_                          |
+|     **Dobra**     | Korzystne warunki do podróżowania.                                                          | _Pochmurno, wietrznie_                              |
+| **Nieprzyjemna**  | Dodaj **zmęczenie** _lub_ dodaj **1 wachtę** do czasu podróży.                              | _Porywisty wiatr, ulewa, upał, chłodne powietrze_   |
+| **Niekorzystna**  | Dodaj **zmęczenie** _lub_ dodaj **1 wachtę**. Zwiększ **trudność** terenu o jeden stopień.  | _Burze, błyskawice, deszcz, błotniste podłoże_      |
+|  **Ekstremalna**  | Dodaj **zmęczenie** _oraz_ dodaj **1 wachtę**. Zwiększ **trudność** terenu o jeden stopień. | _Śnieżyce, mroźne wiatry, powodzie, lawiny błotne_  |
+| **Katastrofalna** | Większość grup nie może podróżować w takich warunkach.                                      | _Tornada, fale pływowe, huragany, erupcje wulkanów_ |
 
-1. The **Warden** describes the current **point** or **region** on the map and how the path, weather, terrain, or party status might affect **travel speed**. The party plots or adjusts a given course towards their destination. 
-2. Each party member chooses a single **Wilderness Action**. The **Warden** narrates the results and then rolls on the [**Wilderness Events**](#wilderness-events) table. The party responds to the results.
-3. The **players** and the **Warden** record any loss of resources and new conditions (i.e. torch use, _deprivation_, etc), and the cycle repeats. 
+### Cykl eksploracji dziczy
 
-### Wilderness Events
+1. **Strażnik** opisuje aktualny **punkt** lub **region** na mapie oraz to, jak ścieżka, pogoda, teren lub status drużyny mogą wpłynąć na **prędkość podróży**. Drużyna wyznacza lub dostosowuje dany kurs do miejsca docelowego. 
+2. Każdy członek drużyny wybiera jedną **akcję dziczy**. **Strażnik** opowiada o rozstrzygnięciu tej akcji, a następnie rzuca na tabelę [**Wydarzenia w dziczy**](#wydarzenia-w-dziczy). Drużyna reaguje na wyniki jego rzutu.
+3. **Gracze** i **Strażnik** odnotowują każdą utratę zasobów i nowe warunki (np. zużycie pochodni, _dyskomfort_ itp.), i cykl się powtarza. 
 
-|       |                 |                                                                                                                                                                                                                            |
-| ----- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Encounter**   | Roll on an encounter table for that terrain type or location. Don’t forget to roll for NPC [reactions](/wip/2e/core-rules.md/#reactions) if applicable.                                                                    |
-| **2** | **Sign**        | The party discovers a clue, spoor, or indication of a nearby encounter, locality, hidden feature, or information about a nearby area.                                                                                      |
-| **3** | **Environment** | A shift in weather or terrain.                                                                                                                                                                                             |
-| **4** | **Loss**        | The party is faced with a choice that costs them a resource (rations, tools, etc), time, or effort.                                                                                                                        |
-| **5** | **Exhaustion**  | The party encounters a barrier, forcing effort, care or delays. This might mean spending extra time (and an additional **Wilderness Action**) or adding **Fatigue** to the PC's inventory to represent their difficulties. |
-| **6** | **Discovery**   | The party finds food, treasure, or other useful resources. The **Warden** can instead choose to reveal the primary feature of the area.                                                                                    |
+### Wydarzenia w dziczy
 
-### Wilderness Elements
+|       |               |                                                                                                                                                                                                                                      |
+| ----- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | **Spotkanie** | Rzuć na tabelę spotkań dla tego typu terenu lub lokalizacji. Nie zapomnij rzucić dla BN [reakcje](/second-edition/players-guide/core-rules.md/#reakcje) jeśli dotyczy.                                                               |
+| **2** | **Sygnał**    | Drużyna odkrywa wskazówkę, ślad lub oznakę pobliskiego spotkania, miejsca, ukrytej cechy lub informacji o pobliskim obszarze.                                                                                                        |
+| **3** | **Otoczenie** | Zmiana pogody lub ukształtowania terenu.                                                                                                                                                                                             |
+| **4** | **Strata**    | Drużyna staje przed wyborem, który kosztuje ją zasoby (racje żywnościowe, narzędzia itp.), czas lub wysiłek.                                                                                                                         |
+| **5** | **Znużenie**  | Drużyna napotyka barierę, która wymaga wysiłku, ostrożności lub opóźnień. Może to oznaczać poświęcenie dodatkowego czasu (i dodatkową **Akcję Dziczy**) lub dodanie **zmęczenia** do ekwipunku graczy, aby odzwierciedlić trudności. |
+| **6** | **Odkrycie**  | Drużyna znajduje jedzenie, skarb lub inne przydatne zasoby. **Strażnik** może zamiast tego ujawnić główną cechę obszaru.                                                                                                             |
 
-#### Night
+### Elementy dziczy
 
-- The party can choose to travel during the night and rest during the day, but night travel is far slower and more treacherous!
-- Traveling at night is always more dangerous! The **Warden** should roll _twice_ on the [**Wilderness Events**](#wilderness-events) table.
-- Some terrain and weather may be easier to traverse at night (desert, for example). The **Warden** should balance these challenges along with any other.
+#### Noc
 
-#### Sleep
+- Drużyna może zdecydować się na podróż w nocy i odpoczynek w ciągu dnia, ale nocne podróże są znacznie wolniejsze i bardziej zdradliwe!
+- Podróżowanie nocą jest zawsze bardziej niebezpieczne! **Strażnik** powinien rzucić _dwukrotnie_ na tabelę [**Wydarzeń w Dziczy**](#wydarzenia-w-dziczy).
+- Niektóre tereny i warunki pogodowe mogą być łatwiejsze do pokonania w nocy (na przykład pustynia). **Strażnik** powinien zrównoważyć te wyzwania.
 
-- The last **watch** of the day is typically reserved for the [**Make Camp**](#make-camp) action.
-- Characters typically need to sleep each day. Anything beyond a minor interruption can negate or cancel the benefits of sleep.
-- If the party skips the **Make Camp** action, they each add a **Fatigue** to their inventory and are _deprived_. Additionally, traveling when sleep-deprived raises the terrain **Difficulty** by a step (i.e. _Easy_ becomes _Tough_).
+#### Sen
 
-#### Light
+- Ostatnia **wachta** dnia jest zazwyczaj zarezerwowana dla akcji [**Przygotowanie obozu**](#przygotowanie-obozu).
+- Postacie zazwyczaj potrzebują snu każdego dnia. Wszystko, co wykracza poza drobne przerwy, może zanegować lub anulować korzyści płynące ze snu.
+- Jeśli drużyna pominie akcję **Przygotowanie obozu**, każda postać dodaje **zmęczenie** do swojego ekwipunku i odczuwa _dyskomfort_. Dodatkowo, podróżowanie w stanie niewyspania podnosi **Trudność** terenu o jeden stopień (tj. _Łatwy_ staje się _Trudny_).
 
-- Torches and other radial sources of light illuminate 40ft ahead of the party, but beyond that only provides a dim outline of objects.
-- Characters without a light source may suffer from _panic_ until their situation is remedied. 
-- Environmental conditions (sudden gusts of wind, dust, water, etc.) can easily blow out a torch.
+#### Światło
 
-##### Light Sources
+- Pochodnie i inne promieniste źródła światła oświetlają 12 m przed drużyną, na dalsze odległości ujawniają jedynie niewyraźny zarys obiektów.
+- Postacie bez źródła światła mogą wpaść w _panikę_, dopóki ich sytuacja nie zostanie zmieniona. 
+- Warunki środowiskowe (nagłe podmuchy wiatru, kurz, woda itp.) mogą łatwo zdmuchnąć pochodnię.
 
-- A torch can be lit 3 times before degrading. 
-- A lantern can be relit indefinitely but requires a separate oil can (6 uses).
+##### Źródła światła
 
-### Wilderness Actions
+- Pochodnia może być zapalona 3 razy zanim ulegnie zniszczeniu. 
+- Latarnia może być zapalana bez końca, ale wymaga osobnego pojemnika z olejem (6 użyć).
 
-#### Travel
+### Akcje dziczy
 
-- Travel begins. Obvious locations, features, and terrain of nearby areas are revealed according to their distance. This action is typically taken by the entire party as one.
-- The party rolls 1d6 to see if they get lost along the way. This risk can increase or decrease, depending on path **Difficulty**, maps, party skills, and guides.
-- If lost, the party may need to spend a **Wilderness Action** to recover their way. Otherwise, the party reaches the next **point** along their route. 
+#### Podróż
 
-> Remember to compare the results of getting lost to the relevant path **Difficulty**. 
+- Rozpoczęcie podróży. Oczywiste lokalizacje, cechy i ukształtowanie terenu pobliskich obszarów są ujawniane w zależności od odległości. Ta akcja jest zazwyczaj wykonywana przez całą drużynę.
+- Drużyna rzuca 1k6, aby sprawdzić, czy zgubi się po drodze. Ryzyko to może wzrosnąć lub zmaleć w zależności od **trudności** ścieżki, map, umiejętności drużyny i przewodników.
+- W przypadku zgubienia się, drużyna może być zmuszona do wydania **akcji dziczy**, aby odnaleźć drogę. W przeciwnym razie drużyna dotrze do następnego **punktu** na swojej trasie. 
 
-#### Explore
+> Pamiętaj, aby porównać wyniki zgubienia się z odpowiednią **Trudnością** trasy. 
 
-- One or more party members search a large area, searching for hidden features, scouting ahead, or treading carefully.
-- A Location (shelter, village, cave, etc.) or Feature (geyser, underground river, beached ship, etc.) is discovered.
-- The **Travel** action is still required to _leave_ the current area, even if it has been completely explored.
+#### Eksploracja
 
-#### Supply
+- Jeden lub więcej członków drużyny przeszukuje duży obszar, szukając ukrytych elementów, przeczesując teren lub ostrożnie poruszając się.
+- Postacie odkrywają lokację (schronienie, wioska, jaskinia itp.) lub cechę (gejzer, podziemna rzeka, zatopiony statek itp.).
+- Akcja **Podróż** jest nadal wymagana do _opuszczenia_ bieżącego obszaru, nawet jeśli został on całkowicie zbadany.
 
-- One or more party members may hunt, fish, or forage for food, collecting 1d4 **Rations** (3 uses each). The chance of a greater bounty increases with each additional participant (e.g. 1d4 becomes 1d6, up to a maximum of 1d12). 
-- Relevant experience or equipment may also increase the bounty collected.
-- The party may encounter homes and small villages, spending gold and a full **watch** to resupply. 
+#### Zaopatrzenie
 
-#### Make Camp
+- Jeden lub więcej członków drużyny może polować, łowić ryby lub szukać pożywienia, zbierając 1k4 **Racji żywnościowych** (3 użycia każda). Szansa na większą zdobycz wzrasta wraz z każdym dodatkowym uczestnikiem (np. 1k4 staje się 1k6, maksymalnie do 1k12). 
+- Odpowiednie doświadczenie lub wyposażenie może również zwiększyć uzyskaną zdobycz.
+- Drużyna może natknąć się na domy lub małe wioski, jeśli wyda złoto i zużyje pełną **wachtę**, może uzupełnić zapasy. 
 
-- The party stops to set up camp in the wilds. Each party member (and their mounts) consumes a **Ration**.
-- A **lookout rotation** is set so that the party can sleep unmolested. A smaller party may need to risk sleeping unguarded or switch off sleeping over multiple days.
-- Party members that were able to rest remove all of **Fatigue** from their inventory.
+#### Przygotowanie obozu
 
-## Downtime
+- Drużyna zatrzymuje się, aby rozbić obóz w dziczy. Każdy członek drużyny (i jego wierzchowiec) zużywa **rację żywnościową**.
+- Aby grupa mogła spać bez przeszkód, powinna zorganizować **cykl wartowniczy**. Mniejsza grupa może zaryzykować spanie bez ochrony lub pominąć spanie na kilka dni.
+- Członkowie drużyny, którzy mogli odpocząć, usuwają całe **zmęczenie** ze swojego ekwipunku.
 
-Between game sessions, players can engage in a variety of activities such as research, following up on leads, improving skills, or building relationships. A PC is limited to one **Downtime Action** at a time. These actions cannot be undertaken in unsafe conditions or while a character is in recovery. A character cannot perform an action if it would put their safety at risk.
+## Przestój
 
-### Milestones
+Pomiędzy sesjami gry gracze mogą angażować się w różne działania, takie jak badania, śledzenie tropów, doskonalenie umiejętności lub budowanie relacji. PC jest ograniczony do jednej **akcji przestoju** na raz. Działania te nie mogą być podejmowane w niebezpiecznych warunkach lub gdy postać jest w trakcie rekonwalescencji. Postać nie może wykonać akcji, jeśli zagrażałoby to jej bezpieczeństwu.
 
-For activities requiring multiple steps, the **Warden** assigns 1-5 **Milestones** for players to track progress. Each **Milestone** represents a comprehensive, non-interactive task. The **Warden** may present different strategies to achieve these goals, each with distinct **Milestones**. Depending on the unfolding events in the game, the **Warden** is also empowered to introduce new **Milestones** or discard existing ones.
+### Kamienie milowe
 
-### Costs
+W przypadku działań wymagających wielu kroków, **Strażnik** przypisuje 1-5 **Kamieni Milowych**, aby gracze mogli śledzić postępy. Każdy **Kamień milowy** reprezentuje kompleksowe, nieinteraktywne zadanie. **Strażnik** może przedstawić różne strategie osiągnięcia tych celów, z których każda ma odrębne **Kamienie milowe**. W zależności od rozwoju wydarzeń w grze, **Strażnik** jest również uprawniony do wprowadzania nowych **Kamieni Milowych** lub odrzucania istniejących.
 
-PCs can complete individual **Milestones** by taking a **Downtime Action** and paying its respective **Cost**. If a character is unable to pay the **Cost**, they may have to find some other way to achieve their goal. A few examples of **Cost**: 
-- **Gold**: Direct payment of gold from a character's inventory.
-- **Resources**: Non-monetary costs such as material goods, specific common items, and so on. 
-- **Reputation**: Betting on a character's renown, personality, presence, social connections, etc.
-- **Loss**: Offering something specific and unique. A finger, a soul, a **Relic**, etc.
+### Koszty
 
-Some **Costs** can be reduced or disregarded through character skills, connections, or force of will. For example, a PC may have already acquired the necessary reputation to gain access to a renowned institution, and thus the **cost** is abated. On the other hand, another character may not be so lucky and must rely on their force of personality instead. In this case, the Warden should state the risk (a permanent ban on entry, a loss of reputation, etc.). The PC then makes a **WIL** save; on a success, the cost is either reduced or avoided entirely. 
+Postacie mogą ukończyć poszczególne **Kamienie milowe**, wykonując **Akcję przestoju** i płacąc odpowiedni **Koszt**. Jeśli postać nie jest w stanie zapłacić **Kosztów**, może być zmuszona do znalezienia innego sposobu na osiągnięcie swojego celu. Kilka przykładów **Kosztów**: 
+- **Złoto**: Bezpośrednia zapłata złotem z ekwipunku postaci.
+- **Zasoby**: Koszty niepieniężne, takie jak dobra materialne, określone przedmioty powszechnego użytku itp. 
+- **Reputacja**: Obstawianie renomy postaci, jej osobowości, rozpoznawalności, powiązań społecznych itp.
+- **Strata**: Oferowanie czegoś konkretnego i wyjątkowego. Palec, dusza, **Artefakt** itp.
 
-## Downtime Actions
+Niektóre **koszty** mogą zostać zredukowane lub pominięte dzięki umiejętnościom postaci, koneksjom lub sile woli. Na przykład, postać może już posiadać reputację niezbędną do uzyskania dostępu do renomowanej instytucji, a tym samym **koszt** zostanie obniżony. Z drugiej strony, inna postać może nie mieć tyle szczęścia i musi polegać na swojej sile osobowości. W takim przypadku Strażnik powinien określić ryzyko (stały zakaz wstępu, utrata reputacji itp.). Następnie PC wykonuje rzut obronny **WOL**; w przypadku sukcesu, koszt jest albo zmniejszony, albo całkowicie usuwany. 
 
-The following activities represent some of the most common **Downtime Actions** a players can choose. The **Warden** can also create custom actions based on the needs of play.
+## Akcje przestoju
 
-### Research
+Poniższe działania reprezentują niektóre z najczęstszych **akcji w czasie przestoju**, które gracze mogą wybrać. **Strażnik** może również tworzyć niestandardowe akcje w oparciu o potrzeby gry.
 
-A PC investigates a question about a bit of lost or forgotten lore, the location of a lost item, the whereabouts of an important NPC, and so on. To take this action, the player must have a clearly formulated question they'd like to answer and a **Source** of knowledge in the game world that their character can interact with. If the PC does not have a **Source**, then they can spend a **Downtime Action** trying to find one. There is no guarantee that they will be successful. Once a question is posed and an appropriate **Source** has been identified, the **Warden** should provide any **Milestones** and associated **Costs**. 
+### Badania
 
-#### Questions
+PC zadaje pytanie dotyczące zagubionej lub zapomnianej wiedzy, lokalizacji zagubionego przedmiotu, miejsca pobytu ważnej postaci niezależnej itp. Aby wykonać tę akcję, gracz musi mieć jasno sformułowane pytanie, na które chciałby odpowiedzieć, oraz **źródło** wiedzy w świecie gry, z którym jego postać może wchodzić w interakcje. Jeśli PC nie posiada **Źródła**, może poświęcić **Akcję przestoju** na próbę jego znalezienia. Nie ma gwarancji, że mu się to uda. Po zadaniu pytania i zidentyfikowaniu odpowiedniego **Źródła**, **Strażnik** powinien podać wszelkie **Kamienie Milowe** i związane z nimi **Koszty**. 
 
-As always, the question must come from an experience that occurred during play.
+#### Pytania
 
-**Examples:**
+Jak zawsze, pytanie musi wynikać z doświadczenia, które miało miejsce podczas gry.
 
-- "Where is the **Lost Temple of East Nipoor**?" 
-- "Who in **Fortune City** might know how to crack an ancient vault?"
-- "Where can I find the cure to **curly sickness**?" 
+**Przykłady:**
 
-#### Sources
+- „Gdzie znajduje się **Zaginiona Świątynia Wschodniego Nipooru**?”. 
+- „Kto w **Mieście Fortuny** może wiedzieć, jak otworzyć starożytny skarbiec?”
+- „Gdzie mogę znaleźć lekarstwo na **chorobę loków**?” 
 
-A **Source** is a person, place, faction, or entity that holds either a part or whole answer that the character seeks. They can be NPCs, Factions, spirits, or even other PCs. 
+#### Źródła
 
-##### Examples: 
+**Źródło** to osoba, miejsce, frakcja lub istota, która posiada część lub całość odpowiedzi, której szuka postać. Mogą to być postacie niezależne, frakcje, duchy, a nawet inni gracze. 
 
-- **Kewr the Mouth**, a frequent contact for the **Conclave of Merchants**. Despite their excellent relationship with this faction, asking for help in an illicit activity might come at a high cost.
-- A **Woodwose** who makes his home deep in the **Forest of Knives**. The party encountered him in an earlier expedition and the meeting did not end well. Still, he is said to know the nature of every herb and their healing properties.
-- The **Temple of Puppets**, a nomadic circus troupe who have travelled the known and unknown lands. The party assisted one of their members during the **Rain of Fire**, when even the creatures of the Wood were preparing to flee their homes. If anyone has heard of forgotten places, it's them.
+##### Przykłady: 
 
-### Training
+- **Kewr Pyskaty**, to znany kontakt **Konklawy Kupców**. Pomimo doskonałych relacji z tą frakcją, poproszenie go o pomoc w nielegalnej działalności może wiązać się z wysokimi kosztami.
+- **Drzewny Wąż**, który zamieszkuje głęboko w **Lesie Noży**. Drużyna natknęła się na niego podczas wcześniejszej wyprawy i spotkanie nie zakończyło się dobrze. Mimo to mówi się, że zna naturę każdego zioła i jego właściwości lecznicze.
+- **Świątynia kukiełek**, wędrowna trupa cyrkowa, która podróżowała po znanych i nieznanych krainach. Drużyna pomagała jednemu z ich członków podczas **Deszczu Ognia**, kiedy nawet stworzenia z Lasu przygotowywały się do ucieczki ze swoich domów. Jeśli ktokolwiek słyszał o zapomnianych miejscach, to właśnie oni.
 
-A character can improve their skills with an item or ability, with clear narrative or mechanical results. They might be interested in dealing greater damage with a particular weapon, decreasing their chances of getting lost in rough weather, or learning to read the languages of the ancients. A PC might spend multiple **Downtime Actions** sparring with a particular weapon, improving their skills week by week. Or they may need to travel to the home of a distant sage, improving themselves through short but intense study.
+### Szkolenie
 
-The player must describe precisely what they'd like to improve and a **Master** whom they might train with. And of course, the character's inspiration to improve should come from an experience in play. The **Warden** should provide any **Milestones** and associated **Costs**. 
+Postać może ulepszyć swoje umiejętności lub zdolności, aby dało to wyraźne rezultaty narracyjne lub mechaniczne. Gracze mogą być zainteresowani zadawaniem większych obrażeń konkretną bronią, zmniejszeniem szans na zgubienie się w trudnych warunkach pogodowych lub nauką czytania języków starożytnych. Postać może spędzić wiele **Akcji przestoju** na sparingach z konkretną bronią, doskonaląc swoje umiejętności z tygodnia na tydzień. Może też podróżować do domu odległego mędrca, doskonaląc się poprzez krótkie, ale intensywne studia.
 
-**Examples:**
+Gracz musi dokładnie opisać, co chciałby ulepszyć i **Mistrza**, z którym mógłby trenować. No i oczywiście inspiracja postaci dotycząca doskonalenia się powinna pochodzić z doświadczenia w grze. **Strażnik** powinien opisać wszelkie **Kamienie Milowe** i związane z nimi **Koszty**. 
 
-- **The Two-Handed Parry**: When fighting with one hand free, a PC's HP temporarily increases by 1d4. The party took on a hireling from the **Cratered Lands**, whose fighters emphasize avoiding enemy attacks. She has agreed to train anyone who can best her in hand to hand combat.
-- **Herbology**: Given proper ingredients, a PC can create a **Healing Salve** (restores 4 STR) as a **Downtime Action**. After receiving care from an elderly herbalist in the **Verdant Glades**, the wounded PC asked to be trained in the healing arts. The **Master** has agreed, but asked that they collect three rare herbs before training can begin. 
-- **Troutmaster**: When taking the Supply **Action**, **Rations** gathered near cold freshwater sources increase by one step (e.g. 1d4 becomes 1d6). The party escorted a stranded naturalist from the famously dreadful **Silver Wastes** safely back to the city. As thanks, she has offered to train a PC to identify and capture a common lakefish that frequents colder waters.
+**Przykłady:**
 
-### Strengthening Ties
+- **Parowanie Dwuręczne**: Podczas walki z jedną wolną ręką, OCHR postaci tymczasowo wzrasta o 1k4. Drużyna przyjęła najemniczkę z **Pękniętych Ziem**, której wojownicy kładą nacisk na unikanie ataków wroga. Zgodziła się ona wyszkolić każdego, kto będzie w stanie pokonać ją w walce wręcz.
+- **Ziołolecznictwo**: Mając odpowiednie składniki, postac może stworzyć **Maść leczniczą** (przywraca 4 SIŁ) jako **Akcję przestoju**. Po otrzymaniu opieki od starszego zielarza, ranny bohater poprosił o szkolenie w sztuce uzdrawiania. **Mistrz** zgodził się, ale poprosił o zebranie trzech rzadkich ziół przed rozpoczęciem szkolenia. 
+- **Tropiciel**: Podczas wykonywania **Akcji zaopatrzenia**, **Racje żywnościowe** zebrane w pobliżu źródeł zimnej słodkiej wody zwiększają się o jeden stopień (np. 1k4 staje się 1k6). Drużyna odeskortowała bezpiecznie do miasta zagubioną przyrodniczkę ze straszliwych **Srebrnych Pustkowi**. W ramach podziękowania zaoferowała ona, że wyszkoli graczy w identyfikacji i łapaniu pospolitej ryby, która często występuje w chłodniejszych jeziorach.
 
-A character fosters a connection with an NPC or Faction in the game world. First, they must identify the entity with whom they wish to strengthen ties, as well as a specific **intent** (e.g., building trust, mending a friendship, seeking membership in a Faction, forming an alliance, and so on). The **Warden** then provides concrete measures (described as **Milestones** and **Costs**) that the PC can undertake to advance the relationship. With each completed **Milestone**, the **Warden** describes how the PC's relationship has grown or changed. 
+### Wzmacnianie więzi
 
-**Examples:**
+Postać nawiązuje więź z postacią niezależną lub frakcją w świecie gry. Najpierw musi określić podmiot, z którym chce zacieśnić więzi, a także konkretny **cel** (np. zbudowanie zaufania, naprawienie przyjaźni, poszukiwanie członkostwa we frakcji, zawarcie sojuszu itp.) Następnie **Strażnik** zapewnia konkretne środki (opisane jako **Kamienie milowe** i **Koszty**), które PC może wykorzystać w celu poprawy relacji. Z każdym ukończonym **Kamieniem milowym**, **Strażnik** opisuje, w jaki sposób relacja PC rozwinęła się lub zmieniła. 
 
-- After returning from an unsuccessful delve into the **Roots**, a PC discovers that they'd unknowingly brought along a stowaway: an eyeless devourer, barely hatched. They decide to keep the creature and train it in secret. 
-- During a play session, a PC becomes friendly with an agent of the **Order of the Helm**. Impressed by the Order's values, the PC asks what the requirements are to join.
-- An agent for a powerful faction dies during the **Battle of Frogs** while under the party's care. Now those responsible wish to provide redress, so that the party can once again perform tasks for that faction.
+**Przykłady:**
+
+- Po powrocie z nieudanej wyprawy do **Korzeni**, bohater odkrywa, że nieświadomie przywiózł ze sobą pasażera na gapę: bezokiego pożeracza, który ledwo się wykluł. Postanawia zatrzymać stworzenie i tresować je w tajemnicy. 
+- Podczas sesji postać zaprzyjaźnia się z agentem **Zakonu Helma**. Będąc pod wrażeniem wartości wyznawanych przez Zakon, postać chce się dowiedzieć, jakie wymagania należy spełnić, aby dołączyć do formacji.
+- Agent potężnej frakcji ginie podczas **Bitwy Żab**, będąc pod opieką drużyny. Teraz osoby odpowiedzialne chcą zadośćuczynienia, jeśli drużyna nadal chce wykonywać zadania dla tej frakcji.
