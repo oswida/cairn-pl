@@ -22,7 +22,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 - Nóż o wąskim ostrzu (k6)
 - Rękawice ochronne (_lekkie_)
 
-## Co poszło nie tak? Rzuć 1k6::
+## Co poszło nie tak? Rzuć 1k6:
 
 |       |                                                                                                                                                                                                                                                                                 |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +33,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 | **5** | Twój alchemiczny przepis zadziałał znakomicie, ale rywal ukradł recepturę, zanim zdążyłeś zabezpieczyć swoje prawa autorskie. Weź prototypowy **Garłacz** (k12, _podmuch_, _nieporęczny_), którego przeładowanie zajmuje jedną rundę, i zasmakuj zemsty.                        |
 | **6** | Stałeś się pośmiewiskiem ponieważ odkryłeś, jak zamienić złoto w _ołów_. Weź butelkę **Uniwersalnego Rozpuszczalnika** (2 użycia), płyn ten rozpuszcza na części składowe wszystko, czego dotknie.                                                                              |
 
-## Jakie alchemiczne cudo jest najnowszym owocem twojej kreatywności? Rzuć 1k6::
+## Jakie alchemiczne cudo jest najnowszym owocem twojej kreatywności? Rzuć 1k6:
 
 |       |                      |                                                                                                                                                                                                                                                                          |
 | ----- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -41,5 +41,5 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 | **2** | **Wybuchowa kula**   | Żelazna kula wielkości głowy wypełniona wybuchowym proszkiem, który detonuje przy uderzeniu. k12, _podmuch_, _nieporęczna_.                                                                                                                                              |
 | **3** | **Aqua Vita**        | Oczyszcza dowolny płyn, zamieniając go w krystaliczną wodę. Jej wypicie leczy 1k6 SIŁ. 1 użycie.                                                                                                                                                                         |
 | **4** | **Kamień Mimiczny**  | Można za jego pomocą nagrać krótką frazę, a później ją odtworzyć.                                                                                                                                                                                                        |
-| **5** | **Pył iskrowy**      | Łatwo i szybko się zapala. Przydatny do wzniecania ognia lub jako środek zapalający. 3 użycia.                                                                                                                                                                           |
+| **5** | **Iskrowy pył**      | Łatwo i szybko się zapala. Przydatny do wzniecania ognia lub jako środek zapalający. 3 użycia.                                                                                                                                                                           |
 | **6** | **Homunkulus**       | Miniaturowa gliniana replika ciebie, która wykonuje każde twoje polecenie. Nienawidzi tego, że została magicznie zniewolona i narzeka gorzko, gdy tylko jest to możliwe. Wszelkie obrażenia zadane homunkulusowi są również zadawane tobie. 3 OCHR, 4 SIŁ, 13 ZRE, 5 WOL |

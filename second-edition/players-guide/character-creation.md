@@ -20,7 +20,7 @@ nav_order: 2
 | ------- | -------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------- |
 | **k20** | **Przeszłość**                                                             |        |                                                                        |
 | **1**   | [Alchemik](https://cairnrpg.com/wip/backgrounds/aurifex)                   | **11** | [Półwiedźma](https://cairnrpg.com/wip/backgrounds/half-witch)          |
-| **2**   | [Cyrulik](https://cairnrpg.com/wip/backgrounds/barber-surgeon)             | **12** | [Łowca czarownic](https://cairnrpg.com/wip/backgrounds/hexenbane)      |
+| **2**   | [Felczer](https://cairnrpg.com/wip/backgrounds/barber-surgeon)             | **12** | [Łowca czarownic](https://cairnrpg.com/wip/backgrounds/hexenbane)      |
 | **3**   | [Poskramiacz zwierząt](https://cairnrpg.com/wip/backgrounds/beast-handler) | **13** | [Kuglarz](https://cairnrpg.com/wip/backgrounds/jongleur/)              |
 | **4**   | [Opiekun Kości](https://cairnrpg.com/wip/backgrounds/bonekeeper/)          | **14** | [Druciarz](https://cairnrpg.com/wip/backgrounds/kettlewright)          |
 | **5**   | [Kieszonkowiec](https://cairnrpg.com/wip/backgrounds/cutpurse)             | **15** | [Strażnik graniczny](https://cairnrpg.com/wip/backgrounds/marchguard/) |

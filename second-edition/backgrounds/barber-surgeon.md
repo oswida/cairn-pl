@@ -1,46 +1,46 @@
 ---
-title: Cyrulik
+title: Felczer
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
 ---
 
-# Cyrulik
+# Felczer
 
-> You walk the line between healer and harrower, knowing the frailty of the flesh but also the secrets that lie within. With the right tools, life and death are merely words.
+> Balansujesz na granicy pomiędzy uzdrowicielem a rzeźnikiem, znasz słabości ciała oraz jego najgłębsze sekrety. Dzięki odpowiednim narzędziom życie i śmierć to tylko słowa.
 
-## Names
+## Imiona
 
 Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johanna  
 
-## Starting Gear
+## Wyposażenie startowe
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
-- Bonesaw (d6)
-- Bandages (3 uses)
-- Leech (restores 1 STR, 3 uses)
-- Stained Medical Finery (_petty_)
+- 3k6 sztuk złota
+- Racje żywnościowe (3 użycia)
+- Pochodnia (3 użycia) 
+- Piła do kości (k6)
+- Bandaże (3 użycia)
+- Pijawka lekarska (przywraca 1 SIŁ, 3 użycia)
+- Poplamione akcesoria medyczne (_lekkie_)
 
-## How have you "improved" yourself? Roll 1d6:
+## Jak się „ulepszyłeś”? Rzuć 1k6:
 
-|       |                                                                                                                                                                                                                                                           |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | You have a replacement **eye** that can magnify objects, act as a telescope, and provide minimal night vision. You cannot wear anything metal on your head, and the presence of strong magnets make you _deprived_.                                       |
-| **2** | One **foot** is mostly metal (kick, d6), and you treat some [tough](https://cairnrpg.com/wip/2e/wilderness-exploration/#terrain-difficulty) terrain as **Easy**. Carry a **Oil Can** (6 uses). Without a daily application, you are _deprived_ and noisy. |
-| **3** | One of your fingers has been swapped, the bone replaced by gold and iron. Take a **Hook** and a **Screwdriver** that can attach to the fingertip.                                                                                                         |
-| **4** | Both **ears** have been surgically enhanced, tripling your hearing. You can focus on a specific sound, such as a conversation, at a great distance. You wear an ear flap to protect against sudden loud noises (WIL save to avoid temporary paralysis).   |
-| **5** | Your **chest** is lined with alchemical sigils, _toughening the skin_ (1 Armor). Wearing other metallic armor nullifies the effect.                                                                                                                       |
-| **6** | One **arm** is fully metal and comes off at the shoulder. It can be used as a weapon (d8, _bulky_ when not attached) and can move independently if you are within sight of it.                                                                            |
+|       |                                                                                                                                                                                                                                                                                                                                                                      |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Masz sztuczne **oko**, które może powiększać obrazy, działać jak teleskop i zapewniać minimalne widzenie w nocy. Nie możesz nosić niczego metalowego na głowie, a obecność silnych magnesów sprawia, że odczuwasz _dyskomfort_.                                                                                                                                      |
+| **2** | Twoja jedna **stopa** jest w większości metalowa (kopnięcie, k6), a niektóre [trudne](https://cairnrpg.com/wip/2e/wilderness-exploration/#terrain-difficulty) tereny traktujesz jako **łatwe**. Noś przy sobie **puszkę oleju** (6 użyć),która służyć będzie do konserwacji stopy. Bez codziennej konserwacji odczuwasz _dyskomfort_ i hałasujesz podczas chodzenia. |
+| **3** | Jeden z twoich palców został zamieniony, kość zastąpiono złotem i żelazem. Weź **kak** i **śrubokręt**, które można przymocować do opuszki palca.                                                                                                                                                                                                                    |
+| **4** | Twoje **uszy** zostały chirurgicznie wzmocnione, co trzykrotnie poprawiło słuch. Możesz skupić się na konkretnym dźwięku, takim jak rozmowa, nawet z dużej odległości. Nosisz nauszniki chroniące przed nagłymi, głośnymi dźwiękami (rzut obronny WOL, aby uniknąć tymczasowego paraliżu).                                                                           |
+| **5** | Twoja **klatka piersiowa** jest pokryta alchemicznymi znakami, _wzmacniającymi skórę_ (pancerz 1). Noszenie innego, metalowego pancerza niweluje ten efekt.                                                                                                                                                                                                          |
+| **6** | Jedno twoje **ramię** jest w pełni metalowe i da się odłączyć od ramienia. Może być używane jako broń (k8, _nieporęczne_ gdy nie jest przymocowane) i może poruszać się niezależnie, jeśli jesteś w zasięgu jego wzroku.                                                                                                                                             |
 
-## What rare tool is essential to your work? Roll 1d6:
+## Jakie rzadkie narzędzie jest niezbędne w twojej pracy? Rzuć 1k6:
 
-|       |                    |                                                                                                                                                                   |
-| ----- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Regrowth Salve** | Regrows a body part over the course of a day. 1 use.                                                                                                              |
-| **2** | **Graftgrub**      | A small worm that can fuse inanimate objects with parts of the body.  1 use.                                                                                      |
-| **3** | **Woundwax**       | Heals wounds from fire or chemicals (restoring full STR) but nothing else. 2 uses.                                                                                |
-| **4** | **Quicksilver**    | A stimulant. Go first in combat, and automatically pass any WIL saves for one hour. _Addictive_: Save STR or become _deprived_ after 24 hours without it. 4 uses. |
-| **5** | **Pneuma Pump**    | Portable iron lungs (_bulky_). Enables life-saving surgery or underwater breathing.                                                                               |
-| **6** | **Lodestone**      | Draws out dangerous elements from the body and acts as a powerful magnetic force.                                                                                 |
+|       |                         |                                                                                                                                                                                                                                     |
+| ----- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Maść regeneracyjna**  | Regeneruje dowolną część ciała w ciągu jednego dnia. 1 użycie.                                                                                                                                                                      |
+| **2** | **Larwa przeszczepowa** | Mały robak, który może łączyć przedmioty nieożywione z częściami ciała.  1 użycie.                                                                                                                                                  |
+| **3** | **Wosk do ran**         | Leczy rany od ognia lub chemikaliów (przywraca pełną SIŁ), ale nic poza tym. 2 użycia.                                                                                                                                              |
+| **4** | **Żywe srebro**         | Środek pobudzający. W walce zawsze działasz przed przeciwnikami i automatycznie zdajesz każdy rzut obronny WOL przez godzinę. _Uzależnia_: Rzut obronny SIŁ albo po 24 godzinach bez tego środka odczuwasz _dyskomfort_ . 4 użycia. |
+| **5** | **Pompa płucna**        | Przenośne żelazne płuca (_nieporęczne_). Umożliwiają operacje ratujące życie lub oddychanie pod wodą.                                                                                                                               |
+| **6** | **Magnetyt**            | Wyciąga niebezpieczne elementy z ciała i działa jak potężny magnes.                                                                                                                                                                 |
