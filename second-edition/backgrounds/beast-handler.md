@@ -7,41 +7,41 @@ grand_parent: Druga edycja
 
 # Poskramiacz zwierząt
 
-> You alone can walk among the creatures of the wild, fearless and in control. You share a connection with animals that others can only dream of... so long as you don't become their snack.
+> Tylko ty możesz poruszać się bez obaw pośród dzikich stworzeń oraz w pełni je kontrolować. Łączy cię ze zwierzętami więź, o której inni mogą tylko pomarzyć... o ile nie staniesz się ich przekąską.
 
-## Names
+## Imiona
 
 Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
 
-## Starting Gear
+## Wyposażenie startowe
 
-- 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses)   
-- Leather Whip (d6)
-- Soporific Darts (STR save or fall asleep, 6 uses)
-- Lure
-- Rope (25ft)
+- 3k6 sztuk złota
+- Racje żywnościowe (3 użycia)
+- Pochodnia (3 użycia)   
+- Skórzany bicz (k6)
+- Strzałki usypiające (rzut obronny SIŁ albo cel zostaje uśpiony, 6 użyć)
+- Przynęta
+- Lina (8m)
 
-## What creature is your specialty? Roll 1d6:
+## W poskramianiu jakich stworzeń się specjalizujesz? Rzuć 1k6:
 
-|       |               |                                                                                                                                                                                  |
-| ----- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Arachnids** | Take a **Quick-Flame Rod** and an **Oil Can** (6 uses). It can destroy a large spider nest in seconds.                                                                           |
-| **2** | **Felines**   | Take a sack of **Whiskerwort**. Its odor can calm and control even the largest of cats.                                                                                          |
-| **3** | **Canines**   | Take a wreath of **Wolfsbane** and a **Large Net**. Effective against werewolves as well.                                                                                        |
-| **4** | **Birds**     | Take a **Warble-Whistle** (3 charges). It can imitate any bird call and can even be used to send simple messages. **Recharge**: Feed a baby bird as its mother would, then blow. |
-| **5** | **Rodents**   | Take a **Pan Flute** that emits a high-pitched sound that only rodents can hear. So long as you play, they will follow, even to their deaths.                                    |
-| **6** | **Serpents**  | Take a **Warming Stone** that generates an irresistible heat and a vial of **Antitoxin** (2 uses).                                                                               |
+|       |               |                                                                                                                                                                                                                              |
+| ----- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | **Arachnidy** | Weź **Różdżkę szybkiego płomienia** i **puszkę oleju** (6 użyć). Zestaw może zniszczyć duże gniazdo pająków w kilka sekund.                                                                                                  |
+| **2** | **Kotowate**  | Weź worek **Wąsoziela**. Jego zapach może uspokoić i pozwoli kontrolować nawet największe koty.                                                                                                                              |
+| **3** | **Psowate**   | Weź wieniec z **tojadu** i **dużą sieć**. Skuteczne również przeciwko wilkołakom.                                                                                                                                            |
+| **4** | **Ptaki**     | Weź **Świergoczący gwizdek** (3 ładunki). Może naśladować każdy ptasi śpiew, a nawet służyć do wysyłania prostych wiadomości. **Doładowanie**: Nakarm małego ptaszka tak, jak zrobiłaby to jego matka, a następnie dmuchnij. |
+| **5** | **Gryzonie**  | Weź **Fletnię Pana**, emituje ona wysoki dźwięk, który mogą usłyszeć tylko gryzonie. Dopóki grasz, gryzonie podążają za tobą, nawet jeśli oznacza to ich zgubę.                                                              |
+| **6** | **Węże**      | Weź **Kamień rozgrzewający**, który generuje nieznośne ciepło i fiolkę **antytoksyny** (2 użycia).                                                                                                                           |
 
 
-## What have you learned from the creatures of the wild? Roll 1d6: 
+## Czego nauczyłeś się od dzikich zwierząt? Rzuć 1k6: 
 
-|       |                                                                                                                                                                                                  |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | That there is far more to the world than meets the eye. With quiet concentration, you can borrow the senses of a nearby creature of your **specialty**.                                          |
-| **2** | That the behavior of beasts is a language in itself. When observing beasts of your **specialty** you gain insight into weather patterns and impending disasters.                                 |
-| **3** | That the pulse of the hunt is a powerful impulse. You have a sense for when predators, even those **not of your specialty** are near.                                                            |
-| **4** | That the land is a language unto itself. Your chance of becoming lost in a terrain dominated by the beasts of your **specialty** is reduced by one step (e.g. 4-in-6 becomes 3-in-6).            |
-| **5** | That nature's symphony can be heard if you attune to its rhythm. When surrounded by creatures of your **specialty**, they can alert you to approaching danger before it arrives.                 |
-| **6** | That survival is all about adaptability. Once per day, you may take on a simple feature from a creature of your **specialty** (webbed fingers, night vision, etc.). Add a **Fatigue** each time. |
+|       |                                                                                                                                                                                                                  |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Że na świecie jest znacznie więcej, niż widać na pierwszy rzut oka. Dzięki cichej koncentracji możesz pożyczyć zmysły pobliskiego stworzenia z twojej **specjalności**.                                          |
+| **2** | Zachowanie bestii jest językiem samym w sobie. Obserwując zwierzęta ze swojej **specjalności**, zyskujesz wgląd we wzorce pogodowe i zbliżające się katastrofy.                                                  |
+| **3** | Instynkt polowania jest potężnym impulsem. Wyczuwasz drapieżniki znajdujące się w pobliżu, nawet te, które nie należą do **twojej specjalizacji**.                                                               |
+| **4** | Teren jest językiem samym w sobie. Twoja szansa na zgubienie się w terenie zdominowanym przez zwierzęta z twojej **specjalności** jest zmniejszona o jeden stopień (np. 4 na 6 staje się 3 na 6).                |
+| **5** | Możesz usłyszeć symfonię natury, jeśli dostroisz się do jej rytmu. Kiedy jesteś otoczony przez stworzenia z twojej **specjalności**, mogą one ostrzec cię o zbliżającym się niebezpieczeństwie, zanim nadejdzie. |
+| **6** | Przetrwanie polega na zdolności adaptacji. Raz dziennie możesz przejąć prostą cechę od stworzenia z twojej **specjalności** (palce pokryte błoną, widzenie w nocy itp.). Za każdym razem dodaj **zmęczenie**.    |
