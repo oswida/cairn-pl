@@ -84,7 +84,7 @@ nav_order: 5
 | Caltrops                                                      | 10  |
 | Talia kart                                                    | 5   |
 | Łańcuch (3m)                                                  | 10  |
-| Kreda (_drobna_)                                              | 1   |
+| Kreda (_drobiazg_)                                              | 1   |
 | Skrzynia                                                      | 25  |
 | Dłuto                                                         | 5   |
 | Powszechne substancje (klej, smar itp.)                       | 10  |
@@ -99,7 +99,7 @@ nav_order: 5
 | Olej opałowy                                                  | 10  |
 | Wędka                                                         | 10  |
 | Gry (Karty, kości, etc.)                                      | 10  |
-| Rękawice (_drobne_)                                           | 20  |
+| Rękawice (_drobiazg_)                                           | 20  |
 | Linka z kotwiczką                                             | 25  |
 | Latarnia                                                      | 10  |
 | Lustro                                                        | 5   |
@@ -113,7 +113,7 @@ nav_order: 5
 | Środki uspokajające                                           | 30  |
 | Sewing Kit                                                    | 20  |
 | Proste instrumenty (piszczałki, lutnia itp.)                  | 10  |
-| Fajka do palenia (_drobna_)                                   | 15  |
+| Fajka do palenia (_drobiazg_)                                   | 15  |
 | Specjalistyczne narzędzia (atrament itp.)                     | 20  |
 | Buty z kolcami                                                | 15  |
 | Luneta                                                        | 40  |
@@ -121,5 +121,5 @@ nav_order: 5
 | Narzędzia złodziejskie (wytrych, metalowy pilnik itp.)        | 25  |
 | Pochodnia (3 użycia)                                          | 5   |
 | Pułapka (k6 obrażeń SIŁ)                                      | 35  |
-| Gwizdek (_drobny_)                                            | 15  |
-| Ubrania na bezdroża (poncho, płaszcz itp.) (_drobne_)         | 15  |
+| Gwizdek (_drobiazg_)                                            | 15  |
+| Ubrania na bezdroża (poncho, płaszcz itp.) (_drobiazg_)         | 15  |

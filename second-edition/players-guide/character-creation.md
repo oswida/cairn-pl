@@ -56,8 +56,8 @@ nav_order: 2
 ### Miejsca na ekwipunek
 
 - Większość przedmiotów zajmuje jedno miejsce, chyba że zaznaczono inaczej. 
-- _Drobne_ przedmioty nie zajmują miejsca. Przedmioty _nieporęczne_ zajmują **dwa** miejsca. 
-- Worek z monetami wartymi mniej niż 100z jest _drobny_ i nie zajmuje miejsca.
+- Przedmioty z cechą _drobiazg_ nie zajmują miejsca. Przedmioty _nieporęczne_ zajmują **dwa** miejsca. 
+- Worek z monetami wartymi mniej niż 100z ma cechę _drobiazg_ i nie zajmuje miejsca.
 
 ## Cechy postaci (k10)
 
@@ -147,24 +147,24 @@ nav_order: 2
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **k20** | **Więź**                                                                                                                                                                                                                                         |
 | **1**   | Odziedziczyłeś **pojedynczy klejnot** (**500 sz**, zimny i kruchy) po dawno zmarłym krewnym. Otrzymałeś go z ostrzeżeniem: roztrwoń swoje nowo zdobyte bogactwa, a ktoś zażąda spłaty długu, o którym dawno zapomniałeś.                         |
-| **2**   | Daleki kuzyn zostawił ci niewielki spadek. To **20 sz** i **dziwny kompas** (_drobny_), który zawsze wskazuje na coś co jest głęboko w lesie.                                                                                                    |
-| **3**   | Nosisz **portret** dawnej miłości w medalionie (_drobny_). Niestety, ukochana osoba zniknęła w Lesie dawno temu. W jakiś sposób wiesz, że wciąż żyje.                                                                                            |
-| **4**   | Znalazłaś **mały kryształowy pryzmat** (_drobny_) zakopany w ziemi. Wystawiony na światło, pokazuje wizje nieznanego miejsca w głębi Lasu. Czasami czujesz dziwną obecność, która patrzy na ciebie przez niego z drugiej strony.                 |
-| **5**   | Uwolniłeś kiedyś Najadę z zablokowanego strumienia. W zamian dała ci **srebrny mech** (_drobny_). Połknij go w pobliżu wody, a stworzenie pojawi się aby spłacić swój dług.                                                                      |
+| **2**   | Daleki kuzyn zostawił ci niewielki spadek. To **20 sz** i **dziwny kompas** (_drobiazg_), który zawsze wskazuje na coś co jest głęboko w lesie.                                                                                                    |
+| **3**   | Nosisz **portret** dawnej miłości w medalionie (_drobiazg_). Niestety, ukochana osoba zniknęła w Lesie dawno temu. W jakiś sposób wiesz, że wciąż żyje.                                                                                            |
+| **4**   | Znalazłaś **mały kryształowy pryzmat** (_drobiazg_) zakopany w ziemi. Wystawiony na światło, pokazuje wizje nieznanego miejsca w głębi Lasu. Czasami czujesz dziwną obecność, która patrzy na ciebie przez niego z drugiej strony.                 |
+| **5**   | Uwolniłeś kiedyś Najadę z zablokowanego strumienia. W zamian dała ci **srebrny mech** (_drobiazg_). Połknij go w pobliżu wody, a stworzenie pojawi się aby spłacić swój dług.                                                                      |
 | **6**   | Odziedziczyłaś stary **dziennik**, oprawiony w korę. Każdego wieczoru jego strony zapełniają się wydarzeniami dnia, bezczelnie spisanymi z perspektywy dziennika. Ten nietypowy pamiętnik nie owija w bawełnę, ale jest dokładny.                |
-| **7**   | Chronisz długo skrywaną rodzinną tajemnicę. Masz jedną połowę **Przedwiecznego Klucza** (_drobny_). Mówi się, że jeśli połączy się go z jego drugą połową, otworzy **Bramę** przez dowolne drzwi.                                                |
-| **8**   | Otrzymałeś **list** (_drobny_) zawierający niepodważalny dowód na to, że twoje prawdziwe pochodzenie to szlachecki ród Fae. Notatka wskazuje również datę i miejsce, w którym masz spotkać się z autorem listu, głęboko w Lesie.                 |
-| **9**   | Masz wielki dług wobec pewnego szlachcica i nosisz **sygnet** (_drobny_), który jest symbolem jego ochrony, a także twojego zobowiązania.                                                                                                        |
+| **7**   | Chronisz długo skrywaną rodzinną tajemnicę. Masz jedną połowę **Przedwiecznego Klucza** (_drobiazg_). Mówi się, że jeśli połączy się go z jego drugą połową, otworzy **Bramę** przez dowolne drzwi.                                                |
+| **8**   | Otrzymałeś **list** (_drobiazg_) zawierający niepodważalny dowód na to, że twoje prawdziwe pochodzenie to szlachecki ród Fae. Notatka wskazuje również datę i miejsce, w którym masz spotkać się z autorem listu, głęboko w Lesie.                 |
+| **9**   | Masz wielki dług wobec pewnego szlachcica i nosisz **sygnet** (_drobiazg_), który jest symbolem jego ochrony, a także twojego zobowiązania.                                                                                                        |
 | **10**  | Wchłonęłaś **złośliwego ducha**, który sieje spustoszenie w twoim wnętrzu, domagając się zabrania go do domu, głęboko w lesie. Zajmuje jedno miejsce w ekwipunku, ale pochłania jedno **zmęczenie** każdego dnia. Chce cię mieć żywą (na razie). |
-| **11**  | Wędrowny gawędziarz opowiadał ci kiedyś historie o wielkim skarbie ukrytym głęboko w lesie. Myślałeś, że to tylko wymysły, dopóki nie dał ci **zwiniętej mapy** (_drobna_) z miejscem zaznaczonym literą X.                                      |
-| **12**  | Podczas podróży spotkałaś umierającego myśliwego, który poprosił cię o przekazanie wiadomości swoim bliskim. Weź **list** (_drobny_), zapieczętowany żywicą. Jest on zaadresowany bezpośrednio do **Lorda Zimy**.                                |
+| **11**  | Wędrowny gawędziarz opowiadał ci kiedyś historie o wielkim skarbie ukrytym głęboko w lesie. Myślałeś, że to tylko wymysły, dopóki nie dał ci **zwiniętej mapy** (_drobiazg_) z miejscem zaznaczonym literą X.                                      |
+| **12**  | Podczas podróży spotkałaś umierającego myśliwego, który poprosił cię o przekazanie wiadomości swoim bliskim. Weź **list** (_drobiazg_), zapieczętowany żywicą. Jest on zaadresowany bezpośrednio do **Lorda Zimy**.                                |
 | **13**  | Znalazłeś ranną bestię w lesie, ale postanowiłeś ją zignorować. Teraz widzisz ją wszędzie, ale tylko wtedy, gdy jesteś sam. Wygląda na smutną, ale nie złą. Nie możesz wpaść w _panikę_, gdy działasz sam.                                       |
-| **14**  | Obiecałaś przyjacielowi z dzieciństwa, że przywieziesz mu rzadki prezent, coś wyjątkowego na całym świecie. Masz **bransoletkę** (_drobna_) utkaną ze sznurka i polnych kwiatów.                                                                 |
+| **14**  | Obiecałaś przyjacielowi z dzieciństwa, że przywieziesz mu rzadki prezent, coś wyjątkowego na całym świecie. Masz **bransoletkę** (_drobiazg_) utkaną ze sznurka i polnych kwiatów.                                                                 |
 | **15**  | Wszedłeś w konflikt z istotą z Lasu, która przeklęła cię **Kamiennym Sercem**. Z każdym mijającym miesiącem kamień staje się cięższy o jedno miejsce w ekwipunku. Dopóki urok nie zostanie zdjęty, nie możesz naprawdę umrzeć.                   |
-| **16**  | Wyrzeźbiłaś **Gwizdek** (_drobny_) z gałęzi **Dębowego Króla**. Twój czyn nie pozostał niezauważony. Nie możesz teraz pozbyć się tego gwizdka.                                                                                                   |
-| **17**  | **Brygada Świtu** wyświadczyła przysługę twojej rodzinie, dając ci na dowód tego zasuszony **Krwawoczerwony Kwiat** (_drobny_). Gdy kwiat zmieni kolor na biały, oznacza to, że przysługę należy odwzajemnić.                                    |
+| **16**  | Wyrzeźbiłaś **Gwizdek** (_drobiazg_) z gałęzi **Dębowego Króla**. Twój czyn nie pozostał niezauważony. Nie możesz teraz pozbyć się tego gwizdka.                                                                                                   |
+| **17**  | **Brygada Świtu** wyświadczyła przysługę twojej rodzinie, dając ci na dowód tego zasuszony **Krwawoczerwony Kwiat** (_drobiazg_). Gdy kwiat zmieni kolor na biały, oznacza to, że przysługę należy odwzajemnić.                                    |
 | **18**  | Pewien artysta odwiedził kiedyś twój dom, wypełniając go opowieściami i śpiewem. Pewnego dnia odszedł bez słowa, pozostawiając po sobie jedynie **miniaturową lutnię**. W środku coś grzechocze.                                                 |
-| **19**  | We śnie ukazał ci się biały kruk trzymający w pysku gałązkę. Obudziłeś się następnego ranka z **gałązką** (_drobna_) w dłoni. Wierzysz, że przynosi szczęście. Pachnie słabo siarką.                                                             |
+| **19**  | We śnie ukazał ci się biały kruk trzymający w pysku gałązkę. Obudziłeś się następnego ranka z **gałązką** (_drobiazg_) w dłoni. Wierzysz, że przynosi szczęście. Pachnie słabo siarką.                                                             |
 | **20**  | Jeden z twoich przodków skrzywdził **Mchową Wiedźmę**, która przeklęła jego ród. Twoje oblicze sprawia, że lustra pękają. Zauważyłeś, że odłamki mogą czasami ujawniać iluzję.                                                                   |
 
 

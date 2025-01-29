@@ -21,7 +21,7 @@ Wilmot, Patch, Lancet, Sawbones, Theo, Cutwell, Humor, Landsford, Goodeye, Johan
 - Piła do kości (k6)
 - Bandaże (3 użycia)
 - Pijawka lekarska (przywraca 1 SIŁ, 3 użycia)
-- Poplamione akcesoria medyczne (_lekkie_)
+- Poplamione akcesoria medyczne (_drobiazg_)
 
 ## Jak się „ulepszyłeś”? Rzuć 1k6:
 

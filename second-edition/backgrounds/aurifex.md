@@ -20,7 +20,7 @@ Hestia, Basil, Rune, Prism, Ember, Quintess, Aludel, Mordant, Salaman, Jazia
 - Latarnia
 - Puszka oleju do latarni (6 użyć)
 - Nóż o wąskim ostrzu (k6)
-- Rękawice ochronne (_lekkie_)
+- Rękawice ochronne (_drobiazg_)
 
 ## Co poszło nie tak? Rzuć 1k6:
 

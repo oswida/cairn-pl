@@ -124,7 +124,7 @@ W swojej turze postać może poruszyć się na odległość do 12 metrów i wyko
 Jeśli obrażenia zadane postaci gracza zmniejszą jego OCHR dokładnie do 0, należy sprawdzić wynik w poniższej tabeli na podstawie _ilości OCHR utraconej w wyniku ataku_. Na przykład, jeśli postać została zredukowana z 3 OCHR do 0, należy sprawdzić pozycję numer 3 (Powalony). 
 
 
-### Scars Table
+### Tabela blizn
 
 |                   |                                                                                                                                                                                                                                                                                                                          |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -161,7 +161,7 @@ Jeśli obrażenia zadane postaci gracza zmniejszą jego OCHR dokładnie do 0, na
 
 **Zwoje** są podobne do ksiąg zaklęć, jednakże:
 
-- Mają cechę _drobny_.
+- Mają cechę _drobiazg_.
 - Nie powodują **zmęczenia**.
 - Znikają po jednym użyciu.
 
