@@ -7,7 +7,7 @@ grand_parent: Druga edycja
 
 # Podrzutek
 
-> An odd birthmark, a strange smell: somehow, the touch of _elsewhere_ still lingers. Wherever you are, you have trouble fitting in. Roll on the **Omens** table (even if you're not the youngest player), but keep the results private for now.
+> Dziwne znamię, obcy zapach: w jakiś sposób dotyk „miejsca gdzie indziej” wciąż się utrzymuje. Gdziekolwiek jesteś, masz problemy z dopasowaniem się. Rzuć na tabelę **Omenów** (nawet jeśli nie jesteś najmłodszym graczem), ale na razie zachowaj wyniki w tajemnicy.
  
 ## Imiona
 
@@ -18,30 +18,30 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Ha
 - 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
-- Salt Pouch
-- Heirloom Amulet (_petty_, glows in the presence of magic)
-- Sling (d6)
-- Dagger (d6) 
+- Woreczek z solą
+- Dziedziczny amulet (_drobiazg_, jarzy się w obecności magii)
+- Proca (k6)
+- Sztylet (k6) 
 
-## Who took you in? Roll 1d6:
+## Kto się tobą zaopiekował? Rzuć 1k6:
 
 |       |                                                                                                                                                                                                                                                                                                                                                 |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | An old hunter. You were both quite happy, until it all ended. Take a **Weathered Longbow** (d8, _bulky_) and a **Leather Jerkin** (1 Armor).                                                                                                                                                                                                    |
-| **2** | A wizened apothecary, who taught you the healing arts but maintained a clinical detachment. Take a **Healing Unguent** (restores d4 STR, 1 use).                                                                                                                                                                                                |
-| **3** | A druid, who taught you the language of trees. When it came time to , you took with you only a **Gnarled Staff** (d8) and left a promise that one day you would return.                                                                                                                                                                         |
-| **4** | A gruff blacksmith from a sleepy river town. You were always kept at arm's length. Now the forge is cold, and you've moved on. Take a **Smith's Apron** (_petty_) and a set of **Oft-mended Chain Mail** (2 Armor, _bulky_).                                                                                                                    |
-| **5** | A troupe of traveling entertainers. For a time, they were like family to you. One day you woke up and they were gone with no explanation. Take a **Storybook**, a **Dagger** (d6), and some burning questions.                                                                                                                                  |
-| **6** | The monks of a secluded forest monastery. When their rules became too strict, and you snuck away. Take a **Monk's Habit** (warm, _petty_) and a **Spellbook** of _Control Plants_. Control Plants: Nearby plants and trees obey you and gain the ability to move at a slow pace. _Leaves grow along the spine, and it smells faintly of decay._ |
+| **1** | Stary myśliwy. Oboje byliście całkiem szczęśliwi, dopóki wszystko się nie skończyło. Otrzymujesz **Wysłużony długi łuk** (k8, _nieporęczny_) i **Skórzaną kurtę** (1 pancerza).                                                                  |
+| **2** | Mądry aptekarz, który nauczył cię sztuki leczenia, ale zachowywał kliniczny dystans. Otrzymujesz **Uzdrawiający specyfik** (przywraca k4 SIŁ, 1 użycie).                                                                                                                                                                                            |
+| **3** | Druid, który nauczył cię języka drzew. Kiedy nadszedł czas, zabrałeś ze sobą tylko **Sękatą Laskę** (k8) i zostawiłeś obietnicę, że pewnego dnia wrócisz.                                                                                                                                                                       |
+| **4** | Szorstki kowal z sennego miasteczka nad rzeką. Zawsze trzymał cię na dystans. Teraz kuźnia jest zimna, a ty ruszyłaś dalej. Weź **Fartuch kowalski** (_drobiazg_) i  **Używaną kolczugę** (2 pancerza, _nieporęczna_).                                                                                                    |
+| **5** | Grupa podróżujących artystów. Przez pewien czas byli dla ciebie jak rodzina. Pewnego dnia obudziłeś się, a oni zniknęli bez żadnego wyjaśnienia. Otrzymujesz **Książkę**, **Sztylet** (k6) i kilka palących pytań bez odpowiedzi.                                                                                                                             |
+| **6** | Mnisi z odosobnionego leśnego klasztoru. Kiedy ich zasady stały się zbyt surowe, wymknęłaś się po cichu. Otrzymujesz **Mnisi habit** (ciepły, _drobiazg_) i **Księgę Zaklęć** _Kontroli Roślin_. _Kontrolowanie Roślin_: Pobliskie rośliny i drzewa są ci posłuszne i zyskują zdolność poruszania się w wolnym tempie. _Wzdłuż grzbietu księgi rosną liście i czuć lekki zapach zgnilizny._ |
 
 
-## What keeps bad tidings at bay? Roll 1d6:
+## Co powstrzymuje złe wróżby? Rzuć 1k6:
 
 |       |                   |                                                                                                                                          |
 | ----- | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Pipeweed**      | Your good luck charm. Conversations tend to flow more easily after a smoke. 6 uses.                                                      |
-| **2** | **Stink Jar**     | Shattering this jar releases an odor so foul all nearby must make a STR save or immediately vomit. 1 use.                                |
-| **3** | **Ivy Worm**      | A green worm often mistaken for a weed. Swallowed whole, it absorbs any toxins or rot in the body before exiting through the usual way.  |
-| **4** | **Dream Stone**   | A smooth blue stone that helps recall dreams more clearly. Overuse can cause dream-addiction.                                            |
-| **5** | **Drowning Rod**  | A finger-sized wooden stick that doubles in size each time it is fully submerged in water. It does not shrink down again.                |
-| **6** | **Rabbit's Foot** | You were wearing it when they found you. They say it is the foot of she who left you and that it protects you from witch magic. _Petty_. |
+| **1** | **Fajkowe ziele**      | Twój talizman szczęścia. Po wypaleniu fajki rozmowy stają się łatwiejsze. 6 użyć.                                              |
+| **2** | **Śmierdzący słoik**     | Rozbicie słoika uwalnia odór tak nieprzyjemny, że wszyscy w pobliżu muszą wykonać test SIŁ lub natychmiast zwymiotować. 1 użycie.                              |
+| **3** | **Robak bluszczowy**      | Zielony robak często mylony z chwastem. Połknięty w całości, wchłania wszelkie toksyny lub zgniliznę w organizmie, zanim wydostanie się z niego zwykłą drogą.  |
+| **4** | **Kamień marzeń**   | Gładki niebieski kamień, który pomaga wyraźniej przypominać sobie sny. Nadużywanie może powodować uzależnienie od snów.                                     |
+| **5** | **Drąg topielca**  | Drewniany patyczek wielkości palca, który podwaja swój rozmiar za każdym razem, gdy jest całkowicie zanurzony w wodzie. Nie kurczy się ponownie.                 |
+| **6** | **Królicza Łapka** | Miałaś ją na sobie, kiedy cię znaleźli. Mówią, że to stopa tej, która cię zostawiła i że chroni cię przed magią czarownic. _drobiazg_. |
