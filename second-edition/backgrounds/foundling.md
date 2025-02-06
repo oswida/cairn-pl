@@ -9,11 +9,11 @@ grand_parent: Druga edycja
 
 > An odd birthmark, a strange smell: somehow, the touch of _elsewhere_ still lingers. Wherever you are, you have trouble fitting in. Roll on the **Omens** table (even if you're not the youngest player), but keep the results private for now.
  
-## Names
+## Imiona
 
 Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Hazel
 
-## Starting Gear
+## Wyposażenie startowe
 
 - 3d6 Gold Pieces
 - Racje żywnościowe (3 użycia)

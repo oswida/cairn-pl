@@ -9,11 +9,11 @@ grand_parent: Druga edycja
 
 > You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring nought but a warning, singing the silent promise of a quick death. 
 
-## Names
+## Imiona
 
 Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 
-## Starting Gear
+## Wyposażenie startowe
 
 - 3d6 Gold Pieces
 - Racje żywnościowe (3 użycia)

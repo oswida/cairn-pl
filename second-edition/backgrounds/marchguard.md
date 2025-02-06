@@ -9,11 +9,11 @@ grand_parent: Druga edycja
 
 > Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds their own.
 
-## Names
+## Imiona
 
 Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 
-## Starting Gear
+## Wyposażenie startowe
 
 - 3d6 Gold Pieces
 - Racje żywnościowe (3 użycia)

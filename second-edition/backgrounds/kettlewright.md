@@ -9,11 +9,11 @@ grand_parent: Druga edycja
 
 > You are known by the smell of molten metal and the jingle of tin. You are no mere merchant but an artisan of fire and metal. 
 
-## Names
+## Imiona
 
 Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 
-## Starting Gear
+## Wyposażenie startowe
 
 - 3d6 Gold Pieces
 - Racje żywnościowe (3 użycia)

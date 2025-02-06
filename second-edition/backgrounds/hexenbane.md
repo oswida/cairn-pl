@@ -9,11 +9,11 @@ grand_parent: Druga edycja
 
 > You are a mere digit on the unerring hand of justice. You go where others fear to tread, unyielding and unbroken.
 
-## Names
+## Imiona
 
 Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 
-## Starting Gear
+## Wyposażenie startowe
 
 - 3d6 Gold Pieces
 - Racje żywnościowe (3 użycia)

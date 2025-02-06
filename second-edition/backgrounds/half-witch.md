@@ -9,11 +9,11 @@ grand_parent: Druga edycja
 
 > Born of both the mortal world and the unseen, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide.
 
-## Names
+## Imiona
 
 Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 
-## Starting Gear
+## Wyposażenie startowe
  
 - 3d6 Gold Pieces
 - Racje żywnościowe (3 użycia)

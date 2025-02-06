@@ -7,40 +7,40 @@ grand_parent: Druga edycja
 
 # Strażnik polny
 
-> Protectors of the harvest, defense against pests, thieves, and beasts. A position of great honor, while it lasts: many guardians do not live out their natural lives. Roll a second time on the **Bonds** table. 
+> Obrońcy zbiorów, chronią przed szkodnikami, złodziejami i bestiami. To zaszczytne stanowisko, dopóki nic się nie stanie: wielu strażników nie dożywa sędziwego wieku. Rzuć drugi raz na tabelę **Więzi**. 
 
-## Names
+## Imiona
 
 Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye 
 
-## Starting Gear
+## Wyposażenie startowe
 
 - 3d6 Gold Pieces
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
-- Brigandine (1 Armor, _bulky_)
-- Sling (d6)
-- Hand Axe (d6)
-- Repellent (pick the type, 3 uses)
+- Brigandyna (1 pancerza, _nieporęczna_)
+- Proca (d6)
+- Topór (d6)
+- Środek odstraszający (wybierz typ, 3 użycia)
  
-## What got the better of you? Roll 1d6:
+## Co przeważyło szalę? Rzuć 1k6:
 
 |       |                                                                                                                                                                                                                                                                                           |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A voracious swarm of pests that swallowed crops and animals alike. With nothing to defend, you left. Take **Gale Seed Extract** (3 uses).  Ingesting it lets you sprint with a speed four times your regular rate. Afterward you add two **Fatigue**.                                     |
-| **2** | A crop spirit, angered by a poor tithing. The fires consumed nearly everything, and afterward you were able to gather a pouch of **Fireseeds** (d8, _blast_, 4 uses).                                                                                                                     |
-| **3** | An antlered, toothy demon that nearly ended you. Take a blood-stained **Bone Knife** (d6). On **Critical Damage**, its next attack becomes _enhanced_ from contact with blood.                                                                                                            |
-| **4** | _The Withering_, a type of stem rot from the **Roots**. Take a **Diseased Crop** (6 uses) that quickly decays any plant it touches.                                                                                                                                                       |
-| **5** | Wolves, or so you thought. You are now a **Werewolf** [8 HP, 15 STR, 14 DEX, claws (d6+d6), bite (d8)]. Your WIL remains the same. You can _turn_ at will (once per day) but must make a WIL save to revert. Anyone left alive from your attacks must make a WIL save to avoid infection. |
-| **6** | Crop thieves. Not all of them survived, but you were outnumbered. Start with +d4 HP and a **Cusped Falchion** (d8).                                                                                                                                                                       |
+| **1** | Żarłoczny rój szkodników, który pochłonął uprawy i zwierzęta. Nie mając czego bronić, odszedłeś. Otrzymujesz **Wyciąg z nasion Gale** (3 użycia).  Spożycie go pozwala na sprint z czterokrotnie większą prędkością niż normalnie. Następnie dodajesz dwa **Zmęczenia**.                                     |
+| **2** | Duch plonów, rozgniewany słabą ofiarą. Pożary strawiły prawie wszystko, a potem udało ci się zebrać sakiewkę **Ognistych nasion** (k8, _podmuch_, 4 użycia).                                                           |
+| **3** | Zębaty demon z porożem, który prawie cię wykończył. Otrzymujesz poplamiony krwią **Kościany nóż** (k6). Przy **obrażeniach krytycznych** jego następny atak staje się _wzmocniony_ od kontaktu z krwią.                                        |
+| **4** | _Blednica_, rodzaj zgnilizny łodyg pochodzącej z **Korzeni**. Otrzymujesz **zakażone zboże** (6 użyć), które szybko rozkłada każdą roślinę, której dotknie.           |
+| **5** | Wilki, a przynajmniej tak ci się wydawało. Jesteś teraz **Wilkołakiem** [8 OCHR, 15 SIŁ, 14 ZRE, pazury (k6+k6), ugryzienie (k8)]. Twoja WOL pozostaje bez zmian. Możesz _przemienić_ się na własne życzenie (raz dziennie), ale musisz wykonać test WOL, aby powrócić do poprzedniej postaci. Każdy, kto pozostał przy życiu po twoich atakach, musi wykonać test WOL, aby uniknąć infekcji. |
+| **6** | Złodzieje plonów. Nie wszyscy przeżyli, ale mieli przewagę liczebną. Zacznij z +k4 OCHR i **Żłobionym tasakiem** (k8).                                         |
 
-## What tool saved your life? Roll 1d6:
+## Jakie narzędzie uratowało ci życie? Rzuć 1k6:
 
 |       |                    |                                                                                                                                                                        |
 | ----- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Bloodvine Whip** | d8 damage. On **Critical Damage**, it drains the target's blood, granting the weapon's next attack the _blast_ quality                                                 |
-| **2** | **Clatter Keeper** | A hand-cranked device that emits a loud noise, frightening away most creatures.                                                                                        |
-| **3** | **Sun Stick**      | Provides ample warmth and light for up to one hour. **Recharge**: Leave in heavy sunlight for a full day. 1 use.                                                       |
-| **4** | **Root Tether**    | When thrown, binds a creature as large as a wolf to the soil for a short time.                                                                                         |
-| **5** | **Greenwhistle**   | A small flute that calms plants, making passage through areas heavy with plant life a bit easier.                                                                      |
-| **6** | **Everbloom Band** | A circlet adorned with flowers that never wilt. On **Critical Damage**, the flowers dissolve into dust, but you act as if your save succeeded (STR loss still occurs). |
+| **1** | **Bicz z Krwawej Winorośli** | k8 obrażeń. Przy **obrażeniach krytycznych**, wysysa krew ofiary, nadając następnemu atakowi broni cechę _podmuch_.                                                 |
+| **2** | **Stukołatka** | Ręcznie obracana grzechotka, która emituje głośny dźwięk, odstraszający większość stworzeń.                                                                                        |
+| **3** | **Laska słoneczna**      | Zapewnia wystarczającą ilość ciepła i światła przez godzinę. **Doładowanie**: Pozostaw w silnym świetle słonecznym na cały dzień. 1 ładunek.                                                       |
+| **4** | **Korzeniowiąz**    | Po rzuceniu na krótki czas przytwierdza do ziemi stworzenie wielkości wilka.                                                                                         |
+| **5** | **Zielony gwizdek**   |  Mały flet, który uspokaja rośliny, ułatwiając przejście przez gęsto porośnięte obszary.                                                                 |
+| **6** | **Wiecznie kwitnąca opaska** | Obręcz ozdobiona kwiatami, które nigdy nie więdną. Przy **obrażeniach krytycznych** kwiaty rozpadają się w pył, ale zachowujesz się tak, jakby twój rzut obronny się powiódł (utrata SIŁ nadal ma miejsce). |

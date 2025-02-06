@@ -9,11 +9,11 @@ grand_parent: Druga edycja
 
 > Wits are your sharpest weapon, a facade your strongest shield. But when you do lose, you lose badly. 
 
-## Names
+## Imiona
 
 Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, Noa
 
-## Starting Gear
+## Wyposażenie startowe
 
 - 3d6 Gold Pieces
 - Racje żywnościowe (3 użycia)

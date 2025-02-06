@@ -9,11 +9,11 @@ grand_parent: Druga edycja
 
 > You delve deep into the **Wood**, prying its secrets from between rough boughs and whispering leaves. To this verdant kingdom, you are no mere scholar but its confidant as well.
 
-## Names
+## Imiona
 
 Gunther, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 
-## Starting Gear
+## Wyposażenie startowe
 
 - 3d6 Gold Pieces
 - Racje żywnościowe (3 użycia)

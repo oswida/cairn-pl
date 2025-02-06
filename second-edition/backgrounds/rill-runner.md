@@ -9,11 +9,11 @@ grand_parent: Druga edycja
 
 > You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
 
-## Names
+## Imiona
 
 Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 
-## Starting Gear
+## Wyposażenie startowe
 
 - 3d6 Gold Pieces
 - Racje żywnościowe (3 użycia)
