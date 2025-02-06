@@ -16,8 +16,8 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 ## Starting Gear
 
 - 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
+- Racje żywnościowe (3 użycia)
+- Pochodnia (3 użycia) 
 - Pincers
 - Roll of Tin
 - Gloves (_petty_)

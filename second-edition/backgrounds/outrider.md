@@ -16,8 +16,8 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 ## Starting Gear
 
 - 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
+- Racje żywnościowe (3 użycia)
+- Pochodnia (3 użycia) 
 - Long Sword (d10, _bulky_)
 - Leather Jerkin (1 Armor)
 - Crossbow (d8, _bulky_)

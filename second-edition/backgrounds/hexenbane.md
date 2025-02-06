@@ -16,8 +16,8 @@ Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 ## Starting Gear
 
 - 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
+- Racje żywnościowe (3 użycia)
+- Pochodnia (3 użycia) 
 - Vestments of the Order (_petty_)
 - Blessed Tinctures
 - Silver Knife (d6)

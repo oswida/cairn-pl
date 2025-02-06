@@ -16,8 +16,8 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Ha
 ## Starting Gear
 
 - 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
+- Racje żywnościowe (3 użycia)
+- Pochodnia (3 użycia) 
 - Salt Pouch
 - Heirloom Amulet (_petty_, glows in the presence of magic)
 - Sling (d6)

@@ -16,8 +16,8 @@ Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 ## Starting Gear
  
 - 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
+- Racje żywnościowe (3 użycia)
+- Pochodnia (3 użycia) 
 - Spellbook (Thicket: A thicket of trees and dense
 brush up to 50ft wide suddenly sprouts up. _Wrapped in vines that must be destroyed again with each use._)
 - Iron Dagger (d6)

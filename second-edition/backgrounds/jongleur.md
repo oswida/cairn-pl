@@ -16,8 +16,8 @@ Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo
 ## Starting Gear
 
 - 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
+- Racje żywnościowe (3 użycia)
+- Pochodnia (3 użycia) 
 - Costume
 - Simple Instrument (Pipes, Lute, etc.)
 - Lucky Jerkin (+1 Armor)

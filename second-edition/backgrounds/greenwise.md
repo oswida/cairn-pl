@@ -16,8 +16,8 @@ Gunther, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 ## Starting Gear
 
 - 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
+- Racje żywnościowe (3 użycia)
+- Pochodnia (3 użycia) 
 - Iron Pot
 - Root Knife (d6)
 - Healing Salve (restore 1d4 STR, 1 use)

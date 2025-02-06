@@ -16,7 +16,7 @@ Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 ## Starting Gear
 
 - 3d6 Gold Pieces
-- Rations (3 uses)
+- Racje żywnościowe (3 użycia)
 - Lantern
 - Oil Can (6 uses)
 - Long Sword (d10, _bulky_)

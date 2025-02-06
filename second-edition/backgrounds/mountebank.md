@@ -16,8 +16,8 @@ Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, No
 ## Starting Gear
 
 - 3d6 Gold Pieces
-- Rations (3 uses)
-- Torch (3 uses) 
+- Racje żywnościowe (3 użycia)
+- Pochodnia (3 użycia) 
 - Cart (+4 slots, _bulky_ when pulled)
 - Trick Playing Cards 
 - Fancy Hat (_petty_)
