@@ -15,7 +15,7 @@ Percival, Felix, Isolde, Wolfram, Aldric, Eira, Oswin, Ivor, Brunhilda, Beatrix
 
 ## Wyposażenie startowe
 
-- 3d6 Gold Pieces
+- 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
 - Vestments of the Order (_petty_)

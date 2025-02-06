@@ -15,7 +15,7 @@ Seed, Thresh, Dibber, Sow, Stalk, Harrow, Cobb, Flax, Briar, Rye
 
 ## Wyposażenie startowe
 
-- 3d6 Gold Pieces
+- 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
 - Brigandyna (1 pancerza, _nieporęczna_)

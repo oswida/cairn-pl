@@ -15,7 +15,7 @@ Faunus, Snowdrop, Wisp, Silverdew, Brim, Solstice, Steeleye, Artea, Gossamer, Ha
 
 ## Wyposażenie startowe
 
-- 3d6 Gold Pieces
+- 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
 - Salt Pouch

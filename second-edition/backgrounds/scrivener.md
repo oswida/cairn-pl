@@ -15,7 +15,7 @@ Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 
 ## Wyposażenie startowe
 
-- 3d6 Gold Pieces
+- 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
 - Quill & Ink

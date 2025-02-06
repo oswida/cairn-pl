@@ -15,7 +15,7 @@ Unther, Woozy, Hilda, Current, Leif, Ratan, Mourella, Lal, Per, Madrigal
 
 ## Wyposażenie startowe
 
-- 3d6 Gold Pieces
+- 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Sharpened Trowel (d6)
 - Candle Helmet (+1 Armor, dim, 6 uses)

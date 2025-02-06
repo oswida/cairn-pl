@@ -15,7 +15,7 @@ Ambrose, Lucius, Beauregard, Cornelius, Aria, Toph, Indigo, Delphine, Solene, No
 
 ## Wyposażenie startowe
 
-- 3d6 Gold Pieces
+- 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
 - Cart (+4 slots, _bulky_ when pulled)

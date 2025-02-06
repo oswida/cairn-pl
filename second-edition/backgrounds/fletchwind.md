@@ -1,13 +1,13 @@
 ---
-title: Mistrz łuku
+title: Mistrzyni łuku
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
 ---
 
-# Mistrz łuku
+# Mistrzyni łuku
 
-> You strike from afar, but that does not make you a coward. You are a musician, the song of your bowstring nought but a warning, singing the silent promise of a quick death. 
+> Atakujesz z daleka, ale to nie czyni cię tchórzem. Jesteś muzykiem, a pieśń twojej cięciwy to jedynie ostrzeżenie, cicha obietnica szybkiej śmierci. 
 
 ## Imiona
 
@@ -15,32 +15,32 @@ Flint, Feather, Crier, Thunder, Falcon, Pluck, Needle, Warsong, Hawk, Cai
 
 ## Wyposażenie startowe
 
-- 3d6 Gold Pieces
+- 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
-- Bow (see table)
-- Serrated Knife (d6)
-- Boiled Leather (1 Armor)
-- Heartroot Salve (restores 1d4 STR, 1 use)
+- Łuk (patrz  tabela)
+- Ząbkowany nóż (k6)
+- Wyprawiona zbroja skórzana (1 pancerza)
+- Maść z sercokorzenia (odzyskuje 1k4 SIŁ, 1 użycie)
 
-## How did you earn your bow? Roll 1d6:
+## Jak zazwyczaj wykorzystywałaś swój łuk? Rzuć 1k6:
 
 |       |                                                                                                                                                                                                             |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **War**. If you are first to attack, your bow gains the _blast_ property for the first round.                                                                                                               |
-| **2** | **Falconry**. You keep a falcon [3 hp, 5 STR, 16 DEX, 4 WIL, claws (d6+d6), bite (d8)]. It only eats live game.                                                                                             |
-| **3** | **Hunting**. When taking the [**Supply**](https://cairnrpg.com/wip/2e/wilderness-exploration/#supply) action, your ability to secure **Rations** increases by **one step** (e.g. 1d4 becomes 1d6).          |
-| **4** | **Tournaments**. Attacks with your bow are _enhanced_ if the target is immobile.                                                                                                                            |
-| **5** | **Training**. If you are the first to attack, melee attacks against you are _impaired_ until you take STR damage.                                                                                           |
-| **6** | **Scouting**. When taking the [**Travel**](https://cairnrpg.com/wip/2e/wilderness-exploration/#travel) action, your presence decreases the chance of getting lost by one step (e.g. 4-in-6 becomes 3-in-6). |
+| **1** | **Wojna**. Jeśli zaatakujesz jako pierwsza, twój łuk zyska właściwość _podmuch_ na pierwszą rundę.                                                                                                        |
+| **2** | **Sokolnictwo**. Posiadasz sokoła [3 OCHR, 5 SIŁ, 16 ZRE, 4 WOL, szpony (k6+k6), atak dziobem (k8)]. Zjada tylko żywą zwierzynę.                                                                                           |
+| **3** | **Polowanie**. Podczas wykonywania akcji **Zaopatrzenie**, twoja zdolność zdobywania **Racji żywnościowych** wzrasta o **jeden** (np. 1k4 staje się 1k6).          |
+| **4** | **Turnieje**. Ataki z łuku są _wzmocnione_, jeśli cel jest nieruchomy.      |
+| **5** | **Trening**. Jeśli zaatakujesz jako pierwsza, ataki w walce wręcz przeciwko tobie będą _osłabione_, dopóki nie otrzymasz obrażeń SIŁ.                                                                                          |
+| **6** | **Zwiad**. Podczas wykonywania akcji **Podróż**, twoja obecność zmniejsza szansę na zgubienie się o jeden poziom (np. 4 na 6 staje się 3 na 6).  |
 
-## What kind of wood is your bow made from? Roll 1d6:
+## Z jakiego drewna wykonany jest twój łuk? Rzuć 1k6:
 
 |       |                                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------------- |
-| **1** | **Western Yew** (d6, _bulky_). Can be wielded as a blunt weapon (d6). Noisy.                             |
-| **2** | **Sessile Oak** (d8, _bulky_). Slams into targets. On **Critical Damage** something is torn off.         |
-| **3** | **Stone Pine** (d6, _bulky_). Produces one use of **Sticky Sap** per day. The sap is highly explosive.   |
-| **4** | **White Ash** (d6, _bulky_). Can be used in place of a shield in melee combat (+1 Armor).                |
-| **5** | **Striped Bamboo** (d6). Collapsible, it only requires one slot (but still requires both hands).         |
-| **6** | **Wych Elm** (d6, _bulky_). Protects the bearer from poisons and toxins, so long as they are holding it. |
+| **1** | **Zachodni cis** (k6, _nieporęczny_). Może być używany jako broń biała (k6). Hałaśliwy.                            |
+| **2** | **Dąb bezszypułkowy** (k8, _nieporęczny_). Roztrzaskuje cele. Przy **obrażeniach krytycznych** coś zostaje oderwane.       |
+| **3** | **Sosna kamienna** (k6, _nieporęczny_). Produkuje jedną dawkę **lepkiego soku** dziennie. Sok jest bardzo wybuchowy.    |
+| **4** | **Biały jesion** (k6, _nieporęczny_). Może być używany zamiast tarczy w walce wręcz (+1 do pancerza).               |
+| **5** | **Bambus pasiasty** (k6). Składany, wymaga tylko jednego miejsca (ale nadal wymaga obu rąk).       |
+| **6** | **Wiąz Wych** (k6, _nieporęczny_). Chroni właściciela przed truciznami i toksynami, dopóki trzyma go w rękach.  |

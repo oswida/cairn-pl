@@ -15,7 +15,7 @@ Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo
 
 ## Wyposażenie startowe
 
-- 3d6 Gold Pieces
+- 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
 - Costume

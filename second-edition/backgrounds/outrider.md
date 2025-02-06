@@ -15,7 +15,7 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 
 ## Wyposażenie startowe
 
-- 3d6 Gold Pieces
+- 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
 - Long Sword (d10, _bulky_)
