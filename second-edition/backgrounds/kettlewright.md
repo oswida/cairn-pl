@@ -1,11 +1,13 @@
 ---
-title: Druciarz
+title: Wędrowny kowal
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
 ---
 
-# Druciarz
+# Wędrowny kowal
+
+_Notka od tłumacza_: Oryginalna nazwa tej przeszłości to _Kettlewright_. Możecie użyć również innych określeń: druciarz (wędrowny rzemieślnik zajmujący się naprawą przedmiotów gospodarstwa domowego) lub konwisarz (rzemieślnik wyrabiający przedmioty z cyny).
 
 > You are known by the smell of molten metal and the jingle of tin. You are no mere merchant but an artisan of fire and metal. 
 

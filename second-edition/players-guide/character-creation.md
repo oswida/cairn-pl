@@ -10,7 +10,7 @@ nav_order: 2
 
 ## Wylosuj albo wybierz przeszłość
 
-- Najpierw wylosuj albo wybierz [Przeszłość](#backgrounds) i zapamiętaj wybraną stronę. W kilku następnych krokach będziemy się odwoływali do informacji związanych z wybraną przeszłością postaci.
+- Najpierw wylosuj albo wybierz [Przeszłość](#Przeszlosc) i zapamiętaj wybraną stronę. W kilku następnych krokach będziemy się odwoływali do informacji związanych z wybraną przeszłością postaci.
 - Wybierz imię z listy a następnie zanotuj wyposażenie startowe swojej postaci. Przeczytaj rozdziały [Wyposażenie](#inventory) i [Miejsca w ekwipunku](#inventory-slots) aby dowiedzieć się jak zapisujemy informacje o posiadanych przedmiotach. 
 - Wylosuj elementy ze wszystkich tabel znajdujących się w opisie wybranej przeszłości. Zanotuj przedmioty, umiejętności lub zdolności wynikające z tych losowań. Niektóre rodzaje przeszłości postaci mogą również wymagać zajrzenia do tabel w rozdziale [Targowisko](https://cairnrpg.com/wip/2e/marketplace).
 
@@ -19,16 +19,16 @@ nav_order: 2
 |         |                                                                            |        |                                                                        |
 | ------- | -------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------------- |
 | **k20** | **Przeszłość**                                                             |        |                                                                        |
-| **1**   | [Alchemik](https://cairnrpg.com/wip/backgrounds/aurifex)                   | **11** | [Półwiedźma](https://cairnrpg.com/wip/backgrounds/half-witch)          |
-| **2**   | [Felczer](https://cairnrpg.com/wip/backgrounds/barber-surgeon)             | **12** | [Łowca czarownic](https://cairnrpg.com/wip/backgrounds/hexenbane)      |
-| **3**   | [Poskramiacz zwierząt](https://cairnrpg.com/wip/backgrounds/beast-handler) | **13** | [Kuglarz](https://cairnrpg.com/wip/backgrounds/jongleur/)              |
-| **4**   | [Opiekun Kości](https://cairnrpg.com/wip/backgrounds/bonekeeper/)          | **14** | [Druciarz](https://cairnrpg.com/wip/backgrounds/kettlewright)          |
-| **5**   | [Kieszonkowiec](https://cairnrpg.com/wip/backgrounds/cutpurse)             | **15** | [Strażnik graniczny](https://cairnrpg.com/wip/backgrounds/marchguard/) |
-| **6**   | [Strażnik polny](https://cairnrpg.com/wip/backgrounds/fieldwarden/)        | **16** | [Hochsztapler](https://cairnrpg.com/wip/backgrounds/mountebank)        |
-| **7**   | [Mistrz łuku](https://cairnrpg.com/wip/backgrounds/fletchwind)             | **17** | [Najemnik](https://cairnrpg.com/wip/backgrounds/outrider)              |
-| **8**   | [Podrzutek](https://cairnrpg.com/wip/backgrounds/foundling)                | **18** | [Skrytobójca](https://cairnrpg.com/wip/backgrounds/prowler)            |
-| **9**   | [Grzybiarz](https://cairnrpg.com/wip/backgrounds/fungal-forager)           | **19** | [Bard rzeczny](https://cairnrpg.com/wip/backgrounds/rill-runner)       |
-| **10**  | [Leśnik](https://cairnrpg.com/wip/backgrounds/greenwise/)                  | **20** | [Skryba](https://cairnrpg.com/wip/backgrounds/scrivener)               |
+| **1**   | [Alchemik](https://pl.cairnrpg.com/second-edition/backgrounds/aurifex)                   | **11** | [Półwiedźma](https://pl.cairnrpg.com/second-edition/backgrounds/half-witch)          |
+| **2**   | [Felczer](https://pl.cairnrpg.com/second-edition/backgrounds/barber-surgeon)             | **12** | [Łowca czarownic](https://pl.cairnrpg.com/second-edition/backgrounds/hexenbane)      |
+| **3**   | [Poskramiacz zwierząt](https://pl.cairnrpg.com/second-edition/backgrounds/beast-handler) | **13** | [Kuglarz](https://pl.cairnrpg.com/second-edition/backgrounds/jongleur)              |
+| **4**   | [Opiekun Kości](https://pl.cairnrpg.com/second-edition/backgrounds/bonekeeper)          | **14** | [Wędrowny kowal](https://pl.cairnrpg.com/second-edition/backgrounds/kettlewright)          |
+| **5**   | [Kieszonkowiec](https://pl.cairnrpg.com/second-edition/backgrounds/cutpurse)             | **15** | [Strażnik graniczny](https://pl.cairnrpg.com/second-edition/backgrounds/marchguard) |
+| **6**   | [Strażnik polny](https://pl.cairnrpg.com/second-edition/backgrounds/fieldwarden)        | **16** | [Hochsztapler](https://pl.cairnrpg.com/second-edition/backgrounds/mountebank)        |
+| **7**   | [Mistrz łuku](https://pl.cairnrpg.com/second-edition/backgrounds/fletchwind)             | **17** | [Najemnik](https://pl.cairnrpg.com/second-edition/backgrounds/outrider)              |
+| **8**   | [Podrzutek](https://pl.cairnrpg.com/second-edition/backgrounds/foundling)                | **18** | [Skrytobójca](https://pl.cairnrpg.com/second-edition/backgrounds/prowler)            |
+| **9**   | [Grzybiarz](https://pl.cairnrpg.com/second-edition/backgrounds/fungal-forager)           | **19** | [Bard rzeczny](https://pl.cairnrpg.com/second-edition/backgrounds/rill-runner)       |
+| **10**  | [Leśnik](https://pl.cairnrpg.com/second-edition/backgrounds/greenwise)                  | **20** | [Skryba](https://pl.cairnrpg.com/second-edition/backgrounds/scrivener)               |
 
 ## Atrybuty, ochrona i cechy postaci
 

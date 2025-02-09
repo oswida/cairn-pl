@@ -18,10 +18,10 @@ Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo
 - 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
-- Costume
-- Simple Instrument (Pipes, Lute, etc.)
+- Kostium
+- Prosty instrument (Pipes, Lute, etc.)
 - Lucky Jerkin (+1 Armor)
-- Sling (d6)
+- Proca (k6)
 
 ## What happened at your final performance? Roll 1d6:
 
