@@ -7,7 +7,7 @@ grand_parent: Druga edycja
 
 # Kuglarz
 
-> What inspires the soul more than song, words, and spectacle? Why practice for years to master the arcane when you've already got real magic inside? 
+> Co inspiruje duszę bardziej niż pieśń, słowa i spektakl? Po co ćwiczyć latami, by opanować arkana, skoro prawdziwą magię masz już w sobie? 
 
 ## Imiona
 
@@ -19,28 +19,28 @@ Jax, Selene, Baladria, Ada, Mort, Saylor, Tripp, Lantos, Echo, Jubilo
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
 - Kostium
-- Prosty instrument (Pipes, Lute, etc.)
-- Lucky Jerkin (+1 Armor)
+- Prosty instrument (piszczałki, lutnia itp.)
+- Fartowna Kamizelka (+1 pancerza)
 - Proca (k6)
 
-## What happened at your final performance? Roll 1d6:
+## Co wydarzyło się podczas twojego ostatniego występu? Rzuć 1k6:
 
 |       |                                                                                                                                                                                                                                                                                                                                               |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Despite your training in the deadly arts, an actor died and you were blamed. Take a light-weight **Rapier** (d6) and a false identity.                                                                                                                                                                                                        |
-| **2** | The crowd loved your catchy tune about a noble and his romantic failings. The noble in question, not so much. Take the _Read Mind_ **Spellbook** and a warrant for your arrest. Read Mind: You can hear the surface thoughts of nearby creatures. _Long-term possession can cause the reader to mistake the thoughts of others as their own._ |
-| **3** | Your debut composition reduced the audience to a gibbering mess, murmuring of bright creatures descending from the night sky. Later you noticed that the notes resembled stellar constellations. Take a **Book On Astronomy**, and a lot of questions.                                                                                        |
-| **4** | You mocked a forgotten trickster god and were cursed for it. You speak only in perfect rhyme. Ironically, this has only made you more popular among your peers. Take a **Thesaurus** (20gp). Without it, you are _deprived_.                                                                                                                  |
-| **5** | You were scarred in an on-stage accident. The crowd cheered, thinking it was part of the act. Take well-worn **Stage Mail** (1 Armor), a memorable scar, and a fear of applause.                                                                                                                                                              |
-| **6** | Your respectable puppeteering skills were matched only by your mimicry. You were so good you were branded a witch (literally) and banished. Take an **Uncanny Hand-Puppet** and a **Rabbit Skull** (_petty_) that protects against charms.                                                                                                    |
+| **1** | Pomimo twojej biegłości w sztuce fechtunku, jeden z aktorów zginął naprawdę, a ty zostałeś obwiniony. Otrzymujesz lekki **Rapier** (k6) i fałszywą tożsamość.                                                                                      |
+| **2** | Tłum pokochał twoją chwytliwą melodię o szlachcicu i jego romantycznych niepowodzeniach. Za to szlachcic, o którym mowa - nie za bardzo. Otrzymujesz Księgę zaklęć _Czytanie w myślach_. Wydano również nakaz twojego aresztowania. Czytanie w myślach: Możesz "usłyszeć" powierzchowne myśli pobliskich istot. _Długotrwałe używanie tego czaru może sprawić, że możesz zacząć traktować myśli innych jako swoje własne_.   |
+| **3** | Twoja debiutancka kompozycja zredukowała publiczność do bełkotliwego tłumu, mamroczącego o świetlistych istotach zstępujących z nocnego nieba. Później zauważyłeś, że nuty przypominały konstelacje gwiezdne. Otrzymujesz **książkę o astronomii** i mnóstwo pytań.                        |
+| **4** | Kpiłeś z zapomnianego boga-oszusta i zostałeś za to przeklęty. Mówisz tylko doskonałymi rymami. Jak na ironię, to tylko zwiększyło twoją popularność wśród innych. Weź **Tezaurus** (20z). Bez niego odczuwasz _dyskomfort_.                                                                          |
+| **5** | Zostałeś pokiereszowany w wypadku na scenie. Tłum wiwatował, myśląc, że to część przedstawienia. Otrzymujesz zużytą **Zbroję sceniczną** (1 pancerza), pamiętną bliznę i strach przed oklaskami.                                                                                                                                                         |
+| **6** | Twoim godnym szacunku umiejętnościom lalkarskim dorównywała jedynie mimika. Byłaś tak dobra, że uznano cię za wiedźmę (dosłownie) i wygnano. Otrzymujesz **Niezwykłą pacynkę** i **Króliczą czaszkę** (_drobiazg_), która chroni przed urokami.                                                                                                |
 
-## What trinket were you unable to leave behind? Roll 1d6:
+## Jakiego gadżetu nie mogłeś zostawić? Rzuć 1k6:
 
 |       |                    |                                                                                                             |
 | ----- | ------------------ | ----------------------------------------------------------------------------------------------------------- |
-| **1** | **False Cuffs**    | Comfortable, realistic-looking cuffs. Only you know the trick to get out of them.                           |
-| **2** | **Pocket Theatre** | A set of small puppets and a folding stage. Good for quick distractions.                                    |
-| **3** | **Ghost Violin**   | A dark-gray violin that plays a haunting tune, mirrored by an invisible, distant twin.                      |
-| **4** | **Tragic Tales**   | Banned in proper company, this book becomes less bawdy and more harrowing towards the end. Worth **100gp**. |
-| **5** | **Mythos Mask**    | A plaster mask that allows one to take on a monster's countenance. Once it comes off, add a **Fatigue**.    |
-| **6** | **Rebreak Glass**  | A wine flute that can be broken multiple times, reforming after 24 hours. Makes a really loud noise.        |
+| **1** | **Fałszywe kajdanki**    | Wygodne, realistycznie wyglądające kajdanki. Tylko Ty znasz sposób, jak się z nich wydostać.                           |
+| **2** | **Przenośny teatrzyk** | Zestaw małych lalek i składana scena. Dobre do szybkiego odwrócenia uwagi.                                    |
+| **3** | **Widmowe skrzypce**   | Ciemnoszare skrzypce, które grają nawiedzoną melodię, powtarzaną przez niewidzialnego, odległego bliźniaka.                      |
+| **4** | **Tragiczne opowieści**   | Zakazana w porządnym towarzystwie, ta książka staje się mniej sprośna i bardziej wstrząsająca pod koniec. Warta **100z**. |
+| **5** | **Maska mitów**    | Gipsowa maska, która pozwala przybrać wygląd potwora. Gdy ją zdejmiesz, dodaj **Zmęczenie**.    |
+| **6** | **Szkło wielokrotne**  | Butelka do wina, która może być wielokrotnie rozbijana, a po 24 godzinach ponownie się regeneruje. Wydaje naprawdę głośny dźwięk.        |
