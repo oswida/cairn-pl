@@ -1,11 +1,12 @@
 title: Cairn PL
 remote_theme: pmarsceill/just-the-docs
-color_scheme: light
+color_scheme: dark
 encoding: UTF-8
 url: https://pl.cairnrpg.com
-logo: "/img/logo.png"
+logo: "/img/logo.svg"
 plugins:
   - jekyll-redirect-from
+  - jekyll-sitemap
 include:
   - js
 
