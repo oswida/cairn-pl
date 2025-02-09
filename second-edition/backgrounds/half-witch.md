@@ -18,7 +18,7 @@ Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 - 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
-- Księga zaklęć (Gąszcz: Na twoje życzenie, we wskazanym miejscu nagle wyrasta gąszcz drzew i gęstych zarośli o szerokości do 15m.)
+- Księga zaklęć (Gąszcz: Na twoje życzenie, we wskazanym miejscu nagle wyrasta gąszcz drzew i gęstych zarośli o szerokości do 15m. _Opleciona pnączami, które trzeba zniszczyć przy każdym użyciu._)
 - Żelazny sztylet (k6)
 - Woreczek z ziołami (odzyskuje 1 SIŁ, 3 użycia)
 - Strój maskujący z trawy i gałęzi
