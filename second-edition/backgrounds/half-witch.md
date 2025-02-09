@@ -7,7 +7,7 @@ grand_parent: Druga edycja
 
 # Półwiedźma
 
-> Born of both the mortal world and the unseen, you are an enigma to some and feared by many. Yours is the tale of what happens when two worlds collide.
+> Zrodzona zarówno ze świata śmiertelników, jak i tego niewidzialnego, dla niektórych jesteś zagadką, a wielu po prostu się ciebie boi. Twoja historia, to opowieść o tym, co się dzieje, gdy zderzają się dwa światy.
 
 ## Imiona
 
@@ -18,30 +18,29 @@ Solena, Veles, Bryn, Sabine, Razvan, Rowena, Galen, Nyx, Vex, Iwan
 - 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
-- Spellbook (Thicket: A thicket of trees and dense
-brush up to 50ft wide suddenly sprouts up. _Wrapped in vines that must be destroyed again with each use._)
-- Iron Dagger (d6)
-- Herbs Pouch (restore 1 STR, 3 uses)
-- Ghillie Suit
+- Księga zaklęć (Gąszcz: Na twoje życzenie, we wskazanym miejscu nagle wyrasta gąszcz drzew i gęstych zarośli o szerokości do 15m.)
+- Żelazny sztylet (k6)
+- Woreczek z ziołami (odzyskuje 1 SIŁ, 3 użycia)
+- Strój maskujący z trawy i gałęzi
 
-## What did you bring back from the Unseelie Court? Roll 1d6:
+## Co zabrałaś ze sobą z Dworu Unseelie? Rzuć 1k6:
 
 |       |                                                                                                                                                                                                                                                                          |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **1** | A **Black Rose Fiddle** (_bulky_). Its music causes intense sadness and immobility in nearby mortals. (Others are merely fascinated.) You don't know how to play.                                                                                                        |
-| **2** | **Paper legs**. You are extremely light, and can fall a few stories without getting hurt. Try to avoid tearing them or getting them wet.                                                                                                                                 |
-| **3** | A **Living Nightmare** that dwells within you but manifests whenever you are in danger. It has your same **Attributes** and **HP** and attacks with claws (d8+d8). It disappears on **Critical Damage** (take 1d4 WIL damage), re-appearing again on the next full moon. |
-| **4** | A **Raven Familiar** [8 HP, 3 STR, 11 DEX, 13 WIL, beak, (d6)]. It speaks as an intelligent being and is entirely devoted to you.                                                                                                                                        |
-| **5** | A **Briar Thorn**. It can pierce any organic material (quite painfully) but when removed leaves no trace of the intrusion.                                                                                                                                               |
-| **6** | A Fae creature's **True Name**. Use it to summon its owner for an act of great service, but only once. It could also fetch a hefty price, from the right buyer.                                                                                                          |
+| **1** | **Skrzypce Czarnej Róży** (_nieporęczne_). Ich muzyka wywołuje smutek i niemożność poruszania się u pobliskich śmiertelników. (Inni są jedynie zafascynowani.) Nie umiesz na nich grać.                                                                                                      |
+| **2** | **Papierowe nogi**. Jesteś niezwykle lekka i możesz spaść z kilku pięter bez obrażeń. Staraj się ich nie podrzeć ani nie zamoczyć.    |
+| **3** | **Żywy koszmar**, który mieszka w tobie, ale pojawia się, gdy jesteś w niebezpieczeństwie. Ma te same **Atrybuty** i **OCHR** oraz atakuje szponami (k8+k8). Znika przy **obrażeniach krytycznych** (otrzymujesz 1k4 obrażeń WOL), pojawiając się ponownie przy następnej pełni księżyca. |
+| **4** | **Udomowiony kruk** [8 OCHR, 3 SIŁ, 11 ZRE, 13 WOL, dziób, (k6)]. Mówi jak inteligentna istota i jest ci całkowicie oddany.                      |
+| **5** | **Cierń wrzosu**. Może przebić dowolny materiał organiczny (dość boleśnie), ale po usunięciu nie pozostawia śladów ingerencji.                                   |
+| **6** | **Prawdziwe imię** któregoś Fae. Można go użyć, aby zarządać od właściciela wielkiej przysługi, ale tylko raz. Można również dostać za nie wysoką cenę od odpowiedniego kupca.                                                                                                          |
 
-## What concoction do you carry, and what rare ingredients did you gather to make it? Roll 1d6:
+## Jaką miksturę masz przy sobie i jakie rzadkie składniki zebrałaś, aby ją stworzyć? Rzuć 1k6:
 
 |       |                      |                                                                                                                                                                                       |
 | ----- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Rebirth Ash**      | Remnants of a bark spirit. Sprinkle to reignite a fire that has died or return to life a creature that has died only moments before. 3 uses.                                          |
-| **2** | **Glamour Feather**  | Plume of a firebird. Can make any creature appear convincingly as someone (or something) else. 1 use.                                                                                 |
-| **3** | **Hawthorn Seed**    | An acorn from the other side, gathered on the spring equinox. When planted, it sprouts a luxurious shelter, collapsing at moonrise the next day. 1 use.                               |
-| **4** | **Stonetree Sap**    | Sap obtained in exchange for blood. Hardens when rubbed on any surface (+1 Armor). 3 uses.                                                                                            |
-| **5** | **Nightdust Powder** | Made from the ritual burning of six owls. When tossed in the air, day turns to night for a short while. 2 uses.                                                                       |
-| **6** | **Hex Stone**        | Gathered from a river that flows from the _other side_. Removed from its iron tin, it can absorb the effects of an active magical effect. If destroyed, the magic is released. 1 use. |
+| **1** | **Popiół odrodzenia**      | Pozostałości ducha z kory magicznego drzewa. Posyp nim obiekt, aby ponownie rozpalić ogień, który zgasł lub przywrócić do życia istotę, która umarła zaledwie kilka chwil wcześniej. 3 użycia.        |
+| **2** | **Pióro Blasku**  | Pióropusz ognistego ptaka. Może sprawić, że dowolna istota będzie wyglądać przekonująco jako ktoś (lub coś) innego. 1 użycie.                                                                                 |
+| **3** | **Nasiona głogu**    | Żołądź z innego świata, zebrany w równonoc wiosenną. Po zasadzeniu wyrasta z niego luksusowe schronienie, które ulega zniszczeniu następnego dnia o wschodzie księżyca. 1 użycie.             |
+| **4** | **Sok z kamiennego drzewa**    | Sok uzyskany w zamian za krew. Twardnieje po wtarciu w dowolną powierzchnię (+1 do pancerza). 3 użycia.                                                                                           |
+| **5** | **Proszek nocnego pyłu** | Uzyskany z rytualnego spalenia sześciu sów. Po wyrzuceniu w powietrze, dzień zamienia się w noc na krótką chwilę. 2 użycia. |
+| **6** | **Magiczny kamień**        | Zebrany z rzeki, która płynie po _tamtej stronie_. Wyjęty ze swojej żelaznej puszki, może wchłonąć aktywny efekt magiczny w pobliżu. Jeśli zostanie zniszczony, magia zostaje uwolniona. 1 użycie.  |
