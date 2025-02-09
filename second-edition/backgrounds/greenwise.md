@@ -7,7 +7,7 @@ grand_parent: Druga edycja
 
 # Leśnik
 
-> You delve deep into the **Wood**, prying its secrets from between rough boughs and whispering leaves. To this verdant kingdom, you are no mere scholar but its confidant as well.
+> Zagłębiasz się w **Las**, odkrywając jego sekrety między szorstkimi konarami i szepczącymi liśćmi. Dla tego zielonego królestwa nie jesteś zwykłym uczonym, lecz jego powiernikiem.
 
 ## Imiona
 
@@ -18,30 +18,30 @@ Gunther, Moss, Fern, Lichen, Root, Willow, Sage, Yarrow, Rowan, Ash
 - 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
-- Iron Pot
-- Root Knife (d6)
-- Healing Salve (restore 1d4 STR, 1 use)
-- Twine Bauble (_petty_, _Ward_ once per day)
-_Ward_: A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.
+- Żelazny garnek
+- Nóż korzeniowy (k6)
+- Maść lecznicza (odzyskuje 1k4 SIŁ, 1 użycie)
+- Bombka ze sznurka (_drobiazg_, _Krąg ochronny_ raz dziennie)
+_Krąg ochronny_: Na ziemi pojawia się srebrny okrąg o średnicy 15m. Wybierz jeden gatunek, który nie może go przekroczyć.
 
-## How has the Wood failed you ? Roll 1d6:
+## W jaki sposób Las cię zawiódł? Rzuć 1k6:
 
 |       |                                                                                                                                                                                              |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | An ill-tempered forest spirit cursed you for stealing, marking you as an enemy of their kind. Take a **Bezoar Stone**. Ingesting it cures any poison (1 use, unless retrieved).              |
-| **2** | A close friend disappeared into the forest. Now you see their face in any tea you brew. Take a **Soporific Concoction** (3 uses).                                                            |
-| **3** | You were poisoned, losing your sense of taste and smell. You can now withstand noxious fumes and always carry **Antitoxin** (2 uses).                                                        |
-| **4** | Your radical experiments turned your skin green, and you now gain nourishment as a plant. You don't need **Rations**, but a day without sufficient sunlight and water leaves you _deprived_. |
-| **5** | Your impressive corpseflower won a local contest then promptly killed a judge. You fled, but not without the **Prize Money (100gp)** and a warrant for your arrest.                          |
-| **6** | You created a restorative tincture that also causes accidental infertility. Take a **Healing Potion** that completely restores STR. Only you know of its unintended side-effects.            |
+| **1** | Złośliwy leśny duch przeklął cię za kradzież, naznaczając cię jako wroga swojego rodzaju. Otrzymujesz **Kamień Bezoar**. Spożycie go leczy każdą truciznę (1 użycie).             |
+| **2** | Bliski przyjaciel zniknął w Lesie. Teraz widzisz jego twarz w każdej parzonej herbacie. Otrzymujesz **Miksturę usypiającą** (3 użycia).                                |
+| **3** | Zostałaś otruta, tracąc zmysł smaku i węchu. Jesteś teraz odporna na szkodliwe opary i zawsze nosisz przy sobie **Antytoksynę** (2 użycia).    |
+| **4** | Twoje radykalne eksperymenty zmieniły twoją skórę na zieloną i teraz odżywiasz się jak roślina. Nie potrzebujesz **racji żywnościowych**, ale dzień bez wystarczającej ilości światła słonecznego i wody powoduje _dyskomfort_. |
+| **5** | Twój imponujący trupojad wygrał lokalny konkurs, po czym natychmiast zabił sędziego. Uciekłeś, ale nie bez **nagrody pieniężnej (100z)**. Wystawiono za tobą również nakaz aresztowania.       |
+| **6** | Stworzyłaś nalewkę regenerującą, która niestety powoduje również bezpłodność. Weź **Miksturę uzdrawiającą**, która całkowicie przywraca SIŁ. Tylko ty wiesz o jej niezamierzonych skutkach ubocznych.     |
 
-## What keeps you safe while in the Wood? Roll 1d6:
+## Co zapewnia ci bezpieczeństwo w Lesie? Rzuć 1k6:
 
 |       |                  |                                                                                                          |
 | ----- | ---------------- | -------------------------------------------------------------------------------------------------------- |
-| **1** | **Amadou**       | A vermilion fungus that catches fire quite easily. 3 uses.                                               |
-| **2** | **Delphinium**   | Breathe water for up to one hour. 1 use, but can be divided into fractional doses.                       |
-| **3** | **Tacky Stalk**  | A woody reed that hardens into a permanent adhesive when chewed. 2 uses.                                 |
-| **4** | **Wisp Lantern** | Caged in wrought iron, provides a dim light so long as the wisp is able to feed on nearby pain and fear. |
-| **5** | **Seed Bomb**    | A canvas sack filled with seeds that explode on impact. d6 damage (_blast_, 3 uses).                     |
-| **6** | **Briarvine**    | Entangles any creature up to horse size (STR to break free). Reusable.                                   |
+| **1** | **Amadou**       | Ciemnoczerwony grzyb, który dość łatwo się zapala. 3 użycia.                                               |
+| **2** | **Delphinium**   | Oddychaj wodą przez maksymalnie godzinę. 1 użycie, ale można podzielić na dawki częściowe.                       |
+| **3** | **Lepka łodyga**  | Zdrewniała trzcina, która po przeżuciu twardnieje, tworząc trwały klej. 2 użycia.                                 |
+| **4** | **Ognikowa latarnia** | Zamknięty w klatce z kutego żelaza, zapewnia słabe światło tak długo, jak długo duszek jest w stanie karmić się bólem i strachem w pobliżu. |
+| **5** | **Bomba nasienna**    | Płócienny worek wypełniony nasionami, które eksplodują przy uderzeniu. k6 obrażeń (_podmuch_, 3 użycia).                     |
+| **6** | **Wrzosorośl**    | Unieruchamia dowolne stworzenie do rozmiaru konia (test SIŁ, aby się uwolnić). Wielokrotnego użytku.                                 |
