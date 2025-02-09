@@ -9,7 +9,7 @@ grand_parent: Druga edycja
 
 _Notka od tłumacza_: Oryginalna nazwa tej przeszłości to _Kettlewright_. Możecie użyć również innych określeń: druciarz (wędrowny rzemieślnik zajmujący się naprawą przedmiotów gospodarstwa domowego) lub konwisarz (rzemieślnik wyrabiający przedmioty z cyny).
 
-> You are known by the smell of molten metal and the jingle of tin. You are no mere merchant but an artisan of fire and metal. 
+> Można cię poznać po zapachu stopionego metalu i brzęku cyny. Nie jesteś zwykłym rzemieślnikiem, lecz mistrzem ognia i metalu. 
 
 ## Imiona
 
@@ -20,31 +20,31 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 - 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
-- Pincers
-- Roll of Tin
-- Gloves (_petty_)
-- Hammer (d6)
+- Szczypce
+- Rolka cyny
+- Rękawice (_drobiazg_)
+- Młotek (k6)
 
-## What is your trade? Roll 1d6:
+## Czym się zajmujesz? Rzuć 1k6:
 
 |       |                                                                                                                                                                                                                 |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | You build small contraptions for local guilds (and don't ask too many questions). Take an extra 40gp and a wanted poster with your face on it. Given time and materials, you can open almost any door or vault. |
-| **2** | You deal in home goods and tools, hawking your wares to townspeople across the lands. Take 20gp worth of items from the [gear](/wip/2e/marketplace#gear) table. You are fluent in the _Traveler's Cant_.        |
-| **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **tin helm** (+1 Armor). Given time and adequate materials, you can repair armor.          |
-| **4** | You sell rare and quality items to monasteries and nobles alike. Take a **Spyglass**, a **Necklace** (_petty_) worth 20gp, and a **Scroll** of [Mirrorwalk](/wip/2e/spellbooks) (_petty_).                      |
-| **5** | You offer protection as a service, quietly watching for threats as money exchanges hands. You start with **+d4 HP**, and carry a **Long Sword** (d10, _bulky_) and a **Gambeson** (+1 Armor).                   |
-| **6** | You scavenge raw tin and iron from battlefields, pulling teeth from still-twitching corpses. Start with a young **Donkey** (+4 slots, slow), a **Crossbow** (d8 damage, _bulky_), and a **Saw** (d6).           |
+| **1** | Budujesz małe urządzenia dla lokalnych gildii (i nie zadajesz zbyt wielu pytań). Weź dodatkowe 40z i list gończy z twoją twarzą. Mając czas i materiały, możesz otworzyć prawie każde drzwi lub skarbiec.  |
+| **2** | Zajmujesz się handlem artykułami domowymi i narzędziami, oferując swoje towary mieszkańcom całej krainy. Weź przedmioty o wartości 20z z tabeli [sprzęt](/second-edition/players-guide/marketplace#Sprzet). Biegle władasz _Żargonem podróżników_.         |
+| **3** | Byłeś wojskowym kowalem, zanim pokój zniszczył twoje źródło utrzymania. Otrzymujesz **młot kowalski** (k10, _nieporęczny_) i **cynowy hełm** (+1 pancerza). Jeśli masz czas i odpowiednie materiały, możesz naprawić zbroję.          |
+| **4** | Sprzedajesz rzadkie i wysokiej jakości przedmioty zarówno klasztorom, jak i szlachcie. Weź **Szkło powiększające**, **Naszyjnik** (_drobiazg_) o wartości 20z i **Zwój** z [Lustrzanym mostem](/second-edition/players-guide/spellbooks#lustrzany-most) (_drobiazg_).                          |
+| **5** | Oferujesz ochronę jako usługę, cicho wypatrując zagrożeń podczas przekazywania pieniędzy. Zaczynasz z **+k4 OCHR** i nosisz **długi miecz** (k10, _nieporęczny_) oraz **Przeszywanicę** (+1 pancerza).  |
+| **6** | Pozyskujesz surową cynę i żelazo z pól bitewnych, wyrywając zęby z wciąż drgających zwłok. Zaczynasz z młodym **Osłem** (+4 miejsca, powolny), **Kuszą** (k8 obrażeń, _nieporęczna_) i **Piłą** (k6).   |
 
-## What never fails to get you out of trouble? Roll 1d6:
+## Co nigdy nie zawodzi w wyciąganiu cię z kłopotów? Rzuć 1k6:
 
 |     |                    |                                                                                                                                                                  |
 | --- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Fire Eggs**      | Six small pellets made of sea salt, wood, and crockery-dust. They explode at low heat (d8, _blast_) but the flames dissipate quickly.                            |
-| 2   | **Black Tar**      | Versatile: both sticky and highly flammable. 3 uses.                                                                                                             |
-| 3   | **Spiked Boots**   | Cracks heads (d8) as easily as it does ice and muck. Travel is also a bit slower, but easier.                                                                    |
-| 4   | **Tinker's Paste** | Seals shut any fist-sized opening. 3 uses.                                                                                                                       |
-| 5   | **Fireworks**      | A dazzling albeit dangerous display. Enough explosive material to blow off a finger or three. 2 uses remain.                                                     |
-| 6   | **Carrion Cat**    | A clever pet, small enough to hide in your pack (_bulky_), but strong enough to scare off smaller predators. Requires one **Ration** a day, and it must be meat. |
-|     |                    |                                                                                                                                                                  |
+| 1   | **Ogniste jajka**      | Sześć małych granulek wykonanych z soli morskiej, drewna i pyłu kukurydzianego. Wybuchają w niskiej temperaturze (k8, _podmuch_), ale płomienie szybko się rozpraszają.                         |
+| 2   | **Czarna smoła**      | Wszechstronna: zarówno lepka, jak i wysoce łatwopalna. 3 użycia.                                                                                                             |
+| 3   | **Buty z kolcami**   | Rozbija głowy (k8) równie łatwo jak lód i błoto. Podróż jest również nieco wolniejsza, ale łatwiejsza.                                                                    |
+| 4   | **Pasta majsterkowicza** | Uszczelnia każdy otwór wielkości pięści. 3 użycia.                                                                                                                       |
+| 5   | **Fajerwerki**      | Olśniewające, choć niebezpieczne. Wystarczająca ilość materiału wybuchowego, by urwać palec lub trzy. Pozostały 2 użycia.                                                     |
+| 6   | **Kot padlinożerca**    | Sprytny zwierzak, wystarczająco mały, by ukryć się w plecaku (_nieporęczny_), ale wystarczająco silny, by odstraszyć mniejsze drapieżniki. Wymaga jednej racji żywnościowej dziennie i musi to być mięso. |
+
 
