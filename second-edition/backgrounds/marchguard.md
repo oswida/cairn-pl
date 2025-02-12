@@ -7,7 +7,7 @@ grand_parent: Druga edycja
 
 # Strażnik graniczny
 
-> Bound by blood Oath to patrol the border and protect the realm. Once sworn, the Oath cannot be broken. The Guard always finds their own.
+> Związani przysięgą krwi, by patrolować granicę i chronić królestwo. Raz złożonej przysięgi nie można złamać. Straż zawsze odnajduje swoich.
 
 ## Imiona
 
@@ -17,29 +17,29 @@ Gann, Light, Saoirse, Frost, Thorn, Reed, Dirk, Ragnar, Brie, Aasim
 
 - 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
-- Lantern
-- Oil Can (6 uses)
-- Long Sword (d10, _bulky_)
-- Boiled Leather (1 Armor)
+- Latarnia
+- Puszka z olejem do latarni (6 użyć)
+- Długi miecz (k10, _nieporęczny_)
+- Skórzana zbroja (1 pancerza)
 
-## Why did you take the Oath?
+## Dlaczego złożyłeś przysięgę?
 
 |       |                                                                                                                                                                                                                                                                        |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | Your family has a long tradition of serving, and you were trained from an early age on how to survive in the wild. When taking the [**Supply**](https://cairnrpg.com/wip/2e/wilderness-exploration/#supply) action, your yield increases by one step (e.g. 1d4 > 1d6). |
-| **2** | As a convict, the Oath was simply a means of avoiding punishment. Take a set of **Lockpicks** and the **Key** (_petty_) to a safehouse.                                                                                                                                |
-| **3** | Noble-born, you joined to escape family trouble. Take a **Goosefelt Tarp** (fits two) that you stole before leaving home.                                                                                                                                              |
-| **4** | When your family lost everything, you took the Oath to avoid becoming a burden. Take extra **Rations** (3 uses) and a brace of **Throwing Knives** (d6).                                                                                                               |
-| **5** | Your life was saved by a member of the **Marchguard**, and you were inspired to join their ranks. Take a **Snare Trap** and a **Sketchbook** filled with detailed drawings.                                                                                            |
-| **6** | You were in a dark place and decided that your life needed a little direction. You're still not so sure it was the right choice. Take an **Oilskin Coat** and **Mapping Paper**.                                                                                       |
+| **1** | Twoja rodzina ma długą tradycję służby, a ty od najmłodszych lat byłeś szkolony, jak przetrwać w dziczy. Podczas wykonywania akcji **Zaopatrzenie** twoja wydajność wzrasta o jeden (np. 1k4 > 1k6). |
+| **2** | Jako, że jesteś skazańcem, przysięga była po prostu sposobem na uniknięcie kary. Otrzymujesz zestaw **wytrychów** i **klucz** (_drobiazg_) do bezpiecznej kryjówki.                                           |
+| **3** | Szlachetnie urodzony, dołączyłeś, aby uciec od kłopotów rodzinnych. Otrzymujesz **Filcową plandekę** (przykryje dwie osoby), którą ukradłeś przed opuszczeniem domu.                                                                                                                                              |
+| **4** | Kiedy twoja rodzina straciła wszystko, złożyłeś przysięgę, aby nie być dla nich ciężarem. Weź dodatkowe **Racje żywnościowe** (3 użycia) i **Noże do rzucania** (k6).                                                                                                               |
+| **5** | Strażnik uratował ci życie i to zainspirowało cię do wstąpienia w szeregi organizacji. Otrzymujesz **Sidła** i **Szkicownik** wypełniony szczegółowymi rysunkami.    |
+| **6** |  Byłeś w dołku i zdecydowałeś, że twoje życie potrzebuje jakiejś zmiany. Nadal nie jesteś pewien, czy był to właściwy wybór. Otrzymujesz **Nieprzemakalny skórzany płaszcz** i **Papier do rysowania map**.                                                                                        |
 
-## What do you carry as proof of your Oath?
+## Co masz przy sobie jako dowód złożenia przysięgi?
 
 |       |                    |                                                                                                                                                                                                     |
 | ----- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Impressive Pin** | A metal badge of honor from the Guard. It can open doors but leaves a trail. _Petty_.                                                                                                               |
-| **2** | **Oath Compass**   | Points not towards North, but instead to the nearest member of the Guard. It also lets you know when they're getting close.                                                                         |
-| **3** | **Pullstones**     | Two jet-black stones. When separated, the stones will always roll toward one another.                                                                                                               |
-| **4** | **Fireflask**      | Highly alcoholic, yet strangely delicious. When thrown, it creates a wall of flames 10ft high that burns out after a few minutes. 1 use.                                                            |
-| **5** | **Pain Band**      | Touch an injured creature to transfer their wounds to you. (Exchange their lost STR with your own.) **Recharge**: Wear the ring while in perfect health. You will lose 1 STR, permanently. _Petty_. |
-| **6** | **Poacher's Woe**  | Strongly-scented arrows (3 uses). The scent is powerful enough to track with ease.                                                                                                                  |
+| **1** | **Efektowna przypinka** | Metalowa odznaka honorowa Straży. Może otwierać niektóre drzwi, ale zostawia ślad. _Drobiazg_.                                              |
+| **2** | **Kompas przysięgi**   | Wskazuje nie na północ, ale na najbliższego członka Straży. Informuje również, kiedy Strażnicy się zbliżają.                         |
+| **3** | **Kamienie przyciągające**     | Dwa kruczoczarne kamienie. Po rozdzieleniu kamienie zawsze toczą się ku sobie.                       |
+| **4** | **Kolba ogniowa**      | Pyszny płyn o wysokiej zawartości alkoholu zamknięty w fiolce. Po rzuceniu tworzy ścianę płomieni o wysokości 3m, która wypala się po kilku minutach. 1 użycie.                                             |
+| **5** | **Opaska przeciwbólowa**      | Dotknij rannej istoty, aby przenieść jej rany na siebie. (Zamień jej utraconą SIŁ na utratę własnej) **Doładowanie**: Noś pierścień, gdy pozostajesz w doskonałym zdrowiu. Stracisz wtedy 1 SIŁ na stałe. _Drobiazg_.  |
+| **6** | **Nieszczęście kłusownika**  | Strzałki o silnym zapachu (3 użycia). Zapach jest wystarczająco silny, aby z łatwością go namierzyć.                                                                                                                  |
