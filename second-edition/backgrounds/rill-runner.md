@@ -1,11 +1,11 @@
 ---
-title: Bard rzeczny
+title: Bard
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
 ---
 
-# Bard rzeczny
+# Bard
 
 > You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
 

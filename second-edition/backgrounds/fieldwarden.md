@@ -1,11 +1,11 @@
 ---
-title: Strażnik polny
+title: Strażniczka pól
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
 ---
 
-# Strażnik polny
+# Strażniczka pól
 
 > Obrońcy zbiorów, chronią przed szkodnikami, złodziejami i bestiami. To zaszczytne stanowisko, dopóki nic się nie stanie: wielu strażników nie dożywa sędziwego wieku. Rzuć drugi raz na tabelę **Więzi**. 
 

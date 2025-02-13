@@ -23,11 +23,11 @@ nav_order: 2
 | **2**   | [Felczer](https://pl.cairnrpg.com/second-edition/backgrounds/barber-surgeon)             | **12** | [Łowca czarownic](https://pl.cairnrpg.com/second-edition/backgrounds/hexenbane)      |
 | **3**   | [Poskramiacz zwierząt](https://pl.cairnrpg.com/second-edition/backgrounds/beast-handler) | **13** | [Kuglarz](https://pl.cairnrpg.com/second-edition/backgrounds/jongleur)              |
 | **4**   | [Opiekun Kości](https://pl.cairnrpg.com/second-edition/backgrounds/bonekeeper)          | **14** | [Wędrowny kowal](https://pl.cairnrpg.com/second-edition/backgrounds/kettlewright)          |
-| **5**   | [Kieszonkowiec](https://pl.cairnrpg.com/second-edition/backgrounds/cutpurse)             | **15** | [Strażnik graniczny](https://pl.cairnrpg.com/second-edition/backgrounds/marchguard) |
-| **6**   | [Strażnik polny](https://pl.cairnrpg.com/second-edition/backgrounds/fieldwarden)        | **16** | [Hochsztapler](https://pl.cairnrpg.com/second-edition/backgrounds/mountebank)        |
-| **7**   | [Mistrz łuku](https://pl.cairnrpg.com/second-edition/backgrounds/fletchwind)             | **17** | [Najemnik](https://pl.cairnrpg.com/second-edition/backgrounds/outrider)              |
+| **5**   | [Rzezimieszek](https://pl.cairnrpg.com/second-edition/backgrounds/cutpurse)             | **15** | [Strażnik graniczny](https://pl.cairnrpg.com/second-edition/backgrounds/marchguard) |
+| **6**   | [Strażniczka pól](https://pl.cairnrpg.com/second-edition/backgrounds/fieldwarden)        | **16** | [Hochsztapler](https://pl.cairnrpg.com/second-edition/backgrounds/mountebank)        |
+| **7**   | [Mistrzyni łuku](https://pl.cairnrpg.com/second-edition/backgrounds/fletchwind)             | **17** | [Najemniczka](https://pl.cairnrpg.com/second-edition/backgrounds/outrider)              |
 | **8**   | [Podrzutek](https://pl.cairnrpg.com/second-edition/backgrounds/foundling)                | **18** | [Skrytobójca](https://pl.cairnrpg.com/second-edition/backgrounds/prowler)            |
-| **9**   | [Grzybiarz](https://pl.cairnrpg.com/second-edition/backgrounds/fungal-forager)           | **19** | [Bard rzeczny](https://pl.cairnrpg.com/second-edition/backgrounds/rill-runner)       |
+| **9**   | [Grzybiarz](https://pl.cairnrpg.com/second-edition/backgrounds/fungal-forager)           | **19** | [Bard](https://pl.cairnrpg.com/second-edition/backgrounds/rill-runner)       |
 | **10**  | [Leśnik](https://pl.cairnrpg.com/second-edition/backgrounds/greenwise)                  | **20** | [Skryba](https://pl.cairnrpg.com/second-edition/backgrounds/scrivener)               |
 
 ## Atrybuty, ochrona i cechy postaci

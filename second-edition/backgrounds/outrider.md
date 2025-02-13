@@ -1,13 +1,13 @@
 ---
-title: Najemnik
+title: Najemniczka
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
 ---
 
-# Najemnik
+# Najemniczka
 
-> Your coin comes from escorting caravans, tracking fugitives, or lending your blade to a cause. You've been a savior, an executioner, a hero, and even a villain. Yours is not a solitary path, however: you'll always have your horse.
+> Twoje pieniądze pochodzą z eskortowania karawan, śledzenia zbiegów lub użyczania ostrza w słusznej sprawie. Byłaś wybawczynią, katem, bohaterką, a nawet złoczyńcą. Nie jest to jednak samotna ścieżka: zawsze będziesz miała swojego wierzchowca. 
 
 ## Imiona
 
@@ -18,30 +18,30 @@ Drake, Cyra, Keir, Darius, Valen, Rorik, Yara, Rui, Talon, Jory
 - 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
-- Long Sword (d10, _bulky_)
-- Leather Jerkin (1 Armor)
-- Crossbow (d8, _bulky_)
-- Spyglass
+- Długi miecz (k10, _nieporęczny_)
+- Skórzana kurta (1 pancerza)
+- Kusza (k8, _nieporęczna_)
+- Luneta
 
-## What personal code or principle do you uphold? Roll 1d6:
+## Jakiego osobistego kodeksu lub zasady przestrzegasz? Rzuć 1k6:
 
 |       |                                                                                                                                                                                                                                                                                       |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **No innocent blood**: No bystander will come to harm on your watch. Take a **Steadymade Buckler** (+1 Armor). While holding this shield, you cannot be moved so long as both feet are planted on firm ground.                                                                        |
-| **2** | **Revere the tools of death**: Weapons are to be respected and maintained. Take a **Wyrmbone Whetstone**. Following a half-hour ritual sharpening, attacks with the weapon are _enhanced_ until STR damage is dealt.                                                                  |
-| **3** | **To the death, always**: You never back down from a fight, no matter the odds. Take a **Death-Whistle**, 1 charge. Its scream frightens away all who hear it (save WIL or flee). **Recharge**: Capture the final breath of a dying warrior.                                          |
-| **4** | **Revere the dead**: Death is a journey we all take, and it deserves respect. Take an extra **30gp**. You always place two gold pieces on the eyelids of a slain foe. Somehow, you always find the coin.                                                                              |
-| **5** | **Loyalty to the work**: Your word is your bond. Once you've accepted a job, you see it through to the end. Take a weathered **Tally Stick**. Once a vow is marked onto its face, the stick hardens (d8) until it is complete. The stick will snap in half if the vow is ever broken. |
-| **6** | **Always pay your debts**: You always repay what you owe, whether in coin or in kind. You expect nothing less from all others. Take a **Blacked-Out Ledger**, then roll a second time on the **Bonds** table.                                                                         |
+| **1** | **Żadnej niewinnej krwi**: Żadna osoba postronna nie ucierpi na twojej warcie. Weź **Puklerz wykonany na zamówienie** (+1 do pancerza). Jeśli trzymasz tę tarczę, nikt nie może cię przesunąć, dopóki obie stopy stoją na twardym podłożu.    |
+| **2** | **Szanuj narzędzia śmierci**: Broń należy szanować i dbać o nią. Otrzymujesz **Osełkę z kości smoka**. Po półgodzinnym rytualnym ostrzeniu, ataki bronią są _wzmocnione_ do momentu zadania obrażeń SIŁ.                                                                   |
+| **3** | **Zawsze na śmierć i życie**: Nigdy nie wycofujesz się z walki, bez względu na przeciwności losu. Weź **Gwizdek śmierci**, 1 ładunek. Jego pisk odstrasza wszystkich, którzy go usłyszą (test WOL lub ucieczka). **Doładowanie**: Pochwyć ostatni oddech umierającego wojownika.                              |
+| **4** | **Szanuj zmarłych**: Śmierć jest podróżą, którą wszyscy odbywamy, i jako taka zasługuje na szacunek. Weź dodatkowe **30z**. Zawsze kładziesz dwie sztuki złota na powiekach zabitego wroga. Jakimś cudem zawsze znajdujesz monety aby to zrobić.              |
+| **5** | **Lojalność wobec pracy**: Twoje słowo jest twoim zobowiązaniem. Kiedy już zaakceptujesz pracę, doprowadzasz ją do końca. Otrzymujesz zużyty **Rabosz** (kawałek drewna z wykonanymi nacięciami zapisującymi ważne dane). Gdy przysięga zostanie zaznaczona na jego powierzchni, drewno twardnieje (k8), i pozostaje takie, dopóki robota nie zostanie ukończona. Rabosz złamie się na pół, jeśli przysięga zostanie złamana.  |
+| **6** | **Zawsze spłacaj swoje długi**: Zawsze spłacasz to, co jesteś winna, czy to w monecie, czy w innej walucie. Nie oczekujesz niczego mniej od innych. Weź **Poczerniałą księgę rachunkową**, a następnie wylosuj dodatkową **Więź** z tabeli.                                                                          |
 
 
-## What breed is your horse? Roll 1d6:
+## Jakiej rasy jest twój koń? Rzuć 1k6:
 
 |       |                       |                                                                                                                       |
 | ----- | --------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Heavy Destrier**    | A beast built for war, an imposing creature. 8 HP, 1 Armor, hooves (d10+d10), +2 slots.                               |
-| **2** | **Blacklegged Dandy** | Hardy and adaptable. **Tough** or **Perilous** terrain are one step easier. 6 HP. +4 slots.                           |
-| **3** | **Rivertooth**        | Impressively strong, capable of carrying heavy loads. 4 HP. +6 slots (only +2 slots if carrying two people).          |
-| **4** | **Piebald Cob**       | Intelligent, it can understand simple commands and even has an instinct for danger. 6 HP. +4 slots.                   |
-| **5** | **Linden White**      | Highly trained and agile, it can perform intricate maneuvers in a time of need (no DEX save to flee). 4 HP. +3 slots. |
-| **6** | **Stray Fogger**      | Wild but very fast (even in **Tough** terrain). Rides light. 4 HP. +2 slots.                                          |
+| **1** | **Ciężki Destrier**    | Bestia stworzona do walki, imponujące stworzenie. 8 OCHR, 1 pancerza, kopyta (k10+k10), +2 miejsca.                               |
+| **2** | **Czarnonogi Dandy** | Wytrzymały i wszechstronny. **Trudny** lub **Niebezpieczny** teren są o stopień łatwiejsze. 6 OCHR. +4 miejsca.                           |
+| **3** | **Rivertooth**        | Imponująco silny, zdolny do przenoszenia dużych ciężarów. 4 OCHR. +6 niejsc (tylko +2 miejsca, jeśli przewozi dwie osoby).          |
+| **4** | **Srokaty Tinker**       | Inteligentny, potrafi zrozumieć proste komendy, a nawet potrafi wyczuć niebezpieczeństwo. 6 OCHR. +4 miejsca.                   |
+| **5** | **Biały Lipicański**      | Świetnie wyszkolony i zwinny, może wykonywać skomplikowane manewry w razie potrzeby (nie wymaga testu ZRE, aby uciec). 4 OCHR. +3 miejsca. |
+| **6** | **Parskający Przybłęda**      | Dziki, ale bardzo szybki (nawet w **Trudnym** terenie). Stąpa bardzo lekko. 4 OCHR. +2 miejsca. |

@@ -1,11 +1,11 @@
 ---
-title: Kieszonkowiec
+title: Rzezimieszek
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
 ---
 
-# Kieszonkowiec
+# Rzezimieszek
 
 > Żyjesz w szarej przestrzeni pomiędzy tymi, którzy mają władzę, a tymi, którzy jej nie mają. Znajdujesz możliwości tam, gdzie inni widzą tylko chaos. Dzięki zwinnym palcom odciążasz zarówno najbogatszego kupca, jak i najmarniejszego strażnika. 
 
