@@ -7,7 +7,7 @@ grand_parent: Druga edycja
 
 # Skrytobójca
 
-> You are a specter in the night, a fleeting shadow that slips by its prey, unseen. Each kill is a test of cunning and animal determination, a contest between life and death. You know that one day you will lose. You look forward to it. 
+> Jesteś nocnym widmem, ulotnym cieniem, który przemyka obok swojej ofiary, niezauważony. Każde zabójstwo jest testem przebiegłości i zwierzęcej determinacji, rywalizacją między życiem a śmiercią. Wiesz, że pewnego dnia przegrasz. Czekasz na to z niecierpliwością. 
 
 ## Imiona
 
@@ -18,29 +18,29 @@ Winda, Brielle, Theron, Chayse, Nuja, Dev, Raven, Arawan, Sable, Baruani
 - 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
-- Tarp
-- Boiled Leather (1 Armor)
-- Short Sword (d6)
-- Spring-Loaded trap (4 STR damage)
+- Wodoodporna plandeka
+- Skórzana zbroja (1 pancerza)
+- Krótki miecz (k6)
+- Pułapka sprężynowa (4 obrażenia SIŁ)
 
-## What did you last hunt? Roll 1d6:
+## Na co ostatnio polowałeś? Rzuć 1k6:
 
 |       |                                                                                                                                                                                                                                                 |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | A _mock firefly_, baiting water carriers with its glowing lure. Take an **Alchemical Limb** (d8, _petty_ when worn) to replace the one it tore off and an **Oil Can** (6 uses). The limb is immune to heat and poison. Needs to be oiled daily. |
-| **2** | An _ice nettle_, trapping and draining sheep. You lost your commission when the fungus you introduced killed half the flock. Take a **Rime Seed** (1 use). It freezes any body of water, no matter the size. Don't eat it.                      |
-| **3** | A _silver marsh crawler_ that killed someone close to you. You now carry its **Tooth** (_petty_) on a chain around your neck as a warning to others of its kind. _The tooth hums softly when something is stalking you_.                        |
-| **4** | A malicious _forest spirit_ that poisoned a homestead. You saved a **Heartseed** from the roots of a dying tree. (Plant it to create a new forest.) Also, take **Iron Bracers** (+1 Armor, _bulky_).                                            |
-| **5** | A _hollow wolf_ that had been frightening travelers. You took pity on the half-starved creature and nursed it back to health. Now it is loyal to you unto death. It is also a great tunneler. 5 HP, 11 STR, 13 DEX, 8 WIL, teeth (d6).          |
-| **6** | An _azure warbler_. The gametes attract a sizeable profit, if properly extracted. You succeeded but left its nest to the wolves. Take a **Paring Knife** (d6), **an extra 20gp**, and a pang of regret.                                         |  |
+| **1** | _Niby-świetlik_, stworzenie wabiące nosicieli wody swoim kuszącym blaskiem. Otrzymujesz **alchemiczną kończynę** (k8, _drobiazg_ jeśli ją założysz), aby zastąpić tę, którą niby-świetlik oderwał, oraz **puszkę oleju** (6 użyć). Kończyna jest odporna na ciepło i truciznę. Musi być codziennie oliwiona.  |
+| **2** | _Lodowa pokrzywa_, służąca do odławiania i wykrwawiania owiec. Straciłeś prowizję, gdy wprowadzony przez ciebie grzyb zabił połowę stada. Otrzymujesz **Nasiona szronu** (1 użycie). Zamraża każdy zbiornik wodny, bez względu na rozmiar. Nie jedz go.                      |
+| **3** | _Srebrny pełzacz bagienny_, który zabił bliską ci osobę. Nosisz teraz jego **ząb** (_drobiazg_) na łańcuszku na szyi jako ostrzeżenie dla innych istot tego rodzaju. _Ząb brzęczy cicho, gdy coś cię śledzi_.                       |
+| **4** |  Złośliwy _duch lasu_, który zatruł gospodarstwo. Uratowałeś **Nasiono Serca** z korzeni umierającego drzewa (zasadź je, aby stworzyć nowy las). Weź również **żelazne bransolety** (+1 pancerz, _nieporęczne_).                                        |
+| **5** | _Głuchy wilk_, który straszył podróżnych. Zlitowałeś się nad na wpół zagłodzonym stworzeniem i przywróciłeś mu zdrowie. Teraz jest ci wierny aż do śmierci. Jest również świetnym kopaczem tuneli. 5 OCHR, 11 SIŁ, 13 ZRE, 8 WOL, zęby (k6).             |
+| **6** | _Lazurnik_. Śpiewający ptak, którego jaja, zebrane w odpowiedni sposób, przynoszą spore zyski. Udało ci się je pozyskać, ale zostawiłeś gniazdo na pastwę wilków. Otrzymujesz **nóż do krojenia** (k6), **dodatkowe 20z** i poczucie straty.                          |
 
-## What tool is always in your pack? Roll 1d6:
+## Jakie narzędzie zawsze masz w plecaku? Rzuć 1k6:
 
 |       |                       |                                                                                                     |
 | ----- | --------------------- | --------------------------------------------------------------------------------------------------- |
-| **1** | **Fermented Spirits** | Keeps you warm at the best of times and as an explosive at the worst. 3 Uses.                       |
-| **2** | **Trail Shaker**      | A noisy instrument that reveals nearby trails, even when deeply hidden.                             |
-| **3** | **Drowse Balm**       | A wax bar. If boiled in water, the steam acts as a soporific agent.                                 |
-| **4** | **Spike and Cord**    | For traversing difficult terrain or for creating makeshift traps and structures.                    |
-| **5** | **Iron Rattle**       | A noisemaker for distracting or scaring your quarry. Sounds convincingly like a snake.              |
-| **6** | **Hardening Glue**    | Makes any flat material (cloth, leather, sand) as hard as stone. Expensive (20gp a bottle, 3 uses). |
+| **1** | **Napój spirytusowy** | Zapewnia ciepło w dobrych chwilach i sprawdza się jako materiał wybuchowy w tych gorszych. 3 użycia.                       |
+| **2** | **Przesiewacz ścieżek**      | Hałaśliwy instrument, który wskazuje pobliskie szlaki, nawet jeśli są głęboko ukryte.                             |
+| **3** | **Balsam usypiający**       | Kostka wosku. Po zagotowaniu w wodzie, opary działają jak środek nasenny.                                 |
+| **4** | **Kolec i sznurek**    | Do pokonywania trudnego terenu lub tworzenia prowizorycznych pułapek i struktur.                    |
+| **5** | **Żelazna grzechotka**       | Urządzenie do rozpraszania lub straszenia zwierzyny. Brzmi przekonująco jak wąż.              |
+| **6** | **Klej utwardzający**    | Sprawia, że każdy płaski materiał (tkanina, skóra, piasek) staje się twardy jak kamień. Kosztowny (20z za butelkę, 3 użycia). |
