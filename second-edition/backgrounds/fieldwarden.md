@@ -3,6 +3,7 @@ title: Strażniczka pól
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 18
 ---
 
 # Strażniczka pól

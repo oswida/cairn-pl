@@ -3,6 +3,7 @@ title: Strażnik graniczny
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 19
 ---
 
 # Strażnik graniczny

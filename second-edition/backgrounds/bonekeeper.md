@@ -3,6 +3,7 @@ title: Opiekun Kości
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 11
 ---
 
 # Opiekun Kości

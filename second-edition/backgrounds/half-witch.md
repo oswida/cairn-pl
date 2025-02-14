@@ -3,6 +3,7 @@ title: Półwiedźma
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 14
 ---
 
 # Półwiedźma

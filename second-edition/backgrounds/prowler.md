@@ -3,6 +3,7 @@ title: Skrytobójca
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 17
 ---
 
 # Skrytobójca

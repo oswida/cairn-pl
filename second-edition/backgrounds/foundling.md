@@ -3,6 +3,7 @@ title: Podrzutek
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 12
 ---
 
 # Podrzutek

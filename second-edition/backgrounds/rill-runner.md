@@ -3,6 +3,7 @@ title: Bard
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 2
 ---
 
 # Bard

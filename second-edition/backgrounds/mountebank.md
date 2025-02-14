@@ -3,6 +3,7 @@ title: Hochsztapler
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 5
 ---
 
 # Hochsztapler

@@ -3,6 +3,7 @@ title: Kuglarz
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 6
 ---
 
 # Kuglarz

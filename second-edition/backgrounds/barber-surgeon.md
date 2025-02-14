@@ -3,6 +3,7 @@ title: Felczer
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 3
 ---
 
 # Felczer

@@ -3,6 +3,7 @@ title: Wędrowny kowal
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 20
 ---
 
 # Wędrowny kowal

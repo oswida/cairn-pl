@@ -3,6 +3,7 @@ title: Grzybiarz
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 4
 ---
 
 # Grzybiarz

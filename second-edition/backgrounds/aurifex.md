@@ -3,6 +3,7 @@ title: Alchemik
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 1
 ---
 
 # Alchemik

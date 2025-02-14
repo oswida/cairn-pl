@@ -3,6 +3,7 @@ title: Mistrzyni łuku
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 9
 ---
 
 # Mistrzyni łuku

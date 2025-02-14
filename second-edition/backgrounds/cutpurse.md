@@ -3,6 +3,7 @@ title: Rzezimieszek
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 15
 ---
 
 # Rzezimieszek

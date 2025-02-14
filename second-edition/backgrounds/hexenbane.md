@@ -3,7 +3,7 @@ title: Łowca czarownic
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
-nav_order: 9
+nav_order: 8
 ---
 
 # Łowca czarownic

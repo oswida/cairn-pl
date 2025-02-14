@@ -3,6 +3,7 @@ title: Skryba
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
+nav_order: 16
 ---
 
 # Skryba
