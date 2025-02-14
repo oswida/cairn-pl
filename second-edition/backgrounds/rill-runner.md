@@ -1,14 +1,14 @@
 ---
-title: Bard
+title: Bard rzeczny
 layout: default
 parent: Przeszłość
 grand_parent: Druga edycja
 nav_order: 2
 ---
 
-# Bard
+# Bard rzeczny
 
-> You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
+> Śpiewasz historie o rzekach i jeziorach, a twoje talenty uspokajają zarówno przyjaciół, jak i żywioły. Widziałeś więcej niż większość, ale jakoś nigdy nie wydaje się to wystarczająco dużo.
 
 ## Imiona
 
@@ -19,29 +19,29 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 - 3k6 sztuk złota
 - Racje żywnościowe (3 użycia)
 - Pochodnia (3 użycia) 
-- Water Shoes
-- Brigandine (1 Armor, _bulky_)
-- Compass
-- Dagger (d6)
+- Kalosze
+- Brygandyna (1 pancerza, _nieporęczna_)
+- Kompas
+- Sztylet (k6)
 
-## What songs are you best known for? Roll 1d6:
+## Z jakich piosenek jesteś najbardziej znany? Rzuć 1k6:
 
 |       |                                                                                                                                                                                                                       |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | _The Tinker's Two-Step_. A humorous fairy tale about a gift-giving traveler. Start with a **Reed Whistle**. Anyone in earshot must pass a WIL save to perform an act of violence.                                     |
-| **2** | _The Sylph and Her Lover_. A bawdy tale of lost love. Start with a **Breeze Knot** (3 charges). Creates a strong breeze. **Recharge**: Tie it to a mast during a storm.                                               |
-| **3** | _Harper's Devotion_. A sad, short tale about a musician that falls in love with a star. Start with a **Celestial Lute**. Reveals the constellations above, no matter the weather.                                     |
-| **4** | _The Reed Fisher_. A celebrated song about a massive carp that always seems to get away. Begin with a spool of **River Twine** (5 uses). Each dip into the river guarantees a catch, though it might not be pleasant. |
-| **5** | _Song of the Silver Stream_. A wordless lullaby that mimics flowing water. Take a **Stone Flute** that can calm almost any river.                                                                                     |
-| **6** | _The Thrush and the Meadow_. A moody tale told in alternating chorus. Start with a **Feather Quill** (1 use, _petty_). A map drawn with this quill reveals the most expedient course between any two points.          |
+| **1** | _Taniec majsterkowicza_. Humorystyczna bajka o podróżniku rozdającym prezenty. Otrzymujesz **Trzcinowy gwizdek**. Każdy w zasięgu słuchu musi zdać test WOL, jeśli chce dokonać aktu przemocy.                                        |
+| **2** | _Sylf i jej kochanek_. Sprośna opowieść o utraconej miłości. Otrzymujesz **Węzeł bryzy** (3 ładunki). Tworzy silną bryzę. **Doładowanie**: Przywiąż go do masztu podczas sztormu.                                              |
+| **3** | _Poświęcenie harfiarza_. Smutna, krótka opowieść o muzyku, który zakochuje się w gwieździe. Otrzymujesz **Niebiańską lutnię**. Ukazuje ona konstelacje nad głową, bez względu na pogodę.                                     |
+| **4** | _Rybak w szuwarach_. Znana piosenka o ogromnym karpiu, któremu zawsze udaje się wymknąć. Otrzymujesz szpulę **Dratwy rzecznej** (5 użyć). Każde zanurzenie w rzece gwarantuje połów, choć może on nie być przyjemny.   |
+| **5** | _Pieśń o Srebrnym Strumieniu_. Bezsłowna kołysanka naśladująca płynącą wodę. Otrzymujesz **Kamienny flet**, który może uspokoić niemal każdą rzekę.           |
+| **6** | _Drozd i łąka_. Nastrojowa historia opowiedziana w powtarzającym się na przemian refrenie. Zaczynasz z **Piórem do pisania** (1 użycie, _drobiazg_). Mapa narysowana za pomocą tego pióra wskazuje najkorzystniejszą drogę między dwoma dowolnymi punktami.         |
 
-## What pays your way across the land? Roll 1d6:
+## W jaki sposób finansujesz swoje podróże? Rzuć 1k6:
 
 |       |                     |                                                                                                                                                                  |
 | ----- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Performance**     | Performing at taverns always yields both room and board. Sometimes you even get tips! Start with an extra **10gp**.                                              |
-| **2** | **Bodyguard**       | You are a protector for those afraid to travel alone. Start with a **Rapier** (d8).                                                                              |
-| **3** | **Wares**           | You buy low and sell high, always making just enough to get by. Take a **single item** worth **20gp** (or less) from the [gear](/wip/2e/marketplace#gear) table. |
-| **4** | **Transport**       | You deliver "delicate" packages throughout the lands. You have at least one contact in any major town.                                                           |
-| **5** | **Sailor's Friend** | Over troubled waters and dangerous winds, you always make sure a ship reaches its destination. For you, passage is always free.                                  |
-| **6** | **Guide**           | You shepherd caravans and travelers across water-soaked lands. Start a **map** (_petty_) relevant to your next journey.                                          |
+| **1** | **Występy**     | Występy w tawernach zawsze zapewniają zarówno zakwaterowanie, jak i wyżywienie. Czasami dostajesz nawet napiwki! Zacznij z dodatkowymi **10z**.                                              |
+| **2** | **Ochroniarz**       | Jesteś obrońcą tych, którzy boją się podróżować samotnie. Zacznij z **Rapierem** (k8).                                                                              |
+| **3** | **Towary**           | Kupujesz tanio i sprzedajesz drogo, zawsze zarabiając wystarczająco dużo, by przeżyć. Otrzymujesz **pojedynczy przedmiot** o wartości **20z** (lub mniejszej) z tabeli sprzętu. |
+| **4** | **Transport**       | Dostarczasz „delikatne” paczki na terenie całej krainy. Masz co najmniej jeden kontakt w każdym większym mieście.                                                          |
+| **5** | **Przyjaciel żeglarza** | Pomimo niespokojnych wód i niebezpiecznych wiatrów zawsze dopilnujesz, by statek dotarł do celu. Dla Ciebie podróż jest zawsze darmowa.                                  |
+| **6** | **Przewodnik**           | Prowadzisz karawany i podróżników przez zalane wodą ziemie. Rozpocznij z  **mapą** (_drobiazg_) związaną z twoją następną podróżą.                                          |

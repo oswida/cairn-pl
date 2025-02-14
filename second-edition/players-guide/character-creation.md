@@ -27,7 +27,7 @@ nav_order: 2
 | **6**   | [Strażniczka pól](https://pl.cairnrpg.com/second-edition/backgrounds/fieldwarden)        | **16** | [Hochsztapler](https://pl.cairnrpg.com/second-edition/backgrounds/mountebank)        |
 | **7**   | [Mistrzyni łuku](https://pl.cairnrpg.com/second-edition/backgrounds/fletchwind)             | **17** | [Najemniczka](https://pl.cairnrpg.com/second-edition/backgrounds/outrider)              |
 | **8**   | [Podrzutek](https://pl.cairnrpg.com/second-edition/backgrounds/foundling)                | **18** | [Skrytobójca](https://pl.cairnrpg.com/second-edition/backgrounds/prowler)            |
-| **9**   | [Grzybiarz](https://pl.cairnrpg.com/second-edition/backgrounds/fungal-forager)           | **19** | [Bard](https://pl.cairnrpg.com/second-edition/backgrounds/rill-runner)       |
+| **9**   | [Grzybiarz](https://pl.cairnrpg.com/second-edition/backgrounds/fungal-forager)           | **19** | [Bard rzeczny](https://pl.cairnrpg.com/second-edition/backgrounds/rill-runner)       |
 | **10**  | [Leśnik](https://pl.cairnrpg.com/second-edition/backgrounds/greenwise)                  | **20** | [Skryba](https://pl.cairnrpg.com/second-edition/backgrounds/scrivener)               |
 
 ## Atrybuty, ochrona i cechy postaci
