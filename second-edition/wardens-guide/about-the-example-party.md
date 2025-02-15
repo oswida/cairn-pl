@@ -1,12 +1,14 @@
 ---
 layout: default
-title: About the Example Party
+title: Przykładowa drużyna
 parent: Poradnik Strażnika 
 grand_parent: Druga edycja
+nav_order: 1
 ---
 
-# About the Example Party
+# Przykładowa drużyna
 
-- **Wolfram**: A _Hexenbane_ belonging to the _Order of the Blank Eye_. Besides the usual equipment, he carries a Voidglass Shard and the _Disassemble_ Spellbook. He has taken a _Vow of Poverty_. 
-- **Lucius**: A _Mountebank_. Besides the usual equipment he carries Bandages (3 uses) and Miracle Oil (2 uses).
-- **Freya**: A _Cutpurse_. Besides the usual equipment she carries Smoke Pellets (3 uses) and a Catring (2 charges).
+- **Wolfram**: _Łowca czarownic_ z  _Zakonu Pustego Oka_. Oprócz zwykłego ekwipunku ma przy sobie _Odłamek Szkła Pustki_ i Księgę Zaklęć _Dekonstrukcji_. Złożył przysięgę 
+ ubóstwa. 
+- **Lucius**: _Hochsztapler_. Oprócz zwykłego wyposażenia ma przy sobie _bandaże_ (3 użycia) i _Cudowny olej_ (2 użycia).
+- **Freya**: _Rzezimieszek_. Oprócz zwykłego wyposażenia ma przy sobie _Pastylki dymne_ (3 użycia) i _Koci pierścień_ (2 ładunki).

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Saves
+title: Rzuty obronne
 parent: Poradnik Strażnika 
 grand_parent: Druga edycja
 ---
 
-# Saves
+# Rzuty obronne
 
 ## Overview
 

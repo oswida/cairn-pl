@@ -45,7 +45,7 @@ Follow this procedure for any dungeon POIs in your setting. Refer to the dungeon
 4. Create the map.
 5. Stock the dungeon's rooms.
 
-### History
+### Historia
 
 Who built the dungeon? What was its originally used for? Perhaps it was once a great forge, capable of building the world's most powerful weapon. Or maybe it was once a burial site for ancient kings, binding their souls to the lands they once ruled. Roll on the tables below, noting the results in your notebook, keeping the following questions in mind: 
 
@@ -147,7 +147,7 @@ _"What do we know about the creatures and factions that occupy the dungeon?"_
 
 _"What is each faction trying to achieve, and what stands in their way?"_
 
-#### Traits
+#### Cechy
 
 Roll 1d20 for each column and combine the results.
 
@@ -175,11 +175,11 @@ Roll 1d20 for each column and combine the results.
 | **19**  | Unwavering      | Unimaginative |
 | **20**  | Witty           | Vain          |
 
-### Dungeon Factions
+### Stronnictwa w lochu
 
 All dungeons should have one or more factions with their own unique agenda, obstacles, leaders, and hierarchy.
 
-#### Agendas
+#### Cele
 
 Roll 1d20 for each column and combine the results.
 

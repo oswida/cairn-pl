@@ -1,11 +1,11 @@
 ---
-title: Creating Monsters
+title: Tworzenie potworów
 layout: default
 parent: Poradnik Strażnika 
 grand_parent: Druga edycja
 ---
 
-# Creating Monsters
+# Tworzenie potworów
 
 ## Overview
 
@@ -17,41 +17,41 @@ To create a unique monster, follow these steps:
 - Describe the creature's appearance, abilities, and attacks in plain English.
 - Create the creature's stats according to the principles, definitions, and stat block format below.
 
-## Principles
+## Zasady
 
 - Use **Critical Damage** to lean into the threat or strangeness of any aggressive NPC.
 - Use flavor and style to help creatures stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
 - Always adjust creature stats based on what is fun and interesting.
 
-## **Hit Protection**
+## **Ochrona przed trafieniem**
 
 A creature's ability to avoid danger, whether through toughness, speed, or skill. Give average creatures 3 HP, give hardier ones 6 HP, and and give serious threats 10 or higher.
 
-## Armor
+## Pancerz
 
 For some creatures, this represents their natural toughness; for others, it may be from something that is worn or carried. If a creature is able to withstand an attack without moving, raise this number. 
 
-## Ability Score
+## Punkty zdolności
 
 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. 
 
-## Strength
+## Siła
 
 Tracks overall health, physical power, and resistance to poisons. It is the ability of a creature to survive a direct hit, not its ability to avoid danger! 
 
-## Dexterity
+## Zręczność
 
 Start with **10** as a base, and if the creature is particularly quick, agile, or nimble, increase the number as necessary. If it is slow to respond, bulky, or clumsy, lower the number.
 
-## Willpower
+## Wola
 
 Determines a creature's ability to withstand the influence of another, as well as their power over others. It also acts as a measurement of their defense in magical or spiritual matters.
 
-## Attacks
+## Ataki
 
 Typically an object (e.g. sword or bow) or a natural weapon (e.g. claws or teeth).
 
-## Abilities
+## Zdolności
 
 A unique action or power the creature can utilize both in and out of combat.
 
@@ -67,7 +67,7 @@ X HP, X Armor, X STR, X DEX, X WIL, Attack (dX, special items, _qualities_)
 - A quirk, tactic, or peculiarity that distinguish this creature.
 - Special effect or consequence of critical damage.
 
-## Monster Appearance
+## Wygląd potworów
 
 Roll 1d20 for each column and combine the results.
 
@@ -95,7 +95,7 @@ Roll 1d20 for each column and combine the results.
 | **19**  | Translucent  | Voice       |
 | **20**  | Twisted      | Wings       |
 
-## Monster Traits
+## Cechy potworów
 
 Roll 1d20 for each column and combine the results.
 
@@ -123,7 +123,7 @@ Roll 1d20 for each column and combine the results.
 | **19**  | Sweats Rare Minerals     | True Name       |
 | **20**  | Reproduces Asexually     | Weak Spot       |
 
-## Monster Attacks
+## Ataki potworów
 
 |         |          |                     |
 | ------- | -------- | ------------------- |
@@ -223,25 +223,25 @@ There is no perfect system for converting from other systems. Here are some tips
 | **Breath Attacks**             | **DEX** or **STR** |
 | **Spells, Rods or Staves**     | **WIL**            |
 
-### Combat
+### Walka
 
 - **Damage Die**: Can typically be copied "as is" from most OSR systems, but it's a good idea to check with the weapons listed in the Marketplace first.
 - **Multiple attacks**: Convert to _blast_ or to multiple dice (e.g. d6+d6).
 - **Devastating Attacks**: Consider making the damage _enhanced_, assign the _blast_ tag, or giving the attack multiple dice.
 
-### Abilities
+### Zdolności
 
 - Sometimes the mechanics of the original system simply _do not translate_. That's OK! Try to focus on what's most interesting about the creature, and write a "version" of their ability more appropriate to Cairn.
 - Abilities can sometimes be made into attacks (with a damage die), leaving Critical Damage to reveal the real impact. 
 - If the monster has an attack that asks the PCs to attempt to dodge or save against some ability, consider making the ability an out-of-combat "trap" that the PCs can trigger. Otherwise, make it succeed automatically. Combat is dangerous, and it is up to the Warden to properly telegraph danger before the fighting begins.
 
-### Magic
+### Magia
 
 - Magical creatures can "know" a bunch of spells without needing to carry Spellbooks. In this case, make their corpses magical (and dangerous)!
 - Spells are tricky; you can give magic-users Spellbooks, but remember, they might _drop_ them when defeated.
 - Consider making some of the dropped Spellbooks implode (use the Die of Fate to determine which).
 
-### Use the Fiction
+### Używaj fikcji
 
 The easiest way to convert a monster from another system is to read the original stat block and any associated text, then write a few sentences about the creature in plain English. Finally, convert what you've written to the Cairn monster stat block.
 

@@ -20,7 +20,7 @@ The following method relies heavily on the Wilderness Exploration procedures in 
 - Identify potential routes between each point, noting obvious roads, trails, and waterways. Indicate any sites that lack connecting routes to other points. 
 - Indicate the rough travel time (in Watches or days of travel) between any two points, accounting for the party's speed, terrain, weather, and other elements of play that might affect the journey. 
 
-### Example
+### Przykład
 
 [![Alt text](/img/2e/pointcrawl_example.jpg "Click to embiggen"){:height="60%" width="60%"}](/img/2e/pointcrawl_example.jpg)
 

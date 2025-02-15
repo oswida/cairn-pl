@@ -1,33 +1,34 @@
 ---
 layout: default
-title: Bonds and Omens
+title: Więzi i omeny
 parent: Poradnik Strażnika 
 grand_parent: Druga edycja
+nav_order: 4
 ---
 
-# Bonds and Omens
+# Więzi i omeny
 
-## Introduction
+## Wprowadzenie
 
-Bonds and Omens provide new player characters with adventure hooks, starting gear, and abilities. And while they are distinct from character Backgrounds, they are equally useful for building a setting, or even a complete adventure!
+Więzi i Omeny zapewniają nowym postaciom graczy punkty zaczepienia dla przygód, początkowy ekwipunek i zdolności. I choć różnią się od Przeszłości postaci, są równie przydatne do budowania scenerii, a nawet całej przygody!
 
-## Bonds
+## Więzi
 
-Bonds can often tie a player character to another PC, the setting, and its characters. A PC can resolve a Bond by discovering the truth behind its mysteries or by solving its root cause. In this case, the character should experience Growth of some kind, and the Warden can optionally create a new Bond for the PC. Player characters are not required to resolve their Bonds. 
+Więzi zazwyczaj łączą postać gracza z innym bohaterem, otoczeniem i jego mieszkańcami. Bohater może wyeliminować więź, odkrywając prawdę kryjącą się za jej tajemnicami lub rozwiązując jej pierwotną przyczynę. W takim przypadku postać powinna doświadczyć pewnego rodzaju Rozwoju, a Strażnik może opcjonalnie utworzyć nową Więź dla bohatera. Postacie graczy nie muszą eliminować swoich Więzi. 
 
-### Bonds Should...
+### Więzi powinny...
 
-- Give a character an item (often _petty_) _or_ a unique ability.
-- Encourage character engagement with the implied setting.
-- Flesh out a character's history without relying on events tied to specific Backgrounds. 
-- Provide a character with a quest, opportunity, or plan of action. 
+- Dawać postaci przedmiot (często _drobiazg_) _lub_ unikalną umiejętność.
+- Zachęcać postać do angażowania się w sugerowane otoczenie.
+- Rozwijać historię postaci bez polegania na wydarzeniach związanych z konkretną Przeszłością. 
+- Zapewnić postaci misję, okazję lub plan działania. 
 
-## Omens
+## Omeny
 
-Omens are the seeds of an adventure yet to come, premonitions of a future disaster, or the cause of a problem the characters are currently facing. An Omen is resolved when the characters reveal the truth behind its origin or resolve its dangers. Resolving an Omen should yield Growth of some kind, either for the party as a collective or to an entangled individual. If an Omen is ignored, it should come to pass and wreak whatever havoc it may.
+Omeny to zalążki przygód, które dopiero nadejdą, przeczucia przyszłej katastrofy lub przyczyny problemów, z którymi borykają się bohaterowie. Omen zostaje rozwiązany, gdy bohaterowie odkryją prawdę o jego pochodzeniu lub zażegnają niebezpieczeństwo. Rozwiązanie Omenu powinno przynieść jakiś rozwój, albo dla drużyny jako zbiorowości, albo dla uwikłanej jednostki. Jeśli Omen zostanie zignorowany, powinien się spełnić i siać maksymalne spustoszenie.
 
-### Omens Should...
+### Omeny powinny...
 
-- Never rely on a specific player character for relevance.
-- Alway tell the characters something about the setting they did not already know.
-- Reveal a pattern or other obvious indicator that something terrible is going on. 
+- Nigdy nie opierać się na konkretnej postaci gracza.
+- Zawsze mówić bohaterom coś o otoczeniu, coś czego jeszcze nie wiedzieli.
+- Ujawnienie wzorzec lub inny oczywisty sygnał, że dzieje się coś strasznego. 

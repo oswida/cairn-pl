@@ -11,7 +11,7 @@ grand_parent: Druga edycja
 
 The following procedure is designed to help create the _seed_ of a setting: the unique topography, natural features, people, and paths that an adventuring party may encounter as they travel throughout a region. We'll start by developing the people that live there, their ambitions and resources, and the factions that affect them. Then we'll generate the terrain of your region, followed by its various points of interest, landmarks, roads, trails, and so on. As with any other rule, if you don't like a table result, roll again or tweak as desired!
 
-## Example
+## Przykład
 
 Before you begin please check out this example (click on it):
 
@@ -27,13 +27,13 @@ A **Realm** is a general term for a related collection of regions, potentially e
 - Pencils and erasers. Colored pencils if you want to make it pretty or want to indicate terrain with color.
 - At least one d6 and one d20, but 6d6 and 2d20 would be ideal.
 
-## Theme
+## Motyw
 
-### People
+### Ludzie
 
 The most important aspect of a region is its _people_: their character, ambitions, and the resources that tie them to this land. Roll on the [Culture](#culture) and [Resources](#resources) tables, then note the results in your notebook.    
 
-#### Culture
+#### Kultura
 
 Roll 1d20 for each column and combine the results.
 
@@ -61,7 +61,7 @@ Roll 1d20 for each column and combine the results.
 | **19**  | Wealthy       | Unification     |
 | **20**  | Xenophobic    | Wealth          |
 
-#### Resources
+#### Zasoby
 
 Roll 1d20 for each column and combine the results.
 
@@ -89,13 +89,13 @@ Roll 1d20 for each column and combine the results.
 | **19**  | Weapons       | Weapons       |
 | **20**  | Wood          | Wood          |
 
-### Factions
+### Stronnictwa
 
 A region is typically dominated by one or more factions, each with their own unique **Advantages**, **Agenda**, and **Obstacles**. Each faction should also have one or more representatives, or **Agents**, tasked with helping complete their agenda. Smaller regions with fewer POIs should have 1-2 factions, while larger regions could have as many as 5-6 factions. 
 
 Agents are often in charge of completing one or more of the goals of the Agenda of a faction. Particularly large factions may have additional agents, each in charge of a distinct goal. Agents may have personal motivations that differ from the faction's main agenda, a fact that canny PCs can exploit for their own gain.
 
-#### Advantages
+#### Przewagi
 
 Factions possess advantages that assist them in accomplishing their agenda. Advantages reflect a faction's influence, materials, wealth, and other unique features. Factions leverage their advantages as much as possible when trying to achieve their goals, and at the same time continually work to acquire _more_ advantages.
 
@@ -113,13 +113,13 @@ Completing a faction's agendas should be a significant event, potentially changi
 
 Roll one or more times on the [Faction Types](#faction-types), [Faction Traits](#faction-traits), [Faction Advantages](#faction-advantages) and [Faction Agendas](#faction-agendas) tables.
 
-#### Faction Types
+#### Typy stronnictw
 
 Roll 1d20 for each column and combine the results.
 
 |         |                 |             |
 | ------- | --------------- | ----------- |
-| **d20** | **Type**        | **Agent**   |
+| **k20** | **Typ**        | **Agent**   |
 | **1**   | Artisans        | Academic    |
 | **2**   | Commoners       | Assassin    |
 | **3**   | Criminals       | Blacksmith  |
@@ -141,13 +141,13 @@ Roll 1d20 for each column and combine the results.
 | **19**  | Spies           | Thief       |
 | **20**  | Tribe           | Thug        |
 
-#### Faction Traits
+#### Cechy stronnictw
 
 Roll 1d20 for each column and combine the results.
 
 |         |               |               |
 | ------- | ------------- | ------------- |
-| **d20** | **Trait 1**   | **Trait 2**   |
+| **k20** | **Cecha 1**   | **Cecha 2**   |
 | **1**   | Cautious      | Adaptable     |
 | **2**   | Connected     | Bankrupt      |
 | **3**   | Decadent      | Brutal        |
@@ -169,13 +169,13 @@ Roll 1d20 for each column and combine the results.
 | **19**  | Shrewd        | Threatened    |
 | **20**  | Tenacious     | Xenophobic    |
 
-#### Faction Advantages
+#### Przewagi stronnictw
 
 Roll 1d20 to determine the number of advantages the faction has, then roll 1d20 again for each of the corresponding advantages. For example, if a result of “2” was received from the “# of Advantages” column, you would roll on the “Type” column twice, noting each result. Reroll repeated results.
 
 |         |                     |                |
 | ------- | ------------------- | -------------- |
-| **d20** | **# of Advantages** | **Advantage**  |
+| **k20** | **Liczba przewag** | **Przewaga**  |
 | **1**   | 1                   | Alliances      |
 | **2**   | 1                   | Anonymity      |
 | **3**   | 1                   | Apparatus      |
@@ -197,13 +197,13 @@ Roll 1d20 to determine the number of advantages the faction has, then roll 1d20 
 | **19**  | 4                   | Subterfuge     |
 | **20**  | 4                   | Wealth         |
 
-#### Faction Agendas
+#### Cele stronnictw
 
 Roll 1d20 for each column and combine the results.
 
 |         |                            |                                                         |
 | ------- | -------------------------- | ------------------------------------------------------- |
-| **d20** | **Agenda**                 | **Obstacle**                                            |
+| **k20** | **Cel**                 | **Przeszkoda**                                            |
 | **1**   | Ascend to a Higher Plane   | A geographic barrier or impassable terrain.             |
 | **2**   | Collect Artifacts          | A key piece of information must first be discovered.    |
 | **3**   | Cultivate a Rare Resource  | A particular object or Relic is required.               |
@@ -225,32 +225,32 @@ Roll 1d20 for each column and combine the results.
 | **19**  | Seek New Leadership        | Requires a specialist of an uncommon sort.              |
 | **20**  | Spread a Belief            | The outcome would lead to unavoidable war.              |
 
-#### Example Faction
+#### Przykładowe stronnictwo
 
-#### Type
+#### Typ
 
 - **Academics**: _Royal Cartographer's Guild_. Respected and feared, even by the royal family. 
 
-### Advantages
+### Przewagi
 
 - **Apparatus**: A _Map of the Dead_. Legend tells that the map reveals a Gate to the land of the dead.  
 - **Renown**: None would dare defy the _Guild_ publicly. Their voice carries great weight in the Cities.
 
-### Agents
+### Agenci
 
 - Horatia Confi, first of her order. Recovered the _Map of the Dead_ for the _Guild_. WIL 15.  
 
-#### Agenda
+#### Cel
 
 - Hire a skilled party to escort Horatia to a location written on the map.
 - Travel through the lands of the dead in search of the _Order_'s original founder.
 - Bring the founder back to the Cities. Overthrow the ruler of the Realm.
 
-#### Obstacle
+#### Przeszkoda
 
 The _Guild_ has been warned that a well-placed operative moves within their ranks.
 
-#### Faction Rules
+#### Reguły stronnictwa
 
 - By default, factions operate independent of the player character's actions. If the PCs do nothing, the faction should still act to achieve their aims.
 - The **Warden** should rely on the fiction to determine whether a faction is positioned to advance their agenda. 
@@ -258,7 +258,7 @@ The _Guild_ has been warned that a well-placed operative moves within their rank
 - Whenever a faction is positioned to advance a goal in their agenda, roll a **d6** on the [Faction Actions](#faction-actions) table. 
 - If two factions are _opposed_, the faction _most at risk_ makes a WIL save, using the score of its highest-ranking agent. On a fail, the faction does not roll on the Faction Actions table at this time.
 
-#### Faction Actions
+#### Akcje stronnictwa
 
 |        |                   |                                                                 |
 | ------ | ----------------- | --------------------------------------------------------------- |
@@ -272,7 +272,7 @@ The _Guild_ has been warned that a well-placed operative moves within their rank
 
 > The actions of the PCs can always overrule the necessity for a **faction** action, or in some cases shift the outcome of the roll in a favorable or unfavorable direction. 
 
-### Topography
+### Topografia
 
 A region's terrain and natural features are an essential part of any map, affecting the local history, resources, settlements, culture, and more.
 
@@ -389,7 +389,7 @@ Every region should have some kind of water source. Otherwise, where would the l
 - To create waterways, draw a wiggly line from the highest elevation point (e.g. Mountains) to the lowest (e.g. Grassways). 
 - If the river runs through terrain that is higher in elevation, it might terminate in a **lake**. If your map has a sea, it might terminate there. Otherwise, the river can continue on off the map page.
 
-### Weather
+### Pogoda
 
 The weather can have a great impact on the people, culture, and terrain of a region. It impacts what kinds of clothes the adventurers need to wear, what sorts of tools they'll have to bring, and how tough the journey might be. To determine the average weather of a region, roll on the [Seasonal Weather](#seasonal-weather) table once for each season. Optionally, you may also roll on the [Unusual Weather](#unusual-weather) table around particular landmarks or terrain.
 
@@ -405,7 +405,7 @@ The weather can have a great impact on the people, culture, and terrain of a reg
 | **5**  | Cold and windy   | Hot and humid        | Cool and rainy    | Freezing and snowing |
 | **6**  | Cold and rainy   | Sweltering and humid | Chilly and stormy | Freezing and hailing |
 
-#### Unusual Weather
+#### Niezwykła pogoda
 
 |         |                                                                                                             |
 | ------- | ----------------------------------------------------------------------------------------------------------- |

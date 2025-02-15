@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Wilderness Exploration
+title: Eksploracja dziczy
 parent: Poradnik Strażnika 
 grand_parent: Druga edycja
 ---
 
-# Wilderness Exploration
+# Eksploracja dziczy
 
 ## Overview
 

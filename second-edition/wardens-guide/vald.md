@@ -7,7 +7,7 @@ grand_parent: Druga edycja
 
 # Vald
 
-## Introduction
+## Wprowadzenie
 
 The implied setting of Cairn is called _Vald_, encompassing all developed or settled lands, cities, towns, forests, etc. The specific ruler is irrelevant, as most adventures will take place in smaller towns and villages, the forest, and the margins of the realm. Most inhabitants (regardless of region) refer to the local centers of power as the _Cities_, occasionally as a pejorative.
 
@@ -21,7 +21,7 @@ Even the smallest village may play host to scholarly types from the cities: a Sc
 
 Those who enter the Wood hire a guide familiar with the territory, such as a Prowler or Fletchwind, while the truly determined traveler will seek the wisdom of a Half Witch or Foundling with some connection to its darker secrets. Closer to the border, the Marchguard work to keep the realm free of outside influence, while the Hexenbane seek to protect it from forces within.
 
-## Belief
+## Wierzenia
 
 There are several major religions and spiritual beliefs popular among the smallfolk.
 

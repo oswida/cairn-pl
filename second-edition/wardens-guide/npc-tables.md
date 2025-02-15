@@ -1,15 +1,15 @@
 ---
 layout: default
-title: NPC Tables
+title: Tabele BN
 parent: Poradnik Strażnika 
 grand_parent: Druga edycja
 ---
 
-# NPC Tables
+# Tabele BN
 
 |         |           |
 | ------- | --------- |
-| **d20** | **Name**  |
+| **k20** | **Imię**  |
 | **1**   | Alaric    |
 | **2**   | Carver    |
 | **3**   | Cleaver   |
@@ -33,7 +33,7 @@ grand_parent: Druga edycja
 
 |         |           |
 | ------- | --------- |
-| **d20** | **Name**  |
+| **k20** | **Imię**  |
 | **1**   | Ainsley   |
 | **2**   | Azura     |
 | **3**   | Brave     |
@@ -57,7 +57,7 @@ grand_parent: Druga edycja
 
 |         |          |
 | ------- | -------- |
-| **d20** | **Name** |
+| **k20** | **Imię** |
 | **1**   | Alder    |
 | **2**   | Alistair |
 | **3**   | Caius    |
@@ -79,11 +79,11 @@ grand_parent: Druga edycja
 | **19**  | Taros    |
 | **20**  | Thaddeus |
 
-## Quirks
+## Cechy szczególne
 
 |         |                |
 | ------- | -------------- |
-| **d20** | **Quirk 1**    |
+| **k20** | **Cecha szczególna**    |
 | **1**   | Alert          |
 | **2**   | Bald           |
 | **3**   | Bright Eyes    |
@@ -105,11 +105,11 @@ grand_parent: Druga edycja
 | **19**  | Tired          |
 | **20**  | Young          |
 
-## Background
+## Przeszłość
 
 |         |                |
 | ------- | -------------- |
-| **d20** | **Background** |
+| **k20** | **Przeszłość** |
 | **1**   | Academic       |
 | **2**   | Assassin       |
 | **3**   | Blacksmith     |
@@ -131,11 +131,11 @@ grand_parent: Druga edycja
 | **19**  | Thief          |
 | **20**  | Thug           |
 
-## Goals
+## Cele
 
 |         |              |
 | ------- | ------------ |
-| **d20** | **Goal**     |
+| **k20** | **Cel**     |
 | **1**   | Ascension    |
 | **2**   | Cleansing    |
 | **3**   | Conservation |
@@ -157,11 +157,11 @@ grand_parent: Druga edycja
 | **19**  | Unity        |
 | **20**  | Wealth       |
 
-## Traits
+## Cechy
 
 |         |               |
 | ------- | ------------- |
-| **d20** | **Virtues**   |
+| **k20** | **Cnoty**   |
 | **1**   | Cautious      |
 | **2**   | Compassionate |
 | **3**   | Connected     |
@@ -185,7 +185,7 @@ grand_parent: Druga edycja
 
 |         |              |
 | ------- | ------------ |
-| **d20** | **Vices**    |
+| **k20** | **Wady**    |
 | **1**   | Aloof        |
 | **2**   | Corrupt      |
 | **3**   | Craven       |
