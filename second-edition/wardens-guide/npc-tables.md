@@ -84,126 +84,126 @@ grand_parent: Druga edycja
 |         |                |
 | ------- | -------------- |
 | **k20** | **Cecha szczególna**    |
-| **1**   | Alert          |
-| **2**   | Bald           |
-| **3**   | Bright Eyes    |
-| **4**   | Broad Face     |
-| **5**   | Crooked Teeth  |
-| **6**   | Gaunt          |
-| **7**   | Good Posture   |
-| **8**   | Grimy          |
-| **9**   | Harsh Voice    |
-| **10**  | Heavy Brow     |
-| **11**  | Limps          |
-| **12**  | Missing Ear    |
-| **13**  | Muscular       |
-| **14**  | Notable Hair   |
-| **15**  | Pleasant Voice |
-| **16**  | Squints        |
-| **17**  | Strong         |
-| **18**  | Thick Eyebrows |
-| **19**  | Tired          |
-| **20**  | Young          |
+| **1**   | Czujny          |
+| **2**   | Łysy           |
+| **3**   | Jasne oczy    |
+| **4**   | Szeroka twarz     |
+| **5**   | Krzywe zęby  |
+| **6**   | Wychudły          |
+| **7**   | Postawny   |
+| **8**   | Ponury          |
+| **9**   | Szorstki głos    |
+| **10**  | Szerokie czoło     |
+| **11**  | Utyka          |
+| **12**  | Brakujące ucho    |
+| **13**  | Muskularny       |
+| **14**  | Wyróżniające się włosy   |
+| **15**  | Miły głos |
+| **16**  | Mruży oczy        |
+| **17**  | Silny         |
+| **18**  | Grube brwi |
+| **19**  | Zmęczony          |
+| **20**  | Młody          |
 
 ## Przeszłość
 
 |         |                |
 | ------- | -------------- |
 | **k20** | **Przeszłość** |
-| **1**   | Academic       |
-| **2**   | Assassin       |
-| **3**   | Blacksmith     |
+| **1**   | Uczony       |
+| **2**   | Zabójca       |
+| **3**   | Kowal     |
 | **4**   | Farmer         |
-| **5**   | General        |
-| **6**   | Gravedigger    |
-| **7**   | Guard          |
-| **8**   | Healer         |
-| **9**   | Jailer         |
-| **10**  | Laborer        |
+| **5**   | Generał        |
+| **6**   | Grabarz    |
+| **7**   | Strażnik          |
+| **8**   | Uzdrowiciel         |
+| **9**   | Dozorca więzienny         |
+| **10**  | Robotnik        |
 | **11**  | Lord           |
-| **12**  | Merchant       |
-| **13**  | Monk           |
-| **14**  | Mystic         |
-| **15**  | Outlander      |
-| **16**  | Peddler        |
-| **17**  | Politician     |
-| **18**  | Spy            |
-| **19**  | Thief          |
-| **20**  | Thug           |
+| **12**  | Kupiec       |
+| **13**  | Mnich           |
+| **14**  | Mistyk         |
+| **15**  | Obcokrajowiec      |
+| **16**  | Domokrążca        |
+| **17**  | Polityk     |
+| **18**  | Szpieg            |
+| **19**  | Złodziej          |
+| **20**  | Opryszek           |
 
 ## Cele
 
 |         |              |
 | ------- | ------------ |
 | **k20** | **Cel**     |
-| **1**   | Ascension    |
-| **2**   | Cleansing    |
-| **3**   | Conservation |
-| **4**   | Defense      |
-| **5**   | Domination   |
-| **6**   | Enrichment   |
-| **7**   | Expansion    |
-| **8**   | Freedom      |
-| **9**   | Healing      |
-| **10**  | Integration  |
-| **11**  | Justice      |
-| **12**  | Peace        |
-| **13**  | Power        |
-| **14**  | Preservation |
-| **15**  | Purification |
-| **16**  | Redemption   |
-| **17**  | Revenge      |
-| **18**  | Survival     |
-| **19**  | Unity        |
-| **20**  | Wealth       |
+| **1**   | Oświecenie    |
+| **2**   | Oczyszczenie    |
+| **3**   | Zabezpieczenie |
+| **4**   | Obrona      |
+| **5**   | Dominacja   |
+| **6**   | Rozwój   |
+| **7**   | Ekspansja    |
+| **8**   | Wolność      |
+| **9**   | Uzdrowienie      |
+| **10**  | Integracja  |
+| **11**  | Sprawiedliwość      |
+| **12**  | Pokój        |
+| **13**  | Władza        |
+| **14**  | Utrzymanie |
+| **15**  | Wytępienie |
+| **16**  | Odkupienie   |
+| **17**  | Zemsta      |
+| **18**  | Przeżycie     |
+| **19**  | Wspólnota        |
+| **20**  | Bogactwo       |
 
 ## Cechy
 
 |         |               |
 | ------- | ------------- |
 | **k20** | **Cnoty**   |
-| **1**   | Cautious      |
-| **2**   | Compassionate |
-| **3**   | Connected     |
-| **4**   | Courageous    |
-| **5**   | Disciplined   |
-| **6**   | Discreet      |
-| **7**   | Honest        |
-| **8**   | Intelligent   |
-| **9**   | Judicious     |
-| **10**  | Loyal         |
-| **11**  | Methodical    |
-| **12**  | Meticulous    |
-| **13**  | Polite        |
-| **14**  | Popular       |
-| **15**  | Pragmatic     |
-| **16**  | Resourceful   |
-| **17**  | Suave         |
-| **18**  | Shrewd        |
-| **19**  | Tenacious     |
-| **20**  | Witty         |
+| **1**   | Ostrożny      |
+| **2**   | Współczujący |
+| **3**   | Wpływowy     |
+| **4**   | Odważny    |
+| **5**   | Zdyscyplinowany   |
+| **6**   | Dyskretny      |
+| **7**   | Uczciwy        |
+| **8**   | Inteligentny   |
+| **9**   | Rozsądny     |
+| **10**  | Lojalny         |
+| **11**  | Metodyczny    |
+| **12**  | Skrupulatny    |
+| **13**  | Uprzejmy        |
+| **14**  | Popularny       |
+| **15**  | Pragmatyczny     |
+| **16**  | Zaradny   |
+| **17**  | Łagodny         |
+| **18**  | Sprytny        |
+| **19**  | Nieustępliwy     |
+| **20**  | Dowcipny         |
 
 |         |              |
 | ------- | ------------ |
 | **k20** | **Wady**    |
-| **1**   | Aloof        |
-| **2**   | Corrupt      |
-| **3**   | Craven       |
-| **4**   | Cruel        |
-| **5**   | Cynical      |
-| **6**   | Deceptive    |
-| **7**   | Greedy       |
-| **8**   | Impulsive    |
-| **9**   | Incompetent  |
-| **10**  | Inflexible   |
-| **11**  | Manipulative |
-| **12**  | Mercurial    |
-| **13**  | Naive        |
-| **14**  | Pedantic     |
-| **15**  | Ruthless     |
-| **16**  | Sarcastic    |
-| **17**  | Selfish      |
-| **18**  | Stubborn     |
-| **19**  | Vain         |
-| **20**  | Xenophobic   |
+| **1**   | Wycofany        |
+| **2**   | Niemoralny      |
+| **3**   | Tchórzliwy       |
+| **4**   | Okrutny       |
+| **5**   | Cyniczny      |
+| **6**   | Zwodniczy    |
+| **7**   | Chciwy       |
+| **8**   | Impulsywny    |
+| **9**   | Niekompetentny  |
+| **10**  | Nieugięty   |
+| **11**  | Manipulujący |
+| **12**  | Zmienny    |
+| **13**  | Naiwny        |
+| **14**  | Pedantyczny     |
+| **15**  | Bezwzględny     |
+| **16**  | Sarkastyczny    |
+| **17**  | Samolubny      |
+| **18**  | Uparty     |
+| **19**  | Próżny         |
+| **20**  | Ksenofobiczny   |
 

@@ -69,39 +69,39 @@ nav_order: 2
 
 10 OCHR, 1 pancerza, 12 SIŁ, 13 ZRE, 13 WOL, ugryzienie (k10)
 
-- Long, serpentine lizards that nest deep below the earth or in brambles just underfoot. 
-- Fighting a **Basilisk** without meeting its gaze is difficult. (Attacks facing it are _impaired_.)
-- **Gaze**: A target facing the Basilisk is slowly petrified from the bottom up and completely frozen after three rounds. An antidote can be brewed from the Basilisk's gizzards. The creature's reflection is harmless.
+- Długie, wężowate jaszczurki, które gnieżdżą się głęboko pod ziemią lub w krzakach tuż pod stopami. 
+- Walka z **Bazyliszkiem** tak, aby nie napotkać jego spojrzenia jest trudna. (Ataki skierowane w jego stronę są _osłabione_).
+- **Spojrzenie**: Cel stojący naprzeciwko Bazyliszka zamienia się powoli w kamień od dołu do góry i zostaje całkowicie spetryfikowany po trzech rundach. Z żołądków bazyliszka można uwarzyć antidotum, które odwróci efekty spojrzenia. Odbicie stworzenia jest nieszkodliwe.
 
 ## Migopies
 
 5 OCHR, 11 SIŁ, 14 ZRE, 5 WOL, ugryzienie (k6)
 
-- Teleporting canines in service of a powerful master.
-- Can phase out of reality at will. Melee attacks against them are _impaired_.
+- Teleportujące się psy w służbie potężnego mistrza.
+- Może w dowolnej chwili zniknąć z danej fazy rzeczywistości. Ataki wręcz przeciwko nim są _osłabione_.
 
 ## Krwawy łoś
 
 4 OCHR, 12 SIŁ, 13 ZRE, 5 WOL, rogi (k8)
 
-- Born from violence resulting from a greedy or selfish act.
-- Kill their victims for sustenance, but gains no succor. They are always hungry.
-- **Critical Damage**: Gores its victims by ripping out their entrails.
+- Zrodzony z przemocy wynikającej z chciwego lub samolubnego działania.
+- Zabijają swoje ofiary dla pożywienia, ale nigdy nie są w stanie zaspokoić głodu.
+- **Obrażenia krytyczne**: Pożera swoje ofiary, wyrywając im wnętrzności.
 
 ## Bogin
 
 3 OCHR, 4 SIŁ, 17 ZRE, 13 WOL
 
-- Wild, hairy tricksters that prize shiny trinkets above coin.
-- Boggarts have true names that describe their true nature. Knowing these names gives a person control over them.
-- **Magic**: The Boggart can _bring objects to life_,  _sow confusion_, _create magical disguises_, use _telekinesis_, and _teleport_.
+- Dzicy, włochaci oszuści, którzy cenią błyszczące drobiazgi bardziej niż monety.
+- Boginy mają prawdziwe imiona, które opisują ich prawdziwą naturę. Znajomość tych imion daje człowiekowi kontrolę nad nimi.
+- **Magia**: Bogin może _ożywiać przedmioty_, _siać zamęt_, _tworzyć magiczne przebrania_, używać _telekinezy_ i _teleportacji_.
 
 ## Kościany konstrukt
 
 8 OCHR, 3 pancerza, 15 SIŁ, 5 ZRE, 3 WOL, sharpened arms (k8+k8), _oddział_
 
-- Gigantic, four-armed constructs made of bone and sorcery.
-- Mindless guardians that stand ready to attack any creature other than their creator.
+- Gigantyczne, czterorękie konstrukty wykonane z kości i magii.
+- Bezmyślni strażnicy, gotowi zaatakować każdą istotę inną niż ich stwórca.
 
 ## Postrach
 
